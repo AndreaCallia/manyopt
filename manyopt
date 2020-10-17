@@ -1,0 +1,639 @@
+#!/bin/bash
+
+beginning_time=$(date +%s)
+
+cmdparse_py="
+from sys import argv
+from optparse import OptionParser
+from argparse import ArgumentParser
+from optstack import utils
+
+argv[0] = 'manyopt'
+
+defaultVerbose = 1
+defaultAccuracy = 0.001
+defaultSolver = 'z3'
+defaultNoStop = False
+defaultTimeout = 1800
+defaultPipeto = None
+
+
+def cmdparse():
+  global defaultAccuracy
+  global defaultSolver
+  global defaultVerbose
+  global defaultNoStop
+  global defaultTimeout
+  global defaultPipeto
+  usage = 'Usage: %prog [OPTIONS] OSILFILE\nOpen OSILFILE for optimization.'
+  optparser = OptionParser(usage)
+  optparser.add_option('-a', '--accuracy', dest='accuracy', type='float', default=defaultAccuracy,
+                    help='Set ACCURACY as accuracy level for optimization (default: 0.001)', metavar='ACCURACY')
+  optparser.add_option('-t', '--timeout', dest='timeout', type='int', default=defaultTimeout,
+                    help='Set TIMEOUT as a timeout for optimization in seonds (default: 1800)', metavar='TIMEOUT')
+  optparser.add_option('-s', '--solver', dest='solver', type='choice', default=defaultSolver,
+                    help=('Set SOLVER as the underlying feasibility solver (default: z3).\n'
+                      'Available choices are: '
+                      'z3 (Z3 solver from Microsoft(C)), '
+                      'msat (the MathSat solver), '
+                      'cvc4 (the CVC4 solver), '
+                      'yices (the YICES solver), '
+                      'smtpipe (any external SMTLIB solver via piping).'), metavar='SOLVER',
+                    choices=['z3', 'msat', 'cvc4', 'yices', 'smtpipe'])
+  optparser.add_option('-p', '--pipe-to', dest='pipe_to', default = defaultPipeto,
+                    help='if pipe solving is used, then problems are sent to the program specified by PIPE_SOLVER_PATH via piping.', metavar='PIPE_SOLVER_PATH')
+  optparser.add_option('-l', '--pipe-logic', dest='pipe_logic', default = None,
+                    help='if pipe solving is used, then the PIPE_LOGIC logic is used, e.g. QF_LRA, QF_NRA, etc. (see the SMTLIB2.0 standard for more examples).', metavar='PIPE_LOGIC')
+  optparser.add_option('-n', '--no-stop', action='store_true', dest='no_stop', default=defaultNoStop,
+                    help='the execution is not stopped when one feature vector finds a solution (useful to compare feature vectors)')
+  optparser.add_option('-v', '--verbosity', type='int',
+                    dest='verbose', default=defaultVerbose,
+                    help='set verbosity level (from 0 to 3) (default: 1)')
+  (options, args) = optparser.parse_args()
+   
+  if (options.timeout < 0 or options.accuracy < 0):
+    utils.error(utils.CLI_ERROR, 'Error: invalid values for the specified options.')
+   
+  if len(args) < 1:
+    utils.error(utils.CLI_ERROR, 'Error: too few arguments.\n')
+    
+  if len(args) > 1:
+    utils.error(utils.CLI_ERROR, 'Error: too many arguments.\n')
+  
+  return options, args
+  
+options, args = cmdparse()
+print options
+print args
+"
+
+is_binary_py="
+try:
+  found = False
+  while (found==False):
+    val = input()
+    if (val[1] != 0.0):
+      print 'False'
+      found = True
+    elif (val[2] != 1.0):
+      print 'False'
+      found = True
+except EOFError:
+  print 'True'
+"
+
+get_dict() {
+  python -c "d = eval(\"$1\") ; print (d[\"$2\"] if \"$2\" in d else \"None\")"
+}
+
+get_list() {
+  python -c "l = eval(\"$1\") ; print (l[$2] if $2 < len(l) else None)"
+}
+
+asking_help_py="
+from sys import argv
+if ('-h' in argv or '--help' in argv): 
+  print 'True'
+else:
+  print 'False'
+"
+
+asking_help() {
+  python -c "$asking_help_py" $@
+}
+
+wait_file() {
+  local file="$1"; shift
+  local wait_seconds="${1:-10}"; shift # 10 seconds as default timeout
+
+  until test $((wait_seconds--)) -eq 0 -o -f "$file" ; do sleep 1; done
+
+  ((++wait_seconds))
+}
+
+notify_if_solved() {
+if [ ! -f par.done ]; then
+  grep "Total time" par.$1.log >/dev/null
+  if [[ $? == 0  ]]
+  then
+    echo -n $1 > par.done
+  fi
+fi
+}
+
+bench=""
+folder=""
+
+clean_tempfiles() {
+rm -f par.done
+rm -f "$folder"/*.par.*
+rm -f par.*
+rm -f $bench
+rm -f $bench.var
+}
+
+kill_children() {
+# echo "[Calling kill_children]"
+for spid in $(ps -o pid= --ppid $1)
+do
+  if [ -e /proc/"$spid" ]
+  then
+    kill_children "$spid"
+    kill -s SIGKILL "$spid" 2>/dev/null
+    wait "$spid" 2>/dev/null
+  fi
+done
+}
+
+save_errors() {
+echo "" > $benchname.err
+for file in par.*.err
+do
+  echo -e "\n*** STDERR FOR FEATURE VECTOR ${file:4:-4} BEGINS ***" >> $benchname.err
+  cat $file >> $benchname.err
+  echo -e "\n*** STDERR FOR FEATURE VECTOR ${file:4:-4} ENDS ***" >> $benchname.err
+done
+}
+
+control_c() {
+echo -e "\nProgram interrupted by user."
+echo -n "Cleaning up..."
+kill_children "$$"
+clean_tempfiles
+echo "done."
+exit_manyopt 1
+}
+
+exit_manyopt() {
+end_time=$(date +%s)
+duration=$((end_time - beginning_time))
+duration_h=$((duration / 3600))
+duration_hr=$((duration % 3600))
+duration_m=$((duration_hr / 60))
+duration_s=$((duration_hr % 60))
+printf "Total time for manyopt: %02dh%02dm%02ds\n" ${duration_h} ${duration_m} ${duration_s}
+echo "In seconds: $duration"
+exit $1
+}
+
+make_binflatten_cmd() {
+  filename="$1"
+  mbnlp="$2"
+  pysmt="$3"
+  if [ "$mbnlp" == "mbnlp" ]
+  then
+    echo -n "cp $filename.smt2 $filename.bin.smt2 ; cp $filename.smt2.var $filename.bin.smt2.var"
+  else
+    echo -n "./binarize.py $pysmt --flatten $filename.smt2"
+  fi
+}
+
+outparse=$(python -c "$cmdparse_py" $@)
+if [ "$?" != 0 ]
+then
+  echo "Error in parsing arguments. Exiting..."
+  exit_manyopt 1
+fi
+
+askhelp=$(asking_help $@)
+
+if [ "$askhelp" == "True" ]
+then
+  echo "$outparse"
+  exit_manyopt 0
+fi
+
+options=$(echo "$outparse" | sed -n 1p)
+args=$(echo "$outparse" | sed -n 2p)
+
+# echo "Options: $options"
+# echo "Args: $args"
+
+solver=$(get_dict "$options" "solver")
+pipe_to=$(get_dict "$options" "pipe_to")
+pipe_logic=$(get_dict "$options" "pipe_logic")
+verbose=$(get_dict "$options" "verbose")
+no_stop=$(get_dict "$options" "no_stop")
+accuracy=$(get_dict "$options" "accuracy")
+timeout=$(get_dict "$options" "timeout")
+
+
+if [ "$pipe_to" != "None" ]
+then
+  pipe_to="-p $pipe_to"
+else
+  pipe_to=""
+  if [ "$solver" == "smtpipe" ]
+  then
+    echo "Error. If 'smtpipe' solver is selected, then options -p or --pipe-to must be used. Use --help for details."
+    exit_manyopt 1
+  fi
+fi
+
+if [ "$pipe_logic" != "None" ]
+then
+  pipe_logic="-l $pipe_logic"
+else
+  pipe_logic=""
+  if [ "$solver" == "smtpipe" ]
+  then
+    echo "Error. If 'smtpipe' solver is selected, then a logic (e.g. QF_NRA) must be used. Use --help for details."
+    exit_manyopt 1
+  fi
+fi
+
+pysmt=""
+
+if [ "$solver" != "z3" ]
+then
+  pysmt="--pysmt"
+fi
+
+osilbench=$(get_list "$args" 0)
+
+folder="$(dirname $osilbench)"
+path="$(cd $folder ; pwd)"
+benchname="$(basename $osilbench .osil)"
+benchbase="$path/$benchname"
+bench="$benchbase.smt2"
+
+trap control_c SIGINT
+
+#bench=$1
+#timeout=$2
+# xtimeout=$((timeout + timeout/10))
+
+#benchbase=$PWD/$(basename $bench .smt2)
+# sense=$3
+# ssense=${sense:0:3}
+
+# accuracy=$3
+nlp=""
+mbnlp=""
+
+# echo "The folder is: $folder"
+# echo "The full path is: $path"
+# echo "The benchmark name is: $benchname"
+# echo "The basename is: $benchbase"
+# echo "The filename is: $bench"
+
+rm -f par.*.log
+rm -f par.*.model
+rm -f par.done
+rm -f $benchname.log
+rm -f $benchname.err
+
+echo "* Benchmark $benchname"
+echo "Path: $path"
+echo "Size: $(stat --printf="%s" $osilbench)"
+echo -n "Configuring parallel solving..."
+
+aio_ubs="$benchbase.par.aio.ubs"
+aio_nve="$benchbase.par.aio.nve"
+aio_hyb="$benchbase.par.aio.hyb"
+obo_ubs="$benchbase.par.obo.ubs"
+obo_nve="$benchbase.par.obo.nve"
+obo_hyb="$benchbase.par.obo.hyb"
+nob_ubs="$benchbase.par.nob.ubs"
+nob_nve="$benchbase.par.nob.nve"
+nob_hyb="$benchbase.par.nob.hyb"
+bin_aio_ubs="$benchbase.par.bin.aio.ubs"
+bin_aio_nve="$benchbase.par.bin.aio.nve"
+bin_aio_hyb="$benchbase.par.bin.aio.hyb"
+bin_obo_ubs="$benchbase.par.bin.obo.ubs"
+bin_obo_nve="$benchbase.par.bin.obo.nve"
+bin_obo_hyb="$benchbase.par.bin.obo.hyb"
+bin_fla_ubs="$benchbase.par.bin.fla.ubs"
+bin_fla_nve="$benchbase.par.bin.fla.nve"
+bin_fla_hyb="$benchbase.par.bin.fla.hyb"
+sense=$(./osil2smt.py $pysmt --branch-bound $osilbench | grep "* Optimization sense:" |  egrep -o "min|max")
+if [ "$sense" == "" ]
+then
+  echo
+  echo "Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)"
+  echo -n "Cleaning up..."
+  clean_tempfiles
+  echo "done."
+  echo "Exiting..."
+  exit_manyopt
+fi
+if [ ! -s $bench.var ]
+then
+  echo -n "The problem is NLP..."
+  nlp="nlp"
+elif [ $(cat $bench.var | python -c "$is_binary_py") == "True" ]
+then
+  echo -n "The problem is MBNLP..."
+  mbnlp="mbnlp"
+fi
+cp $bench $aio_ubs.smt2 ; cp $bench.var $aio_ubs.smt2.var
+cp $bench $aio_nve.smt2 ; cp $bench.var $aio_nve.smt2.var
+cp $bench $aio_hyb.smt2 ; cp $bench.var $aio_hyb.smt2.var
+cp $bench $obo_ubs.smt2 ; cp $bench.var $obo_ubs.smt2.var
+cp $bench $obo_nve.smt2 ; cp $bench.var $obo_nve.smt2.var
+cp $bench $obo_hyb.smt2 ; cp $bench.var $obo_hyb.smt2.var
+nvars=$(./osil2smt.py $pysmt $osilbench | grep "* Number of variables:" | cut -d ":" -f 2 | tr -d ' ')
+cp $bench $nob_ubs.smt2 ; cp $bench.var $nob_ubs.smt2.var
+cp $bench $nob_nve.smt2 ; cp $bench.var $nob_nve.smt2.var
+cp $bench $nob_hyb.smt2 ; cp $bench.var $nob_hyb.smt2.var
+ncons=$(./osil2smt.py $pysmt --branch-bound $osilbench | grep "* Number of constraints:" | cut -d ":" -f 2 | tr -d ' ')
+cp $bench $bin_aio_ubs.smt2 ; cp $bench.var $bin_aio_ubs.smt2.var
+cp $bench $bin_aio_nve.smt2 ; cp $bench.var $bin_aio_nve.smt2.var
+cp $bench $bin_aio_hyb.smt2 ; cp $bench.var $bin_aio_hyb.smt2.var
+cp $bench $bin_obo_ubs.smt2 ; cp $bench.var $bin_obo_ubs.smt2.var
+cp $bench $bin_obo_nve.smt2 ; cp $bench.var $bin_obo_nve.smt2.var
+cp $bench $bin_obo_hyb.smt2 ; cp $bench.var $bin_obo_hyb.smt2.var
+sense=$(./osil2smt.py $pysmt --branch-bound --bin-flatten $osilbench | grep "* Optimization sense:" | cut -d ":" -f 2 | tr -d ' ')
+cp $bench $bin_fla_ubs.smt2 ; cp $bench.var $bin_fla_ubs.smt2.var
+cp $bench $bin_fla_nve.smt2 ; cp $bench.var $bin_fla_nve.smt2.var
+cp $bench $bin_fla_hyb.smt2 ; cp $bench.var $bin_fla_hyb.smt2.var
+
+#--- ALL-IN-ONE APPROACH / UBS ---
+     allinone_ubs_cmd="(timeout $timeout ./optimize.py -d $sense $aio_ubs.smt2 -a $accuracy -m par.allinone.ubs.model -s $solver $pipe_to $pipe_logic -v $verbose > par.allinone.ubs.log)"
+#--- ALL-IN-ONE APPROACH / NAIVE ---
+     allinone_nve_cmd="(timeout $timeout ./optimize.py -d $sense -o naive $aio_nve.smt2 -a $accuracy -m par.allinone.nve.model -s $solver $pipe_to $pipe_logic -v $verbose > par.allinone.nve.log)"
+#--- ALL-IN-ONE APPROACH / HYBRID ---
+     allinone_hyb_cmd="(timeout $timeout ./optimize.py -d $sense -o hybrid $aio_hyb.smt2 -a $accuracy -m par.allinone.hyb.model -s $solver $pipe_to $pipe_logic -v $verbose > par.allinone.hyb.log)"
+#--- ONE-BY-ONE APPROACH / UBS ---
+     onebyone_ubs_cmd="(timeout $timeout ./optimize.py -d $sense -i one-by-one $obo_ubs.smt2 -a $accuracy -m par.onebyone.ubs.model -s $solver $pipe_to $pipe_logic -v $verbose > par.onebyone.ubs.log)"
+#--- ONE-BY-ONE APPROACH / NAIVE ---
+     onebyone_nve_cmd="(timeout $timeout ./optimize.py -d $sense -i one-by-one -o naive $obo_nve.smt2 -a $accuracy -m par.onebyone.nve.model -s $solver $pipe_to $pipe_logic -v $verbose > par.onebyone.nve.log)"
+#--- ONE-BY-ONE APPROACH / HYBRID ---
+     onebyone_hyb_cmd="(timeout $timeout ./optimize.py -d $sense -i one-by-one -o hybrid $obo_hyb.smt2 -a $accuracy -m par.onebyone.hyb.model -s $solver $pipe_to $pipe_logic -v $verbose > par.onebyone.hyb.log)"
+#--- NO BRANCH AND BOUND APPROACH / UBS ---
+         nobb_ubs_cmd="(timeout $timeout ./optimize.py -d $sense -i disabled $nob_ubs.smt2 -a $accuracy -m par.nobb.ubs.model -s $solver $pipe_to $pipe_logic -v $verbose > par.nobb.ubs.log)"
+#--- NO BRANCH AND BOUND APPROACH / NAIVE ---
+         nobb_nve_cmd="(timeout $timeout ./optimize.py -d $sense -i disabled -o naive $nob_nve.smt2 -a $accuracy -m par.nobb.nve.model -s $solver $pipe_to $pipe_logic -v $verbose > par.nobb.nve.log)"
+#--- NO BRANCH AND BOUND APPROACH / HYBRID ---
+         nobb_hyb_cmd="(timeout $timeout ./optimize.py -d $sense -i disabled -o hybrid $nob_hyb.smt2 -a $accuracy -m par.nobb.hyb.model -s $solver $pipe_to $pipe_logic -v $verbose > par.nobb.hyb.log)"
+#--- BINARIZED NON-FLATTENED ALL-IN-ONE APPROACH / UBS ---
+ bin_allinone_ubs_cmd="(./binarize.py $pysmt $bin_aio_ubs.smt2 ; timeout $timeout ./optimize.py -d $sense $bin_aio_ubs.bin.smt2 -a $accuracy -m par.bin_allinone.ubs.model -s $solver $pipe_to $pipe_logic -v $verbose > par.bin_allinone.ubs.log)"
+#--- BINARIZED NON-FLATTENED ALL-IN-ONE APPROACH / NAIVE ---
+ bin_allinone_nve_cmd="(./binarize.py $pysmt $bin_aio_nve.smt2 ; timeout $timeout ./optimize.py -d $sense -o naive $bin_aio_nve.bin.smt2 -a $accuracy -m par.bin_allinone.nve.model -s $solver $pipe_to $pipe_logic -v $verbose > par.bin_allinone.nve.log)"
+#--- BINARIZED NON-FLATTENED ALL-IN-ONE APPROACH / HYBRID ---
+ bin_allinone_hyb_cmd="(./binarize.py $pysmt $bin_aio_hyb.smt2 ; timeout $timeout ./optimize.py -d $sense -o hybrid $bin_aio_hyb.bin.smt2 -a $accuracy -m par.bin_allinone.hyb.model -s $solver $pipe_to $pipe_logic -v $verbose > par.bin_allinone.hyb.log)"
+#--- BINARIZED NON-FLATTENED ONE-BY-ONE APPROACH / UBS ---
+ bin_onebyone_ubs_cmd="(./binarize.py $pysmt $bin_obo_ubs.smt2 ; timeout $timeout ./optimize.py -d $sense -i one-by-one $bin_obo_ubs.bin.smt2 -a $accuracy -m par.bin_onebyone.ubs.model -s $solver $pipe_to $pipe_logic -v $verbose > par.bin_onebyone.ubs.log)"
+#--- BINARIZED NON-FLATTENED ONE-BY-ONE APPROACH / NAIVE ---
+ bin_onebyone_nve_cmd="(./binarize.py $pysmt $bin_obo_nve.smt2 ; timeout $timeout ./optimize.py -d $sense -i one-by-one -o naive $bin_obo_nve.bin.smt2 -a $accuracy -m par.bin_onebyone.nve.model -s $solver $pipe_to $pipe_logic -v $verbose > par.bin_onebyone.nve.log)"
+#--- BINARIZED NON-FLATTENED ONE-BY-ONE APPROACH / HYBRID ---
+ bin_onebyone_hyb_cmd="(./binarize.py $pysmt $bin_obo_hyb.smt2 ; timeout $timeout ./optimize.py -d $sense -i one-by-one -o hybrid $bin_obo_hyb.bin.smt2 -a $accuracy -m par.bin_onebyone.hyb.model -s $solver $pipe_to $pipe_logic -v $verbose > par.bin_onebyone.hyb.log)"
+#--- BINARIZED FLATTENED APPROACH / UBS ---
+cmd=$(make_binflatten_cmd $bin_fla_ubs "$mbnlp" "$pysmt")
+bin_flattened_ubs_cmd="($cmd ; timeout $timeout ./optimize.py -d $sense -i disabled $bin_fla_ubs.bin.smt2 -a $accuracy -m par.bin_flattened.ubs.model -s $solver $pipe_to $pipe_logic -v $verbose > par.bin_flattened.ubs.log)"
+# bin_flattened_ubs_cmd="(./binarize.py $pysmt --flatten $bin_fla_ubs.smt2 ; timeout $timeout ./optimize.py -d $sense -i disabled $bin_fla_ubs.bin.smt2 -a $accuracy -m par.bin_flattened.ubs.model -s $solver $pipe_to $pipe_logic -v $verbose > par.bin_flattened.ubs.log)"
+#--- BINARIZED FLATTENED APPROACH / NAIVE ---
+cmd=$(make_binflatten_cmd $bin_fla_nve "$mbnlp" "$pysmt")
+bin_flattened_nve_cmd="($cmd ; timeout $timeout ./optimize.py -d $sense -i disabled -o naive $bin_fla_nve.bin.smt2 -a $accuracy -m par.bin_flattened.nve.model -s $solver $pipe_to $pipe_logic -v $verbose > par.bin_flattened.nve.log)"
+# bin_flattened_nve_cmd="(./binarize.py $pysmt --flatten $bin_fla_nve.smt2 ; timeout $timeout ./optimize.py -d $sense -i disabled -o naive $bin_fla_nve.bin.smt2 -a $accuracy -m par.bin_flattened.nve.model -s $solver $pipe_to $pipe_logic -v $verbose > par.bin_flattened.nve.log)"
+#--- BINARIZED FLATTENED APPROACH / HYBRID ---
+cmd=$(make_binflatten_cmd $bin_fla_hyb "$mbnlp" "$pysmt")
+bin_flattened_hyb_cmd="($cmd ; timeout $timeout ./optimize.py -d $sense -i disabled -o hybrid $bin_fla_hyb.bin.smt2 -a $accuracy -m par.bin_flattened.hyb.model -s $solver $pipe_to $pipe_logic -v $verbose > par.bin_flattened.hyb.log)"
+# bin_flattened_hyb_cmd="(./binarize.py $pysmt --flatten $bin_fla_hyb.smt2 ; timeout $timeout ./optimize.py -d $sense -i disabled -o hybrid $bin_fla_hyb.bin.smt2 -a $accuracy -m par.bin_flattened.hyb.model -s $solver $pipe_to $pipe_logic -v $verbose > par.bin_flattened.hyb.log)"
+
+echo "done."
+
+echo "Problem details"
+echo "Number of variables: $nvars"
+echo "Number of constraints: $ncons" 
+echo "Optimization direction: $sense"
+
+echo -n "Running parallel solving..."
+nvectors=18
+
+subpids=""
+
+# -- ALL-IN-ONE ---
+if [ "$nlp" == "nlp" ]
+then
+  nvectors=$(($nvectors - 3))
+else
+  (eval "$allinone_ubs_cmd" 2>par.allinone.ubs.err ; (notify_if_solved "allinone.ubs") ) & 
+  subpids="$subpids $!"
+  (eval "$allinone_nve_cmd" 2>par.allinone.nve.err ; (notify_if_solved "allinone.nve") ) & 
+  subpids="$subpids $!"
+  (eval "$allinone_hyb_cmd" 2>par.allinone.hyb.err ; (notify_if_solved "allinone.hyb") ) &
+  subpids="$subpids $!"
+fi
+# --- ONE-BY-ONE ---
+if [ "$nlp" == "nlp" ]
+then
+  nvectors=$(($nvectors - 3))
+else
+  (eval "$onebyone_ubs_cmd" 2>par.onebyone.ubs.err ; (notify_if_solved "onebyone.ubs") ) &
+  subpids="$subpids $!"
+  (eval "$onebyone_nve_cmd" 2>par.onebyone.nve.err ; (notify_if_solved "onebyone.nve") ) & 
+  subpids="$subpids $!"
+  (eval "$onebyone_hyb_cmd" 2>par.onebyone.hyb.err ; (notify_if_solved "onebyone.hyb") ) & 
+  subpids="$subpids $!"
+fi
+# --- NO BRANCH AND BOUND ---
+  (eval "$nobb_ubs_cmd" 2>par.nobb.ubs.err ; (notify_if_solved "nobb.ubs") ) & 
+  subpids="$subpids $!"
+  (eval "$nobb_nve_cmd" 2>par.nobb.nve.err ; (notify_if_solved "nobb.nve") ) & 
+  subpids="$subpids $!"
+  (eval "$nobb_hyb_cmd" 2>par.nobb.hyb.err ; (notify_if_solved "nobb.hyb") ) &  
+  subpids="$subpids $!"
+# --- BINARIZED ALL-IN-ONE ---
+if [ "$nlp" == "nlp" ] || [ "$mbnlp" == "mbnlp" ]
+then
+  nvectors=$(($nvectors - 3))
+else
+  (eval "$bin_allinone_ubs_cmd" 2>par.bin_allinone.ubs.err ; (notify_if_solved "bin_allinone.ubs") ) & 
+  subpids="$subpids $!"
+  (eval "$bin_allinone_nve_cmd" 2>par.bin_allinone.nve.err ; (notify_if_solved "bin_allinone.nve") ) & 
+  subpids="$subpids $!"
+  (eval "$bin_allinone_hyb_cmd" 2>par.bin_allinone.hyb.err ; (notify_if_solved "bin_allinone.hyb") ) &  
+  subpids="$subpids $!"
+fi
+  # --- BINARIZED ONE-BY-ONE ---
+if [ "$nlp" == "nlp" ] || [ "$mbnlp" == "mbnlp" ]
+then
+  nvectors=$(($nvectors - 3))
+else
+  (eval "$bin_onebyone_ubs_cmd" 2>par.bin_onebyone.ubs.err ; (notify_if_solved "bin_onebyone.ubs") ) & 
+  subpids="$subpids $!"
+  (eval "$bin_onebyone_nve_cmd" 2>par.bin_onebyone.nve.err ; (notify_if_solved "bin_onebyone.nve") ) & 
+  subpids="$subpids $!"
+  (eval "$bin_onebyone_hyb_cmd" 2>par.bin_onebyone.hyb.err ; (notify_if_solved "bin_onebyone.hyb") ) &  
+  subpids="$subpids $!"
+fi
+  # --- BINARIZED FLATTENING ---
+if [ "$nlp" == "nlp" ]
+then
+  nvectors=$(($nvectors - 3))
+else
+  (eval "$bin_flattened_ubs_cmd" 2>par.bin_flattened.ubs.err ; (notify_if_solved "bin_flattened.ubs") ) & 
+  subpids="$subpids $!"
+  (eval "$bin_flattened_nve_cmd" 2>par.bin_flattened.nve.err ; (notify_if_solved "bin_flattened.nve") ) & 
+  subpids="$subpids $!"
+  (eval "$bin_flattened_hyb_cmd" 2>par.bin_flattened.hyb.err ; (notify_if_solved "bin_flattened.hyb") ) &  
+  subpids="$subpids $!"
+fi
+ # --- CATCHING ERRORS ---
+(for spid in $subpids
+do
+  while [ -e /proc/"$spid" ]
+  do
+    sleep 0.5
+  done
+done
+smt_unknown=False
+all_unknown=True
+count_unknown=0
+count_error=0
+errorlist=""
+unknownlist=""
+for errfile in par.*.err
+do
+  if [ -s $errfile ]
+  then
+    lastline=$(cat $errfile | tr -d ' '| tr -d '\t' | tac | egrep -m 1 .)
+    if [ "$lastline" == "UNKNOWN" ]
+    then
+      smt_unknown=True
+      count_unknown=$((count_unknown + 1))
+      unknownlist="$unknownlist ${errfile:4:-4}"
+    elif (echo "$lastline" | grep -i "Killed" >/dev/null)
+    then
+      true
+    else
+      all_unknown=False
+      count_error=$((count_error + 1))
+      errorlist="$errorlist ${errfile:4:-4}"
+    fi
+  fi
+done
+# optresult="UNSOLVED"
+if [ -f par.done ] ; then optresult="SOLVED by $(cat par.done)" ; else optresult="UNSOLVED" ; fi
+echo "[$(date '+%F, %T')] Executed manyopt on benchmark $benchname: $optresult" >> manyopt.log
+if [ $count_error -gt 0 ] ; then echo "Errors in approaches:$errorlist" >> manyopt.log ; fi
+if [ $count_unknown -gt 0 ] ; then echo "Unknown in approaches:$unknownlist" >> manyopt.log ; fi
+if [ ! -f par.done ] && [ $((count_error + count_unknown)) == "$nvectors" ]
+then
+  if [ "$smt_unknown" == "True" ] && [ "$all_unknown" == "True" ]
+  then
+    echo "UNKNOWN" > par.done
+  elif [ "$smt_unknown" == "True" ]
+  then
+    echo "ERROR_UNKNOWN" > par.done
+  else
+    echo "ERROR" > par.done
+  fi
+fi
+) 2>/dev/null &
+errcatchpid=$!
+ 
+# echo "subpids: $subpids"
+
+# for spid in $subpids
+# do
+#   echo "One PID is: $spid"
+# done
+
+wait_file "par.done" $timeout || {
+  echo -e "\nNo methods have found a solution within the timeout."
+  echo -n "Cleaning up..."
+  clean_tempfiles
+  kill_children "$$"
+  save_errors
+  echo "done."
+  exit_manyopt 1
+}
+
+echo "done."
+
+# killall -s SIGKILL optimize.py 2>/dev/null
+
+# echo "subpids: $subpids"
+# echo "all pids: $(ps -o pid= --ppid $$ | tr '\n' ' ')"
+
+
+if [ "$no_stop" == "False" ]
+then
+  echo -n "Terminating all remaining feature vectors..."
+#  if [ -e /proc/"$errcatchpid " ]
+# then
+#    pkill --signal SIGKILL -P "$errcatchpid"
+#    wait "$errcatchpid" 2>/dev/null
+#  fi
+  # for spid in $subpids
+  # do
+  #   if [ -e /proc/"$spid" ]
+  #   then
+  #     pkill --signal SIGKILL -P "$spid"
+  #     wait "$spid" 2>/dev/null
+  #   fi
+  # done
+  kill_children "$$"
+  echo "done."
+else
+  echo -n "Waiting for all feature vectors to terminate..."
+  for spid in $subpids
+  do
+    wait $spid
+    # while [ -e /proc/"$spid" ]
+    # do
+    #   sleep 0.5
+    # done
+  done
+  echo "done."
+fi
+  
+wait "$errcatchpid"
+  
+echo "manyopt has executed $nvectors feature vectors."
+approach=$(cat par.done)
+if [ "$approach" == UNKNOWN ]
+then
+  echo -e "For all feature vectors the SMT solver returned UNKNOWN."
+elif [ "$approach" == ERROR_UNKNOWN ]
+then
+  echo -e "Errors found, for some feature vectors the SMT solver returned UNKNOWN."
+elif [ "$approach" == ERROR ]
+then
+  echo -e "All features vectors reported an error."
+fi
+if [ "$approach" == UNKNOWN ] || [ "$approach" == ERROR ] || [ "$no_stop" == True ]
+then
+  echo "All logs and errors for all feature vectors are reported in $benchname.log and $benchname.err"
+  echo "" > $benchname.log
+  for file in par.*.log
+  do
+    echo -e "\n*** LOG FOR FEATURE VECTOR ${file:4:-4} BEGINS ***" >> $benchname.log
+    cat $file >> $benchname.log
+    echo -e "\n*** LOG FOR FEATURE VECTOR ${file:4:-4} ENDS ***" >> $benchname.log
+  done
+  echo "" > $benchname.err
+  for file in par.*.err
+  do
+    echo -e "\n*** STDERR FOR FEATURE VECTOR ${file:4:-4} BEGINS ***" >> $benchname.err
+    cat $file >> $benchname.err
+    echo -e "\n*** STDERR FOR FEATURE VECTOR ${file:4:-4} ENDS ***" >> $benchname.err
+  done
+  echo -n "Cleaning up..."
+  clean_tempfiles
+  echo "done."
+  if [ "$no_stop" == True ]
+  then
+    echo "The fastest feature vector is: $approach"
+    exit_manyopt 0
+  else
+    exit_manyopt 1
+  fi
+fi
+echo "Solution found by: $approach"
+save_errors
+rm -f $benchname.model
+cp par.$approach.model $benchname.model
+cat par.$approach.log
+cp par.$approach.log $benchname.log
+
+echo -n "Cleaning temporary files..."
+clean_tempfiles
+echo "done."
+
+# wait_file "par.done" 2 || exit 0
+# rm -f par.done
+
+exit_manyopt 0

@@ -1,0 +1,11387 @@
+NAME           reblock67
+ROWS
+ N  obj         
+ L  ORD_0_0     
+ L  ORD_0_1     
+ L  ORD_0_2     
+ L  ORD_0_3     
+ L  ORD_0_4     
+ L  ORD_0_5     
+ L  ORD_0_6     
+ L  ORD_0_7     
+ L  ORD_0_8     
+ L  ORD_1_0     
+ L  ORD_1_1     
+ L  ORD_1_2     
+ L  ORD_1_3     
+ L  ORD_1_4     
+ L  ORD_1_5     
+ L  ORD_1_6     
+ L  ORD_1_7     
+ L  ORD_1_8     
+ L  ORD_2_0     
+ L  ORD_2_1     
+ L  ORD_2_2     
+ L  ORD_2_3     
+ L  ORD_2_4     
+ L  ORD_2_5     
+ L  ORD_2_6     
+ L  ORD_2_7     
+ L  ORD_2_8     
+ L  ORD_3_0     
+ L  ORD_3_1     
+ L  ORD_3_2     
+ L  ORD_3_3     
+ L  ORD_3_4     
+ L  ORD_3_5     
+ L  ORD_3_6     
+ L  ORD_3_7     
+ L  ORD_3_8     
+ L  ORD_4_0     
+ L  ORD_4_1     
+ L  ORD_4_2     
+ L  ORD_4_3     
+ L  ORD_4_4     
+ L  ORD_4_5     
+ L  ORD_4_6     
+ L  ORD_4_7     
+ L  ORD_4_8     
+ L  ORD_5_0     
+ L  ORD_5_1     
+ L  ORD_5_2     
+ L  ORD_5_3     
+ L  ORD_5_4     
+ L  ORD_5_5     
+ L  ORD_5_6     
+ L  ORD_5_7     
+ L  ORD_5_8     
+ L  ORD_6_0     
+ L  ORD_6_1     
+ L  ORD_6_2     
+ L  ORD_6_3     
+ L  ORD_6_4     
+ L  ORD_6_5     
+ L  ORD_6_6     
+ L  ORD_6_7     
+ L  ORD_6_8     
+ L  ORD_7_0     
+ L  ORD_7_1     
+ L  ORD_7_2     
+ L  ORD_7_3     
+ L  ORD_7_4     
+ L  ORD_7_5     
+ L  ORD_7_6     
+ L  ORD_7_7     
+ L  ORD_7_8     
+ L  ORD_8_0     
+ L  ORD_8_1     
+ L  ORD_8_2     
+ L  ORD_8_3     
+ L  ORD_8_4     
+ L  ORD_8_5     
+ L  ORD_8_6     
+ L  ORD_8_7     
+ L  ORD_8_8     
+ L  ORD_9_0     
+ L  ORD_9_1     
+ L  ORD_9_2     
+ L  ORD_9_3     
+ L  ORD_9_4     
+ L  ORD_9_5     
+ L  ORD_9_6     
+ L  ORD_9_7     
+ L  ORD_9_8     
+ L  ORD_10_0    
+ L  ORD_10_1    
+ L  ORD_10_2    
+ L  ORD_10_3    
+ L  ORD_10_4    
+ L  ORD_10_5    
+ L  ORD_10_6    
+ L  ORD_10_7    
+ L  ORD_10_8    
+ L  ORD_11_0    
+ L  ORD_11_1    
+ L  ORD_11_2    
+ L  ORD_11_3    
+ L  ORD_11_4    
+ L  ORD_11_5    
+ L  ORD_11_6    
+ L  ORD_11_7    
+ L  ORD_11_8    
+ L  ORD_12_0    
+ L  ORD_12_1    
+ L  ORD_12_2    
+ L  ORD_12_3    
+ L  ORD_12_4    
+ L  ORD_12_5    
+ L  ORD_12_6    
+ L  ORD_12_7    
+ L  ORD_12_8    
+ L  ORD_13_0    
+ L  ORD_13_1    
+ L  ORD_13_2    
+ L  ORD_13_3    
+ L  ORD_13_4    
+ L  ORD_13_5    
+ L  ORD_13_6    
+ L  ORD_13_7    
+ L  ORD_13_8    
+ L  ORD_14_0    
+ L  ORD_14_1    
+ L  ORD_14_2    
+ L  ORD_14_3    
+ L  ORD_14_4    
+ L  ORD_14_5    
+ L  ORD_14_6    
+ L  ORD_14_7    
+ L  ORD_14_8    
+ L  ORD_15_0    
+ L  ORD_15_1    
+ L  ORD_15_2    
+ L  ORD_15_3    
+ L  ORD_15_4    
+ L  ORD_15_5    
+ L  ORD_15_6    
+ L  ORD_15_7    
+ L  ORD_15_8    
+ L  ORD_16_0    
+ L  ORD_16_1    
+ L  ORD_16_2    
+ L  ORD_16_3    
+ L  ORD_16_4    
+ L  ORD_16_5    
+ L  ORD_16_6    
+ L  ORD_16_7    
+ L  ORD_16_8    
+ L  ORD_17_0    
+ L  ORD_17_1    
+ L  ORD_17_2    
+ L  ORD_17_3    
+ L  ORD_17_4    
+ L  ORD_17_5    
+ L  ORD_17_6    
+ L  ORD_17_7    
+ L  ORD_17_8    
+ L  ORD_18_0    
+ L  ORD_18_1    
+ L  ORD_18_2    
+ L  ORD_18_3    
+ L  ORD_18_4    
+ L  ORD_18_5    
+ L  ORD_18_6    
+ L  ORD_18_7    
+ L  ORD_18_8    
+ L  ORD_19_0    
+ L  ORD_19_1    
+ L  ORD_19_2    
+ L  ORD_19_3    
+ L  ORD_19_4    
+ L  ORD_19_5    
+ L  ORD_19_6    
+ L  ORD_19_7    
+ L  ORD_19_8    
+ L  ORD_20_0    
+ L  ORD_20_1    
+ L  ORD_20_2    
+ L  ORD_20_3    
+ L  ORD_20_4    
+ L  ORD_20_5    
+ L  ORD_20_6    
+ L  ORD_20_7    
+ L  ORD_20_8    
+ L  ORD_21_0    
+ L  ORD_21_1    
+ L  ORD_21_2    
+ L  ORD_21_3    
+ L  ORD_21_4    
+ L  ORD_21_5    
+ L  ORD_21_6    
+ L  ORD_21_7    
+ L  ORD_21_8    
+ L  ORD_22_0    
+ L  ORD_22_1    
+ L  ORD_22_2    
+ L  ORD_22_3    
+ L  ORD_22_4    
+ L  ORD_22_5    
+ L  ORD_22_6    
+ L  ORD_22_7    
+ L  ORD_22_8    
+ L  ORD_23_0    
+ L  ORD_23_1    
+ L  ORD_23_2    
+ L  ORD_23_3    
+ L  ORD_23_4    
+ L  ORD_23_5    
+ L  ORD_23_6    
+ L  ORD_23_7    
+ L  ORD_23_8    
+ L  ORD_24_0    
+ L  ORD_24_1    
+ L  ORD_24_2    
+ L  ORD_24_3    
+ L  ORD_24_4    
+ L  ORD_24_5    
+ L  ORD_24_6    
+ L  ORD_24_7    
+ L  ORD_24_8    
+ L  ORD_25_0    
+ L  ORD_25_1    
+ L  ORD_25_2    
+ L  ORD_25_3    
+ L  ORD_25_4    
+ L  ORD_25_5    
+ L  ORD_25_6    
+ L  ORD_25_7    
+ L  ORD_25_8    
+ L  ORD_26_0    
+ L  ORD_26_1    
+ L  ORD_26_2    
+ L  ORD_26_3    
+ L  ORD_26_4    
+ L  ORD_26_5    
+ L  ORD_26_6    
+ L  ORD_26_7    
+ L  ORD_26_8    
+ L  ORD_27_0    
+ L  ORD_27_1    
+ L  ORD_27_2    
+ L  ORD_27_3    
+ L  ORD_27_4    
+ L  ORD_27_5    
+ L  ORD_27_6    
+ L  ORD_27_7    
+ L  ORD_27_8    
+ L  ORD_28_0    
+ L  ORD_28_1    
+ L  ORD_28_2    
+ L  ORD_28_3    
+ L  ORD_28_4    
+ L  ORD_28_5    
+ L  ORD_28_6    
+ L  ORD_28_7    
+ L  ORD_28_8    
+ L  ORD_29_0    
+ L  ORD_29_1    
+ L  ORD_29_2    
+ L  ORD_29_3    
+ L  ORD_29_4    
+ L  ORD_29_5    
+ L  ORD_29_6    
+ L  ORD_29_7    
+ L  ORD_29_8    
+ L  ORD_30_0    
+ L  ORD_30_1    
+ L  ORD_30_2    
+ L  ORD_30_3    
+ L  ORD_30_4    
+ L  ORD_30_5    
+ L  ORD_30_6    
+ L  ORD_30_7    
+ L  ORD_30_8    
+ L  ORD_31_0    
+ L  ORD_31_1    
+ L  ORD_31_2    
+ L  ORD_31_3    
+ L  ORD_31_4    
+ L  ORD_31_5    
+ L  ORD_31_6    
+ L  ORD_31_7    
+ L  ORD_31_8    
+ L  ORD_32_0    
+ L  ORD_32_1    
+ L  ORD_32_2    
+ L  ORD_32_3    
+ L  ORD_32_4    
+ L  ORD_32_5    
+ L  ORD_32_6    
+ L  ORD_32_7    
+ L  ORD_32_8    
+ L  ORD_33_0    
+ L  ORD_33_1    
+ L  ORD_33_2    
+ L  ORD_33_3    
+ L  ORD_33_4    
+ L  ORD_33_5    
+ L  ORD_33_6    
+ L  ORD_33_7    
+ L  ORD_33_8    
+ L  ORD_34_0    
+ L  ORD_34_1    
+ L  ORD_34_2    
+ L  ORD_34_3    
+ L  ORD_34_4    
+ L  ORD_34_5    
+ L  ORD_34_6    
+ L  ORD_34_7    
+ L  ORD_34_8    
+ L  ORD_35_0    
+ L  ORD_35_1    
+ L  ORD_35_2    
+ L  ORD_35_3    
+ L  ORD_35_4    
+ L  ORD_35_5    
+ L  ORD_35_6    
+ L  ORD_35_7    
+ L  ORD_35_8    
+ L  ORD_36_0    
+ L  ORD_36_1    
+ L  ORD_36_2    
+ L  ORD_36_3    
+ L  ORD_36_4    
+ L  ORD_36_5    
+ L  ORD_36_6    
+ L  ORD_36_7    
+ L  ORD_36_8    
+ L  ORD_37_0    
+ L  ORD_37_1    
+ L  ORD_37_2    
+ L  ORD_37_3    
+ L  ORD_37_4    
+ L  ORD_37_5    
+ L  ORD_37_6    
+ L  ORD_37_7    
+ L  ORD_37_8    
+ L  ORD_38_0    
+ L  ORD_38_1    
+ L  ORD_38_2    
+ L  ORD_38_3    
+ L  ORD_38_4    
+ L  ORD_38_5    
+ L  ORD_38_6    
+ L  ORD_38_7    
+ L  ORD_38_8    
+ L  ORD_39_0    
+ L  ORD_39_1    
+ L  ORD_39_2    
+ L  ORD_39_3    
+ L  ORD_39_4    
+ L  ORD_39_5    
+ L  ORD_39_6    
+ L  ORD_39_7    
+ L  ORD_39_8    
+ L  ORD_40_0    
+ L  ORD_40_1    
+ L  ORD_40_2    
+ L  ORD_40_3    
+ L  ORD_40_4    
+ L  ORD_40_5    
+ L  ORD_40_6    
+ L  ORD_40_7    
+ L  ORD_40_8    
+ L  ORD_41_0    
+ L  ORD_41_1    
+ L  ORD_41_2    
+ L  ORD_41_3    
+ L  ORD_41_4    
+ L  ORD_41_5    
+ L  ORD_41_6    
+ L  ORD_41_7    
+ L  ORD_41_8    
+ L  ORD_42_0    
+ L  ORD_42_1    
+ L  ORD_42_2    
+ L  ORD_42_3    
+ L  ORD_42_4    
+ L  ORD_42_5    
+ L  ORD_42_6    
+ L  ORD_42_7    
+ L  ORD_42_8    
+ L  ORD_43_0    
+ L  ORD_43_1    
+ L  ORD_43_2    
+ L  ORD_43_3    
+ L  ORD_43_4    
+ L  ORD_43_5    
+ L  ORD_43_6    
+ L  ORD_43_7    
+ L  ORD_43_8    
+ L  ORD_44_0    
+ L  ORD_44_1    
+ L  ORD_44_2    
+ L  ORD_44_3    
+ L  ORD_44_4    
+ L  ORD_44_5    
+ L  ORD_44_6    
+ L  ORD_44_7    
+ L  ORD_44_8    
+ L  ORD_45_0    
+ L  ORD_45_1    
+ L  ORD_45_2    
+ L  ORD_45_3    
+ L  ORD_45_4    
+ L  ORD_45_5    
+ L  ORD_45_6    
+ L  ORD_45_7    
+ L  ORD_45_8    
+ L  ORD_46_0    
+ L  ORD_46_1    
+ L  ORD_46_2    
+ L  ORD_46_3    
+ L  ORD_46_4    
+ L  ORD_46_5    
+ L  ORD_46_6    
+ L  ORD_46_7    
+ L  ORD_46_8    
+ L  ORD_47_0    
+ L  ORD_47_1    
+ L  ORD_47_2    
+ L  ORD_47_3    
+ L  ORD_47_4    
+ L  ORD_47_5    
+ L  ORD_47_6    
+ L  ORD_47_7    
+ L  ORD_47_8    
+ L  ORD_48_0    
+ L  ORD_48_1    
+ L  ORD_48_2    
+ L  ORD_48_3    
+ L  ORD_48_4    
+ L  ORD_48_5    
+ L  ORD_48_6    
+ L  ORD_48_7    
+ L  ORD_48_8    
+ L  ORD_49_0    
+ L  ORD_49_1    
+ L  ORD_49_2    
+ L  ORD_49_3    
+ L  ORD_49_4    
+ L  ORD_49_5    
+ L  ORD_49_6    
+ L  ORD_49_7    
+ L  ORD_49_8    
+ L  ORD_50_0    
+ L  ORD_50_1    
+ L  ORD_50_2    
+ L  ORD_50_3    
+ L  ORD_50_4    
+ L  ORD_50_5    
+ L  ORD_50_6    
+ L  ORD_50_7    
+ L  ORD_50_8    
+ L  ORD_51_0    
+ L  ORD_51_1    
+ L  ORD_51_2    
+ L  ORD_51_3    
+ L  ORD_51_4    
+ L  ORD_51_5    
+ L  ORD_51_6    
+ L  ORD_51_7    
+ L  ORD_51_8    
+ L  ORD_52_0    
+ L  ORD_52_1    
+ L  ORD_52_2    
+ L  ORD_52_3    
+ L  ORD_52_4    
+ L  ORD_52_5    
+ L  ORD_52_6    
+ L  ORD_52_7    
+ L  ORD_52_8    
+ L  ORD_53_0    
+ L  ORD_53_1    
+ L  ORD_53_2    
+ L  ORD_53_3    
+ L  ORD_53_4    
+ L  ORD_53_5    
+ L  ORD_53_6    
+ L  ORD_53_7    
+ L  ORD_53_8    
+ L  ORD_54_0    
+ L  ORD_54_1    
+ L  ORD_54_2    
+ L  ORD_54_3    
+ L  ORD_54_4    
+ L  ORD_54_5    
+ L  ORD_54_6    
+ L  ORD_54_7    
+ L  ORD_54_8    
+ L  ORD_55_0    
+ L  ORD_55_1    
+ L  ORD_55_2    
+ L  ORD_55_3    
+ L  ORD_55_4    
+ L  ORD_55_5    
+ L  ORD_55_6    
+ L  ORD_55_7    
+ L  ORD_55_8    
+ L  ORD_56_0    
+ L  ORD_56_1    
+ L  ORD_56_2    
+ L  ORD_56_3    
+ L  ORD_56_4    
+ L  ORD_56_5    
+ L  ORD_56_6    
+ L  ORD_56_7    
+ L  ORD_56_8    
+ L  ORD_57_0    
+ L  ORD_57_1    
+ L  ORD_57_2    
+ L  ORD_57_3    
+ L  ORD_57_4    
+ L  ORD_57_5    
+ L  ORD_57_6    
+ L  ORD_57_7    
+ L  ORD_57_8    
+ L  ORD_58_0    
+ L  ORD_58_1    
+ L  ORD_58_2    
+ L  ORD_58_3    
+ L  ORD_58_4    
+ L  ORD_58_5    
+ L  ORD_58_6    
+ L  ORD_58_7    
+ L  ORD_58_8    
+ L  ORD_59_0    
+ L  ORD_59_1    
+ L  ORD_59_2    
+ L  ORD_59_3    
+ L  ORD_59_4    
+ L  ORD_59_5    
+ L  ORD_59_6    
+ L  ORD_59_7    
+ L  ORD_59_8    
+ L  ORD_60_0    
+ L  ORD_60_1    
+ L  ORD_60_2    
+ L  ORD_60_3    
+ L  ORD_60_4    
+ L  ORD_60_5    
+ L  ORD_60_6    
+ L  ORD_60_7    
+ L  ORD_60_8    
+ L  ORD_61_0    
+ L  ORD_61_1    
+ L  ORD_61_2    
+ L  ORD_61_3    
+ L  ORD_61_4    
+ L  ORD_61_5    
+ L  ORD_61_6    
+ L  ORD_61_7    
+ L  ORD_61_8    
+ L  ORD_62_0    
+ L  ORD_62_1    
+ L  ORD_62_2    
+ L  ORD_62_3    
+ L  ORD_62_4    
+ L  ORD_62_5    
+ L  ORD_62_6    
+ L  ORD_62_7    
+ L  ORD_62_8    
+ L  ORD_63_0    
+ L  ORD_63_1    
+ L  ORD_63_2    
+ L  ORD_63_3    
+ L  ORD_63_4    
+ L  ORD_63_5    
+ L  ORD_63_6    
+ L  ORD_63_7    
+ L  ORD_63_8    
+ L  ORD_64_0    
+ L  ORD_64_1    
+ L  ORD_64_2    
+ L  ORD_64_3    
+ L  ORD_64_4    
+ L  ORD_64_5    
+ L  ORD_64_6    
+ L  ORD_64_7    
+ L  ORD_64_8    
+ L  ORD_65_0    
+ L  ORD_65_1    
+ L  ORD_65_2    
+ L  ORD_65_3    
+ L  ORD_65_4    
+ L  ORD_65_5    
+ L  ORD_65_6    
+ L  ORD_65_7    
+ L  ORD_65_8    
+ L  ORD_66_0    
+ L  ORD_66_1    
+ L  ORD_66_2    
+ L  ORD_66_3    
+ L  ORD_66_4    
+ L  ORD_66_5    
+ L  ORD_66_6    
+ L  ORD_66_7    
+ L  ORD_66_8    
+ L  PREC_2_1_0  
+ L  PREC_2_1_1  
+ L  PREC_2_1_2  
+ L  PREC_2_1_3  
+ L  PREC_2_1_4  
+ L  PREC_2_1_5  
+ L  PREC_2_1_6  
+ L  PREC_2_1_7  
+ L  PREC_2_1_8  
+ L  PREC_2_1_9  
+ L  PREC_2_3_0  
+ L  PREC_2_3_1  
+ L  PREC_2_3_2  
+ L  PREC_2_3_3  
+ L  PREC_2_3_4  
+ L  PREC_2_3_5  
+ L  PREC_2_3_6  
+ L  PREC_2_3_7  
+ L  PREC_2_3_8  
+ L  PREC_2_3_9  
+ L  PREC_2_4_0  
+ L  PREC_2_4_1  
+ L  PREC_2_4_2  
+ L  PREC_2_4_3  
+ L  PREC_2_4_4  
+ L  PREC_2_4_5  
+ L  PREC_2_4_6  
+ L  PREC_2_4_7  
+ L  PREC_2_4_8  
+ L  PREC_2_4_9  
+ L  PREC_2_13_0 
+ L  PREC_2_13_1 
+ L  PREC_2_13_2 
+ L  PREC_2_13_3 
+ L  PREC_2_13_4 
+ L  PREC_2_13_5 
+ L  PREC_2_13_6 
+ L  PREC_2_13_7 
+ L  PREC_2_13_8 
+ L  PREC_2_13_9 
+ L  PREC_7_8_0  
+ L  PREC_7_8_1  
+ L  PREC_7_8_2  
+ L  PREC_7_8_3  
+ L  PREC_7_8_4  
+ L  PREC_7_8_5  
+ L  PREC_7_8_6  
+ L  PREC_7_8_7  
+ L  PREC_7_8_8  
+ L  PREC_7_8_9  
+ L  PREC_7_12_0 
+ L  PREC_7_12_1 
+ L  PREC_7_12_2 
+ L  PREC_7_12_3 
+ L  PREC_7_12_4 
+ L  PREC_7_12_5 
+ L  PREC_7_12_6 
+ L  PREC_7_12_7 
+ L  PREC_7_12_8 
+ L  PREC_7_12_9 
+ L  PREC_7_26_0 
+ L  PREC_7_26_1 
+ L  PREC_7_26_2 
+ L  PREC_7_26_3 
+ L  PREC_7_26_4 
+ L  PREC_7_26_5 
+ L  PREC_7_26_6 
+ L  PREC_7_26_7 
+ L  PREC_7_26_8 
+ L  PREC_7_26_9 
+ L  PREC_8_1_0  
+ L  PREC_8_1_1  
+ L  PREC_8_1_2  
+ L  PREC_8_1_3  
+ L  PREC_8_1_4  
+ L  PREC_8_1_5  
+ L  PREC_8_1_6  
+ L  PREC_8_1_7  
+ L  PREC_8_1_8  
+ L  PREC_8_1_9  
+ L  PREC_8_6_0  
+ L  PREC_8_6_1  
+ L  PREC_8_6_2  
+ L  PREC_8_6_3  
+ L  PREC_8_6_4  
+ L  PREC_8_6_5  
+ L  PREC_8_6_6  
+ L  PREC_8_6_7  
+ L  PREC_8_6_8  
+ L  PREC_8_6_9  
+ L  PREC_8_9_0  
+ L  PREC_8_9_1  
+ L  PREC_8_9_2  
+ L  PREC_8_9_3  
+ L  PREC_8_9_4  
+ L  PREC_8_9_5  
+ L  PREC_8_9_6  
+ L  PREC_8_9_7  
+ L  PREC_8_9_8  
+ L  PREC_8_9_9  
+ L  PREC_8_13_0 
+ L  PREC_8_13_1 
+ L  PREC_8_13_2 
+ L  PREC_8_13_3 
+ L  PREC_8_13_4 
+ L  PREC_8_13_5 
+ L  PREC_8_13_6 
+ L  PREC_8_13_7 
+ L  PREC_8_13_8 
+ L  PREC_8_13_9 
+ L  PREC_8_27_0 
+ L  PREC_8_27_1 
+ L  PREC_8_27_2 
+ L  PREC_8_27_3 
+ L  PREC_8_27_4 
+ L  PREC_8_27_5 
+ L  PREC_8_27_6 
+ L  PREC_8_27_7 
+ L  PREC_8_27_8 
+ L  PREC_8_27_9 
+ L  PREC_10_7_0 
+ L  PREC_10_7_1 
+ L  PREC_10_7_2 
+ L  PREC_10_7_3 
+ L  PREC_10_7_4 
+ L  PREC_10_7_5 
+ L  PREC_10_7_6 
+ L  PREC_10_7_7 
+ L  PREC_10_7_8 
+ L  PREC_10_7_9 
+ L  PREC_10_11_0
+ L  PREC_10_11_1
+ L  PREC_10_11_2
+ L  PREC_10_11_3
+ L  PREC_10_11_4
+ L  PREC_10_11_5
+ L  PREC_10_11_6
+ L  PREC_10_11_7
+ L  PREC_10_11_8
+ L  PREC_10_11_9
+ L  PREC_10_15_0
+ L  PREC_10_15_1
+ L  PREC_10_15_2
+ L  PREC_10_15_3
+ L  PREC_10_15_4
+ L  PREC_10_15_5
+ L  PREC_10_15_6
+ L  PREC_10_15_7
+ L  PREC_10_15_8
+ L  PREC_10_15_9
+ L  PREC_10_31_0
+ L  PREC_10_31_1
+ L  PREC_10_31_2
+ L  PREC_10_31_3
+ L  PREC_10_31_4
+ L  PREC_10_31_5
+ L  PREC_10_31_6
+ L  PREC_10_31_7
+ L  PREC_10_31_8
+ L  PREC_10_31_9
+ L  PREC_10_59_0
+ L  PREC_10_59_1
+ L  PREC_10_59_2
+ L  PREC_10_59_3
+ L  PREC_10_59_4
+ L  PREC_10_59_5
+ L  PREC_10_59_6
+ L  PREC_10_59_7
+ L  PREC_10_59_8
+ L  PREC_10_59_9
+ L  PREC_11_2_0 
+ L  PREC_11_2_1 
+ L  PREC_11_2_2 
+ L  PREC_11_2_3 
+ L  PREC_11_2_4 
+ L  PREC_11_2_5 
+ L  PREC_11_2_6 
+ L  PREC_11_2_7 
+ L  PREC_11_2_8 
+ L  PREC_11_2_9 
+ L  PREC_11_8_0 
+ L  PREC_11_8_1 
+ L  PREC_11_8_2 
+ L  PREC_11_8_3 
+ L  PREC_11_8_4 
+ L  PREC_11_8_5 
+ L  PREC_11_8_6 
+ L  PREC_11_8_7 
+ L  PREC_11_8_8 
+ L  PREC_11_8_9 
+ L  PREC_11_12_0
+ L  PREC_11_12_1
+ L  PREC_11_12_2
+ L  PREC_11_12_3
+ L  PREC_11_12_4
+ L  PREC_11_12_5
+ L  PREC_11_12_6
+ L  PREC_11_12_7
+ L  PREC_11_12_8
+ L  PREC_11_12_9
+ L  PREC_11_16_0
+ L  PREC_11_16_1
+ L  PREC_11_16_2
+ L  PREC_11_16_3
+ L  PREC_11_16_4
+ L  PREC_11_16_5
+ L  PREC_11_16_6
+ L  PREC_11_16_7
+ L  PREC_11_16_8
+ L  PREC_11_16_9
+ L  PREC_11_32_0
+ L  PREC_11_32_1
+ L  PREC_11_32_2
+ L  PREC_11_32_3
+ L  PREC_11_32_4
+ L  PREC_11_32_5
+ L  PREC_11_32_6
+ L  PREC_11_32_7
+ L  PREC_11_32_8
+ L  PREC_11_32_9
+ L  PREC_12_3_0 
+ L  PREC_12_3_1 
+ L  PREC_12_3_2 
+ L  PREC_12_3_3 
+ L  PREC_12_3_4 
+ L  PREC_12_3_5 
+ L  PREC_12_3_6 
+ L  PREC_12_3_7 
+ L  PREC_12_3_8 
+ L  PREC_12_3_9 
+ L  PREC_12_9_0 
+ L  PREC_12_9_1 
+ L  PREC_12_9_2 
+ L  PREC_12_9_3 
+ L  PREC_12_9_4 
+ L  PREC_12_9_5 
+ L  PREC_12_9_6 
+ L  PREC_12_9_7 
+ L  PREC_12_9_8 
+ L  PREC_12_9_9 
+ L  PREC_12_13_0
+ L  PREC_12_13_1
+ L  PREC_12_13_2
+ L  PREC_12_13_3
+ L  PREC_12_13_4
+ L  PREC_12_13_5
+ L  PREC_12_13_6
+ L  PREC_12_13_7
+ L  PREC_12_13_8
+ L  PREC_12_13_9
+ L  PREC_12_17_0
+ L  PREC_12_17_1
+ L  PREC_12_17_2
+ L  PREC_12_17_3
+ L  PREC_12_17_4
+ L  PREC_12_17_5
+ L  PREC_12_17_6
+ L  PREC_12_17_7
+ L  PREC_12_17_8
+ L  PREC_12_17_9
+ L  PREC_12_33_0
+ L  PREC_12_33_1
+ L  PREC_12_33_2
+ L  PREC_12_33_3
+ L  PREC_12_33_4
+ L  PREC_12_33_5
+ L  PREC_12_33_6
+ L  PREC_12_33_7
+ L  PREC_12_33_8
+ L  PREC_12_33_9
+ L  PREC_14_11_0
+ L  PREC_14_11_1
+ L  PREC_14_11_2
+ L  PREC_14_11_3
+ L  PREC_14_11_4
+ L  PREC_14_11_5
+ L  PREC_14_11_6
+ L  PREC_14_11_7
+ L  PREC_14_11_8
+ L  PREC_14_11_9
+ L  PREC_14_15_0
+ L  PREC_14_15_1
+ L  PREC_14_15_2
+ L  PREC_14_15_3
+ L  PREC_14_15_4
+ L  PREC_14_15_5
+ L  PREC_14_15_6
+ L  PREC_14_15_7
+ L  PREC_14_15_8
+ L  PREC_14_15_9
+ L  PREC_14_18_0
+ L  PREC_14_18_1
+ L  PREC_14_18_2
+ L  PREC_14_18_3
+ L  PREC_14_18_4
+ L  PREC_14_18_5
+ L  PREC_14_18_6
+ L  PREC_14_18_7
+ L  PREC_14_18_8
+ L  PREC_14_18_9
+ L  PREC_14_37_0
+ L  PREC_14_37_1
+ L  PREC_14_37_2
+ L  PREC_14_37_3
+ L  PREC_14_37_4
+ L  PREC_14_37_5
+ L  PREC_14_37_6
+ L  PREC_14_37_7
+ L  PREC_14_37_8
+ L  PREC_14_37_9
+ L  PREC_14_46_0
+ L  PREC_14_46_1
+ L  PREC_14_46_2
+ L  PREC_14_46_3
+ L  PREC_14_46_4
+ L  PREC_14_46_5
+ L  PREC_14_46_6
+ L  PREC_14_46_7
+ L  PREC_14_46_8
+ L  PREC_14_46_9
+ L  PREC_14_60_0
+ L  PREC_14_60_1
+ L  PREC_14_60_2
+ L  PREC_14_60_3
+ L  PREC_14_60_4
+ L  PREC_14_60_5
+ L  PREC_14_60_6
+ L  PREC_14_60_7
+ L  PREC_14_60_8
+ L  PREC_14_60_9
+ L  PREC_15_12_0
+ L  PREC_15_12_1
+ L  PREC_15_12_2
+ L  PREC_15_12_3
+ L  PREC_15_12_4
+ L  PREC_15_12_5
+ L  PREC_15_12_6
+ L  PREC_15_12_7
+ L  PREC_15_12_8
+ L  PREC_15_12_9
+ L  PREC_15_16_0
+ L  PREC_15_16_1
+ L  PREC_15_16_2
+ L  PREC_15_16_3
+ L  PREC_15_16_4
+ L  PREC_15_16_5
+ L  PREC_15_16_6
+ L  PREC_15_16_7
+ L  PREC_15_16_8
+ L  PREC_15_16_9
+ L  PREC_15_19_0
+ L  PREC_15_19_1
+ L  PREC_15_19_2
+ L  PREC_15_19_3
+ L  PREC_15_19_4
+ L  PREC_15_19_5
+ L  PREC_15_19_6
+ L  PREC_15_19_7
+ L  PREC_15_19_8
+ L  PREC_15_19_9
+ L  PREC_15_38_0
+ L  PREC_15_38_1
+ L  PREC_15_38_2
+ L  PREC_15_38_3
+ L  PREC_15_38_4
+ L  PREC_15_38_5
+ L  PREC_15_38_6
+ L  PREC_15_38_7
+ L  PREC_15_38_8
+ L  PREC_15_38_9
+ L  PREC_16_4_0 
+ L  PREC_16_4_1 
+ L  PREC_16_4_2 
+ L  PREC_16_4_3 
+ L  PREC_16_4_4 
+ L  PREC_16_4_5 
+ L  PREC_16_4_6 
+ L  PREC_16_4_7 
+ L  PREC_16_4_8 
+ L  PREC_16_4_9 
+ L  PREC_16_13_0
+ L  PREC_16_13_1
+ L  PREC_16_13_2
+ L  PREC_16_13_3
+ L  PREC_16_13_4
+ L  PREC_16_13_5
+ L  PREC_16_13_6
+ L  PREC_16_13_7
+ L  PREC_16_13_8
+ L  PREC_16_13_9
+ L  PREC_16_17_0
+ L  PREC_16_17_1
+ L  PREC_16_17_2
+ L  PREC_16_17_3
+ L  PREC_16_17_4
+ L  PREC_16_17_5
+ L  PREC_16_17_6
+ L  PREC_16_17_7
+ L  PREC_16_17_8
+ L  PREC_16_17_9
+ L  PREC_16_20_0
+ L  PREC_16_20_1
+ L  PREC_16_20_2
+ L  PREC_16_20_3
+ L  PREC_16_20_4
+ L  PREC_16_20_5
+ L  PREC_16_20_6
+ L  PREC_16_20_7
+ L  PREC_16_20_8
+ L  PREC_16_20_9
+ L  PREC_16_39_0
+ L  PREC_16_39_1
+ L  PREC_16_39_2
+ L  PREC_16_39_3
+ L  PREC_16_39_4
+ L  PREC_16_39_5
+ L  PREC_16_39_6
+ L  PREC_16_39_7
+ L  PREC_16_39_8
+ L  PREC_16_39_9
+ L  PREC_18_16_0
+ L  PREC_18_16_1
+ L  PREC_18_16_2
+ L  PREC_18_16_3
+ L  PREC_18_16_4
+ L  PREC_18_16_5
+ L  PREC_18_16_6
+ L  PREC_18_16_7
+ L  PREC_18_16_8
+ L  PREC_18_16_9
+ L  PREC_18_19_0
+ L  PREC_18_19_1
+ L  PREC_18_19_2
+ L  PREC_18_19_3
+ L  PREC_18_19_4
+ L  PREC_18_19_5
+ L  PREC_18_19_6
+ L  PREC_18_19_7
+ L  PREC_18_19_8
+ L  PREC_18_19_9
+ L  PREC_18_42_0
+ L  PREC_18_42_1
+ L  PREC_18_42_2
+ L  PREC_18_42_3
+ L  PREC_18_42_4
+ L  PREC_18_42_5
+ L  PREC_18_42_6
+ L  PREC_18_42_7
+ L  PREC_18_42_8
+ L  PREC_18_42_9
+ L  PREC_19_5_0 
+ L  PREC_19_5_1 
+ L  PREC_19_5_2 
+ L  PREC_19_5_3 
+ L  PREC_19_5_4 
+ L  PREC_19_5_5 
+ L  PREC_19_5_6 
+ L  PREC_19_5_7 
+ L  PREC_19_5_8 
+ L  PREC_19_5_9 
+ L  PREC_19_17_0
+ L  PREC_19_17_1
+ L  PREC_19_17_2
+ L  PREC_19_17_3
+ L  PREC_19_17_4
+ L  PREC_19_17_5
+ L  PREC_19_17_6
+ L  PREC_19_17_7
+ L  PREC_19_17_8
+ L  PREC_19_17_9
+ L  PREC_19_20_0
+ L  PREC_19_20_1
+ L  PREC_19_20_2
+ L  PREC_19_20_3
+ L  PREC_19_20_4
+ L  PREC_19_20_5
+ L  PREC_19_20_6
+ L  PREC_19_20_7
+ L  PREC_19_20_8
+ L  PREC_19_20_9
+ L  PREC_19_21_0
+ L  PREC_19_21_1
+ L  PREC_19_21_2
+ L  PREC_19_21_3
+ L  PREC_19_21_4
+ L  PREC_19_21_5
+ L  PREC_19_21_6
+ L  PREC_19_21_7
+ L  PREC_19_21_8
+ L  PREC_19_21_9
+ L  PREC_19_43_0
+ L  PREC_19_43_1
+ L  PREC_19_43_2
+ L  PREC_19_43_3
+ L  PREC_19_43_4
+ L  PREC_19_43_5
+ L  PREC_19_43_6
+ L  PREC_19_43_7
+ L  PREC_19_43_8
+ L  PREC_19_43_9
+ L  PREC_24_7_0 
+ L  PREC_24_7_1 
+ L  PREC_24_7_2 
+ L  PREC_24_7_3 
+ L  PREC_24_7_4 
+ L  PREC_24_7_5 
+ L  PREC_24_7_6 
+ L  PREC_24_7_7 
+ L  PREC_24_7_8 
+ L  PREC_24_7_9 
+ L  PREC_24_25_0
+ L  PREC_24_25_1
+ L  PREC_24_25_2
+ L  PREC_24_25_3
+ L  PREC_24_25_4
+ L  PREC_24_25_5
+ L  PREC_24_25_6
+ L  PREC_24_25_7
+ L  PREC_24_25_8
+ L  PREC_24_25_9
+ L  PREC_24_31_0
+ L  PREC_24_31_1
+ L  PREC_24_31_2
+ L  PREC_24_31_3
+ L  PREC_24_31_4
+ L  PREC_24_31_5
+ L  PREC_24_31_6
+ L  PREC_24_31_7
+ L  PREC_24_31_8
+ L  PREC_24_31_9
+ L  PREC_24_4_0 
+ L  PREC_24_4_1 
+ L  PREC_24_4_2 
+ L  PREC_24_4_3 
+ L  PREC_24_4_4 
+ L  PREC_24_4_5 
+ L  PREC_24_4_6 
+ L  PREC_24_4_7 
+ L  PREC_24_4_8 
+ L  PREC_24_4_9 
+ L  PREC_24_63_0
+ L  PREC_24_63_1
+ L  PREC_24_63_2
+ L  PREC_24_63_3
+ L  PREC_24_63_4
+ L  PREC_24_63_5
+ L  PREC_24_63_6
+ L  PREC_24_63_7
+ L  PREC_24_63_8
+ L  PREC_24_63_9
+ L  PREC_25_8_0 
+ L  PREC_25_8_1 
+ L  PREC_25_8_2 
+ L  PREC_25_8_3 
+ L  PREC_25_8_4 
+ L  PREC_25_8_5 
+ L  PREC_25_8_6 
+ L  PREC_25_8_7 
+ L  PREC_25_8_8 
+ L  PREC_25_8_9 
+ L  PREC_25_26_0
+ L  PREC_25_26_1
+ L  PREC_25_26_2
+ L  PREC_25_26_3
+ L  PREC_25_26_4
+ L  PREC_25_26_5
+ L  PREC_25_26_6
+ L  PREC_25_26_7
+ L  PREC_25_26_8
+ L  PREC_25_26_9
+ L  PREC_25_32_0
+ L  PREC_25_32_1
+ L  PREC_25_32_2
+ L  PREC_25_32_3
+ L  PREC_25_32_4
+ L  PREC_25_32_5
+ L  PREC_25_32_6
+ L  PREC_25_32_7
+ L  PREC_25_32_8
+ L  PREC_25_32_9
+ L  PREC_25_45_0
+ L  PREC_25_45_1
+ L  PREC_25_45_2
+ L  PREC_25_45_3
+ L  PREC_25_45_4
+ L  PREC_25_45_5
+ L  PREC_25_45_6
+ L  PREC_25_45_7
+ L  PREC_25_45_8
+ L  PREC_25_45_9
+ L  PREC_26_9_0 
+ L  PREC_26_9_1 
+ L  PREC_26_9_2 
+ L  PREC_26_9_3 
+ L  PREC_26_9_4 
+ L  PREC_26_9_5 
+ L  PREC_26_9_6 
+ L  PREC_26_9_7 
+ L  PREC_26_9_8 
+ L  PREC_26_9_9 
+ L  PREC_26_23_0
+ L  PREC_26_23_1
+ L  PREC_26_23_2
+ L  PREC_26_23_3
+ L  PREC_26_23_4
+ L  PREC_26_23_5
+ L  PREC_26_23_6
+ L  PREC_26_23_7
+ L  PREC_26_23_8
+ L  PREC_26_23_9
+ L  PREC_26_27_0
+ L  PREC_26_27_1
+ L  PREC_26_27_2
+ L  PREC_26_27_3
+ L  PREC_26_27_4
+ L  PREC_26_27_5
+ L  PREC_26_27_6
+ L  PREC_26_27_7
+ L  PREC_26_27_8
+ L  PREC_26_27_9
+ L  PREC_26_33_0
+ L  PREC_26_33_1
+ L  PREC_26_33_2
+ L  PREC_26_33_3
+ L  PREC_26_33_4
+ L  PREC_26_33_5
+ L  PREC_26_33_6
+ L  PREC_26_33_7
+ L  PREC_26_33_8
+ L  PREC_26_33_9
+ L  PREC_26_46_0
+ L  PREC_26_46_1
+ L  PREC_26_46_2
+ L  PREC_26_46_3
+ L  PREC_26_46_4
+ L  PREC_26_46_5
+ L  PREC_26_46_6
+ L  PREC_26_46_7
+ L  PREC_26_46_8
+ L  PREC_26_46_9
+ L  PREC_28_29_0
+ L  PREC_28_29_1
+ L  PREC_28_29_2
+ L  PREC_28_29_3
+ L  PREC_28_29_4
+ L  PREC_28_29_5
+ L  PREC_28_29_6
+ L  PREC_28_29_7
+ L  PREC_28_29_8
+ L  PREC_28_29_9
+ L  PREC_28_35_0
+ L  PREC_28_35_1
+ L  PREC_28_35_2
+ L  PREC_28_35_3
+ L  PREC_28_35_4
+ L  PREC_28_35_5
+ L  PREC_28_35_6
+ L  PREC_28_35_7
+ L  PREC_28_35_8
+ L  PREC_28_35_9
+ L  PREC_29_10_0
+ L  PREC_29_10_1
+ L  PREC_29_10_2
+ L  PREC_29_10_3
+ L  PREC_29_10_4
+ L  PREC_29_10_5
+ L  PREC_29_10_6
+ L  PREC_29_10_7
+ L  PREC_29_10_8
+ L  PREC_29_10_9
+ L  PREC_29_24_0
+ L  PREC_29_24_1
+ L  PREC_29_24_2
+ L  PREC_29_24_3
+ L  PREC_29_24_4
+ L  PREC_29_24_5
+ L  PREC_29_24_6
+ L  PREC_29_24_7
+ L  PREC_29_24_8
+ L  PREC_29_24_9
+ L  PREC_29_30_0
+ L  PREC_29_30_1
+ L  PREC_29_30_2
+ L  PREC_29_30_3
+ L  PREC_29_30_4
+ L  PREC_29_30_5
+ L  PREC_29_30_6
+ L  PREC_29_30_7
+ L  PREC_29_30_8
+ L  PREC_29_30_9
+ L  PREC_29_36_0
+ L  PREC_29_36_1
+ L  PREC_29_36_2
+ L  PREC_29_36_3
+ L  PREC_29_36_4
+ L  PREC_29_36_5
+ L  PREC_29_36_6
+ L  PREC_29_36_7
+ L  PREC_29_36_8
+ L  PREC_29_36_9
+ L  PREC_29_47_0
+ L  PREC_29_47_1
+ L  PREC_29_47_2
+ L  PREC_29_47_3
+ L  PREC_29_47_4
+ L  PREC_29_47_5
+ L  PREC_29_47_6
+ L  PREC_29_47_7
+ L  PREC_29_47_8
+ L  PREC_29_47_9
+ L  PREC_29_64_0
+ L  PREC_29_64_1
+ L  PREC_29_64_2
+ L  PREC_29_64_3
+ L  PREC_29_64_4
+ L  PREC_29_64_5
+ L  PREC_29_64_6
+ L  PREC_29_64_7
+ L  PREC_29_64_8
+ L  PREC_29_64_9
+ L  PREC_30_11_0
+ L  PREC_30_11_1
+ L  PREC_30_11_2
+ L  PREC_30_11_3
+ L  PREC_30_11_4
+ L  PREC_30_11_5
+ L  PREC_30_11_6
+ L  PREC_30_11_7
+ L  PREC_30_11_8
+ L  PREC_30_11_9
+ L  PREC_30_25_0
+ L  PREC_30_25_1
+ L  PREC_30_25_2
+ L  PREC_30_25_3
+ L  PREC_30_25_4
+ L  PREC_30_25_5
+ L  PREC_30_25_6
+ L  PREC_30_25_7
+ L  PREC_30_25_8
+ L  PREC_30_25_9
+ L  PREC_30_31_0
+ L  PREC_30_31_1
+ L  PREC_30_31_2
+ L  PREC_30_31_3
+ L  PREC_30_31_4
+ L  PREC_30_31_5
+ L  PREC_30_31_6
+ L  PREC_30_31_7
+ L  PREC_30_31_8
+ L  PREC_30_31_9
+ L  PREC_30_37_0
+ L  PREC_30_37_1
+ L  PREC_30_37_2
+ L  PREC_30_37_3
+ L  PREC_30_37_4
+ L  PREC_30_37_5
+ L  PREC_30_37_6
+ L  PREC_30_37_7
+ L  PREC_30_37_8
+ L  PREC_30_37_9
+ L  PREC_30_48_0
+ L  PREC_30_48_1
+ L  PREC_30_48_2
+ L  PREC_30_48_3
+ L  PREC_30_48_4
+ L  PREC_30_48_5
+ L  PREC_30_48_6
+ L  PREC_30_48_7
+ L  PREC_30_48_8
+ L  PREC_30_48_9
+ L  PREC_30_0_0 
+ L  PREC_30_0_1 
+ L  PREC_30_0_2 
+ L  PREC_30_0_3 
+ L  PREC_30_0_4 
+ L  PREC_30_0_5 
+ L  PREC_30_0_6 
+ L  PREC_30_0_7 
+ L  PREC_30_0_8 
+ L  PREC_30_0_9 
+ L  PREC_30_5_0 
+ L  PREC_30_5_1 
+ L  PREC_30_5_2 
+ L  PREC_30_5_3 
+ L  PREC_30_5_4 
+ L  PREC_30_5_5 
+ L  PREC_30_5_6 
+ L  PREC_30_5_7 
+ L  PREC_30_5_8 
+ L  PREC_30_5_9 
+ L  PREC_30_65_0
+ L  PREC_30_65_1
+ L  PREC_30_65_2
+ L  PREC_30_65_3
+ L  PREC_30_65_4
+ L  PREC_30_65_5
+ L  PREC_30_65_6
+ L  PREC_30_65_7
+ L  PREC_30_65_8
+ L  PREC_30_65_9
+ L  PREC_31_12_0
+ L  PREC_31_12_1
+ L  PREC_31_12_2
+ L  PREC_31_12_3
+ L  PREC_31_12_4
+ L  PREC_31_12_5
+ L  PREC_31_12_6
+ L  PREC_31_12_7
+ L  PREC_31_12_8
+ L  PREC_31_12_9
+ L  PREC_31_26_0
+ L  PREC_31_26_1
+ L  PREC_31_26_2
+ L  PREC_31_26_3
+ L  PREC_31_26_4
+ L  PREC_31_26_5
+ L  PREC_31_26_6
+ L  PREC_31_26_7
+ L  PREC_31_26_8
+ L  PREC_31_26_9
+ L  PREC_31_32_0
+ L  PREC_31_32_1
+ L  PREC_31_32_2
+ L  PREC_31_32_3
+ L  PREC_31_32_4
+ L  PREC_31_32_5
+ L  PREC_31_32_6
+ L  PREC_31_32_7
+ L  PREC_31_32_8
+ L  PREC_31_32_9
+ L  PREC_31_38_0
+ L  PREC_31_38_1
+ L  PREC_31_38_2
+ L  PREC_31_38_3
+ L  PREC_31_38_4
+ L  PREC_31_38_5
+ L  PREC_31_38_6
+ L  PREC_31_38_7
+ L  PREC_31_38_8
+ L  PREC_31_38_9
+ L  PREC_31_49_0
+ L  PREC_31_49_1
+ L  PREC_31_49_2
+ L  PREC_31_49_3
+ L  PREC_31_49_4
+ L  PREC_31_49_5
+ L  PREC_31_49_6
+ L  PREC_31_49_7
+ L  PREC_31_49_8
+ L  PREC_31_49_9
+ L  PREC_32_13_0
+ L  PREC_32_13_1
+ L  PREC_32_13_2
+ L  PREC_32_13_3
+ L  PREC_32_13_4
+ L  PREC_32_13_5
+ L  PREC_32_13_6
+ L  PREC_32_13_7
+ L  PREC_32_13_8
+ L  PREC_32_13_9
+ L  PREC_32_27_0
+ L  PREC_32_27_1
+ L  PREC_32_27_2
+ L  PREC_32_27_3
+ L  PREC_32_27_4
+ L  PREC_32_27_5
+ L  PREC_32_27_6
+ L  PREC_32_27_7
+ L  PREC_32_27_8
+ L  PREC_32_27_9
+ L  PREC_32_33_0
+ L  PREC_32_33_1
+ L  PREC_32_33_2
+ L  PREC_32_33_3
+ L  PREC_32_33_4
+ L  PREC_32_33_5
+ L  PREC_32_33_6
+ L  PREC_32_33_7
+ L  PREC_32_33_8
+ L  PREC_32_33_9
+ L  PREC_32_39_0
+ L  PREC_32_39_1
+ L  PREC_32_39_2
+ L  PREC_32_39_3
+ L  PREC_32_39_4
+ L  PREC_32_39_5
+ L  PREC_32_39_6
+ L  PREC_32_39_7
+ L  PREC_32_39_8
+ L  PREC_32_39_9
+ L  PREC_32_50_0
+ L  PREC_32_50_1
+ L  PREC_32_50_2
+ L  PREC_32_50_3
+ L  PREC_32_50_4
+ L  PREC_32_50_5
+ L  PREC_32_50_6
+ L  PREC_32_50_7
+ L  PREC_32_50_8
+ L  PREC_32_50_9
+ L  PREC_34_29_0
+ L  PREC_34_29_1
+ L  PREC_34_29_2
+ L  PREC_34_29_3
+ L  PREC_34_29_4
+ L  PREC_34_29_5
+ L  PREC_34_29_6
+ L  PREC_34_29_7
+ L  PREC_34_29_8
+ L  PREC_34_29_9
+ L  PREC_34_35_0
+ L  PREC_34_35_1
+ L  PREC_34_35_2
+ L  PREC_34_35_3
+ L  PREC_34_35_4
+ L  PREC_34_35_5
+ L  PREC_34_35_6
+ L  PREC_34_35_7
+ L  PREC_34_35_8
+ L  PREC_34_35_9
+ L  PREC_34_51_0
+ L  PREC_34_51_1
+ L  PREC_34_51_2
+ L  PREC_34_51_3
+ L  PREC_34_51_4
+ L  PREC_34_51_5
+ L  PREC_34_51_6
+ L  PREC_34_51_7
+ L  PREC_34_51_8
+ L  PREC_34_51_9
+ L  PREC_35_14_0
+ L  PREC_35_14_1
+ L  PREC_35_14_2
+ L  PREC_35_14_3
+ L  PREC_35_14_4
+ L  PREC_35_14_5
+ L  PREC_35_14_6
+ L  PREC_35_14_7
+ L  PREC_35_14_8
+ L  PREC_35_14_9
+ L  PREC_35_30_0
+ L  PREC_35_30_1
+ L  PREC_35_30_2
+ L  PREC_35_30_3
+ L  PREC_35_30_4
+ L  PREC_35_30_5
+ L  PREC_35_30_6
+ L  PREC_35_30_7
+ L  PREC_35_30_8
+ L  PREC_35_30_9
+ L  PREC_35_36_0
+ L  PREC_35_36_1
+ L  PREC_35_36_2
+ L  PREC_35_36_3
+ L  PREC_35_36_4
+ L  PREC_35_36_5
+ L  PREC_35_36_6
+ L  PREC_35_36_7
+ L  PREC_35_36_8
+ L  PREC_35_36_9
+ L  PREC_35_40_0
+ L  PREC_35_40_1
+ L  PREC_35_40_2
+ L  PREC_35_40_3
+ L  PREC_35_40_4
+ L  PREC_35_40_5
+ L  PREC_35_40_6
+ L  PREC_35_40_7
+ L  PREC_35_40_8
+ L  PREC_35_40_9
+ L  PREC_35_52_0
+ L  PREC_35_52_1
+ L  PREC_35_52_2
+ L  PREC_35_52_3
+ L  PREC_35_52_4
+ L  PREC_35_52_5
+ L  PREC_35_52_6
+ L  PREC_35_52_7
+ L  PREC_35_52_8
+ L  PREC_35_52_9
+ L  PREC_36_15_0
+ L  PREC_36_15_1
+ L  PREC_36_15_2
+ L  PREC_36_15_3
+ L  PREC_36_15_4
+ L  PREC_36_15_5
+ L  PREC_36_15_6
+ L  PREC_36_15_7
+ L  PREC_36_15_8
+ L  PREC_36_15_9
+ L  PREC_36_31_0
+ L  PREC_36_31_1
+ L  PREC_36_31_2
+ L  PREC_36_31_3
+ L  PREC_36_31_4
+ L  PREC_36_31_5
+ L  PREC_36_31_6
+ L  PREC_36_31_7
+ L  PREC_36_31_8
+ L  PREC_36_31_9
+ L  PREC_36_37_0
+ L  PREC_36_37_1
+ L  PREC_36_37_2
+ L  PREC_36_37_3
+ L  PREC_36_37_4
+ L  PREC_36_37_5
+ L  PREC_36_37_6
+ L  PREC_36_37_7
+ L  PREC_36_37_8
+ L  PREC_36_37_9
+ L  PREC_36_41_0
+ L  PREC_36_41_1
+ L  PREC_36_41_2
+ L  PREC_36_41_3
+ L  PREC_36_41_4
+ L  PREC_36_41_5
+ L  PREC_36_41_6
+ L  PREC_36_41_7
+ L  PREC_36_41_8
+ L  PREC_36_41_9
+ L  PREC_36_53_0
+ L  PREC_36_53_1
+ L  PREC_36_53_2
+ L  PREC_36_53_3
+ L  PREC_36_53_4
+ L  PREC_36_53_5
+ L  PREC_36_53_6
+ L  PREC_36_53_7
+ L  PREC_36_53_8
+ L  PREC_36_53_9
+ L  PREC_36_1_0 
+ L  PREC_36_1_1 
+ L  PREC_36_1_2 
+ L  PREC_36_1_3 
+ L  PREC_36_1_4 
+ L  PREC_36_1_5 
+ L  PREC_36_1_6 
+ L  PREC_36_1_7 
+ L  PREC_36_1_8 
+ L  PREC_36_1_9 
+ L  PREC_36_66_0
+ L  PREC_36_66_1
+ L  PREC_36_66_2
+ L  PREC_36_66_3
+ L  PREC_36_66_4
+ L  PREC_36_66_5
+ L  PREC_36_66_6
+ L  PREC_36_66_7
+ L  PREC_36_66_8
+ L  PREC_36_66_9
+ L  PREC_37_16_0
+ L  PREC_37_16_1
+ L  PREC_37_16_2
+ L  PREC_37_16_3
+ L  PREC_37_16_4
+ L  PREC_37_16_5
+ L  PREC_37_16_6
+ L  PREC_37_16_7
+ L  PREC_37_16_8
+ L  PREC_37_16_9
+ L  PREC_37_32_0
+ L  PREC_37_32_1
+ L  PREC_37_32_2
+ L  PREC_37_32_3
+ L  PREC_37_32_4
+ L  PREC_37_32_5
+ L  PREC_37_32_6
+ L  PREC_37_32_7
+ L  PREC_37_32_8
+ L  PREC_37_32_9
+ L  PREC_37_38_0
+ L  PREC_37_38_1
+ L  PREC_37_38_2
+ L  PREC_37_38_3
+ L  PREC_37_38_4
+ L  PREC_37_38_5
+ L  PREC_37_38_6
+ L  PREC_37_38_7
+ L  PREC_37_38_8
+ L  PREC_37_38_9
+ L  PREC_37_42_0
+ L  PREC_37_42_1
+ L  PREC_37_42_2
+ L  PREC_37_42_3
+ L  PREC_37_42_4
+ L  PREC_37_42_5
+ L  PREC_37_42_6
+ L  PREC_37_42_7
+ L  PREC_37_42_8
+ L  PREC_37_42_9
+ L  PREC_37_54_0
+ L  PREC_37_54_1
+ L  PREC_37_54_2
+ L  PREC_37_54_3
+ L  PREC_37_54_4
+ L  PREC_37_54_5
+ L  PREC_37_54_6
+ L  PREC_37_54_7
+ L  PREC_37_54_8
+ L  PREC_37_54_9
+ L  PREC_38_17_0
+ L  PREC_38_17_1
+ L  PREC_38_17_2
+ L  PREC_38_17_3
+ L  PREC_38_17_4
+ L  PREC_38_17_5
+ L  PREC_38_17_6
+ L  PREC_38_17_7
+ L  PREC_38_17_8
+ L  PREC_38_17_9
+ L  PREC_38_33_0
+ L  PREC_38_33_1
+ L  PREC_38_33_2
+ L  PREC_38_33_3
+ L  PREC_38_33_4
+ L  PREC_38_33_5
+ L  PREC_38_33_6
+ L  PREC_38_33_7
+ L  PREC_38_33_8
+ L  PREC_38_33_9
+ L  PREC_38_39_0
+ L  PREC_38_39_1
+ L  PREC_38_39_2
+ L  PREC_38_39_3
+ L  PREC_38_39_4
+ L  PREC_38_39_5
+ L  PREC_38_39_6
+ L  PREC_38_39_7
+ L  PREC_38_39_8
+ L  PREC_38_39_9
+ L  PREC_38_43_0
+ L  PREC_38_43_1
+ L  PREC_38_43_2
+ L  PREC_38_43_3
+ L  PREC_38_43_4
+ L  PREC_38_43_5
+ L  PREC_38_43_6
+ L  PREC_38_43_7
+ L  PREC_38_43_8
+ L  PREC_38_43_9
+ L  PREC_38_55_0
+ L  PREC_38_55_1
+ L  PREC_38_55_2
+ L  PREC_38_55_3
+ L  PREC_38_55_4
+ L  PREC_38_55_5
+ L  PREC_38_55_6
+ L  PREC_38_55_7
+ L  PREC_38_55_8
+ L  PREC_38_55_9
+ L  PREC_40_18_0
+ L  PREC_40_18_1
+ L  PREC_40_18_2
+ L  PREC_40_18_3
+ L  PREC_40_18_4
+ L  PREC_40_18_5
+ L  PREC_40_18_6
+ L  PREC_40_18_7
+ L  PREC_40_18_8
+ L  PREC_40_18_9
+ L  PREC_40_37_0
+ L  PREC_40_37_1
+ L  PREC_40_37_2
+ L  PREC_40_37_3
+ L  PREC_40_37_4
+ L  PREC_40_37_5
+ L  PREC_40_37_6
+ L  PREC_40_37_7
+ L  PREC_40_37_8
+ L  PREC_40_37_9
+ L  PREC_40_41_0
+ L  PREC_40_41_1
+ L  PREC_40_41_2
+ L  PREC_40_41_3
+ L  PREC_40_41_4
+ L  PREC_40_41_5
+ L  PREC_40_41_6
+ L  PREC_40_41_7
+ L  PREC_40_41_8
+ L  PREC_40_41_9
+ L  PREC_40_57_0
+ L  PREC_40_57_1
+ L  PREC_40_57_2
+ L  PREC_40_57_3
+ L  PREC_40_57_4
+ L  PREC_40_57_5
+ L  PREC_40_57_6
+ L  PREC_40_57_7
+ L  PREC_40_57_8
+ L  PREC_40_57_9
+ L  PREC_40_3_0 
+ L  PREC_40_3_1 
+ L  PREC_40_3_2 
+ L  PREC_40_3_3 
+ L  PREC_40_3_4 
+ L  PREC_40_3_5 
+ L  PREC_40_3_6 
+ L  PREC_40_3_7 
+ L  PREC_40_3_8 
+ L  PREC_40_3_9 
+ L  PREC_40_61_0
+ L  PREC_40_61_1
+ L  PREC_40_61_2
+ L  PREC_40_61_3
+ L  PREC_40_61_4
+ L  PREC_40_61_5
+ L  PREC_40_61_6
+ L  PREC_40_61_7
+ L  PREC_40_61_8
+ L  PREC_40_61_9
+ L  PREC_41_19_0
+ L  PREC_41_19_1
+ L  PREC_41_19_2
+ L  PREC_41_19_3
+ L  PREC_41_19_4
+ L  PREC_41_19_5
+ L  PREC_41_19_6
+ L  PREC_41_19_7
+ L  PREC_41_19_8
+ L  PREC_41_19_9
+ L  PREC_41_38_0
+ L  PREC_41_38_1
+ L  PREC_41_38_2
+ L  PREC_41_38_3
+ L  PREC_41_38_4
+ L  PREC_41_38_5
+ L  PREC_41_38_6
+ L  PREC_41_38_7
+ L  PREC_41_38_8
+ L  PREC_41_38_9
+ L  PREC_41_42_0
+ L  PREC_41_42_1
+ L  PREC_41_42_2
+ L  PREC_41_42_3
+ L  PREC_41_42_4
+ L  PREC_41_42_5
+ L  PREC_41_42_6
+ L  PREC_41_42_7
+ L  PREC_41_42_8
+ L  PREC_41_42_9
+ L  PREC_41_58_0
+ L  PREC_41_58_1
+ L  PREC_41_58_2
+ L  PREC_41_58_3
+ L  PREC_41_58_4
+ L  PREC_41_58_5
+ L  PREC_41_58_6
+ L  PREC_41_58_7
+ L  PREC_41_58_8
+ L  PREC_41_58_9
+ L  PREC_42_20_0
+ L  PREC_42_20_1
+ L  PREC_42_20_2
+ L  PREC_42_20_3
+ L  PREC_42_20_4
+ L  PREC_42_20_5
+ L  PREC_42_20_6
+ L  PREC_42_20_7
+ L  PREC_42_20_8
+ L  PREC_42_20_9
+ L  PREC_42_39_0
+ L  PREC_42_39_1
+ L  PREC_42_39_2
+ L  PREC_42_39_3
+ L  PREC_42_39_4
+ L  PREC_42_39_5
+ L  PREC_42_39_6
+ L  PREC_42_39_7
+ L  PREC_42_39_8
+ L  PREC_42_39_9
+ L  PREC_42_43_0
+ L  PREC_42_43_1
+ L  PREC_42_43_2
+ L  PREC_42_43_3
+ L  PREC_42_43_4
+ L  PREC_42_43_5
+ L  PREC_42_43_6
+ L  PREC_42_43_7
+ L  PREC_42_43_8
+ L  PREC_42_43_9
+ L  PREC_42_44_0
+ L  PREC_42_44_1
+ L  PREC_42_44_2
+ L  PREC_42_44_3
+ L  PREC_42_44_4
+ L  PREC_42_44_5
+ L  PREC_42_44_6
+ L  PREC_42_44_7
+ L  PREC_42_44_8
+ L  PREC_42_44_9
+ L  PREC_42_59_0
+ L  PREC_42_59_1
+ L  PREC_42_59_2
+ L  PREC_42_59_3
+ L  PREC_42_59_4
+ L  PREC_42_59_5
+ L  PREC_42_59_6
+ L  PREC_42_59_7
+ L  PREC_42_59_8
+ L  PREC_42_59_9
+ L  PREC_45_27_0
+ L  PREC_45_27_1
+ L  PREC_45_27_2
+ L  PREC_45_27_3
+ L  PREC_45_27_4
+ L  PREC_45_27_5
+ L  PREC_45_27_6
+ L  PREC_45_27_7
+ L  PREC_45_27_8
+ L  PREC_45_27_9
+ L  PREC_45_46_0
+ L  PREC_45_46_1
+ L  PREC_45_46_2
+ L  PREC_45_46_3
+ L  PREC_45_46_4
+ L  PREC_45_46_5
+ L  PREC_45_46_6
+ L  PREC_45_46_7
+ L  PREC_45_46_8
+ L  PREC_45_46_9
+ L  PREC_45_50_0
+ L  PREC_45_50_1
+ L  PREC_45_50_2
+ L  PREC_45_50_3
+ L  PREC_45_50_4
+ L  PREC_45_50_5
+ L  PREC_45_50_6
+ L  PREC_45_50_7
+ L  PREC_45_50_8
+ L  PREC_45_50_9
+ L  PREC_47_31_0
+ L  PREC_47_31_1
+ L  PREC_47_31_2
+ L  PREC_47_31_3
+ L  PREC_47_31_4
+ L  PREC_47_31_5
+ L  PREC_47_31_6
+ L  PREC_47_31_7
+ L  PREC_47_31_8
+ L  PREC_47_31_9
+ L  PREC_47_48_0
+ L  PREC_47_48_1
+ L  PREC_47_48_2
+ L  PREC_47_48_3
+ L  PREC_47_48_4
+ L  PREC_47_48_5
+ L  PREC_47_48_6
+ L  PREC_47_48_7
+ L  PREC_47_48_8
+ L  PREC_47_48_9
+ L  PREC_47_53_0
+ L  PREC_47_53_1
+ L  PREC_47_53_2
+ L  PREC_47_53_3
+ L  PREC_47_53_4
+ L  PREC_47_53_5
+ L  PREC_47_53_6
+ L  PREC_47_53_7
+ L  PREC_47_53_8
+ L  PREC_47_53_9
+ L  PREC_47_6_0 
+ L  PREC_47_6_1 
+ L  PREC_47_6_2 
+ L  PREC_47_6_3 
+ L  PREC_47_6_4 
+ L  PREC_47_6_5 
+ L  PREC_47_6_6 
+ L  PREC_47_6_7 
+ L  PREC_47_6_8 
+ L  PREC_47_6_9 
+ L  PREC_47_20_0
+ L  PREC_47_20_1
+ L  PREC_47_20_2
+ L  PREC_47_20_3
+ L  PREC_47_20_4
+ L  PREC_47_20_5
+ L  PREC_47_20_6
+ L  PREC_47_20_7
+ L  PREC_47_20_8
+ L  PREC_47_20_9
+ L  PREC_48_32_0
+ L  PREC_48_32_1
+ L  PREC_48_32_2
+ L  PREC_48_32_3
+ L  PREC_48_32_4
+ L  PREC_48_32_5
+ L  PREC_48_32_6
+ L  PREC_48_32_7
+ L  PREC_48_32_8
+ L  PREC_48_32_9
+ L  PREC_48_45_0
+ L  PREC_48_45_1
+ L  PREC_48_45_2
+ L  PREC_48_45_3
+ L  PREC_48_45_4
+ L  PREC_48_45_5
+ L  PREC_48_45_6
+ L  PREC_48_45_7
+ L  PREC_48_45_8
+ L  PREC_48_45_9
+ L  PREC_48_49_0
+ L  PREC_48_49_1
+ L  PREC_48_49_2
+ L  PREC_48_49_3
+ L  PREC_48_49_4
+ L  PREC_48_49_5
+ L  PREC_48_49_6
+ L  PREC_48_49_7
+ L  PREC_48_49_8
+ L  PREC_48_49_9
+ L  PREC_48_54_0
+ L  PREC_48_54_1
+ L  PREC_48_54_2
+ L  PREC_48_54_3
+ L  PREC_48_54_4
+ L  PREC_48_54_5
+ L  PREC_48_54_6
+ L  PREC_48_54_7
+ L  PREC_48_54_8
+ L  PREC_48_54_9
+ L  PREC_49_33_0
+ L  PREC_49_33_1
+ L  PREC_49_33_2
+ L  PREC_49_33_3
+ L  PREC_49_33_4
+ L  PREC_49_33_5
+ L  PREC_49_33_6
+ L  PREC_49_33_7
+ L  PREC_49_33_8
+ L  PREC_49_33_9
+ L  PREC_49_46_0
+ L  PREC_49_46_1
+ L  PREC_49_46_2
+ L  PREC_49_46_3
+ L  PREC_49_46_4
+ L  PREC_49_46_5
+ L  PREC_49_46_6
+ L  PREC_49_46_7
+ L  PREC_49_46_8
+ L  PREC_49_46_9
+ L  PREC_49_50_0
+ L  PREC_49_50_1
+ L  PREC_49_50_2
+ L  PREC_49_50_3
+ L  PREC_49_50_4
+ L  PREC_49_50_5
+ L  PREC_49_50_6
+ L  PREC_49_50_7
+ L  PREC_49_50_8
+ L  PREC_49_50_9
+ L  PREC_49_55_0
+ L  PREC_49_55_1
+ L  PREC_49_55_2
+ L  PREC_49_55_3
+ L  PREC_49_55_4
+ L  PREC_49_55_5
+ L  PREC_49_55_6
+ L  PREC_49_55_7
+ L  PREC_49_55_8
+ L  PREC_49_55_9
+ L  PREC_49_61_0
+ L  PREC_49_61_1
+ L  PREC_49_61_2
+ L  PREC_49_61_3
+ L  PREC_49_61_4
+ L  PREC_49_61_5
+ L  PREC_49_61_6
+ L  PREC_49_61_7
+ L  PREC_49_61_8
+ L  PREC_49_61_9
+ L  PREC_51_36_0
+ L  PREC_51_36_1
+ L  PREC_51_36_2
+ L  PREC_51_36_3
+ L  PREC_51_36_4
+ L  PREC_51_36_5
+ L  PREC_51_36_6
+ L  PREC_51_36_7
+ L  PREC_51_36_8
+ L  PREC_51_36_9
+ L  PREC_51_47_0
+ L  PREC_51_47_1
+ L  PREC_51_47_2
+ L  PREC_51_47_3
+ L  PREC_51_47_4
+ L  PREC_51_47_5
+ L  PREC_51_47_6
+ L  PREC_51_47_7
+ L  PREC_51_47_8
+ L  PREC_51_47_9
+ L  PREC_51_52_0
+ L  PREC_51_52_1
+ L  PREC_51_52_2
+ L  PREC_51_52_3
+ L  PREC_51_52_4
+ L  PREC_51_52_5
+ L  PREC_51_52_6
+ L  PREC_51_52_7
+ L  PREC_51_52_8
+ L  PREC_51_52_9
+ L  PREC_51_56_0
+ L  PREC_51_56_1
+ L  PREC_51_56_2
+ L  PREC_51_56_3
+ L  PREC_51_56_4
+ L  PREC_51_56_5
+ L  PREC_51_56_6
+ L  PREC_51_56_7
+ L  PREC_51_56_8
+ L  PREC_51_56_9
+ L  PREC_51_8_0 
+ L  PREC_51_8_1 
+ L  PREC_51_8_2 
+ L  PREC_51_8_3 
+ L  PREC_51_8_4 
+ L  PREC_51_8_5 
+ L  PREC_51_8_6 
+ L  PREC_51_8_7 
+ L  PREC_51_8_8 
+ L  PREC_51_8_9 
+ L  PREC_52_37_0
+ L  PREC_52_37_1
+ L  PREC_52_37_2
+ L  PREC_52_37_3
+ L  PREC_52_37_4
+ L  PREC_52_37_5
+ L  PREC_52_37_6
+ L  PREC_52_37_7
+ L  PREC_52_37_8
+ L  PREC_52_37_9
+ L  PREC_52_48_0
+ L  PREC_52_48_1
+ L  PREC_52_48_2
+ L  PREC_52_48_3
+ L  PREC_52_48_4
+ L  PREC_52_48_5
+ L  PREC_52_48_6
+ L  PREC_52_48_7
+ L  PREC_52_48_8
+ L  PREC_52_48_9
+ L  PREC_52_53_0
+ L  PREC_52_53_1
+ L  PREC_52_53_2
+ L  PREC_52_53_3
+ L  PREC_52_53_4
+ L  PREC_52_53_5
+ L  PREC_52_53_6
+ L  PREC_52_53_7
+ L  PREC_52_53_8
+ L  PREC_52_53_9
+ L  PREC_52_57_0
+ L  PREC_52_57_1
+ L  PREC_52_57_2
+ L  PREC_52_57_3
+ L  PREC_52_57_4
+ L  PREC_52_57_5
+ L  PREC_52_57_6
+ L  PREC_52_57_7
+ L  PREC_52_57_8
+ L  PREC_52_57_9
+ L  PREC_52_9_0 
+ L  PREC_52_9_1 
+ L  PREC_52_9_2 
+ L  PREC_52_9_3 
+ L  PREC_52_9_4 
+ L  PREC_52_9_5 
+ L  PREC_52_9_6 
+ L  PREC_52_9_7 
+ L  PREC_52_9_8 
+ L  PREC_52_9_9 
+ L  PREC_52_21_0
+ L  PREC_52_21_1
+ L  PREC_52_21_2
+ L  PREC_52_21_3
+ L  PREC_52_21_4
+ L  PREC_52_21_5
+ L  PREC_52_21_6
+ L  PREC_52_21_7
+ L  PREC_52_21_8
+ L  PREC_52_21_9
+ L  PREC_53_38_0
+ L  PREC_53_38_1
+ L  PREC_53_38_2
+ L  PREC_53_38_3
+ L  PREC_53_38_4
+ L  PREC_53_38_5
+ L  PREC_53_38_6
+ L  PREC_53_38_7
+ L  PREC_53_38_8
+ L  PREC_53_38_9
+ L  PREC_53_49_0
+ L  PREC_53_49_1
+ L  PREC_53_49_2
+ L  PREC_53_49_3
+ L  PREC_53_49_4
+ L  PREC_53_49_5
+ L  PREC_53_49_6
+ L  PREC_53_49_7
+ L  PREC_53_49_8
+ L  PREC_53_49_9
+ L  PREC_53_54_0
+ L  PREC_53_54_1
+ L  PREC_53_54_2
+ L  PREC_53_54_3
+ L  PREC_53_54_4
+ L  PREC_53_54_5
+ L  PREC_53_54_6
+ L  PREC_53_54_7
+ L  PREC_53_54_8
+ L  PREC_53_54_9
+ L  PREC_53_58_0
+ L  PREC_53_58_1
+ L  PREC_53_58_2
+ L  PREC_53_58_3
+ L  PREC_53_58_4
+ L  PREC_53_58_5
+ L  PREC_53_58_6
+ L  PREC_53_58_7
+ L  PREC_53_58_8
+ L  PREC_53_58_9
+ L  PREC_53_62_0
+ L  PREC_53_62_1
+ L  PREC_53_62_2
+ L  PREC_53_62_3
+ L  PREC_53_62_4
+ L  PREC_53_62_5
+ L  PREC_53_62_6
+ L  PREC_53_62_7
+ L  PREC_53_62_8
+ L  PREC_53_62_9
+ L  PREC_54_39_0
+ L  PREC_54_39_1
+ L  PREC_54_39_2
+ L  PREC_54_39_3
+ L  PREC_54_39_4
+ L  PREC_54_39_5
+ L  PREC_54_39_6
+ L  PREC_54_39_7
+ L  PREC_54_39_8
+ L  PREC_54_39_9
+ L  PREC_54_50_0
+ L  PREC_54_50_1
+ L  PREC_54_50_2
+ L  PREC_54_50_3
+ L  PREC_54_50_4
+ L  PREC_54_50_5
+ L  PREC_54_50_6
+ L  PREC_54_50_7
+ L  PREC_54_50_8
+ L  PREC_54_50_9
+ L  PREC_54_55_0
+ L  PREC_54_55_1
+ L  PREC_54_55_2
+ L  PREC_54_55_3
+ L  PREC_54_55_4
+ L  PREC_54_55_5
+ L  PREC_54_55_6
+ L  PREC_54_55_7
+ L  PREC_54_55_8
+ L  PREC_54_55_9
+ L  PREC_54_59_0
+ L  PREC_54_59_1
+ L  PREC_54_59_2
+ L  PREC_54_59_3
+ L  PREC_54_59_4
+ L  PREC_54_59_5
+ L  PREC_54_59_6
+ L  PREC_54_59_7
+ L  PREC_54_59_8
+ L  PREC_54_59_9
+ L  PREC_54_63_0
+ L  PREC_54_63_1
+ L  PREC_54_63_2
+ L  PREC_54_63_3
+ L  PREC_54_63_4
+ L  PREC_54_63_5
+ L  PREC_54_63_6
+ L  PREC_54_63_7
+ L  PREC_54_63_8
+ L  PREC_54_63_9
+ L  PREC_56_41_0
+ L  PREC_56_41_1
+ L  PREC_56_41_2
+ L  PREC_56_41_3
+ L  PREC_56_41_4
+ L  PREC_56_41_5
+ L  PREC_56_41_6
+ L  PREC_56_41_7
+ L  PREC_56_41_8
+ L  PREC_56_41_9
+ L  PREC_56_53_0
+ L  PREC_56_53_1
+ L  PREC_56_53_2
+ L  PREC_56_53_3
+ L  PREC_56_53_4
+ L  PREC_56_53_5
+ L  PREC_56_53_6
+ L  PREC_56_53_7
+ L  PREC_56_53_8
+ L  PREC_56_53_9
+ L  PREC_56_57_0
+ L  PREC_56_57_1
+ L  PREC_56_57_2
+ L  PREC_56_57_3
+ L  PREC_56_57_4
+ L  PREC_56_57_5
+ L  PREC_56_57_6
+ L  PREC_56_57_7
+ L  PREC_56_57_8
+ L  PREC_56_57_9
+ L  PREC_56_13_0
+ L  PREC_56_13_1
+ L  PREC_56_13_2
+ L  PREC_56_13_3
+ L  PREC_56_13_4
+ L  PREC_56_13_5
+ L  PREC_56_13_6
+ L  PREC_56_13_7
+ L  PREC_56_13_8
+ L  PREC_56_13_9
+ L  PREC_56_22_0
+ L  PREC_56_22_1
+ L  PREC_56_22_2
+ L  PREC_56_22_3
+ L  PREC_56_22_4
+ L  PREC_56_22_5
+ L  PREC_56_22_6
+ L  PREC_56_22_7
+ L  PREC_56_22_8
+ L  PREC_56_22_9
+ L  PREC_57_42_0
+ L  PREC_57_42_1
+ L  PREC_57_42_2
+ L  PREC_57_42_3
+ L  PREC_57_42_4
+ L  PREC_57_42_5
+ L  PREC_57_42_6
+ L  PREC_57_42_7
+ L  PREC_57_42_8
+ L  PREC_57_42_9
+ L  PREC_57_54_0
+ L  PREC_57_54_1
+ L  PREC_57_54_2
+ L  PREC_57_54_3
+ L  PREC_57_54_4
+ L  PREC_57_54_5
+ L  PREC_57_54_6
+ L  PREC_57_54_7
+ L  PREC_57_54_8
+ L  PREC_57_54_9
+ L  PREC_57_58_0
+ L  PREC_57_58_1
+ L  PREC_57_58_2
+ L  PREC_57_58_3
+ L  PREC_57_58_4
+ L  PREC_57_58_5
+ L  PREC_57_58_6
+ L  PREC_57_58_7
+ L  PREC_57_58_8
+ L  PREC_57_58_9
+ L  PREC_57_64_0
+ L  PREC_57_64_1
+ L  PREC_57_64_2
+ L  PREC_57_64_3
+ L  PREC_57_64_4
+ L  PREC_57_64_5
+ L  PREC_57_64_6
+ L  PREC_57_64_7
+ L  PREC_57_64_8
+ L  PREC_57_64_9
+ L  PREC_58_43_0
+ L  PREC_58_43_1
+ L  PREC_58_43_2
+ L  PREC_58_43_3
+ L  PREC_58_43_4
+ L  PREC_58_43_5
+ L  PREC_58_43_6
+ L  PREC_58_43_7
+ L  PREC_58_43_8
+ L  PREC_58_43_9
+ L  PREC_58_55_0
+ L  PREC_58_55_1
+ L  PREC_58_55_2
+ L  PREC_58_55_3
+ L  PREC_58_55_4
+ L  PREC_58_55_5
+ L  PREC_58_55_6
+ L  PREC_58_55_7
+ L  PREC_58_55_8
+ L  PREC_58_55_9
+ L  PREC_58_59_0
+ L  PREC_58_59_1
+ L  PREC_58_59_2
+ L  PREC_58_59_3
+ L  PREC_58_59_4
+ L  PREC_58_59_5
+ L  PREC_58_59_6
+ L  PREC_58_59_7
+ L  PREC_58_59_8
+ L  PREC_58_59_9
+ L  PREC_58_60_0
+ L  PREC_58_60_1
+ L  PREC_58_60_2
+ L  PREC_58_60_3
+ L  PREC_58_60_4
+ L  PREC_58_60_5
+ L  PREC_58_60_6
+ L  PREC_58_60_7
+ L  PREC_58_60_8
+ L  PREC_58_60_9
+ L  PREC_58_65_0
+ L  PREC_58_65_1
+ L  PREC_58_65_2
+ L  PREC_58_65_3
+ L  PREC_58_65_4
+ L  PREC_58_65_5
+ L  PREC_58_65_6
+ L  PREC_58_65_7
+ L  PREC_58_65_8
+ L  PREC_58_65_9
+ L  PREC_62_55_0
+ L  PREC_62_55_1
+ L  PREC_62_55_2
+ L  PREC_62_55_3
+ L  PREC_62_55_4
+ L  PREC_62_55_5
+ L  PREC_62_55_6
+ L  PREC_62_55_7
+ L  PREC_62_55_8
+ L  PREC_62_55_9
+ L  PREC_62_61_0
+ L  PREC_62_61_1
+ L  PREC_62_61_2
+ L  PREC_62_61_3
+ L  PREC_62_61_4
+ L  PREC_62_61_5
+ L  PREC_62_61_6
+ L  PREC_62_61_7
+ L  PREC_62_61_8
+ L  PREC_62_61_9
+ L  PREC_62_63_0
+ L  PREC_62_63_1
+ L  PREC_62_63_2
+ L  PREC_62_63_3
+ L  PREC_62_63_4
+ L  PREC_62_63_5
+ L  PREC_62_63_6
+ L  PREC_62_63_7
+ L  PREC_62_63_8
+ L  PREC_62_63_9
+ L  PREC_62_65_0
+ L  PREC_62_65_1
+ L  PREC_62_65_2
+ L  PREC_62_65_3
+ L  PREC_62_65_4
+ L  PREC_62_65_5
+ L  PREC_62_65_6
+ L  PREC_62_65_7
+ L  PREC_62_65_8
+ L  PREC_62_65_9
+ L  PREC_64_59_0
+ L  PREC_64_59_1
+ L  PREC_64_59_2
+ L  PREC_64_59_3
+ L  PREC_64_59_4
+ L  PREC_64_59_5
+ L  PREC_64_59_6
+ L  PREC_64_59_7
+ L  PREC_64_59_8
+ L  PREC_64_59_9
+ L  PREC_64_63_0
+ L  PREC_64_63_1
+ L  PREC_64_63_2
+ L  PREC_64_63_3
+ L  PREC_64_63_4
+ L  PREC_64_63_5
+ L  PREC_64_63_6
+ L  PREC_64_63_7
+ L  PREC_64_63_8
+ L  PREC_64_63_9
+ L  PREC_64_65_0
+ L  PREC_64_65_1
+ L  PREC_64_65_2
+ L  PREC_64_65_3
+ L  PREC_64_65_4
+ L  PREC_64_65_5
+ L  PREC_64_65_6
+ L  PREC_64_65_7
+ L  PREC_64_65_8
+ L  PREC_64_65_9
+ L  PREC_64_66_0
+ L  PREC_64_66_1
+ L  PREC_64_66_2
+ L  PREC_64_66_3
+ L  PREC_64_66_4
+ L  PREC_64_66_5
+ L  PREC_64_66_6
+ L  PREC_64_66_7
+ L  PREC_64_66_8
+ L  PREC_64_66_9
+ L  CAP_0_0     
+ L  CAP_0_1     
+ L  CAP_0_2     
+ L  CAP_0_3     
+ L  CAP_0_4     
+ L  CAP_0_5     
+ L  CAP_0_6     
+ L  CAP_0_7     
+ L  CAP_0_8     
+ L  CAP_0_9     
+ L  CAP_1_0     
+ L  CAP_1_1     
+ L  CAP_1_2     
+ L  CAP_1_3     
+ L  CAP_1_4     
+ L  CAP_1_5     
+ L  CAP_1_6     
+ L  CAP_1_7     
+ L  CAP_1_8     
+ L  CAP_1_9     
+COLUMNS
+    MARK0000  'MARKER'                 'INTORG'
+    X_0_0         obj                 -3370.55041288187
+    X_0_0         ORD_0_0                             1
+    X_0_0         PREC_30_0_0                        -1
+    X_0_0         CAP_0_0                           301
+    X_0_0         CAP_0_1                          -301
+    X_0_0         CAP_1_0                           102
+    X_0_0         CAP_1_1                          -102
+    X_1_0         obj                 -21338.7364268781
+    X_1_0         ORD_1_0                             1
+    X_1_0         PREC_2_1_0                         -1
+    X_1_0         PREC_8_1_0                         -1
+    X_1_0         PREC_36_1_0                        -1
+    X_1_0         CAP_0_0                          1061
+    X_1_0         CAP_0_1                         -1061
+    X_1_0         CAP_1_0                           713
+    X_1_0         CAP_1_1                          -713
+    X_2_0         obj                 -37181.1316528936
+    X_2_0         ORD_2_0                             1
+    X_2_0         PREC_2_1_0                          1
+    X_2_0         PREC_2_3_0                          1
+    X_2_0         PREC_2_4_0                          1
+    X_2_0         PREC_2_13_0                         1
+    X_2_0         PREC_11_2_0                        -1
+    X_2_0         CAP_0_0                           648
+    X_2_0         CAP_0_1                          -648
+    X_2_0         CAP_1_0                           648
+    X_2_0         CAP_1_1                          -648
+    X_3_0         obj                 -54593.9100791555
+    X_3_0         ORD_3_0                             1
+    X_3_0         PREC_2_3_0                         -1
+    X_3_0         PREC_12_3_0                        -1
+    X_3_0         PREC_40_3_0                        -1
+    X_3_0         CAP_0_0                          1367
+    X_3_0         CAP_0_1                         -1367
+    X_3_0         CAP_1_0                          1118
+    X_3_0         CAP_1_1                         -1118
+    X_4_0         obj                 -11574.6479406399
+    X_4_0         ORD_4_0                             1
+    X_4_0         PREC_2_4_0                         -1
+    X_4_0         PREC_16_4_0                        -1
+    X_4_0         PREC_24_4_0                        -1
+    X_4_0         CAP_0_0                           849
+    X_4_0         CAP_0_1                          -849
+    X_4_0         CAP_1_0                           648
+    X_4_0         CAP_1_1                          -648
+    X_5_0         obj                 -4330.10073597362
+    X_5_0         ORD_5_0                             1
+    X_5_0         PREC_19_5_0                        -1
+    X_5_0         PREC_30_5_0                        -1
+    X_5_0         CAP_0_0                           321
+    X_5_0         CAP_0_1                          -321
+    X_5_0         CAP_1_0                           253
+    X_5_0         CAP_1_1                          -253
+    X_6_0         obj                  165.121174731794
+    X_6_0         ORD_6_0                             1
+    X_6_0         PREC_8_6_0                         -1
+    X_6_0         PREC_47_6_0                        -1
+    X_6_0         CAP_0_0                            48
+    X_6_0         CAP_0_1                           -48
+    X_7_0         obj                 -44455.7008893292
+    X_7_0         ORD_7_0                             1
+    X_7_0         PREC_7_8_0                          1
+    X_7_0         PREC_7_12_0                         1
+    X_7_0         PREC_7_26_0                         1
+    X_7_0         PREC_10_7_0                        -1
+    X_7_0         PREC_24_7_0                        -1
+    X_7_0         CAP_0_0                           724
+    X_7_0         CAP_0_1                          -724
+    X_7_0         CAP_1_0                           724
+    X_7_0         CAP_1_1                          -724
+    X_8_0         obj                 -38543.6700178132
+    X_8_0         ORD_8_0                             1
+    X_8_0         PREC_7_8_0                         -1
+    X_8_0         PREC_8_1_0                          1
+    X_8_0         PREC_8_6_0                          1
+    X_8_0         PREC_8_9_0                          1
+    X_8_0         PREC_8_13_0                         1
+    X_8_0         PREC_8_27_0                         1
+    X_8_0         PREC_11_8_0                        -1
+    X_8_0         PREC_25_8_0                        -1
+    X_8_0         PREC_51_8_0                        -1
+    X_8_0         CAP_0_0                          1989
+    X_8_0         CAP_0_1                         -1989
+    X_8_0         CAP_1_0                          1989
+    X_8_0         CAP_1_1                         -1989
+    X_9_0         obj                 -14296.2605898905
+    X_9_0         ORD_9_0                             1
+    X_9_0         PREC_8_9_0                         -1
+    X_9_0         PREC_12_9_0                        -1
+    X_9_0         PREC_26_9_0                        -1
+    X_9_0         PREC_52_9_0                        -1
+    X_9_0         CAP_0_0                          1225
+    X_9_0         CAP_0_1                         -1225
+    X_9_0         CAP_1_0                           584
+    X_9_0         CAP_1_1                          -584
+    X_10_0        obj                 -135214.612315336
+    X_10_0        ORD_10_0                            1
+    X_10_0        PREC_10_7_0                         1
+    X_10_0        PREC_10_11_0                        1
+    X_10_0        PREC_10_15_0                        1
+    X_10_0        PREC_10_31_0                        1
+    X_10_0        PREC_10_59_0                        1
+    X_10_0        PREC_29_10_0                       -1
+    X_10_0        CAP_0_0                          1432
+    X_10_0        CAP_0_1                         -1432
+    X_10_0        CAP_1_0                          1432
+    X_10_0        CAP_1_1                         -1432
+    X_11_0        obj                 -390979.229120179
+    X_11_0        ORD_11_0                            1
+    X_11_0        PREC_10_11_0                       -1
+    X_11_0        PREC_11_2_0                         1
+    X_11_0        PREC_11_8_0                         1
+    X_11_0        PREC_11_12_0                        1
+    X_11_0        PREC_11_16_0                        1
+    X_11_0        PREC_11_32_0                        1
+    X_11_0        PREC_14_11_0                       -1
+    X_11_0        PREC_30_11_0                       -1
+    X_11_0        CAP_0_0                          5001
+    X_11_0        CAP_0_1                         -5001
+    X_11_0        CAP_1_0                          5001
+    X_11_0        CAP_1_1                         -5001
+    X_12_0        obj                 -167719.235173378
+    X_12_0        ORD_12_0                            1
+    X_12_0        PREC_7_12_0                        -1
+    X_12_0        PREC_11_12_0                       -1
+    X_12_0        PREC_12_3_0                         1
+    X_12_0        PREC_12_9_0                         1
+    X_12_0        PREC_12_13_0                        1
+    X_12_0        PREC_12_17_0                        1
+    X_12_0        PREC_12_33_0                        1
+    X_12_0        PREC_15_12_0                       -1
+    X_12_0        PREC_31_12_0                       -1
+    X_12_0        CAP_0_0                          5835
+    X_12_0        CAP_0_1                         -5835
+    X_12_0        CAP_1_0                          5835
+    X_12_0        CAP_1_1                         -5835
+    X_13_0        obj                 -36638.4256939849
+    X_13_0        ORD_13_0                            1
+    X_13_0        PREC_2_13_0                        -1
+    X_13_0        PREC_8_13_0                        -1
+    X_13_0        PREC_12_13_0                       -1
+    X_13_0        PREC_16_13_0                       -1
+    X_13_0        PREC_32_13_0                       -1
+    X_13_0        PREC_56_13_0                       -1
+    X_13_0        CAP_0_0                          2318
+    X_13_0        CAP_0_1                         -2318
+    X_13_0        CAP_1_0                          1488
+    X_13_0        CAP_1_1                         -1488
+    X_14_0        obj                 -119395.310959913
+    X_14_0        ORD_14_0                            1
+    X_14_0        PREC_14_11_0                        1
+    X_14_0        PREC_14_15_0                        1
+    X_14_0        PREC_14_18_0                        1
+    X_14_0        PREC_14_37_0                        1
+    X_14_0        PREC_14_46_0                        1
+    X_14_0        PREC_14_60_0                        1
+    X_14_0        PREC_35_14_0                       -1
+    X_14_0        CAP_0_0                          1432
+    X_14_0        CAP_0_1                         -1432
+    X_14_0        CAP_1_0                          1432
+    X_14_0        CAP_1_1                         -1432
+    X_15_0        obj                 -246527.068568099
+    X_15_0        ORD_15_0                            1
+    X_15_0        PREC_10_15_0                       -1
+    X_15_0        PREC_14_15_0                       -1
+    X_15_0        PREC_15_12_0                        1
+    X_15_0        PREC_15_16_0                        1
+    X_15_0        PREC_15_19_0                        1
+    X_15_0        PREC_15_38_0                        1
+    X_15_0        PREC_36_15_0                       -1
+    X_15_0        CAP_0_0                          4296
+    X_15_0        CAP_0_1                         -4296
+    X_15_0        CAP_1_0                          4296
+    X_15_0        CAP_1_1                         -4296
+    X_16_0        obj                 -258401.936826433
+    X_16_0        ORD_16_0                            1
+    X_16_0        PREC_11_16_0                       -1
+    X_16_0        PREC_15_16_0                       -1
+    X_16_0        PREC_16_4_0                         1
+    X_16_0        PREC_16_13_0                        1
+    X_16_0        PREC_16_17_0                        1
+    X_16_0        PREC_16_20_0                        1
+    X_16_0        PREC_16_39_0                        1
+    X_16_0        PREC_18_16_0                       -1
+    X_16_0        PREC_37_16_0                       -1
+    X_16_0        CAP_0_0                          5965
+    X_16_0        CAP_0_1                         -5965
+    X_16_0        CAP_1_0                          5528
+    X_16_0        CAP_1_1                         -5528
+    X_17_0        obj                 -91902.0580203042
+    X_17_0        ORD_17_0                            1
+    X_17_0        PREC_12_17_0                       -1
+    X_17_0        PREC_16_17_0                       -1
+    X_17_0        PREC_19_17_0                       -1
+    X_17_0        PREC_38_17_0                       -1
+    X_17_0        CAP_0_0                          2733
+    X_17_0        CAP_0_1                         -2733
+    X_17_0        CAP_1_0                          1776
+    X_17_0        CAP_1_1                         -1776
+    X_18_0        obj                 -42261.7831831026
+    X_18_0        ORD_18_0                            1
+    X_18_0        PREC_14_18_0                       -1
+    X_18_0        PREC_18_16_0                        1
+    X_18_0        PREC_18_19_0                        1
+    X_18_0        PREC_18_42_0                        1
+    X_18_0        PREC_40_18_0                       -1
+    X_18_0        CAP_0_0                           716
+    X_18_0        CAP_0_1                          -716
+    X_18_0        CAP_1_0                           716
+    X_18_0        CAP_1_1                          -716
+    X_19_0        obj                 -75286.0181294614
+    X_19_0        ORD_19_0                            1
+    X_19_0        PREC_15_19_0                       -1
+    X_19_0        PREC_18_19_0                       -1
+    X_19_0        PREC_19_5_0                         1
+    X_19_0        PREC_19_17_0                        1
+    X_19_0        PREC_19_20_0                        1
+    X_19_0        PREC_19_21_0                        1
+    X_19_0        PREC_19_43_0                        1
+    X_19_0        PREC_41_19_0                       -1
+    X_19_0        CAP_0_0                          1965
+    X_19_0        CAP_0_1                         -1965
+    X_19_0        CAP_1_0                          1964
+    X_19_0        CAP_1_1                         -1964
+    X_20_0        obj                 -56653.8833359494
+    X_20_0        ORD_20_0                            1
+    X_20_0        PREC_16_20_0                       -1
+    X_20_0        PREC_19_20_0                       -1
+    X_20_0        PREC_42_20_0                       -1
+    X_20_0        PREC_47_20_0                       -1
+    X_20_0        CAP_0_0                          2496
+    X_20_0        CAP_0_1                         -2496
+    X_20_0        CAP_1_0                          1791
+    X_20_0        CAP_1_1                         -1791
+    X_21_0        obj                 -2817.45221220684
+    X_21_0        ORD_21_0                            1
+    X_21_0        PREC_19_21_0                       -1
+    X_21_0        PREC_52_21_0                       -1
+    X_21_0        CAP_0_0                           244
+    X_21_0        CAP_0_1                          -244
+    X_21_0        CAP_1_0                           215
+    X_21_0        CAP_1_1                          -215
+    X_22_0        obj                 -6454.73683042469
+    X_22_0        ORD_22_0                            1
+    X_22_0        PREC_56_22_0                       -1
+    X_22_0        CAP_0_0                           339
+    X_22_0        CAP_0_1                          -339
+    X_22_0        CAP_1_0                           283
+    X_22_0        CAP_1_1                          -283
+    X_23_0        obj                   282.32256798548
+    X_23_0        ORD_23_0                            1
+    X_23_0        PREC_26_23_0                       -1
+    X_23_0        CAP_0_0                            85
+    X_23_0        CAP_0_1                           -85
+    X_24_0        obj                 -60852.3490095494
+    X_24_0        ORD_24_0                            1
+    X_24_0        PREC_24_7_0                         1
+    X_24_0        PREC_24_25_0                        1
+    X_24_0        PREC_24_31_0                        1
+    X_24_0        PREC_24_4_0                         1
+    X_24_0        PREC_24_63_0                        1
+    X_24_0        PREC_29_24_0                       -1
+    X_24_0        CAP_0_0                           724
+    X_24_0        CAP_0_1                          -724
+    X_24_0        CAP_1_0                           724
+    X_24_0        CAP_1_1                          -724
+    X_25_0        obj                 -222393.973799605
+    X_25_0        ORD_25_0                            1
+    X_25_0        PREC_24_25_0                       -1
+    X_25_0        PREC_25_8_0                         1
+    X_25_0        PREC_25_26_0                        1
+    X_25_0        PREC_25_32_0                        1
+    X_25_0        PREC_25_45_0                        1
+    X_25_0        PREC_30_25_0                       -1
+    X_25_0        CAP_0_0                          3620
+    X_25_0        CAP_0_1                         -3620
+    X_25_0        CAP_1_0                          3620
+    X_25_0        CAP_1_1                         -3620
+    X_26_0        obj                 -177938.272910276
+    X_26_0        ORD_26_0                            1
+    X_26_0        PREC_7_26_0                        -1
+    X_26_0        PREC_25_26_0                       -1
+    X_26_0        PREC_26_9_0                         1
+    X_26_0        PREC_26_23_0                        1
+    X_26_0        PREC_26_27_0                        1
+    X_26_0        PREC_26_33_0                        1
+    X_26_0        PREC_26_46_0                        1
+    X_26_0        PREC_31_26_0                       -1
+    X_26_0        CAP_0_0                          5384
+    X_26_0        CAP_0_1                         -5384
+    X_26_0        CAP_1_0                          5360
+    X_26_0        CAP_1_1                         -5360
+    X_27_0        obj                 -10162.4577539477
+    X_27_0        ORD_27_0                            1
+    X_27_0        PREC_8_27_0                        -1
+    X_27_0        PREC_26_27_0                       -1
+    X_27_0        PREC_32_27_0                       -1
+    X_27_0        PREC_45_27_0                       -1
+    X_27_0        CAP_0_0                          1376
+    X_27_0        CAP_0_1                         -1376
+    X_27_0        CAP_1_0                           438
+    X_27_0        CAP_1_1                          -438
+    X_28_0        obj                 -74362.2633057871
+    X_28_0        ORD_28_0                            1
+    X_28_0        PREC_28_29_0                        1
+    X_28_0        PREC_28_35_0                        1
+    X_28_0        CAP_0_0                           716
+    X_28_0        CAP_0_1                          -716
+    X_28_0        CAP_1_0                           716
+    X_28_0        CAP_1_1                          -716
+    X_29_0        obj                 -329665.002698792
+    X_29_0        ORD_29_0                            1
+    X_29_0        PREC_28_29_0                       -1
+    X_29_0        PREC_29_10_0                        1
+    X_29_0        PREC_29_24_0                        1
+    X_29_0        PREC_29_30_0                        1
+    X_29_0        PREC_29_36_0                        1
+    X_29_0        PREC_29_47_0                        1
+    X_29_0        PREC_29_64_0                        1
+    X_29_0        PREC_34_29_0                       -1
+    X_29_0        CAP_0_0                          3580
+    X_29_0        CAP_0_1                         -3580
+    X_29_0        CAP_1_0                          3580
+    X_29_0        CAP_1_1                         -3580
+    X_30_0        obj                 -529773.391377253
+    X_30_0        ORD_30_0                            1
+    X_30_0        PREC_29_30_0                       -1
+    X_30_0        PREC_30_11_0                        1
+    X_30_0        PREC_30_25_0                        1
+    X_30_0        PREC_30_31_0                        1
+    X_30_0        PREC_30_37_0                        1
+    X_30_0        PREC_30_48_0                        1
+    X_30_0        PREC_30_0_0                         1
+    X_30_0        PREC_30_5_0                         1
+    X_30_0        PREC_30_65_0                        1
+    X_30_0        PREC_35_30_0                       -1
+    X_30_0        CAP_0_0                          6483
+    X_30_0        CAP_0_1                         -6483
+    X_30_0        CAP_1_0                          6483
+    X_30_0        CAP_1_1                         -6483
+    X_31_0        obj                 -425735.504360927
+    X_31_0        ORD_31_0                            1
+    X_31_0        PREC_10_31_0                       -1
+    X_31_0        PREC_24_31_0                       -1
+    X_31_0        PREC_30_31_0                       -1
+    X_31_0        PREC_31_12_0                        1
+    X_31_0        PREC_31_26_0                        1
+    X_31_0        PREC_31_32_0                        1
+    X_31_0        PREC_31_38_0                        1
+    X_31_0        PREC_31_49_0                        1
+    X_31_0        PREC_36_31_0                       -1
+    X_31_0        PREC_47_31_0                       -1
+    X_31_0        CAP_0_0                          6507
+    X_31_0        CAP_0_1                         -6507
+    X_31_0        CAP_1_0                          6507
+    X_31_0        CAP_1_1                         -6507
+    X_32_0        obj                 -171587.458497515
+    X_32_0        ORD_32_0                            1
+    X_32_0        PREC_11_32_0                       -1
+    X_32_0        PREC_25_32_0                       -1
+    X_32_0        PREC_31_32_0                       -1
+    X_32_0        PREC_32_13_0                        1
+    X_32_0        PREC_32_27_0                        1
+    X_32_0        PREC_32_33_0                        1
+    X_32_0        PREC_32_39_0                        1
+    X_32_0        PREC_32_50_0                        1
+    X_32_0        PREC_37_32_0                       -1
+    X_32_0        PREC_48_32_0                       -1
+    X_32_0        CAP_0_0                          6049
+    X_32_0        CAP_0_1                         -6049
+    X_32_0        CAP_1_0                          6025
+    X_32_0        CAP_1_1                         -6025
+    X_33_0        obj                 -19585.9116489559
+    X_33_0        ORD_33_0                            1
+    X_33_0        PREC_12_33_0                       -1
+    X_33_0        PREC_26_33_0                       -1
+    X_33_0        PREC_32_33_0                       -1
+    X_33_0        PREC_38_33_0                       -1
+    X_33_0        PREC_49_33_0                       -1
+    X_33_0        CAP_0_0                          2548
+    X_33_0        CAP_0_1                         -2548
+    X_33_0        CAP_1_0                           984
+    X_33_0        CAP_1_1                          -984
+    X_34_0        obj                  -149417.34272933
+    X_34_0        ORD_34_0                            1
+    X_34_0        PREC_34_29_0                        1
+    X_34_0        PREC_34_35_0                        1
+    X_34_0        PREC_34_51_0                        1
+    X_34_0        CAP_0_0                          1432
+    X_34_0        CAP_0_1                         -1432
+    X_34_0        CAP_1_0                          1432
+    X_34_0        CAP_1_1                         -1432
+    X_35_0        obj                 -510259.070727132
+    X_35_0        ORD_35_0                            1
+    X_35_0        PREC_28_35_0                       -1
+    X_35_0        PREC_34_35_0                       -1
+    X_35_0        PREC_35_14_0                        1
+    X_35_0        PREC_35_30_0                        1
+    X_35_0        PREC_35_36_0                        1
+    X_35_0        PREC_35_40_0                        1
+    X_35_0        PREC_35_52_0                        1
+    X_35_0        CAP_0_0                          5728
+    X_35_0        CAP_0_1                         -5728
+    X_35_0        CAP_1_0                          5728
+    X_35_0        CAP_1_1                         -5728
+    X_36_0        obj                 -550442.405556967
+    X_36_0        ORD_36_0                            1
+    X_36_0        PREC_29_36_0                       -1
+    X_36_0        PREC_35_36_0                       -1
+    X_36_0        PREC_36_15_0                        1
+    X_36_0        PREC_36_31_0                        1
+    X_36_0        PREC_36_37_0                        1
+    X_36_0        PREC_36_41_0                        1
+    X_36_0        PREC_36_53_0                        1
+    X_36_0        PREC_36_1_0                         1
+    X_36_0        PREC_36_66_0                        1
+    X_36_0        PREC_51_36_0                       -1
+    X_36_0        CAP_0_0                          6444
+    X_36_0        CAP_0_1                         -6444
+    X_36_0        CAP_1_0                          6444
+    X_36_0        CAP_1_1                         -6444
+    X_37_0        obj                 -487396.138841192
+    X_37_0        ORD_37_0                            1
+    X_37_0        PREC_14_37_0                       -1
+    X_37_0        PREC_30_37_0                       -1
+    X_37_0        PREC_36_37_0                       -1
+    X_37_0        PREC_37_16_0                        1
+    X_37_0        PREC_37_32_0                        1
+    X_37_0        PREC_37_38_0                        1
+    X_37_0        PREC_37_42_0                        1
+    X_37_0        PREC_37_54_0                        1
+    X_37_0        PREC_40_37_0                       -1
+    X_37_0        PREC_52_37_0                       -1
+    X_37_0        CAP_0_0                          6447
+    X_37_0        CAP_0_1                         -6447
+    X_37_0        CAP_1_0                          6447
+    X_37_0        CAP_1_1                         -6447
+    X_38_0        obj                 -318960.993679465
+    X_38_0        ORD_38_0                            1
+    X_38_0        PREC_15_38_0                       -1
+    X_38_0        PREC_31_38_0                       -1
+    X_38_0        PREC_37_38_0                       -1
+    X_38_0        PREC_38_17_0                        1
+    X_38_0        PREC_38_33_0                        1
+    X_38_0        PREC_38_39_0                        1
+    X_38_0        PREC_38_43_0                        1
+    X_38_0        PREC_38_55_0                        1
+    X_38_0        PREC_41_38_0                       -1
+    X_38_0        PREC_53_38_0                       -1
+    X_38_0        CAP_0_0                          6040
+    X_38_0        CAP_0_1                         -6040
+    X_38_0        CAP_1_0                          5960
+    X_38_0        CAP_1_1                         -5960
+    X_39_0        obj                 -77991.4650692978
+    X_39_0        ORD_39_0                            1
+    X_39_0        PREC_16_39_0                       -1
+    X_39_0        PREC_32_39_0                       -1
+    X_39_0        PREC_38_39_0                       -1
+    X_39_0        PREC_42_39_0                       -1
+    X_39_0        PREC_54_39_0                       -1
+    X_39_0        CAP_0_0                          2814
+    X_39_0        CAP_0_1                         -2814
+    X_39_0        CAP_1_0                          1584
+    X_39_0        CAP_1_1                         -1584
+    X_40_0        obj                 -135214.612315336
+    X_40_0        ORD_40_0                            1
+    X_40_0        PREC_35_40_0                       -1
+    X_40_0        PREC_40_18_0                        1
+    X_40_0        PREC_40_37_0                        1
+    X_40_0        PREC_40_41_0                        1
+    X_40_0        PREC_40_57_0                        1
+    X_40_0        PREC_40_3_0                         1
+    X_40_0        PREC_40_61_0                        1
+    X_40_0        CAP_0_0                          1432
+    X_40_0        CAP_0_1                         -1432
+    X_40_0        CAP_1_0                          1432
+    X_40_0        CAP_1_1                         -1432
+    X_41_0        obj                 -280359.588985173
+    X_41_0        ORD_41_0                            1
+    X_41_0        PREC_36_41_0                       -1
+    X_41_0        PREC_40_41_0                       -1
+    X_41_0        PREC_41_19_0                        1
+    X_41_0        PREC_41_38_0                        1
+    X_41_0        PREC_41_42_0                        1
+    X_41_0        PREC_41_58_0                        1
+    X_41_0        PREC_56_41_0                       -1
+    X_41_0        CAP_0_0                          4296
+    X_41_0        CAP_0_1                         -4296
+    X_41_0        CAP_1_0                          4296
+    X_41_0        CAP_1_1                         -4296
+    X_42_0        obj                 -269851.877865876
+    X_42_0        ORD_42_0                            1
+    X_42_0        PREC_18_42_0                       -1
+    X_42_0        PREC_37_42_0                       -1
+    X_42_0        PREC_41_42_0                       -1
+    X_42_0        PREC_42_20_0                        1
+    X_42_0        PREC_42_39_0                        1
+    X_42_0        PREC_42_43_0                        1
+    X_42_0        PREC_42_44_0                        1
+    X_42_0        PREC_42_59_0                        1
+    X_42_0        PREC_57_42_0                       -1
+    X_42_0        CAP_0_0                          5997
+    X_42_0        CAP_0_1                         -5997
+    X_42_0        CAP_1_0                          5992
+    X_42_0        CAP_1_1                         -5992
+    X_43_0        obj                 -95285.3100620116
+    X_43_0        ORD_43_0                            1
+    X_43_0        PREC_19_43_0                       -1
+    X_43_0        PREC_38_43_0                       -1
+    X_43_0        PREC_42_43_0                       -1
+    X_43_0        PREC_58_43_0                       -1
+    X_43_0        CAP_0_0                          2525
+    X_43_0        CAP_0_1                         -2525
+    X_43_0        CAP_1_0                          1776
+    X_43_0        CAP_1_1                         -1776
+    X_44_0        obj                 -30137.5011223764
+    X_44_0        ORD_44_0                            1
+    X_44_0        PREC_42_44_0                       -1
+    X_44_0        CAP_0_0                          1078
+    X_44_0        CAP_0_1                         -1078
+    X_44_0        CAP_1_0                           874
+    X_44_0        CAP_1_1                          -874
+    X_45_0        obj                 -9214.45436615188
+    X_45_0        ORD_45_0                            1
+    X_45_0        PREC_25_45_0                       -1
+    X_45_0        PREC_45_27_0                        1
+    X_45_0        PREC_45_46_0                        1
+    X_45_0        PREC_45_50_0                        1
+    X_45_0        PREC_48_45_0                       -1
+    X_45_0        CAP_0_0                           673
+    X_45_0        CAP_0_1                          -673
+    X_45_0        CAP_1_0                           673
+    X_45_0        CAP_1_1                          -673
+    X_46_0        obj                   34.640805887789
+    X_46_0        ORD_46_0                            1
+    X_46_0        PREC_14_46_0                       -1
+    X_46_0        PREC_26_46_0                       -1
+    X_46_0        PREC_45_46_0                       -1
+    X_46_0        PREC_49_46_0                       -1
+    X_46_0        CAP_0_0                           745
+    X_46_0        CAP_0_1                          -745
+    X_46_0        CAP_1_0                            59
+    X_46_0        CAP_1_1                           -59
+    X_47_0        obj                 -42377.2525360619
+    X_47_0        ORD_47_0                            1
+    X_47_0        PREC_29_47_0                       -1
+    X_47_0        PREC_47_31_0                        1
+    X_47_0        PREC_47_48_0                        1
+    X_47_0        PREC_47_53_0                        1
+    X_47_0        PREC_47_6_0                         1
+    X_47_0        PREC_47_20_0                        1
+    X_47_0        PREC_51_47_0                       -1
+    X_47_0        CAP_0_0                           722
+    X_47_0        CAP_0_1                          -722
+    X_47_0        CAP_1_0                           722
+    X_47_0        CAP_1_1                          -722
+    X_48_0        obj                 -117201.393253686
+    X_48_0        ORD_48_0                            1
+    X_48_0        PREC_30_48_0                       -1
+    X_48_0        PREC_47_48_0                       -1
+    X_48_0        PREC_48_32_0                        1
+    X_48_0        PREC_48_45_0                        1
+    X_48_0        PREC_48_49_0                        1
+    X_48_0        PREC_48_54_0                        1
+    X_48_0        PREC_52_48_0                       -1
+    X_48_0        CAP_0_0                          2896
+    X_48_0        CAP_0_1                         -2896
+    X_48_0        CAP_1_0                          2896
+    X_48_0        CAP_1_1                         -2896
+    X_49_0        obj                  -70932.823522896
+    X_49_0        ORD_49_0                            1
+    X_49_0        PREC_31_49_0                       -1
+    X_49_0        PREC_48_49_0                       -1
+    X_49_0        PREC_49_33_0                        1
+    X_49_0        PREC_49_46_0                        1
+    X_49_0        PREC_49_50_0                        1
+    X_49_0        PREC_49_55_0                        1
+    X_49_0        PREC_49_61_0                        1
+    X_49_0        PREC_53_49_0                       -1
+    X_49_0        CAP_0_0                          4711
+    X_49_0        CAP_0_1                         -4711
+    X_49_0        CAP_1_0                          4687
+    X_49_0        CAP_1_1                         -4687
+    X_50_0        obj                 -13292.8319126742
+    X_50_0        ORD_50_0                            1
+    X_50_0        PREC_32_50_0                       -1
+    X_50_0        PREC_45_50_0                       -1
+    X_50_0        PREC_49_50_0                       -1
+    X_50_0        PREC_54_50_0                       -1
+    X_50_0        CAP_0_0                          1818
+    X_50_0        CAP_0_1                         -1818
+    X_50_0        CAP_1_0                           611
+    X_50_0        CAP_1_1                          -611
+    X_51_0        obj                 -132096.939785435
+    X_51_0        ORD_51_0                            1
+    X_51_0        PREC_34_51_0                       -1
+    X_51_0        PREC_51_36_0                        1
+    X_51_0        PREC_51_47_0                        1
+    X_51_0        PREC_51_52_0                        1
+    X_51_0        PREC_51_56_0                        1
+    X_51_0        PREC_51_8_0                         1
+    X_51_0        CAP_0_0                          1432
+    X_51_0        CAP_0_1                         -1432
+    X_51_0        CAP_1_0                          1432
+    X_51_0        CAP_1_1                         -1432
+    X_52_0        obj                 -326893.738227769
+    X_52_0        ORD_52_0                            1
+    X_52_0        PREC_35_52_0                       -1
+    X_52_0        PREC_51_52_0                       -1
+    X_52_0        PREC_52_37_0                        1
+    X_52_0        PREC_52_48_0                        1
+    X_52_0        PREC_52_53_0                        1
+    X_52_0        PREC_52_57_0                        1
+    X_52_0        PREC_52_9_0                         1
+    X_52_0        PREC_52_21_0                        1
+    X_52_0        CAP_0_0                          3580
+    X_52_0        CAP_0_1                         -3580
+    X_52_0        CAP_1_0                          3580
+    X_52_0        CAP_1_1                         -3580
+    X_53_0        obj                 -401717.878945393
+    X_53_0        ORD_53_0                            1
+    X_53_0        PREC_36_53_0                       -1
+    X_53_0        PREC_47_53_0                       -1
+    X_53_0        PREC_52_53_0                       -1
+    X_53_0        PREC_53_38_0                        1
+    X_53_0        PREC_53_49_0                        1
+    X_53_0        PREC_53_54_0                        1
+    X_53_0        PREC_53_58_0                        1
+    X_53_0        PREC_53_62_0                        1
+    X_53_0        PREC_56_53_0                       -1
+    X_53_0        CAP_0_0                          5759
+    X_53_0        CAP_0_1                         -5759
+    X_53_0        CAP_1_0                          5759
+    X_53_0        CAP_1_1                         -5759
+    X_54_0        obj                 -169970.887556085
+    X_54_0        ORD_54_0                            1
+    X_54_0        PREC_37_54_0                       -1
+    X_54_0        PREC_48_54_0                       -1
+    X_54_0        PREC_53_54_0                       -1
+    X_54_0        PREC_54_39_0                        1
+    X_54_0        PREC_54_50_0                        1
+    X_54_0        PREC_54_55_0                        1
+    X_54_0        PREC_54_59_0                        1
+    X_54_0        PREC_54_63_0                        1
+    X_54_0        PREC_57_54_0                       -1
+    X_54_0        CAP_0_0                          6054
+    X_54_0        CAP_0_1                         -6054
+    X_54_0        CAP_1_0                          6029
+    X_54_0        CAP_1_1                         -6029
+    X_55_0        obj                 -38878.5311413952
+    X_55_0        ORD_55_0                            1
+    X_55_0        PREC_38_55_0                       -1
+    X_55_0        PREC_49_55_0                       -1
+    X_55_0        PREC_54_55_0                       -1
+    X_55_0        PREC_58_55_0                       -1
+    X_55_0        PREC_62_55_0                       -1
+    X_55_0        CAP_0_0                          2081
+    X_55_0        CAP_0_1                         -2081
+    X_55_0        CAP_1_0                          1135
+    X_55_0        CAP_1_1                         -1135
+    X_56_0        obj                 -137177.591315645
+    X_56_0        ORD_56_0                            1
+    X_56_0        PREC_51_56_0                       -1
+    X_56_0        PREC_56_41_0                        1
+    X_56_0        PREC_56_53_0                        1
+    X_56_0        PREC_56_57_0                        1
+    X_56_0        PREC_56_13_0                        1
+    X_56_0        PREC_56_22_0                        1
+    X_56_0        CAP_0_0                          1432
+    X_56_0        CAP_0_1                         -1432
+    X_56_0        CAP_1_0                          1432
+    X_56_0        CAP_1_1                         -1432
+    X_57_0        obj                 -276318.161631597
+    X_57_0        ORD_57_0                            1
+    X_57_0        PREC_40_57_0                       -1
+    X_57_0        PREC_52_57_0                       -1
+    X_57_0        PREC_56_57_0                       -1
+    X_57_0        PREC_57_42_0                        1
+    X_57_0        PREC_57_54_0                        1
+    X_57_0        PREC_57_58_0                        1
+    X_57_0        PREC_57_64_0                        1
+    X_57_0        CAP_0_0                          3580
+    X_57_0        CAP_0_1                         -3580
+    X_57_0        CAP_1_0                          3580
+    X_57_0        CAP_1_1                         -3580
+    X_58_0        obj                  -274239.71327833
+    X_58_0        ORD_58_0                            1
+    X_58_0        PREC_41_58_0                       -1
+    X_58_0        PREC_53_58_0                       -1
+    X_58_0        PREC_57_58_0                       -1
+    X_58_0        PREC_58_43_0                        1
+    X_58_0        PREC_58_55_0                        1
+    X_58_0        PREC_58_59_0                        1
+    X_58_0        PREC_58_60_0                        1
+    X_58_0        PREC_58_65_0                        1
+    X_58_0        CAP_0_0                          5368
+    X_58_0        CAP_0_1                         -5368
+    X_58_0        CAP_1_0                          5360
+    X_58_0        CAP_1_1                         -5360
+    X_59_0        obj                 -80932.4694891711
+    X_59_0        ORD_59_0                            1
+    X_59_0        PREC_10_59_0                       -1
+    X_59_0        PREC_42_59_0                       -1
+    X_59_0        PREC_54_59_0                       -1
+    X_59_0        PREC_58_59_0                       -1
+    X_59_0        PREC_64_59_0                       -1
+    X_59_0        CAP_0_0                          2013
+    X_59_0        CAP_0_1                         -2013
+    X_59_0        CAP_1_0                          1160
+    X_59_0        CAP_1_1                         -1160
+    X_60_0        obj                 -34028.8183171047
+    X_60_0        ORD_60_0                            1
+    X_60_0        PREC_14_60_0                       -1
+    X_60_0        PREC_58_60_0                       -1
+    X_60_0        CAP_0_0                          1030
+    X_60_0        CAP_0_1                         -1030
+    X_60_0        CAP_1_0                           676
+    X_60_0        CAP_1_1                          -676
+    X_61_0        obj                  1076.17436958065
+    X_61_0        ORD_61_0                            1
+    X_61_0        PREC_40_61_0                       -1
+    X_61_0        PREC_49_61_0                       -1
+    X_61_0        PREC_62_61_0                       -1
+    X_61_0        CAP_0_0                           311
+    X_61_0        CAP_0_1                          -311
+    X_62_0        obj                 -22031.5525446338
+    X_62_0        ORD_62_0                            1
+    X_62_0        PREC_53_62_0                       -1
+    X_62_0        PREC_62_55_0                        1
+    X_62_0        PREC_62_61_0                        1
+    X_62_0        PREC_62_63_0                        1
+    X_62_0        PREC_62_65_0                        1
+    X_62_0        CAP_0_0                          1346
+    X_62_0        CAP_0_1                         -1346
+    X_62_0        CAP_1_0                          1322
+    X_62_0        CAP_1_1                         -1322
+    X_63_0        obj                 -4066.83061122643
+    X_63_0        ORD_63_0                            1
+    X_63_0        PREC_24_63_0                       -1
+    X_63_0        PREC_54_63_0                       -1
+    X_63_0        PREC_62_63_0                       -1
+    X_63_0        PREC_64_63_0                       -1
+    X_63_0        CAP_0_0                           702
+    X_63_0        CAP_0_1                          -702
+    X_63_0        CAP_1_0                           185
+    X_63_0        CAP_1_1                          -185
+    X_64_0        obj                 -19398.8512971618
+    X_64_0        ORD_64_0                            1
+    X_64_0        PREC_29_64_0                       -1
+    X_64_0        PREC_57_64_0                       -1
+    X_64_0        PREC_64_59_0                        1
+    X_64_0        PREC_64_63_0                        1
+    X_64_0        PREC_64_65_0                        1
+    X_64_0        PREC_64_66_0                        1
+    X_64_0        CAP_0_0                           672
+    X_64_0        CAP_0_1                          -672
+    X_64_0        CAP_1_0                           672
+    X_64_0        CAP_1_1                          -672
+    X_65_0        obj                 -10588.5396663675
+    X_65_0        ORD_65_0                            1
+    X_65_0        PREC_30_65_0                       -1
+    X_65_0        PREC_58_65_0                       -1
+    X_65_0        PREC_62_65_0                       -1
+    X_65_0        PREC_64_65_0                       -1
+    X_65_0        CAP_0_0                           571
+    X_65_0        CAP_0_1                          -571
+    X_65_0        CAP_1_0                           190
+    X_65_0        CAP_1_1                          -190
+    X_66_0        obj                 -2921.37462987021
+    X_66_0        ORD_66_0                            1
+    X_66_0        PREC_36_66_0                       -1
+    X_66_0        PREC_64_66_0                       -1
+    X_66_0        CAP_0_0                           131
+    X_66_0        CAP_0_1                          -131
+    X_66_0        CAP_1_0                            45
+    X_66_0        CAP_1_1                           -45
+    X_0_1         obj                 -2921.53983248864
+    X_0_1         ORD_0_0                            -1
+    X_0_1         ORD_0_1                             1
+    X_0_1         PREC_30_0_1                        -1
+    X_0_1         CAP_0_1                           301
+    X_0_1         CAP_0_2                          -301
+    X_0_1         CAP_1_1                           102
+    X_0_1         CAP_1_2                          -102
+    X_1_1         obj                  -18496.079515036
+    X_1_1         ORD_1_0                            -1
+    X_1_1         ORD_1_1                             1
+    X_1_1         PREC_2_1_1                         -1
+    X_1_1         PREC_8_1_1                         -1
+    X_1_1         PREC_36_1_1                        -1
+    X_1_1         CAP_0_1                          1061
+    X_1_1         CAP_0_2                         -1061
+    X_1_1         CAP_1_1                           713
+    X_1_1         CAP_1_2                          -713
+    X_2_1         obj                 -32228.0173368051
+    X_2_1         ORD_2_0                            -1
+    X_2_1         ORD_2_1                             1
+    X_2_1         PREC_2_1_1                          1
+    X_2_1         PREC_2_3_1                          1
+    X_2_1         PREC_2_4_1                          1
+    X_2_1         PREC_2_13_1                         1
+    X_2_1         PREC_11_2_1                        -1
+    X_2_1         CAP_0_1                           648
+    X_2_1         CAP_0_2                          -648
+    X_2_1         CAP_1_1                           648
+    X_2_1         CAP_1_2                          -648
+    X_3_1         obj                 -47321.1384995077
+    X_3_1         ORD_3_0                            -1
+    X_3_1         ORD_3_1                             1
+    X_3_1         PREC_2_3_1                         -1
+    X_3_1         PREC_12_3_1                        -1
+    X_3_1         PREC_40_3_1                        -1
+    X_3_1         CAP_0_1                          1367
+    X_3_1         CAP_0_2                         -1367
+    X_3_1         CAP_1_1                          1118
+    X_3_1         CAP_1_2                         -1118
+    X_4_1         obj                 -10032.7219187619
+    X_4_1         ORD_4_0                            -1
+    X_4_1         ORD_4_1                             1
+    X_4_1         PREC_2_4_1                         -1
+    X_4_1         PREC_16_4_1                        -1
+    X_4_1         PREC_24_4_1                        -1
+    X_4_1         CAP_0_1                           849
+    X_4_1         CAP_0_2                          -849
+    X_4_1         CAP_1_1                           648
+    X_4_1         CAP_1_2                          -648
+    X_5_1         obj                 -3753.26288860309
+    X_5_1         ORD_5_0                            -1
+    X_5_1         ORD_5_1                             1
+    X_5_1         PREC_19_5_1                        -1
+    X_5_1         PREC_30_5_1                        -1
+    X_5_1         CAP_0_1                           321
+    X_5_1         CAP_0_2                          -321
+    X_5_1         CAP_1_1                           253
+    X_5_1         CAP_1_2                          -253
+    X_6_1         obj                  143.124424818731
+    X_6_1         ORD_6_0                            -1
+    X_6_1         ORD_6_1                             1
+    X_6_1         PREC_8_6_1                         -1
+    X_6_1         PREC_47_6_1                        -1
+    X_6_1         CAP_0_1                            48
+    X_6_1         CAP_0_2                           -48
+    X_7_1         obj                 -38533.4989896583
+    X_7_1         ORD_7_0                            -1
+    X_7_1         ORD_7_1                             1
+    X_7_1         PREC_7_8_1                          1
+    X_7_1         PREC_7_12_1                         1
+    X_7_1         PREC_7_26_1                         1
+    X_7_1         PREC_10_7_1                        -1
+    X_7_1         PREC_24_7_1                        -1
+    X_7_1         CAP_0_1                           724
+    X_7_1         CAP_0_2                          -724
+    X_7_1         CAP_1_1                           724
+    X_7_1         CAP_1_2                          -724
+    X_8_1         obj                 -33409.0440590856
+    X_8_1         ORD_8_0                            -1
+    X_8_1         ORD_8_1                             1
+    X_8_1         PREC_7_8_1                         -1
+    X_8_1         PREC_8_1_1                          1
+    X_8_1         PREC_8_6_1                          1
+    X_8_1         PREC_8_9_1                          1
+    X_8_1         PREC_8_13_1                         1
+    X_8_1         PREC_8_27_1                         1
+    X_8_1         PREC_11_8_1                        -1
+    X_8_1         PREC_25_8_1                        -1
+    X_8_1         PREC_51_8_1                        -1
+    X_8_1         CAP_0_1                          1989
+    X_8_1         CAP_0_2                         -1989
+    X_8_1         CAP_1_1                          1989
+    X_8_1         CAP_1_2                         -1989
+    X_9_1         obj                 -12391.7727530119
+    X_9_1         ORD_9_0                            -1
+    X_9_1         ORD_9_1                             1
+    X_9_1         PREC_8_9_1                         -1
+    X_9_1         PREC_12_9_1                        -1
+    X_9_1         PREC_26_9_1                        -1
+    X_9_1         PREC_52_9_1                        -1
+    X_9_1         CAP_0_1                          1225
+    X_9_1         CAP_0_2                         -1225
+    X_9_1         CAP_1_1                           584
+    X_9_1         CAP_1_2                          -584
+    X_10_1        obj                 -117201.889134779
+    X_10_1        ORD_10_0                           -1
+    X_10_1        ORD_10_1                            1
+    X_10_1        PREC_10_7_1                         1
+    X_10_1        PREC_10_11_1                        1
+    X_10_1        PREC_10_15_1                        1
+    X_10_1        PREC_10_31_1                        1
+    X_10_1        PREC_10_59_1                        1
+    X_10_1        PREC_29_10_1                       -1
+    X_10_1        CAP_0_1                          1432
+    X_10_1        CAP_0_2                         -1432
+    X_10_1        CAP_1_1                          1432
+    X_10_1        CAP_1_2                         -1432
+    X_11_1        obj                 -338894.617088268
+    X_11_1        ORD_11_0                           -1
+    X_11_1        ORD_11_1                            1
+    X_11_1        PREC_10_11_1                       -1
+    X_11_1        PREC_11_2_1                         1
+    X_11_1        PREC_11_8_1                         1
+    X_11_1        PREC_11_12_1                        1
+    X_11_1        PREC_11_16_1                        1
+    X_11_1        PREC_11_32_1                        1
+    X_11_1        PREC_14_11_1                       -1
+    X_11_1        PREC_30_11_1                       -1
+    X_11_1        CAP_0_1                          5001
+    X_11_1        CAP_0_2                         -5001
+    X_11_1        CAP_1_1                          5001
+    X_11_1        CAP_1_2                         -5001
+    X_12_1        obj                 -145376.382551893
+    X_12_1        ORD_12_0                           -1
+    X_12_1        ORD_12_1                            1
+    X_12_1        PREC_7_12_1                        -1
+    X_12_1        PREC_11_12_1                       -1
+    X_12_1        PREC_12_3_1                         1
+    X_12_1        PREC_12_9_1                         1
+    X_12_1        PREC_12_13_1                        1
+    X_12_1        PREC_12_17_1                        1
+    X_12_1        PREC_12_33_1                        1
+    X_12_1        PREC_15_12_1                       -1
+    X_12_1        PREC_31_12_1                       -1
+    X_12_1        CAP_0_1                          5835
+    X_12_1        CAP_0_2                         -5835
+    X_12_1        CAP_1_1                          5835
+    X_12_1        CAP_1_2                         -5835
+    X_13_1        obj                 -31757.6083881002
+    X_13_1        ORD_13_0                           -1
+    X_13_1        ORD_13_1                            1
+    X_13_1        PREC_2_13_1                        -1
+    X_13_1        PREC_8_13_1                        -1
+    X_13_1        PREC_12_13_1                       -1
+    X_13_1        PREC_16_13_1                       -1
+    X_13_1        PREC_32_13_1                       -1
+    X_13_1        PREC_56_13_1                       -1
+    X_13_1        CAP_0_1                          2318
+    X_13_1        CAP_0_2                         -2318
+    X_13_1        CAP_1_1                          1488
+    X_13_1        CAP_1_2                         -1488
+    X_14_1        obj                 -103489.968715082
+    X_14_1        ORD_14_0                           -1
+    X_14_1        ORD_14_1                            1
+    X_14_1        PREC_14_11_1                        1
+    X_14_1        PREC_14_15_1                        1
+    X_14_1        PREC_14_18_1                        1
+    X_14_1        PREC_14_37_1                        1
+    X_14_1        PREC_14_46_1                        1
+    X_14_1        PREC_14_60_1                        1
+    X_14_1        PREC_35_14_1                       -1
+    X_14_1        CAP_0_1                          1432
+    X_14_1        CAP_0_2                         -1432
+    X_14_1        CAP_1_1                          1432
+    X_14_1        CAP_1_2                         -1432
+    X_15_1        obj                 -213685.767124469
+    X_15_1        ORD_15_0                           -1
+    X_15_1        ORD_15_1                            1
+    X_15_1        PREC_10_15_1                       -1
+    X_15_1        PREC_14_15_1                       -1
+    X_15_1        PREC_15_12_1                        1
+    X_15_1        PREC_15_16_1                        1
+    X_15_1        PREC_15_19_1                        1
+    X_15_1        PREC_15_38_1                        1
+    X_15_1        PREC_36_15_1                       -1
+    X_15_1        CAP_0_1                          4296
+    X_15_1        CAP_0_2                         -4296
+    X_15_1        CAP_1_1                          4296
+    X_15_1        CAP_1_2                         -4296
+    X_16_1        obj                 -223978.715270174
+    X_16_1        ORD_16_0                           -1
+    X_16_1        ORD_16_1                            1
+    X_16_1        PREC_11_16_1                       -1
+    X_16_1        PREC_15_16_1                       -1
+    X_16_1        PREC_16_4_1                         1
+    X_16_1        PREC_16_13_1                        1
+    X_16_1        PREC_16_17_1                        1
+    X_16_1        PREC_16_20_1                        1
+    X_16_1        PREC_16_39_1                        1
+    X_16_1        PREC_18_16_1                       -1
+    X_16_1        PREC_37_16_1                       -1
+    X_16_1        CAP_0_1                          5965
+    X_16_1        CAP_0_2                         -5965
+    X_16_1        CAP_1_1                          5528
+    X_16_1        CAP_1_2                         -5528
+    X_17_1        obj                 -79659.2515477119
+    X_17_1        ORD_17_0                           -1
+    X_17_1        ORD_17_1                            1
+    X_17_1        PREC_12_17_1                       -1
+    X_17_1        PREC_16_17_1                       -1
+    X_17_1        PREC_19_17_1                       -1
+    X_17_1        PREC_38_17_1                       -1
+    X_17_1        CAP_0_1                          2733
+    X_17_1        CAP_0_2                         -2733
+    X_17_1        CAP_1_1                          1776
+    X_17_1        CAP_1_2                         -1776
+    X_18_1        obj                 -36631.8457927661
+    X_18_1        ORD_18_0                           -1
+    X_18_1        ORD_18_1                            1
+    X_18_1        PREC_14_18_1                       -1
+    X_18_1        PREC_18_16_1                        1
+    X_18_1        PREC_18_19_1                        1
+    X_18_1        PREC_18_42_1                        1
+    X_18_1        PREC_40_18_1                       -1
+    X_18_1        CAP_0_1                           716
+    X_18_1        CAP_0_2                          -716
+    X_18_1        CAP_1_1                           716
+    X_18_1        CAP_1_2                          -716
+    X_19_1        obj                 -65256.7307565123
+    X_19_1        ORD_19_0                           -1
+    X_19_1        ORD_19_1                            1
+    X_19_1        PREC_15_19_1                       -1
+    X_19_1        PREC_18_19_1                       -1
+    X_19_1        PREC_19_5_1                         1
+    X_19_1        PREC_19_17_1                        1
+    X_19_1        PREC_19_20_1                        1
+    X_19_1        PREC_19_21_1                        1
+    X_19_1        PREC_19_43_1                        1
+    X_19_1        PREC_41_19_1                       -1
+    X_19_1        CAP_0_1                          1965
+    X_19_1        CAP_0_2                         -1965
+    X_19_1        CAP_1_1                          1964
+    X_19_1        CAP_1_2                         -1964
+    X_20_1        obj                 -49106.6907643791
+    X_20_1        ORD_20_0                           -1
+    X_20_1        ORD_20_1                            1
+    X_20_1        PREC_16_20_1                       -1
+    X_20_1        PREC_19_20_1                       -1
+    X_20_1        PREC_42_20_1                       -1
+    X_20_1        PREC_47_20_1                       -1
+    X_20_1        CAP_0_1                          2496
+    X_20_1        CAP_0_2                         -2496
+    X_20_1        CAP_1_1                          1791
+    X_20_1        CAP_1_2                         -1791
+    X_21_1        obj                 -2442.12305285108
+    X_21_1        ORD_21_0                           -1
+    X_21_1        ORD_21_1                            1
+    X_21_1        PREC_19_21_1                       -1
+    X_21_1        PREC_52_21_1                       -1
+    X_21_1        CAP_0_1                           244
+    X_21_1        CAP_0_2                          -244
+    X_21_1        CAP_1_1                           215
+    X_21_1        CAP_1_2                          -215
+    X_22_1        obj                 -5594.86387927766
+    X_22_1        ORD_22_0                           -1
+    X_22_1        ORD_22_1                            1
+    X_22_1        PREC_56_22_1                       -1
+    X_22_1        CAP_0_1                           339
+    X_22_1        CAP_0_2                          -339
+    X_22_1        CAP_1_1                           283
+    X_22_1        CAP_1_2                          -283
+    X_23_1        obj                  244.712740336921
+    X_23_1        ORD_23_0                           -1
+    X_23_1        ORD_23_1                            1
+    X_23_1        PREC_26_23_1                       -1
+    X_23_1        CAP_0_1                            85
+    X_23_1        CAP_0_2                           -85
+    X_24_1        obj                 -52745.8544611687
+    X_24_1        ORD_24_0                           -1
+    X_24_1        ORD_24_1                            1
+    X_24_1        PREC_24_7_1                         1
+    X_24_1        PREC_24_25_1                        1
+    X_24_1        PREC_24_31_1                        1
+    X_24_1        PREC_24_4_1                         1
+    X_24_1        PREC_24_63_1                        1
+    X_24_1        PREC_29_24_1                       -1
+    X_24_1        CAP_0_1                           724
+    X_24_1        CAP_0_2                          -724
+    X_24_1        CAP_1_1                           724
+    X_24_1        CAP_1_2                          -724
+    X_25_1        obj                 -192767.581958654
+    X_25_1        ORD_25_0                           -1
+    X_25_1        ORD_25_1                            1
+    X_25_1        PREC_24_25_1                       -1
+    X_25_1        PREC_25_8_1                         1
+    X_25_1        PREC_25_26_1                        1
+    X_25_1        PREC_25_32_1                        1
+    X_25_1        PREC_25_45_1                        1
+    X_25_1        PREC_30_25_1                       -1
+    X_25_1        CAP_0_1                          3620
+    X_25_1        CAP_0_2                         -3620
+    X_25_1        CAP_1_1                          3620
+    X_25_1        CAP_1_2                         -3620
+    X_26_1        obj                 -154234.082968996
+    X_26_1        ORD_26_0                           -1
+    X_26_1        ORD_26_1                            1
+    X_26_1        PREC_7_26_1                        -1
+    X_26_1        PREC_25_26_1                       -1
+    X_26_1        PREC_26_9_1                         1
+    X_26_1        PREC_26_23_1                        1
+    X_26_1        PREC_26_27_1                        1
+    X_26_1        PREC_26_33_1                        1
+    X_26_1        PREC_26_46_1                        1
+    X_26_1        PREC_31_26_1                       -1
+    X_26_1        CAP_0_1                          5384
+    X_26_1        CAP_0_2                         -5384
+    X_26_1        CAP_1_1                          5360
+    X_26_1        CAP_1_2                         -5360
+    X_27_1        obj                 -8808.65778202553
+    X_27_1        ORD_27_0                           -1
+    X_27_1        ORD_27_1                            1
+    X_27_1        PREC_8_27_1                        -1
+    X_27_1        PREC_26_27_1                       -1
+    X_27_1        PREC_32_27_1                       -1
+    X_27_1        PREC_45_27_1                       -1
+    X_27_1        CAP_0_1                          1376
+    X_27_1        CAP_0_2                         -1376
+    X_27_1        CAP_1_1                           438
+    X_27_1        CAP_1_2                          -438
+    X_28_1        obj                 -64456.0346736103
+    X_28_1        ORD_28_0                           -1
+    X_28_1        ORD_28_1                            1
+    X_28_1        PREC_28_29_1                        1
+    X_28_1        PREC_28_35_1                        1
+    X_28_1        CAP_0_1                           716
+    X_28_1        CAP_0_2                          -716
+    X_28_1        CAP_1_1                           716
+    X_28_1        CAP_1_2                          -716
+    X_29_1        obj                 -285748.414585648
+    X_29_1        ORD_29_0                           -1
+    X_29_1        ORD_29_1                            1
+    X_29_1        PREC_28_29_1                       -1
+    X_29_1        PREC_29_10_1                        1
+    X_29_1        PREC_29_24_1                        1
+    X_29_1        PREC_29_30_1                        1
+    X_29_1        PREC_29_36_1                        1
+    X_29_1        PREC_29_47_1                        1
+    X_29_1        PREC_29_64_1                        1
+    X_29_1        PREC_34_29_1                       -1
+    X_29_1        CAP_0_1                          3580
+    X_29_1        CAP_0_2                         -3580
+    X_29_1        CAP_1_1                          3580
+    X_29_1        CAP_1_2                         -3580
+    X_30_1        obj                 -459199.203544292
+    X_30_1        ORD_30_0                           -1
+    X_30_1        ORD_30_1                            1
+    X_30_1        PREC_29_30_1                       -1
+    X_30_1        PREC_30_11_1                        1
+    X_30_1        PREC_30_25_1                        1
+    X_30_1        PREC_30_31_1                        1
+    X_30_1        PREC_30_37_1                        1
+    X_30_1        PREC_30_48_1                        1
+    X_30_1        PREC_30_0_1                         1
+    X_30_1        PREC_30_5_1                         1
+    X_30_1        PREC_30_65_1                        1
+    X_30_1        PREC_35_30_1                       -1
+    X_30_1        CAP_0_1                          6483
+    X_30_1        CAP_0_2                         -6483
+    X_30_1        CAP_1_1                          6483
+    X_30_1        CAP_1_2                         -6483
+    X_31_1        obj                 -369020.807207455
+    X_31_1        ORD_31_0                           -1
+    X_31_1        ORD_31_1                            1
+    X_31_1        PREC_10_31_1                       -1
+    X_31_1        PREC_24_31_1                       -1
+    X_31_1        PREC_30_31_1                       -1
+    X_31_1        PREC_31_12_1                        1
+    X_31_1        PREC_31_26_1                        1
+    X_31_1        PREC_31_32_1                        1
+    X_31_1        PREC_31_38_1                        1
+    X_31_1        PREC_31_49_1                        1
+    X_31_1        PREC_36_31_1                       -1
+    X_31_1        PREC_47_31_1                       -1
+    X_31_1        CAP_0_1                          6507
+    X_31_1        CAP_0_2                         -6507
+    X_31_1        CAP_1_1                          6507
+    X_31_1        CAP_1_2                         -6507
+    X_32_1        obj                 -148729.297399045
+    X_32_1        ORD_32_0                           -1
+    X_32_1        ORD_32_1                            1
+    X_32_1        PREC_11_32_1                       -1
+    X_32_1        PREC_25_32_1                       -1
+    X_32_1        PREC_31_32_1                       -1
+    X_32_1        PREC_32_13_1                        1
+    X_32_1        PREC_32_27_1                        1
+    X_32_1        PREC_32_33_1                        1
+    X_32_1        PREC_32_39_1                        1
+    X_32_1        PREC_32_50_1                        1
+    X_32_1        PREC_37_32_1                       -1
+    X_32_1        PREC_48_32_1                       -1
+    X_32_1        CAP_0_1                          6049
+    X_32_1        CAP_0_2                         -6049
+    X_32_1        CAP_1_1                          6025
+    X_32_1        CAP_1_2                         -6025
+    X_33_1        obj                 -16976.7586977295
+    X_33_1        ORD_33_0                           -1
+    X_33_1        ORD_33_1                            1
+    X_33_1        PREC_12_33_1                       -1
+    X_33_1        PREC_26_33_1                       -1
+    X_33_1        PREC_32_33_1                       -1
+    X_33_1        PREC_38_33_1                       -1
+    X_33_1        PREC_49_33_1                       -1
+    X_33_1        CAP_0_1                          2548
+    X_33_1        CAP_0_2                         -2548
+    X_33_1        CAP_1_1                           984
+    X_33_1        CAP_1_2                          -984
+    X_34_1        obj                 -129512.591409397
+    X_34_1        ORD_34_0                           -1
+    X_34_1        ORD_34_1                            1
+    X_34_1        PREC_34_29_1                        1
+    X_34_1        PREC_34_35_1                        1
+    X_34_1        PREC_34_51_1                        1
+    X_34_1        CAP_0_1                          1432
+    X_34_1        CAP_0_2                         -1432
+    X_34_1        CAP_1_1                          1432
+    X_34_1        CAP_1_2                         -1432
+    X_35_1        obj                 -442284.498792988
+    X_35_1        ORD_35_0                           -1
+    X_35_1        ORD_35_1                            1
+    X_35_1        PREC_28_35_1                       -1
+    X_35_1        PREC_34_35_1                       -1
+    X_35_1        PREC_35_14_1                        1
+    X_35_1        PREC_35_30_1                        1
+    X_35_1        PREC_35_36_1                        1
+    X_35_1        PREC_35_40_1                        1
+    X_35_1        PREC_35_52_1                        1
+    X_35_1        CAP_0_1                          5728
+    X_35_1        CAP_0_2                         -5728
+    X_35_1        CAP_1_1                          5728
+    X_35_1        CAP_1_2                         -5728
+    X_36_1        obj                 -477114.778399224
+    X_36_1        ORD_36_0                           -1
+    X_36_1        ORD_36_1                            1
+    X_36_1        PREC_29_36_1                       -1
+    X_36_1        PREC_35_36_1                       -1
+    X_36_1        PREC_36_15_1                        1
+    X_36_1        PREC_36_31_1                        1
+    X_36_1        PREC_36_37_1                        1
+    X_36_1        PREC_36_41_1                        1
+    X_36_1        PREC_36_53_1                        1
+    X_36_1        PREC_36_1_1                         1
+    X_36_1        PREC_36_66_1                        1
+    X_36_1        PREC_51_36_1                       -1
+    X_36_1        CAP_0_1                          6444
+    X_36_1        CAP_0_2                         -6444
+    X_36_1        CAP_1_1                          6444
+    X_36_1        CAP_1_2                         -6444
+    X_37_1        obj                 -422467.270741163
+    X_37_1        ORD_37_0                           -1
+    X_37_1        ORD_37_1                            1
+    X_37_1        PREC_14_37_1                       -1
+    X_37_1        PREC_30_37_1                       -1
+    X_37_1        PREC_36_37_1                       -1
+    X_37_1        PREC_37_16_1                        1
+    X_37_1        PREC_37_32_1                        1
+    X_37_1        PREC_37_38_1                        1
+    X_37_1        PREC_37_42_1                        1
+    X_37_1        PREC_37_54_1                        1
+    X_37_1        PREC_40_37_1                       -1
+    X_37_1        PREC_52_37_1                       -1
+    X_37_1        CAP_0_1                          6447
+    X_37_1        CAP_0_2                         -6447
+    X_37_1        CAP_1_1                          6447
+    X_37_1        CAP_1_2                         -6447
+    X_38_1        obj                 -276470.348725021
+    X_38_1        ORD_38_0                           -1
+    X_38_1        ORD_38_1                            1
+    X_38_1        PREC_15_38_1                       -1
+    X_38_1        PREC_31_38_1                       -1
+    X_38_1        PREC_37_38_1                       -1
+    X_38_1        PREC_38_17_1                        1
+    X_38_1        PREC_38_33_1                        1
+    X_38_1        PREC_38_39_1                        1
+    X_38_1        PREC_38_43_1                        1
+    X_38_1        PREC_38_55_1                        1
+    X_38_1        PREC_41_38_1                       -1
+    X_38_1        PREC_53_38_1                       -1
+    X_38_1        CAP_0_1                          6040
+    X_38_1        CAP_0_2                         -6040
+    X_38_1        CAP_1_1                          5960
+    X_38_1        CAP_1_2                         -5960
+    X_39_1        obj                 -67601.7694093115
+    X_39_1        ORD_39_0                           -1
+    X_39_1        ORD_39_1                            1
+    X_39_1        PREC_16_39_1                       -1
+    X_39_1        PREC_32_39_1                       -1
+    X_39_1        PREC_38_39_1                       -1
+    X_39_1        PREC_42_39_1                       -1
+    X_39_1        PREC_54_39_1                       -1
+    X_39_1        CAP_0_1                          2814
+    X_39_1        CAP_0_2                         -2814
+    X_39_1        CAP_1_1                          1584
+    X_39_1        CAP_1_2                         -1584
+    X_40_1        obj                 -117201.889134779
+    X_40_1        ORD_40_0                           -1
+    X_40_1        ORD_40_1                            1
+    X_40_1        PREC_35_40_1                       -1
+    X_40_1        PREC_40_18_1                        1
+    X_40_1        PREC_40_37_1                        1
+    X_40_1        PREC_40_41_1                        1
+    X_40_1        PREC_40_57_1                        1
+    X_40_1        PREC_40_3_1                         1
+    X_40_1        PREC_40_61_1                        1
+    X_40_1        CAP_0_1                          1432
+    X_40_1        CAP_0_2                         -1432
+    X_40_1        CAP_1_1                          1432
+    X_40_1        CAP_1_2                         -1432
+    X_41_1        obj                 -243011.261160754
+    X_41_1        ORD_41_0                           -1
+    X_41_1        ORD_41_1                            1
+    X_41_1        PREC_36_41_1                       -1
+    X_41_1        PREC_40_41_1                       -1
+    X_41_1        PREC_41_19_1                        1
+    X_41_1        PREC_41_38_1                        1
+    X_41_1        PREC_41_42_1                        1
+    X_41_1        PREC_41_58_1                        1
+    X_41_1        PREC_56_41_1                       -1
+    X_41_1        CAP_0_1                          4296
+    X_41_1        CAP_0_2                         -4296
+    X_41_1        CAP_1_1                          4296
+    X_41_1        CAP_1_2                         -4296
+    X_42_1        obj                 -233903.343217744
+    X_42_1        ORD_42_0                           -1
+    X_42_1        ORD_42_1                            1
+    X_42_1        PREC_18_42_1                       -1
+    X_42_1        PREC_37_42_1                       -1
+    X_42_1        PREC_41_42_1                       -1
+    X_42_1        PREC_42_20_1                        1
+    X_42_1        PREC_42_39_1                        1
+    X_42_1        PREC_42_43_1                        1
+    X_42_1        PREC_42_44_1                        1
+    X_42_1        PREC_42_59_1                        1
+    X_42_1        PREC_57_42_1                       -1
+    X_42_1        CAP_0_1                          5997
+    X_42_1        CAP_0_2                         -5997
+    X_42_1        CAP_1_1                          5992
+    X_42_1        CAP_1_2                         -5992
+    X_43_1        obj                 -82591.8009513405
+    X_43_1        ORD_43_0                           -1
+    X_43_1        ORD_43_1                            1
+    X_43_1        PREC_19_43_1                       -1
+    X_43_1        PREC_38_43_1                       -1
+    X_43_1        PREC_42_43_1                       -1
+    X_43_1        PREC_58_43_1                       -1
+    X_43_1        CAP_0_1                          2525
+    X_43_1        CAP_0_2                         -2525
+    X_43_1        CAP_1_1                          1776
+    X_43_1        CAP_1_2                         -1776
+    X_44_1        obj                 -26122.7097046775
+    X_44_1        ORD_44_0                           -1
+    X_44_1        ORD_44_1                            1
+    X_44_1        PREC_42_44_1                       -1
+    X_44_1        CAP_0_1                          1078
+    X_44_1        CAP_0_2                         -1078
+    X_44_1        CAP_1_1                           874
+    X_44_1        CAP_1_2                          -874
+    X_45_1        obj                 -7986.94342694736
+    X_45_1        ORD_45_0                           -1
+    X_45_1        ORD_45_1                            1
+    X_45_1        PREC_25_45_1                       -1
+    X_45_1        PREC_45_27_1                        1
+    X_45_1        PREC_45_46_1                        1
+    X_45_1        PREC_45_50_1                        1
+    X_45_1        PREC_48_45_1                       -1
+    X_45_1        CAP_0_1                           673
+    X_45_1        CAP_0_2                          -673
+    X_45_1        CAP_1_1                           673
+    X_45_1        CAP_1_2                          -673
+    X_46_1        obj                  30.0261031088247
+    X_46_1        ORD_46_0                           -1
+    X_46_1        ORD_46_1                            1
+    X_46_1        PREC_14_46_1                       -1
+    X_46_1        PREC_26_46_1                       -1
+    X_46_1        PREC_45_46_1                       -1
+    X_46_1        PREC_49_46_1                       -1
+    X_46_1        CAP_0_1                           745
+    X_46_1        CAP_0_2                          -745
+    X_46_1        CAP_1_1                            59
+    X_46_1        CAP_1_2                           -59
+    X_47_1        obj                 -36731.9328031288
+    X_47_1        ORD_47_0                           -1
+    X_47_1        ORD_47_1                            1
+    X_47_1        PREC_29_47_1                       -1
+    X_47_1        PREC_47_31_1                        1
+    X_47_1        PREC_47_48_1                        1
+    X_47_1        PREC_47_53_1                        1
+    X_47_1        PREC_47_6_1                         1
+    X_47_1        PREC_47_20_1                        1
+    X_47_1        PREC_51_47_1                       -1
+    X_47_1        CAP_0_1                           722
+    X_47_1        CAP_0_2                          -722
+    X_47_1        CAP_1_1                           722
+    X_47_1        CAP_1_2                          -722
+    X_48_1        obj                  -101588.31551819
+    X_48_1        ORD_48_0                           -1
+    X_48_1        ORD_48_1                            1
+    X_48_1        PREC_30_48_1                       -1
+    X_48_1        PREC_47_48_1                       -1
+    X_48_1        PREC_48_32_1                        1
+    X_48_1        PREC_48_45_1                        1
+    X_48_1        PREC_48_49_1                        1
+    X_48_1        PREC_48_54_1                        1
+    X_48_1        PREC_52_48_1                       -1
+    X_48_1        CAP_0_1                          2896
+    X_48_1        CAP_0_2                         -2896
+    X_48_1        CAP_1_1                          2896
+    X_48_1        CAP_1_2                         -2896
+    X_49_1        obj                 -61483.4504658367
+    X_49_1        ORD_49_0                           -1
+    X_49_1        ORD_49_1                            1
+    X_49_1        PREC_31_49_1                       -1
+    X_49_1        PREC_48_49_1                       -1
+    X_49_1        PREC_49_33_1                        1
+    X_49_1        PREC_49_46_1                        1
+    X_49_1        PREC_49_50_1                        1
+    X_49_1        PREC_49_55_1                        1
+    X_49_1        PREC_49_61_1                        1
+    X_49_1        PREC_53_49_1                       -1
+    X_49_1        CAP_0_1                          4711
+    X_49_1        CAP_0_2                         -4711
+    X_49_1        CAP_1_1                          4687
+    X_49_1        CAP_1_2                         -4687
+    X_50_1        obj                 -11522.0166329597
+    X_50_1        ORD_50_0                           -1
+    X_50_1        ORD_50_1                            1
+    X_50_1        PREC_32_50_1                       -1
+    X_50_1        PREC_45_50_1                       -1
+    X_50_1        PREC_49_50_1                       -1
+    X_50_1        PREC_54_50_1                       -1
+    X_50_1        CAP_0_1                          1818
+    X_50_1        CAP_0_2                         -1818
+    X_50_1        CAP_1_1                           611
+    X_50_1        CAP_1_2                          -611
+    X_51_1        obj                 -114499.539854985
+    X_51_1        ORD_51_0                           -1
+    X_51_1        ORD_51_1                            1
+    X_51_1        PREC_34_51_1                       -1
+    X_51_1        PREC_51_36_1                        1
+    X_51_1        PREC_51_47_1                        1
+    X_51_1        PREC_51_52_1                        1
+    X_51_1        PREC_51_56_1                        1
+    X_51_1        PREC_51_8_1                         1
+    X_51_1        CAP_0_1                          1432
+    X_51_1        CAP_0_2                         -1432
+    X_51_1        CAP_1_1                          1432
+    X_51_1        CAP_1_2                         -1432
+    X_52_1        obj                 -283346.326336942
+    X_52_1        ORD_52_0                           -1
+    X_52_1        ORD_52_1                            1
+    X_52_1        PREC_35_52_1                       -1
+    X_52_1        PREC_51_52_1                       -1
+    X_52_1        PREC_52_37_1                        1
+    X_52_1        PREC_52_48_1                        1
+    X_52_1        PREC_52_53_1                        1
+    X_52_1        PREC_52_57_1                        1
+    X_52_1        PREC_52_9_1                         1
+    X_52_1        PREC_52_21_1                        1
+    X_52_1        CAP_0_1                          3580
+    X_52_1        CAP_0_2                         -3580
+    X_52_1        CAP_1_1                          3580
+    X_52_1        CAP_1_2                         -3580
+    X_53_1        obj                 -348202.709052003
+    X_53_1        ORD_53_0                           -1
+    X_53_1        ORD_53_1                            1
+    X_53_1        PREC_36_53_1                       -1
+    X_53_1        PREC_47_53_1                       -1
+    X_53_1        PREC_52_53_1                       -1
+    X_53_1        PREC_53_38_1                        1
+    X_53_1        PREC_53_49_1                        1
+    X_53_1        PREC_53_54_1                        1
+    X_53_1        PREC_53_58_1                        1
+    X_53_1        PREC_53_62_1                        1
+    X_53_1        PREC_56_53_1                       -1
+    X_53_1        CAP_0_1                          5759
+    X_53_1        CAP_0_2                         -5759
+    X_53_1        CAP_1_1                          5759
+    X_53_1        CAP_1_2                         -5759
+    X_54_1        obj                 -147328.079253966
+    X_54_1        ORD_54_0                           -1
+    X_54_1        ORD_54_1                            1
+    X_54_1        PREC_37_54_1                       -1
+    X_54_1        PREC_48_54_1                       -1
+    X_54_1        PREC_53_54_1                       -1
+    X_54_1        PREC_54_39_1                        1
+    X_54_1        PREC_54_50_1                        1
+    X_54_1        PREC_54_55_1                        1
+    X_54_1        PREC_54_59_1                        1
+    X_54_1        PREC_54_63_1                        1
+    X_54_1        PREC_57_54_1                       -1
+    X_54_1        CAP_0_1                          6054
+    X_54_1        CAP_0_2                         -6054
+    X_54_1        CAP_1_1                          6029
+    X_54_1        CAP_1_2                         -6029
+    X_55_1        obj                 -33699.2963891376
+    X_55_1        ORD_55_0                           -1
+    X_55_1        ORD_55_1                            1
+    X_55_1        PREC_38_55_1                       -1
+    X_55_1        PREC_49_55_1                       -1
+    X_55_1        PREC_54_55_1                       -1
+    X_55_1        PREC_58_55_1                       -1
+    X_55_1        PREC_62_55_1                       -1
+    X_55_1        CAP_0_1                          2081
+    X_55_1        CAP_0_2                         -2081
+    X_55_1        CAP_1_1                          1135
+    X_55_1        CAP_1_2                         -1135
+    X_56_1        obj                 -118903.368310946
+    X_56_1        ORD_56_0                           -1
+    X_56_1        ORD_56_1                            1
+    X_56_1        PREC_51_56_1                       -1
+    X_56_1        PREC_56_41_1                        1
+    X_56_1        PREC_56_53_1                        1
+    X_56_1        PREC_56_57_1                        1
+    X_56_1        PREC_56_13_1                        1
+    X_56_1        PREC_56_22_1                        1
+    X_56_1        CAP_0_1                          1432
+    X_56_1        CAP_0_2                         -1432
+    X_56_1        CAP_1_1                          1432
+    X_56_1        CAP_1_2                         -1432
+    X_57_1        obj                 -239508.215798058
+    X_57_1        ORD_57_0                           -1
+    X_57_1        ORD_57_1                            1
+    X_57_1        PREC_40_57_1                       -1
+    X_57_1        PREC_52_57_1                       -1
+    X_57_1        PREC_56_57_1                       -1
+    X_57_1        PREC_57_42_1                        1
+    X_57_1        PREC_57_54_1                        1
+    X_57_1        PREC_57_58_1                        1
+    X_57_1        PREC_57_64_1                        1
+    X_57_1        CAP_0_1                          3580
+    X_57_1        CAP_0_2                         -3580
+    X_57_1        CAP_1_1                          3580
+    X_57_1        CAP_1_2                         -3580
+    X_58_1        obj                 -237706.649611529
+    X_58_1        ORD_58_0                           -1
+    X_58_1        ORD_58_1                            1
+    X_58_1        PREC_41_58_1                       -1
+    X_58_1        PREC_53_58_1                       -1
+    X_58_1        PREC_57_58_1                       -1
+    X_58_1        PREC_58_43_1                        1
+    X_58_1        PREC_58_55_1                        1
+    X_58_1        PREC_58_59_1                        1
+    X_58_1        PREC_58_60_1                        1
+    X_58_1        PREC_58_65_1                        1
+    X_58_1        CAP_0_1                          5368
+    X_58_1        CAP_0_2                         -5368
+    X_58_1        CAP_1_1                          5360
+    X_58_1        CAP_1_2                         -5360
+    X_59_1        obj                 -70150.9855632508
+    X_59_1        ORD_59_0                           -1
+    X_59_1        ORD_59_1                            1
+    X_59_1        PREC_10_59_1                       -1
+    X_59_1        PREC_42_59_1                       -1
+    X_59_1        PREC_54_59_1                       -1
+    X_59_1        PREC_58_59_1                       -1
+    X_59_1        PREC_64_59_1                       -1
+    X_59_1        CAP_0_1                          2013
+    X_59_1        CAP_0_2                         -2013
+    X_59_1        CAP_1_1                          1160
+    X_59_1        CAP_1_2                         -1160
+    X_60_1        obj                 -29495.6419539021
+    X_60_1        ORD_60_0                           -1
+    X_60_1        ORD_60_1                            1
+    X_60_1        PREC_14_60_1                       -1
+    X_60_1        PREC_58_60_1                       -1
+    X_60_1        CAP_0_1                          1030
+    X_60_1        CAP_0_2                         -1030
+    X_60_1        CAP_1_1                           676
+    X_60_1        CAP_1_2                          -676
+    X_61_1        obj                   932.81093658082
+    X_61_1        ORD_61_0                           -1
+    X_61_1        ORD_61_1                            1
+    X_61_1        PREC_40_61_1                       -1
+    X_61_1        PREC_49_61_1                       -1
+    X_61_1        PREC_62_61_1                       -1
+    X_61_1        CAP_0_1                           311
+    X_61_1        CAP_0_2                          -311
+    X_62_1        obj                 -19096.6015772125
+    X_62_1        ORD_62_0                           -1
+    X_62_1        ORD_62_1                            1
+    X_62_1        PREC_53_62_1                       -1
+    X_62_1        PREC_62_55_1                        1
+    X_62_1        PREC_62_61_1                        1
+    X_62_1        PREC_62_63_1                        1
+    X_62_1        PREC_62_65_1                        1
+    X_62_1        CAP_0_1                          1346
+    X_62_1        CAP_0_2                         -1346
+    X_62_1        CAP_1_1                          1322
+    X_62_1        CAP_1_2                         -1322
+    X_63_1        obj                 -3525.06450497602
+    X_63_1        ORD_63_0                           -1
+    X_63_1        ORD_63_1                            1
+    X_63_1        PREC_24_63_1                       -1
+    X_63_1        PREC_54_63_1                       -1
+    X_63_1        PREC_62_63_1                       -1
+    X_63_1        PREC_64_63_1                       -1
+    X_63_1        CAP_0_1                           702
+    X_63_1        CAP_0_2                          -702
+    X_63_1        CAP_1_1                           185
+    X_63_1        CAP_1_2                          -185
+    X_64_1        obj                 -16814.6177409418
+    X_64_1        ORD_64_0                           -1
+    X_64_1        ORD_64_1                            1
+    X_64_1        PREC_29_64_1                       -1
+    X_64_1        PREC_57_64_1                       -1
+    X_64_1        PREC_64_59_1                        1
+    X_64_1        PREC_64_63_1                        1
+    X_64_1        PREC_64_65_1                        1
+    X_64_1        PREC_64_66_1                        1
+    X_64_1        CAP_0_1                           672
+    X_64_1        CAP_0_2                          -672
+    X_64_1        CAP_1_1                           672
+    X_64_1        CAP_1_2                          -672
+    X_65_1        obj                 -9177.97885026408
+    X_65_1        ORD_65_0                           -1
+    X_65_1        ORD_65_1                            1
+    X_65_1        PREC_30_65_1                       -1
+    X_65_1        PREC_58_65_1                       -1
+    X_65_1        PREC_62_65_1                       -1
+    X_65_1        PREC_64_65_1                       -1
+    X_65_1        CAP_0_1                           571
+    X_65_1        CAP_0_2                          -571
+    X_65_1        CAP_1_1                           190
+    X_65_1        CAP_1_2                          -190
+    X_66_1        obj                 -2532.20136217755
+    X_66_1        ORD_66_0                           -1
+    X_66_1        ORD_66_1                            1
+    X_66_1        PREC_36_66_1                       -1
+    X_66_1        PREC_64_66_1                       -1
+    X_66_1        CAP_0_1                           131
+    X_66_1        CAP_0_2                          -131
+    X_66_1        CAP_1_1                            45
+    X_66_1        CAP_1_2                           -45
+    X_0_2         obj                 -2532.34455719648
+    X_0_2         ORD_0_1                            -1
+    X_0_2         ORD_0_2                             1
+    X_0_2         PREC_30_0_2                        -1
+    X_0_2         CAP_0_2                           301
+    X_0_2         CAP_0_3                          -301
+    X_0_2         CAP_1_2                           102
+    X_0_2         CAP_1_3                          -102
+    X_1_2         obj                 -16032.1094268554
+    X_1_2         ORD_1_1                            -1
+    X_1_2         ORD_1_2                             1
+    X_1_2         PREC_2_1_2                         -1
+    X_1_2         PREC_8_1_2                         -1
+    X_1_2         PREC_36_1_2                        -1
+    X_1_2         CAP_0_2                          1061
+    X_1_2         CAP_0_3                         -1061
+    X_1_2         CAP_1_2                           713
+    X_1_2         CAP_1_3                          -713
+    X_2_2         obj                 -27934.7361225511
+    X_2_2         ORD_2_1                            -1
+    X_2_2         ORD_2_2                             1
+    X_2_2         PREC_2_1_2                          1
+    X_2_2         PREC_2_3_2                          1
+    X_2_2         PREC_2_4_2                          1
+    X_2_2         PREC_2_13_2                         1
+    X_2_2         PREC_11_2_2                        -1
+    X_2_2         CAP_0_2                           648
+    X_2_2         CAP_0_3                          -648
+    X_2_2         CAP_1_2                           648
+    X_2_2         CAP_1_3                          -648
+    X_3_2         obj                 -41017.2150271496
+    X_3_2         ORD_3_1                            -1
+    X_3_2         ORD_3_2                             1
+    X_3_2         PREC_2_3_2                         -1
+    X_3_2         PREC_12_3_2                        -1
+    X_3_2         PREC_40_3_2                        -1
+    X_3_2         CAP_0_2                          1367
+    X_3_2         CAP_0_3                         -1367
+    X_3_2         CAP_1_2                          1118
+    X_3_2         CAP_1_3                         -1118
+    X_4_2         obj                 -8696.20481032461
+    X_4_2         ORD_4_1                            -1
+    X_4_2         ORD_4_2                             1
+    X_4_2         PREC_2_4_2                         -1
+    X_4_2         PREC_16_4_2                        -1
+    X_4_2         PREC_24_4_2                        -1
+    X_4_2         CAP_0_2                           849
+    X_4_2         CAP_0_3                          -849
+    X_4_2         CAP_1_2                           648
+    X_4_2         CAP_1_3                          -648
+    X_5_2         obj                 -3253.26895837163
+    X_5_2         ORD_5_1                            -1
+    X_5_2         ORD_5_2                             1
+    X_5_2         PREC_19_5_2                        -1
+    X_5_2         PREC_30_5_2                        -1
+    X_5_2         CAP_0_2                           321
+    X_5_2         CAP_0_3                          -321
+    X_5_2         CAP_1_2                           253
+    X_5_2         CAP_1_3                          -253
+    X_6_2         obj                  124.057989612572
+    X_6_2         ORD_6_1                            -1
+    X_6_2         ORD_6_2                             1
+    X_6_2         PREC_8_6_2                         -1
+    X_6_2         PREC_47_6_2                        -1
+    X_6_2         CAP_0_2                            48
+    X_6_2         CAP_0_3                           -48
+    X_7_2         obj                 -33400.2279726155
+    X_7_2         ORD_7_1                            -1
+    X_7_2         ORD_7_2                             1
+    X_7_2         PREC_7_8_2                          1
+    X_7_2         PREC_7_12_2                         1
+    X_7_2         PREC_7_26_2                         1
+    X_7_2         PREC_10_7_2                        -1
+    X_7_2         PREC_24_7_2                        -1
+    X_7_2         CAP_0_2                           724
+    X_7_2         CAP_0_3                          -724
+    X_7_2         CAP_1_2                           724
+    X_7_2         CAP_1_3                          -724
+    X_8_2         obj                 -28958.4314214521
+    X_8_2         ORD_8_1                            -1
+    X_8_2         ORD_8_2                             1
+    X_8_2         PREC_7_8_2                         -1
+    X_8_2         PREC_8_1_2                          1
+    X_8_2         PREC_8_6_2                          1
+    X_8_2         PREC_8_9_2                          1
+    X_8_2         PREC_8_13_2                         1
+    X_8_2         PREC_8_27_2                         1
+    X_8_2         PREC_11_8_2                        -1
+    X_8_2         PREC_25_8_2                        -1
+    X_8_2         PREC_51_8_2                        -1
+    X_8_2         CAP_0_2                          1989
+    X_8_2         CAP_0_3                         -1989
+    X_8_2         CAP_1_2                          1989
+    X_8_2         CAP_1_3                         -1989
+    X_9_2         obj                 -10740.9927929598
+    X_9_2         ORD_9_1                            -1
+    X_9_2         ORD_9_2                             1
+    X_9_2         PREC_8_9_2                         -1
+    X_9_2         PREC_12_9_2                        -1
+    X_9_2         PREC_26_9_2                        -1
+    X_9_2         PREC_52_9_2                        -1
+    X_9_2         CAP_0_2                          1225
+    X_9_2         CAP_0_3                         -1225
+    X_9_2         CAP_1_2                           584
+    X_9_2         CAP_1_3                          -584
+    X_10_2        obj                 -101588.745340085
+    X_10_2        ORD_10_1                           -1
+    X_10_2        ORD_10_2                            1
+    X_10_2        PREC_10_7_2                         1
+    X_10_2        PREC_10_11_2                        1
+    X_10_2        PREC_10_15_2                        1
+    X_10_2        PREC_10_31_2                        1
+    X_10_2        PREC_10_59_2                        1
+    X_10_2        PREC_29_10_2                       -1
+    X_10_2        CAP_0_2                          1432
+    X_10_2        CAP_0_3                         -1432
+    X_10_2        CAP_1_2                          1432
+    X_10_2        CAP_1_3                         -1432
+    X_11_2        obj                 -293748.498481236
+    X_11_2        ORD_11_1                           -1
+    X_11_2        ORD_11_2                            1
+    X_11_2        PREC_10_11_2                       -1
+    X_11_2        PREC_11_2_2                         1
+    X_11_2        PREC_11_8_2                         1
+    X_11_2        PREC_11_12_2                        1
+    X_11_2        PREC_11_16_2                        1
+    X_11_2        PREC_11_32_2                        1
+    X_11_2        PREC_14_11_2                       -1
+    X_11_2        PREC_30_11_2                       -1
+    X_11_2        CAP_0_2                          5001
+    X_11_2        CAP_0_3                         -5001
+    X_11_2        CAP_1_2                          5001
+    X_11_2        CAP_1_3                         -5001
+    X_12_2        obj                 -126009.950987595
+    X_12_2        ORD_12_1                           -1
+    X_12_2        ORD_12_2                            1
+    X_12_2        PREC_7_12_2                        -1
+    X_12_2        PREC_11_12_2                       -1
+    X_12_2        PREC_12_3_2                         1
+    X_12_2        PREC_12_9_2                         1
+    X_12_2        PREC_12_13_2                        1
+    X_12_2        PREC_12_17_2                        1
+    X_12_2        PREC_12_33_2                        1
+    X_12_2        PREC_15_12_2                       -1
+    X_12_2        PREC_31_12_2                       -1
+    X_12_2        CAP_0_2                          5835
+    X_12_2        CAP_0_3                         -5835
+    X_12_2        CAP_1_2                          5835
+    X_12_2        CAP_1_3                         -5835
+    X_13_2        obj                 -27526.9930797685
+    X_13_2        ORD_13_1                           -1
+    X_13_2        ORD_13_2                            1
+    X_13_2        PREC_2_13_2                        -1
+    X_13_2        PREC_8_13_2                        -1
+    X_13_2        PREC_12_13_2                       -1
+    X_13_2        PREC_16_13_2                       -1
+    X_13_2        PREC_32_13_2                       -1
+    X_13_2        PREC_56_13_2                       -1
+    X_13_2        CAP_0_2                          2318
+    X_13_2        CAP_0_3                         -2318
+    X_13_2        CAP_1_2                          1488
+    X_13_2        CAP_1_3                         -1488
+    X_14_2        obj                 -89703.4694121672
+    X_14_2        ORD_14_1                           -1
+    X_14_2        ORD_14_2                            1
+    X_14_2        PREC_14_11_2                        1
+    X_14_2        PREC_14_15_2                        1
+    X_14_2        PREC_14_18_2                        1
+    X_14_2        PREC_14_37_2                        1
+    X_14_2        PREC_14_46_2                        1
+    X_14_2        PREC_14_60_2                        1
+    X_14_2        PREC_35_14_2                       -1
+    X_14_2        CAP_0_2                          1432
+    X_14_2        CAP_0_3                         -1432
+    X_14_2        CAP_1_2                          1432
+    X_14_2        CAP_1_3                         -1432
+    X_15_2        obj                 -185219.446029959
+    X_15_2        ORD_15_1                           -1
+    X_15_2        ORD_15_2                            1
+    X_15_2        PREC_10_15_2                       -1
+    X_15_2        PREC_14_15_2                       -1
+    X_15_2        PREC_15_12_2                        1
+    X_15_2        PREC_15_16_2                        1
+    X_15_2        PREC_15_19_2                        1
+    X_15_2        PREC_15_38_2                        1
+    X_15_2        PREC_36_15_2                       -1
+    X_15_2        CAP_0_2                          4296
+    X_15_2        CAP_0_3                         -4296
+    X_15_2        CAP_1_2                          4296
+    X_15_2        CAP_1_3                         -4296
+    X_16_2        obj                 -194141.210821397
+    X_16_2        ORD_16_1                           -1
+    X_16_2        ORD_16_2                            1
+    X_16_2        PREC_11_16_2                       -1
+    X_16_2        PREC_15_16_2                       -1
+    X_16_2        PREC_16_4_2                         1
+    X_16_2        PREC_16_13_2                        1
+    X_16_2        PREC_16_17_2                        1
+    X_16_2        PREC_16_20_2                        1
+    X_16_2        PREC_16_39_2                        1
+    X_16_2        PREC_18_16_2                       -1
+    X_16_2        PREC_37_16_2                       -1
+    X_16_2        CAP_0_2                          5965
+    X_16_2        CAP_0_3                         -5965
+    X_16_2        CAP_1_2                          5528
+    X_16_2        CAP_1_3                         -5528
+    X_17_2        obj                 -69047.3803724796
+    X_17_2        ORD_17_1                           -1
+    X_17_2        ORD_17_2                            1
+    X_17_2        PREC_12_17_2                       -1
+    X_17_2        PREC_16_17_2                       -1
+    X_17_2        PREC_19_17_2                       -1
+    X_17_2        PREC_38_17_2                       -1
+    X_17_2        CAP_0_2                          2733
+    X_17_2        CAP_0_3                         -2733
+    X_17_2        CAP_1_2                          1776
+    X_17_2        CAP_1_3                         -1776
+    X_18_2        obj                 -31751.9050337072
+    X_18_2        ORD_18_1                           -1
+    X_18_2        ORD_18_2                            1
+    X_18_2        PREC_14_18_2                       -1
+    X_18_2        PREC_18_16_2                        1
+    X_18_2        PREC_18_19_2                        1
+    X_18_2        PREC_18_42_2                        1
+    X_18_2        PREC_40_18_2                       -1
+    X_18_2        CAP_0_2                           716
+    X_18_2        CAP_0_3                          -716
+    X_18_2        CAP_1_2                           716
+    X_18_2        CAP_1_3                          -716
+    X_19_2        obj                 -56563.5029562215
+    X_19_2        ORD_19_1                           -1
+    X_19_2        ORD_19_2                            1
+    X_19_2        PREC_15_19_2                       -1
+    X_19_2        PREC_18_19_2                       -1
+    X_19_2        PREC_19_5_2                         1
+    X_19_2        PREC_19_17_2                        1
+    X_19_2        PREC_19_20_2                        1
+    X_19_2        PREC_19_21_2                        1
+    X_19_2        PREC_19_43_2                        1
+    X_19_2        PREC_41_19_2                       -1
+    X_19_2        CAP_0_2                          1965
+    X_19_2        CAP_0_3                         -1965
+    X_19_2        CAP_1_2                          1964
+    X_19_2        CAP_1_3                         -1964
+    X_20_2        obj                 -42564.9035129456
+    X_20_2        ORD_20_1                           -1
+    X_20_2        ORD_20_2                            1
+    X_20_2        PREC_16_20_2                       -1
+    X_20_2        PREC_19_20_2                       -1
+    X_20_2        PREC_42_20_2                       -1
+    X_20_2        PREC_47_20_2                       -1
+    X_20_2        CAP_0_2                          2496
+    X_20_2        CAP_0_3                         -2496
+    X_20_2        CAP_1_2                          1791
+    X_20_2        CAP_1_3                         -1791
+    X_21_2        obj                 -2116.79366891381
+    X_21_2        ORD_21_1                           -1
+    X_21_2        ORD_21_2                            1
+    X_21_2        PREC_19_21_2                       -1
+    X_21_2        PREC_52_21_2                       -1
+    X_21_2        CAP_0_2                           244
+    X_21_2        CAP_0_3                          -244
+    X_21_2        CAP_1_2                           215
+    X_21_2        CAP_1_3                          -215
+    X_22_2        obj                 -4849.53959394598
+    X_22_2        ORD_22_1                           -1
+    X_22_2        ORD_22_2                            1
+    X_22_2        PREC_56_22_2                       -1
+    X_22_2        CAP_0_2                           339
+    X_22_2        CAP_0_3                          -339
+    X_22_2        CAP_1_2                           283
+    X_22_2        CAP_1_3                          -283
+    X_23_2        obj                  212.113136085831
+    X_23_2        ORD_23_1                           -1
+    X_23_2        ORD_23_2                            1
+    X_23_2        PREC_26_23_2                       -1
+    X_23_2        CAP_0_2                            85
+    X_23_2        CAP_0_3                           -85
+    X_24_2        obj                 -45719.2730949827
+    X_24_2        ORD_24_1                           -1
+    X_24_2        ORD_24_2                            1
+    X_24_2        PREC_24_7_2                         1
+    X_24_2        PREC_24_25_2                        1
+    X_24_2        PREC_24_31_2                        1
+    X_24_2        PREC_24_4_2                         1
+    X_24_2        PREC_24_63_2                        1
+    X_24_2        PREC_29_24_2                       -1
+    X_24_2        CAP_0_2                           724
+    X_24_2        CAP_0_3                          -724
+    X_24_2        CAP_1_2                           724
+    X_24_2        CAP_1_3                          -724
+    X_25_2        obj                 -167087.893701967
+    X_25_2        ORD_25_1                           -1
+    X_25_2        ORD_25_2                            1
+    X_25_2        PREC_24_25_2                       -1
+    X_25_2        PREC_25_8_2                         1
+    X_25_2        PREC_25_26_2                        1
+    X_25_2        PREC_25_32_2                        1
+    X_25_2        PREC_25_45_2                        1
+    X_25_2        PREC_30_25_2                       -1
+    X_25_2        CAP_0_2                          3620
+    X_25_2        CAP_0_3                         -3620
+    X_25_2        CAP_1_2                          3620
+    X_25_2        CAP_1_3                         -3620
+    X_26_2        obj                 -133687.665729352
+    X_26_2        ORD_26_1                           -1
+    X_26_2        ORD_26_2                            1
+    X_26_2        PREC_7_26_2                        -1
+    X_26_2        PREC_25_26_2                       -1
+    X_26_2        PREC_26_9_2                         1
+    X_26_2        PREC_26_23_2                        1
+    X_26_2        PREC_26_27_2                        1
+    X_26_2        PREC_26_33_2                        1
+    X_26_2        PREC_26_46_2                        1
+    X_26_2        PREC_31_26_2                       -1
+    X_26_2        CAP_0_2                          5384
+    X_26_2        CAP_0_3                         -5384
+    X_26_2        CAP_1_2                          5360
+    X_26_2        CAP_1_3                         -5360
+    X_27_2        obj                   -7635.205360701
+    X_27_2        ORD_27_1                           -1
+    X_27_2        ORD_27_2                            1
+    X_27_2        PREC_8_27_2                        -1
+    X_27_2        PREC_26_27_2                       -1
+    X_27_2        PREC_32_27_2                       -1
+    X_27_2        PREC_45_27_2                       -1
+    X_27_2        CAP_0_2                          1376
+    X_27_2        CAP_0_3                         -1376
+    X_27_2        CAP_1_2                           438
+    X_27_2        CAP_1_3                          -438
+    X_28_2        obj                 -55869.4722451022
+    X_28_2        ORD_28_1                           -1
+    X_28_2        ORD_28_2                            1
+    X_28_2        PREC_28_29_2                        1
+    X_28_2        PREC_28_35_2                        1
+    X_28_2        CAP_0_2                           716
+    X_28_2        CAP_0_3                          -716
+    X_28_2        CAP_1_2                           716
+    X_28_2        CAP_1_3                          -716
+    X_29_2        obj                 -247682.210030694
+    X_29_2        ORD_29_1                           -1
+    X_29_2        ORD_29_2                            1
+    X_29_2        PREC_28_29_2                       -1
+    X_29_2        PREC_29_10_2                        1
+    X_29_2        PREC_29_24_2                        1
+    X_29_2        PREC_29_30_2                        1
+    X_29_2        PREC_29_36_2                        1
+    X_29_2        PREC_29_47_2                        1
+    X_29_2        PREC_29_64_2                        1
+    X_29_2        PREC_34_29_2                       -1
+    X_29_2        CAP_0_2                          3580
+    X_29_2        CAP_0_3                         -3580
+    X_29_2        CAP_1_2                          3580
+    X_29_2        CAP_1_3                         -3580
+    X_30_2        obj                 -398026.612826908
+    X_30_2        ORD_30_1                           -1
+    X_30_2        ORD_30_2                            1
+    X_30_2        PREC_29_30_2                       -1
+    X_30_2        PREC_30_11_2                        1
+    X_30_2        PREC_30_25_2                        1
+    X_30_2        PREC_30_31_2                        1
+    X_30_2        PREC_30_37_2                        1
+    X_30_2        PREC_30_48_2                        1
+    X_30_2        PREC_30_0_2                         1
+    X_30_2        PREC_30_5_2                         1
+    X_30_2        PREC_30_65_2                        1
+    X_30_2        PREC_35_30_2                       -1
+    X_30_2        CAP_0_2                          6483
+    X_30_2        CAP_0_3                         -6483
+    X_30_2        CAP_1_2                          6483
+    X_30_2        CAP_1_3                         -6483
+    X_31_2        obj                 -319861.403987099
+    X_31_2        ORD_31_1                           -1
+    X_31_2        ORD_31_2                            1
+    X_31_2        PREC_10_31_2                       -1
+    X_31_2        PREC_24_31_2                       -1
+    X_31_2        PREC_30_31_2                       -1
+    X_31_2        PREC_31_12_2                        1
+    X_31_2        PREC_31_26_2                        1
+    X_31_2        PREC_31_32_2                        1
+    X_31_2        PREC_31_38_2                        1
+    X_31_2        PREC_31_49_2                        1
+    X_31_2        PREC_36_31_2                       -1
+    X_31_2        PREC_47_31_2                       -1
+    X_31_2        CAP_0_2                          6507
+    X_31_2        CAP_0_3                         -6507
+    X_31_2        CAP_1_2                          6507
+    X_31_2        CAP_1_3                         -6507
+    X_32_2        obj                 -128916.204590407
+    X_32_2        ORD_32_1                           -1
+    X_32_2        ORD_32_2                            1
+    X_32_2        PREC_11_32_2                       -1
+    X_32_2        PREC_25_32_2                       -1
+    X_32_2        PREC_31_32_2                       -1
+    X_32_2        PREC_32_13_2                        1
+    X_32_2        PREC_32_27_2                        1
+    X_32_2        PREC_32_33_2                        1
+    X_32_2        PREC_32_39_2                        1
+    X_32_2        PREC_32_50_2                        1
+    X_32_2        PREC_37_32_2                       -1
+    X_32_2        PREC_48_32_2                       -1
+    X_32_2        CAP_0_2                          6049
+    X_32_2        CAP_0_3                         -6049
+    X_32_2        CAP_1_2                          6025
+    X_32_2        CAP_1_3                         -6025
+    X_33_2        obj                 -14715.1861525066
+    X_33_2        ORD_33_1                           -1
+    X_33_2        ORD_33_2                            1
+    X_33_2        PREC_12_33_2                       -1
+    X_33_2        PREC_26_33_2                       -1
+    X_33_2        PREC_32_33_2                       -1
+    X_33_2        PREC_38_33_2                       -1
+    X_33_2        PREC_49_33_2                       -1
+    X_33_2        CAP_0_2                          2548
+    X_33_2        CAP_0_3                         -2548
+    X_33_2        CAP_1_2                           984
+    X_33_2        CAP_1_3                          -984
+    X_34_2        obj                 -112259.467523544
+    X_34_2        ORD_34_1                           -1
+    X_34_2        ORD_34_2                            1
+    X_34_2        PREC_34_29_2                        1
+    X_34_2        PREC_34_35_2                        1
+    X_34_2        PREC_34_51_2                        1
+    X_34_2        CAP_0_2                          1432
+    X_34_2        CAP_0_3                         -1432
+    X_34_2        CAP_1_2                          1432
+    X_34_2        CAP_1_3                         -1432
+    X_35_2        obj                 -383365.214054513
+    X_35_2        ORD_35_1                           -1
+    X_35_2        ORD_35_2                            1
+    X_35_2        PREC_28_35_2                       -1
+    X_35_2        PREC_34_35_2                       -1
+    X_35_2        PREC_35_14_2                        1
+    X_35_2        PREC_35_30_2                        1
+    X_35_2        PREC_35_36_2                        1
+    X_35_2        PREC_35_40_2                        1
+    X_35_2        PREC_35_52_2                        1
+    X_35_2        CAP_0_2                          5728
+    X_35_2        CAP_0_3                         -5728
+    X_35_2        CAP_1_2                          5728
+    X_35_2        CAP_1_3                         -5728
+    X_36_2        obj                 -413555.549988202
+    X_36_2        ORD_36_1                           -1
+    X_36_2        ORD_36_2                            1
+    X_36_2        PREC_29_36_2                       -1
+    X_36_2        PREC_35_36_2                       -1
+    X_36_2        PREC_36_15_2                        1
+    X_36_2        PREC_36_31_2                        1
+    X_36_2        PREC_36_37_2                        1
+    X_36_2        PREC_36_41_2                        1
+    X_36_2        PREC_36_53_2                        1
+    X_36_2        PREC_36_1_2                         1
+    X_36_2        PREC_36_66_2                        1
+    X_36_2        PREC_51_36_2                       -1
+    X_36_2        CAP_0_2                          6444
+    X_36_2        CAP_0_3                         -6444
+    X_36_2        CAP_1_2                          6444
+    X_36_2        CAP_1_3                         -6444
+    X_37_2        obj                 -366187.953954312
+    X_37_2        ORD_37_1                           -1
+    X_37_2        ORD_37_2                            1
+    X_37_2        PREC_14_37_2                       -1
+    X_37_2        PREC_30_37_2                       -1
+    X_37_2        PREC_36_37_2                       -1
+    X_37_2        PREC_37_16_2                        1
+    X_37_2        PREC_37_32_2                        1
+    X_37_2        PREC_37_38_2                        1
+    X_37_2        PREC_37_42_2                        1
+    X_37_2        PREC_37_54_2                        1
+    X_37_2        PREC_40_37_2                       -1
+    X_37_2        PREC_52_37_2                       -1
+    X_37_2        CAP_0_2                          6447
+    X_37_2        CAP_0_3                         -6447
+    X_37_2        CAP_1_2                          6447
+    X_37_2        CAP_1_3                         -6447
+    X_38_2        obj                 -239640.129165599
+    X_38_2        ORD_38_1                           -1
+    X_38_2        ORD_38_2                            1
+    X_38_2        PREC_15_38_2                       -1
+    X_38_2        PREC_31_38_2                       -1
+    X_38_2        PREC_37_38_2                       -1
+    X_38_2        PREC_38_17_2                        1
+    X_38_2        PREC_38_33_2                        1
+    X_38_2        PREC_38_39_2                        1
+    X_38_2        PREC_38_43_2                        1
+    X_38_2        PREC_38_55_2                        1
+    X_38_2        PREC_41_38_2                       -1
+    X_38_2        PREC_53_38_2                       -1
+    X_38_2        CAP_0_2                          6040
+    X_38_2        CAP_0_3                         -6040
+    X_38_2        CAP_1_2                          5960
+    X_38_2        CAP_1_3                         -5960
+    X_39_2        obj                 -58596.1454014121
+    X_39_2        ORD_39_1                           -1
+    X_39_2        ORD_39_2                            1
+    X_39_2        PREC_16_39_2                       -1
+    X_39_2        PREC_32_39_2                       -1
+    X_39_2        PREC_38_39_2                       -1
+    X_39_2        PREC_42_39_2                       -1
+    X_39_2        PREC_54_39_2                       -1
+    X_39_2        CAP_0_2                          2814
+    X_39_2        CAP_0_3                         -2814
+    X_39_2        CAP_1_2                          1584
+    X_39_2        CAP_1_3                         -1584
+    X_40_2        obj                 -101588.745340085
+    X_40_2        ORD_40_1                           -1
+    X_40_2        ORD_40_2                            1
+    X_40_2        PREC_35_40_2                       -1
+    X_40_2        PREC_40_18_2                        1
+    X_40_2        PREC_40_37_2                        1
+    X_40_2        PREC_40_41_2                        1
+    X_40_2        PREC_40_57_2                        1
+    X_40_2        PREC_40_3_2                         1
+    X_40_2        PREC_40_61_2                        1
+    X_40_2        CAP_0_2                          1432
+    X_40_2        CAP_0_3                         -1432
+    X_40_2        CAP_1_2                          1432
+    X_40_2        CAP_1_3                         -1432
+    X_41_2        obj                 -210638.320824702
+    X_41_2        ORD_41_1                           -1
+    X_41_2        ORD_41_2                            1
+    X_41_2        PREC_36_41_2                       -1
+    X_41_2        PREC_40_41_2                       -1
+    X_41_2        PREC_41_19_2                        1
+    X_41_2        PREC_41_38_2                        1
+    X_41_2        PREC_41_42_2                        1
+    X_41_2        PREC_41_58_2                        1
+    X_41_2        PREC_56_41_2                       -1
+    X_41_2        CAP_0_2                          4296
+    X_41_2        CAP_0_3                         -4296
+    X_41_2        CAP_1_2                          4296
+    X_41_2        CAP_1_3                         -4296
+    X_42_2        obj                  -202743.72148572
+    X_42_2        ORD_42_1                           -1
+    X_42_2        ORD_42_2                            1
+    X_42_2        PREC_18_42_2                       -1
+    X_42_2        PREC_37_42_2                       -1
+    X_42_2        PREC_41_42_2                       -1
+    X_42_2        PREC_42_20_2                        1
+    X_42_2        PREC_42_39_2                        1
+    X_42_2        PREC_42_43_2                        1
+    X_42_2        PREC_42_44_2                        1
+    X_42_2        PREC_42_59_2                        1
+    X_42_2        PREC_57_42_2                       -1
+    X_42_2        CAP_0_2                          5997
+    X_42_2        CAP_0_3                         -5997
+    X_42_2        CAP_1_2                          5992
+    X_42_2        CAP_1_3                         -5992
+    X_43_2        obj                 -71589.2678519539
+    X_43_2        ORD_43_1                           -1
+    X_43_2        ORD_43_2                            1
+    X_43_2        PREC_19_43_2                       -1
+    X_43_2        PREC_38_43_2                       -1
+    X_43_2        PREC_42_43_2                       -1
+    X_43_2        PREC_58_43_2                       -1
+    X_43_2        CAP_0_2                          2525
+    X_43_2        CAP_0_3                         -2525
+    X_43_2        CAP_1_2                          1776
+    X_43_2        CAP_1_3                         -1776
+    X_44_2        obj                 -22642.7519502666
+    X_44_2        ORD_44_1                           -1
+    X_44_2        ORD_44_2                            1
+    X_44_2        PREC_42_44_2                       -1
+    X_44_2        CAP_0_2                          1078
+    X_44_2        CAP_0_3                         -1078
+    X_44_2        CAP_1_2                           874
+    X_44_2        CAP_1_3                          -874
+    X_45_2        obj                 -6922.95634341484
+    X_45_2        ORD_45_1                           -1
+    X_45_2        ORD_45_2                            1
+    X_45_2        PREC_25_45_2                       -1
+    X_45_2        PREC_45_27_2                        1
+    X_45_2        PREC_45_46_2                        1
+    X_45_2        PREC_45_50_2                        1
+    X_45_2        PREC_48_45_2                       -1
+    X_45_2        CAP_0_2                           673
+    X_45_2        CAP_0_3                          -673
+    X_45_2        CAP_1_2                           673
+    X_45_2        CAP_1_3                          -673
+    X_46_2        obj                  26.0261516669731
+    X_46_2        ORD_46_1                           -1
+    X_46_2        ORD_46_2                            1
+    X_46_2        PREC_14_46_2                       -1
+    X_46_2        PREC_26_46_2                       -1
+    X_46_2        PREC_45_46_2                       -1
+    X_46_2        PREC_49_46_2                       -1
+    X_46_2        CAP_0_2                           745
+    X_46_2        CAP_0_3                          -745
+    X_46_2        CAP_1_2                            59
+    X_46_2        CAP_1_3                           -59
+    X_47_2        obj                 -31838.6588725971
+    X_47_2        ORD_47_1                           -1
+    X_47_2        ORD_47_2                            1
+    X_47_2        PREC_29_47_2                       -1
+    X_47_2        PREC_47_31_2                        1
+    X_47_2        PREC_47_48_2                        1
+    X_47_2        PREC_47_53_2                        1
+    X_47_2        PREC_47_6_2                         1
+    X_47_2        PREC_47_20_2                        1
+    X_47_2        PREC_51_47_2                       -1
+    X_47_2        CAP_0_2                           722
+    X_47_2        CAP_0_3                          -722
+    X_47_2        CAP_1_2                           722
+    X_47_2        CAP_1_3                          -722
+    X_48_2        obj                 -88055.1464732589
+    X_48_2        ORD_48_1                           -1
+    X_48_2        ORD_48_2                            1
+    X_48_2        PREC_30_48_2                       -1
+    X_48_2        PREC_47_48_2                       -1
+    X_48_2        PREC_48_32_2                        1
+    X_48_2        PREC_48_45_2                        1
+    X_48_2        PREC_48_49_2                        1
+    X_48_2        PREC_48_54_2                        1
+    X_48_2        PREC_52_48_2                       -1
+    X_48_2        CAP_0_2                          2896
+    X_48_2        CAP_0_3                         -2896
+    X_48_2        CAP_1_2                          2896
+    X_48_2        CAP_1_3                         -2896
+    X_49_2        obj                 -53292.8832300719
+    X_49_2        ORD_49_1                           -1
+    X_49_2        ORD_49_2                            1
+    X_49_2        PREC_31_49_2                       -1
+    X_49_2        PREC_48_49_2                       -1
+    X_49_2        PREC_49_33_2                        1
+    X_49_2        PREC_49_46_2                        1
+    X_49_2        PREC_49_50_2                        1
+    X_49_2        PREC_49_55_2                        1
+    X_49_2        PREC_49_61_2                        1
+    X_49_2        PREC_53_49_2                       -1
+    X_49_2        CAP_0_2                          4711
+    X_49_2        CAP_0_3                         -4711
+    X_49_2        CAP_1_2                          4687
+    X_49_2        CAP_1_3                         -4687
+    X_50_2        obj                 -9987.10193300647
+    X_50_2        ORD_50_1                           -1
+    X_50_2        ORD_50_2                            1
+    X_50_2        PREC_32_50_2                       -1
+    X_50_2        PREC_45_50_2                       -1
+    X_50_2        PREC_49_50_2                       -1
+    X_50_2        PREC_54_50_2                       -1
+    X_50_2        CAP_0_2                          1818
+    X_50_2        CAP_0_3                         -1818
+    X_50_2        CAP_1_2                           611
+    X_50_2        CAP_1_3                          -611
+    X_51_2        obj                 -99246.3916900574
+    X_51_2        ORD_51_1                           -1
+    X_51_2        ORD_51_2                            1
+    X_51_2        PREC_34_51_2                       -1
+    X_51_2        PREC_51_36_2                        1
+    X_51_2        PREC_51_47_2                        1
+    X_51_2        PREC_51_52_2                        1
+    X_51_2        PREC_51_56_2                        1
+    X_51_2        PREC_51_8_2                         1
+    X_51_2        CAP_0_2                          1432
+    X_51_2        CAP_0_3                         -1432
+    X_51_2        CAP_1_2                          1432
+    X_51_2        CAP_1_3                         -1432
+    X_52_2        obj                 -245600.117897336
+    X_52_2        ORD_52_1                           -1
+    X_52_2        ORD_52_2                            1
+    X_52_2        PREC_35_52_2                       -1
+    X_52_2        PREC_51_52_2                       -1
+    X_52_2        PREC_52_37_2                        1
+    X_52_2        PREC_52_48_2                        1
+    X_52_2        PREC_52_53_2                        1
+    X_52_2        PREC_52_57_2                        1
+    X_52_2        PREC_52_9_2                         1
+    X_52_2        PREC_52_21_2                        1
+    X_52_2        CAP_0_2                          3580
+    X_52_2        CAP_0_3                         -3580
+    X_52_2        CAP_1_2                          3580
+    X_52_2        CAP_1_3                         -3580
+    X_53_2        obj                 -301816.605497998
+    X_53_2        ORD_53_1                           -1
+    X_53_2        ORD_53_2                            1
+    X_53_2        PREC_36_53_2                       -1
+    X_53_2        PREC_47_53_2                       -1
+    X_53_2        PREC_52_53_2                       -1
+    X_53_2        PREC_53_38_2                        1
+    X_53_2        PREC_53_49_2                        1
+    X_53_2        PREC_53_54_2                        1
+    X_53_2        PREC_53_58_2                        1
+    X_53_2        PREC_53_62_2                        1
+    X_53_2        PREC_56_53_2                       -1
+    X_53_2        CAP_0_2                          5759
+    X_53_2        CAP_0_3                         -5759
+    X_53_2        CAP_1_2                          5759
+    X_53_2        CAP_1_3                         -5759
+    X_54_2        obj                 -127701.650845948
+    X_54_2        ORD_54_1                           -1
+    X_54_2        ORD_54_2                            1
+    X_54_2        PREC_37_54_2                       -1
+    X_54_2        PREC_48_54_2                       -1
+    X_54_2        PREC_53_54_2                       -1
+    X_54_2        PREC_54_39_2                        1
+    X_54_2        PREC_54_50_2                        1
+    X_54_2        PREC_54_55_2                        1
+    X_54_2        PREC_54_59_2                        1
+    X_54_2        PREC_54_63_2                        1
+    X_54_2        PREC_57_54_2                       -1
+    X_54_2        CAP_0_2                          6054
+    X_54_2        CAP_0_3                         -6054
+    X_54_2        CAP_1_2                          6029
+    X_54_2        CAP_1_3                         -6029
+    X_55_2        obj                 -29210.0175542328
+    X_55_2        ORD_55_1                           -1
+    X_55_2        ORD_55_2                            1
+    X_55_2        PREC_38_55_2                       -1
+    X_55_2        PREC_49_55_2                       -1
+    X_55_2        PREC_54_55_2                       -1
+    X_55_2        PREC_58_55_2                       -1
+    X_55_2        PREC_62_55_2                       -1
+    X_55_2        CAP_0_2                          2081
+    X_55_2        CAP_0_3                         -2081
+    X_55_2        CAP_1_2                          1135
+    X_55_2        CAP_1_3                         -1135
+    X_56_2        obj                 -103063.560601213
+    X_56_2        ORD_56_1                           -1
+    X_56_2        ORD_56_2                            1
+    X_56_2        PREC_51_56_2                       -1
+    X_56_2        PREC_56_41_2                        1
+    X_56_2        PREC_56_53_2                        1
+    X_56_2        PREC_56_57_2                        1
+    X_56_2        PREC_56_13_2                        1
+    X_56_2        PREC_56_22_2                        1
+    X_56_2        CAP_0_2                          1432
+    X_56_2        CAP_0_3                         -1432
+    X_56_2        CAP_1_2                          1432
+    X_56_2        CAP_1_3                         -1432
+    X_57_2        obj                 -207601.936463555
+    X_57_2        ORD_57_1                           -1
+    X_57_2        ORD_57_2                            1
+    X_57_2        PREC_40_57_2                       -1
+    X_57_2        PREC_52_57_2                       -1
+    X_57_2        PREC_56_57_2                       -1
+    X_57_2        PREC_57_42_2                        1
+    X_57_2        PREC_57_54_2                        1
+    X_57_2        PREC_57_58_2                        1
+    X_57_2        PREC_57_64_2                        1
+    X_57_2        CAP_0_2                          3580
+    X_57_2        CAP_0_3                         -3580
+    X_57_2        CAP_1_2                          3580
+    X_57_2        CAP_1_3                         -3580
+    X_58_2        obj                 -206040.367363537
+    X_58_2        ORD_58_1                           -1
+    X_58_2        ORD_58_2                            1
+    X_58_2        PREC_41_58_2                       -1
+    X_58_2        PREC_53_58_2                       -1
+    X_58_2        PREC_57_58_2                       -1
+    X_58_2        PREC_58_43_2                        1
+    X_58_2        PREC_58_55_2                        1
+    X_58_2        PREC_58_59_2                        1
+    X_58_2        PREC_58_60_2                        1
+    X_58_2        PREC_58_65_2                        1
+    X_58_2        CAP_0_2                          5368
+    X_58_2        CAP_0_3                         -5368
+    X_58_2        CAP_1_2                          5360
+    X_58_2        CAP_1_3                         -5360
+    X_59_2        obj                 -60805.7656779381
+    X_59_2        ORD_59_1                           -1
+    X_59_2        ORD_59_2                            1
+    X_59_2        PREC_10_59_2                       -1
+    X_59_2        PREC_42_59_2                       -1
+    X_59_2        PREC_54_59_2                       -1
+    X_59_2        PREC_58_59_2                       -1
+    X_59_2        PREC_64_59_2                       -1
+    X_59_2        CAP_0_2                          2013
+    X_59_2        CAP_0_3                         -2013
+    X_59_2        CAP_1_2                          1160
+    X_59_2        CAP_1_3                         -1160
+    X_60_2        obj                 -25566.3563208566
+    X_60_2        ORD_60_1                           -1
+    X_60_2        ORD_60_2                            1
+    X_60_2        PREC_14_60_2                       -1
+    X_60_2        PREC_58_60_2                       -1
+    X_60_2        CAP_0_2                          1030
+    X_60_2        CAP_0_3                         -1030
+    X_60_2        CAP_1_2                           676
+    X_60_2        CAP_1_3                          -676
+    X_61_2        obj                  808.545778453964
+    X_61_2        ORD_61_1                           -1
+    X_61_2        ORD_61_2                            1
+    X_61_2        PREC_40_61_2                       -1
+    X_61_2        PREC_49_61_2                       -1
+    X_61_2        PREC_62_61_2                       -1
+    X_61_2        CAP_0_2                           311
+    X_61_2        CAP_0_3                          -311
+    X_62_2        obj                 -16552.6324601949
+    X_62_2        ORD_62_1                           -1
+    X_62_2        ORD_62_2                            1
+    X_62_2        PREC_53_62_2                       -1
+    X_62_2        PREC_62_55_2                        1
+    X_62_2        PREC_62_61_2                        1
+    X_62_2        PREC_62_63_2                        1
+    X_62_2        PREC_62_65_2                        1
+    X_62_2        CAP_0_2                          1346
+    X_62_2        CAP_0_3                         -1346
+    X_62_2        CAP_1_2                          1322
+    X_62_2        CAP_1_3                         -1322
+    X_63_2        obj                 -3055.47020570264
+    X_63_2        ORD_63_1                           -1
+    X_63_2        ORD_63_2                            1
+    X_63_2        PREC_24_63_2                       -1
+    X_63_2        PREC_54_63_2                       -1
+    X_63_2        PREC_62_63_2                       -1
+    X_63_2        PREC_64_63_2                       -1
+    X_63_2        CAP_0_2                           702
+    X_63_2        CAP_0_3                          -702
+    X_63_2        CAP_1_2                           185
+    X_63_2        CAP_1_3                          -185
+    X_64_2        obj                 -14574.6449335049
+    X_64_2        ORD_64_1                           -1
+    X_64_2        ORD_64_2                            1
+    X_64_2        PREC_29_64_2                       -1
+    X_64_2        PREC_57_64_2                       -1
+    X_64_2        PREC_64_59_2                        1
+    X_64_2        PREC_64_63_2                        1
+    X_64_2        PREC_64_65_2                        1
+    X_64_2        PREC_64_66_2                        1
+    X_64_2        CAP_0_2                           672
+    X_64_2        CAP_0_3                          -672
+    X_64_2        CAP_1_2                           672
+    X_64_2        CAP_1_3                          -672
+    X_65_2        obj                 -7955.32702620477
+    X_65_2        ORD_65_1                           -1
+    X_65_2        ORD_65_2                            1
+    X_65_2        PREC_30_65_2                       -1
+    X_65_2        PREC_58_65_2                       -1
+    X_65_2        PREC_62_65_2                       -1
+    X_65_2        PREC_64_65_2                       -1
+    X_65_2        CAP_0_2                           571
+    X_65_2        CAP_0_3                          -571
+    X_65_2        CAP_1_2                           190
+    X_65_2        CAP_1_3                          -190
+    X_66_2        obj                 -2194.87212391473
+    X_66_2        ORD_66_1                           -1
+    X_66_2        ORD_66_2                            1
+    X_66_2        PREC_36_66_2                       -1
+    X_66_2        PREC_64_66_2                       -1
+    X_66_2        CAP_0_2                           131
+    X_66_2        CAP_0_3                          -131
+    X_66_2        CAP_1_2                            45
+    X_66_2        CAP_1_3                           -45
+    X_0_3         obj                 -2194.99624309421
+    X_0_3         ORD_0_2                            -1
+    X_0_3         ORD_0_3                             1
+    X_0_3         PREC_30_0_3                        -1
+    X_0_3         CAP_0_3                           301
+    X_0_3         CAP_0_4                          -301
+    X_0_3         CAP_1_3                           102
+    X_0_3         CAP_1_4                          -102
+    X_1_3         obj                 -13896.3790929705
+    X_1_3         ORD_1_2                            -1
+    X_1_3         ORD_1_3                             1
+    X_1_3         PREC_2_1_3                         -1
+    X_1_3         PREC_8_1_3                         -1
+    X_1_3         PREC_36_1_3                        -1
+    X_1_3         CAP_0_3                          1061
+    X_1_3         CAP_0_4                         -1061
+    X_1_3         CAP_1_3                           713
+    X_1_3         CAP_1_4                          -713
+    X_2_3         obj                 -24213.3878135092
+    X_2_3         ORD_2_2                            -1
+    X_2_3         ORD_2_3                             1
+    X_2_3         PREC_2_1_3                          1
+    X_2_3         PREC_2_3_3                          1
+    X_2_3         PREC_2_4_3                          1
+    X_2_3         PREC_2_13_3                         1
+    X_2_3         PREC_11_2_3                        -1
+    X_2_3         CAP_0_3                           648
+    X_2_3         CAP_0_4                          -648
+    X_2_3         CAP_1_3                           648
+    X_2_3         CAP_1_4                          -648
+    X_3_3         obj                 -35553.0737833141
+    X_3_3         ORD_3_2                            -1
+    X_3_3         ORD_3_3                             1
+    X_3_3         PREC_2_3_3                         -1
+    X_3_3         PREC_12_3_3                        -1
+    X_3_3         PREC_40_3_3                        -1
+    X_3_3         CAP_0_3                          1367
+    X_3_3         CAP_0_4                         -1367
+    X_3_3         CAP_1_3                          1118
+    X_3_3         CAP_1_4                         -1118
+    X_4_3         obj                 -7537.73290194461
+    X_4_3         ORD_4_2                            -1
+    X_4_3         ORD_4_3                             1
+    X_4_3         PREC_2_4_3                         -1
+    X_4_3         PREC_16_4_3                        -1
+    X_4_3         PREC_24_4_3                        -1
+    X_4_3         CAP_0_3                           849
+    X_4_3         CAP_0_4                          -849
+    X_4_3         CAP_1_3                           648
+    X_4_3         CAP_1_4                          -648
+    X_5_3         obj                  -2819.8821211385
+    X_5_3         ORD_5_2                            -1
+    X_5_3         ORD_5_3                             1
+    X_5_3         PREC_19_5_3                        -1
+    X_5_3         PREC_30_5_3                        -1
+    X_5_3         CAP_0_3                           321
+    X_5_3         CAP_0_4                          -321
+    X_5_3         CAP_1_3                           253
+    X_5_3         CAP_1_4                          -253
+    X_6_3         obj                  107.531504886081
+    X_6_3         ORD_6_2                            -1
+    X_6_3         ORD_6_3                             1
+    X_6_3         PREC_8_6_3                         -1
+    X_6_3         PREC_47_6_3                        -1
+    X_6_3         CAP_0_3                            48
+    X_6_3         CAP_0_4                           -48
+    X_7_3         obj                 -28950.7897770219
+    X_7_3         ORD_7_2                            -1
+    X_7_3         ORD_7_3                             1
+    X_7_3         PREC_7_8_3                          1
+    X_7_3         PREC_7_12_3                         1
+    X_7_3         PREC_7_26_3                         1
+    X_7_3         PREC_10_7_3                        -1
+    X_7_3         PREC_24_7_3                        -1
+    X_7_3         CAP_0_3                           724
+    X_7_3         CAP_0_4                          -724
+    X_7_3         CAP_1_3                           724
+    X_7_3         CAP_1_4                          -724
+    X_8_3         obj                 -25100.7107209608
+    X_8_3         ORD_8_2                            -1
+    X_8_3         ORD_8_3                             1
+    X_8_3         PREC_7_8_3                         -1
+    X_8_3         PREC_8_1_3                          1
+    X_8_3         PREC_8_6_3                          1
+    X_8_3         PREC_8_9_3                          1
+    X_8_3         PREC_8_13_3                         1
+    X_8_3         PREC_8_27_3                         1
+    X_8_3         PREC_11_8_3                        -1
+    X_8_3         PREC_25_8_3                        -1
+    X_8_3         PREC_51_8_3                        -1
+    X_8_3         CAP_0_3                          1989
+    X_8_3         CAP_0_4                         -1989
+    X_8_3         CAP_1_3                          1989
+    X_8_3         CAP_1_4                         -1989
+    X_9_3         obj                 -9310.12281115087
+    X_9_3         ORD_9_2                            -1
+    X_9_3         ORD_9_3                             1
+    X_9_3         PREC_8_9_3                         -1
+    X_9_3         PREC_12_9_3                        -1
+    X_9_3         PREC_26_9_3                        -1
+    X_9_3         PREC_52_9_3                        -1
+    X_9_3         CAP_0_3                          1225
+    X_9_3         CAP_0_4                         -1225
+    X_9_3         CAP_1_3                           584
+    X_9_3         CAP_1_4                          -584
+    X_10_3        obj                 -88055.5190360848
+    X_10_3        ORD_10_2                           -1
+    X_10_3        ORD_10_3                            1
+    X_10_3        PREC_10_7_3                         1
+    X_10_3        PREC_10_11_3                        1
+    X_10_3        PREC_10_15_3                        1
+    X_10_3        PREC_10_31_3                        1
+    X_10_3        PREC_10_59_3                        1
+    X_10_3        PREC_29_10_3                       -1
+    X_10_3        CAP_0_3                          1432
+    X_10_3        CAP_0_4                         -1432
+    X_10_3        CAP_1_3                          1432
+    X_10_3        CAP_1_4                         -1432
+    X_11_3        obj                 -254616.556324665
+    X_11_3        ORD_11_2                           -1
+    X_11_3        ORD_11_3                            1
+    X_11_3        PREC_10_11_3                       -1
+    X_11_3        PREC_11_2_3                         1
+    X_11_3        PREC_11_8_3                         1
+    X_11_3        PREC_11_12_3                        1
+    X_11_3        PREC_11_16_3                        1
+    X_11_3        PREC_11_32_3                        1
+    X_11_3        PREC_14_11_3                       -1
+    X_11_3        PREC_30_11_3                       -1
+    X_11_3        CAP_0_3                          5001
+    X_11_3        CAP_0_4                         -5001
+    X_11_3        CAP_1_3                          5001
+    X_11_3        CAP_1_4                         -5001
+    X_12_3        obj                 -109223.434158764
+    X_12_3        ORD_12_2                           -1
+    X_12_3        ORD_12_3                            1
+    X_12_3        PREC_7_12_3                        -1
+    X_12_3        PREC_11_12_3                       -1
+    X_12_3        PREC_12_3_3                         1
+    X_12_3        PREC_12_9_3                         1
+    X_12_3        PREC_12_13_3                        1
+    X_12_3        PREC_12_17_3                        1
+    X_12_3        PREC_12_33_3                        1
+    X_12_3        PREC_15_12_3                       -1
+    X_12_3        PREC_31_12_3                       -1
+    X_12_3        CAP_0_3                          5835
+    X_12_3        CAP_0_4                         -5835
+    X_12_3        CAP_1_3                          5835
+    X_12_3        CAP_1_4                         -5835
+    X_13_3        obj                 -23859.9625876599
+    X_13_3        ORD_13_2                           -1
+    X_13_3        ORD_13_3                            1
+    X_13_3        PREC_2_13_3                        -1
+    X_13_3        PREC_8_13_3                        -1
+    X_13_3        PREC_12_13_3                       -1
+    X_13_3        PREC_16_13_3                       -1
+    X_13_3        PREC_32_13_3                       -1
+    X_13_3        PREC_56_13_3                       -1
+    X_13_3        CAP_0_3                          2318
+    X_13_3        CAP_0_4                         -2318
+    X_13_3        CAP_1_3                          1488
+    X_13_3        CAP_1_4                         -1488
+    X_14_3        obj                 -77753.5496868588
+    X_14_3        ORD_14_2                           -1
+    X_14_3        ORD_14_3                            1
+    X_14_3        PREC_14_11_3                        1
+    X_14_3        PREC_14_15_3                        1
+    X_14_3        PREC_14_18_3                        1
+    X_14_3        PREC_14_37_3                        1
+    X_14_3        PREC_14_46_3                        1
+    X_14_3        PREC_14_60_3                        1
+    X_14_3        PREC_35_14_3                       -1
+    X_14_3        CAP_0_3                          1432
+    X_14_3        CAP_0_4                         -1432
+    X_14_3        CAP_1_3                          1432
+    X_14_3        CAP_1_4                         -1432
+    X_15_3        obj                 -160545.288763485
+    X_15_3        ORD_15_2                           -1
+    X_15_3        ORD_15_3                            1
+    X_15_3        PREC_10_15_3                       -1
+    X_15_3        PREC_14_15_3                       -1
+    X_15_3        PREC_15_12_3                        1
+    X_15_3        PREC_15_16_3                        1
+    X_15_3        PREC_15_19_3                        1
+    X_15_3        PREC_15_38_3                        1
+    X_15_3        PREC_36_15_3                       -1
+    X_15_3        CAP_0_3                          4296
+    X_15_3        CAP_0_4                         -4296
+    X_15_3        CAP_1_3                          4296
+    X_15_3        CAP_1_4                         -4296
+    X_16_3        obj                 -168278.533492495
+    X_16_3        ORD_16_2                           -1
+    X_16_3        ORD_16_3                            1
+    X_16_3        PREC_11_16_3                       -1
+    X_16_3        PREC_15_16_3                       -1
+    X_16_3        PREC_16_4_3                         1
+    X_16_3        PREC_16_13_3                        1
+    X_16_3        PREC_16_17_3                        1
+    X_16_3        PREC_16_20_3                        1
+    X_16_3        PREC_16_39_3                        1
+    X_16_3        PREC_18_16_3                       -1
+    X_16_3        PREC_37_16_3                       -1
+    X_16_3        CAP_0_3                          5965
+    X_16_3        CAP_0_4                         -5965
+    X_16_3        CAP_1_3                          5528
+    X_16_3        CAP_1_4                         -5528
+    X_17_3        obj                 -59849.1781390434
+    X_17_3        ORD_17_2                           -1
+    X_17_3        ORD_17_3                            1
+    X_17_3        PREC_12_17_3                       -1
+    X_17_3        PREC_16_17_3                       -1
+    X_17_3        PREC_19_17_3                       -1
+    X_17_3        PREC_38_17_3                       -1
+    X_17_3        CAP_0_3                          2733
+    X_17_3        CAP_0_4                         -2733
+    X_17_3        CAP_1_3                          1776
+    X_17_3        CAP_1_4                         -1776
+    X_18_3        obj                 -27522.0495023117
+    X_18_3        ORD_18_2                           -1
+    X_18_3        ORD_18_3                            1
+    X_18_3        PREC_14_18_3                       -1
+    X_18_3        PREC_18_16_3                        1
+    X_18_3        PREC_18_19_3                        1
+    X_18_3        PREC_18_42_3                        1
+    X_18_3        PREC_40_18_3                       -1
+    X_18_3        CAP_0_3                           716
+    X_18_3        CAP_0_4                          -716
+    X_18_3        CAP_1_3                           716
+    X_18_3        CAP_1_4                          -716
+    X_19_3        obj                  -49028.350479528
+    X_19_3        ORD_19_2                           -1
+    X_19_3        ORD_19_3                            1
+    X_19_3        PREC_15_19_3                       -1
+    X_19_3        PREC_18_19_3                       -1
+    X_19_3        PREC_19_5_3                         1
+    X_19_3        PREC_19_17_3                        1
+    X_19_3        PREC_19_20_3                        1
+    X_19_3        PREC_19_21_3                        1
+    X_19_3        PREC_19_43_3                        1
+    X_19_3        PREC_41_19_3                       -1
+    X_19_3        CAP_0_3                          1965
+    X_19_3        CAP_0_4                         -1965
+    X_19_3        CAP_1_3                          1964
+    X_19_3        CAP_1_4                         -1964
+    X_20_3        obj                 -36894.5857044104
+    X_20_3        ORD_20_2                           -1
+    X_20_3        ORD_20_3                            1
+    X_20_3        PREC_16_20_3                       -1
+    X_20_3        PREC_19_20_3                       -1
+    X_20_3        PREC_42_20_3                       -1
+    X_20_3        PREC_47_20_3                       -1
+    X_20_3        CAP_0_3                          2496
+    X_20_3        CAP_0_4                         -2496
+    X_20_3        CAP_1_3                          1791
+    X_20_3        CAP_1_4                         -1791
+    X_21_3        obj                 -1834.80330015412
+    X_21_3        ORD_21_2                           -1
+    X_21_3        ORD_21_3                            1
+    X_21_3        PREC_19_21_3                       -1
+    X_21_3        PREC_52_21_3                       -1
+    X_21_3        CAP_0_3                           244
+    X_21_3        CAP_0_4                          -244
+    X_21_3        CAP_1_3                           215
+    X_21_3        CAP_1_4                          -215
+    X_22_3        obj                 -4203.50428191045
+    X_22_3        ORD_22_2                           -1
+    X_22_3        ORD_22_3                            1
+    X_22_3        PREC_56_22_3                       -1
+    X_22_3        CAP_0_3                           339
+    X_22_3        CAP_0_4                          -339
+    X_22_3        CAP_1_3                           283
+    X_22_3        CAP_1_4                          -283
+    X_23_3        obj                   183.85631429823
+    X_23_3        ORD_23_2                           -1
+    X_23_3        ORD_23_3                            1
+    X_23_3        PREC_26_23_3                       -1
+    X_23_3        CAP_0_3                            85
+    X_23_3        CAP_0_4                           -85
+    X_24_3        obj                 -39628.7434090663
+    X_24_3        ORD_24_2                           -1
+    X_24_3        ORD_24_3                            1
+    X_24_3        PREC_24_7_3                         1
+    X_24_3        PREC_24_25_3                        1
+    X_24_3        PREC_24_31_3                        1
+    X_24_3        PREC_24_4_3                         1
+    X_24_3        PREC_24_63_3                        1
+    X_24_3        PREC_29_24_3                       -1
+    X_24_3        CAP_0_3                           724
+    X_24_3        CAP_0_4                          -724
+    X_24_3        CAP_1_3                           724
+    X_24_3        CAP_1_4                          -724
+    X_25_3        obj                 -144829.145741673
+    X_25_3        ORD_25_2                           -1
+    X_25_3        ORD_25_3                            1
+    X_25_3        PREC_24_25_3                       -1
+    X_25_3        PREC_25_8_3                         1
+    X_25_3        PREC_25_26_3                        1
+    X_25_3        PREC_25_32_3                        1
+    X_25_3        PREC_25_45_3                        1
+    X_25_3        PREC_30_25_3                       -1
+    X_25_3        CAP_0_3                          3620
+    X_25_3        CAP_0_4                         -3620
+    X_25_3        CAP_1_3                          3620
+    X_25_3        CAP_1_4                         -3620
+    X_26_3        obj                 -115878.355964651
+    X_26_3        ORD_26_2                           -1
+    X_26_3        ORD_26_3                            1
+    X_26_3        PREC_7_26_3                        -1
+    X_26_3        PREC_25_26_3                       -1
+    X_26_3        PREC_26_9_3                         1
+    X_26_3        PREC_26_23_3                        1
+    X_26_3        PREC_26_27_3                        1
+    X_26_3        PREC_26_33_3                        1
+    X_26_3        PREC_26_46_3                        1
+    X_26_3        PREC_31_26_3                       -1
+    X_26_3        CAP_0_3                          5384
+    X_26_3        CAP_0_4                         -5384
+    X_26_3        CAP_1_3                          5360
+    X_26_3        CAP_1_4                         -5360
+    X_27_3        obj                 -6618.07534617064
+    X_27_3        ORD_27_2                           -1
+    X_27_3        ORD_27_3                            1
+    X_27_3        PREC_8_27_3                        -1
+    X_27_3        PREC_26_27_3                       -1
+    X_27_3        PREC_32_27_3                       -1
+    X_27_3        PREC_45_27_3                       -1
+    X_27_3        CAP_0_3                          1376
+    X_27_3        CAP_0_4                         -1376
+    X_27_3        CAP_1_3                           438
+    X_27_3        CAP_1_4                          -438
+    X_28_3        obj                 -48426.7756270184
+    X_28_3        ORD_28_2                           -1
+    X_28_3        ORD_28_3                            1
+    X_28_3        PREC_28_29_3                        1
+    X_28_3        PREC_28_35_3                        1
+    X_28_3        CAP_0_3                           716
+    X_28_3        CAP_0_4                          -716
+    X_28_3        CAP_1_3                           716
+    X_28_3        CAP_1_4                          -716
+    X_29_3        obj                 -214687.025489344
+    X_29_3        ORD_29_2                           -1
+    X_29_3        ORD_29_3                            1
+    X_29_3        PREC_28_29_3                       -1
+    X_29_3        PREC_29_10_3                        1
+    X_29_3        PREC_29_24_3                        1
+    X_29_3        PREC_29_30_3                        1
+    X_29_3        PREC_29_36_3                        1
+    X_29_3        PREC_29_47_3                        1
+    X_29_3        PREC_29_64_3                        1
+    X_29_3        PREC_34_29_3                       -1
+    X_29_3        CAP_0_3                          3580
+    X_29_3        CAP_0_4                         -3580
+    X_29_3        CAP_1_3                          3580
+    X_29_3        CAP_1_4                         -3580
+    X_30_3        obj                 -345003.177914225
+    X_30_3        ORD_30_2                           -1
+    X_30_3        ORD_30_3                            1
+    X_30_3        PREC_29_30_3                       -1
+    X_30_3        PREC_30_11_3                        1
+    X_30_3        PREC_30_25_3                        1
+    X_30_3        PREC_30_31_3                        1
+    X_30_3        PREC_30_37_3                        1
+    X_30_3        PREC_30_48_3                        1
+    X_30_3        PREC_30_0_3                         1
+    X_30_3        PREC_30_5_3                         1
+    X_30_3        PREC_30_65_3                        1
+    X_30_3        PREC_35_30_3                       -1
+    X_30_3        CAP_0_3                          6483
+    X_30_3        CAP_0_4                         -6483
+    X_30_3        CAP_1_3                          6483
+    X_30_3        CAP_1_4                         -6483
+    X_31_3        obj                 -277250.810150337
+    X_31_3        ORD_31_2                           -1
+    X_31_3        ORD_31_3                            1
+    X_31_3        PREC_10_31_3                       -1
+    X_31_3        PREC_24_31_3                       -1
+    X_31_3        PREC_30_31_3                       -1
+    X_31_3        PREC_31_12_3                        1
+    X_31_3        PREC_31_26_3                        1
+    X_31_3        PREC_31_32_3                        1
+    X_31_3        PREC_31_38_3                        1
+    X_31_3        PREC_31_49_3                        1
+    X_31_3        PREC_36_31_3                       -1
+    X_31_3        PREC_47_31_3                       -1
+    X_31_3        CAP_0_3                          6507
+    X_31_3        CAP_0_4                         -6507
+    X_31_3        CAP_1_3                          6507
+    X_31_3        CAP_1_4                         -6507
+    X_32_3        obj                 -111742.528853648
+    X_32_3        ORD_32_2                           -1
+    X_32_3        ORD_32_3                            1
+    X_32_3        PREC_11_32_3                       -1
+    X_32_3        PREC_25_32_3                       -1
+    X_32_3        PREC_31_32_3                       -1
+    X_32_3        PREC_32_13_3                        1
+    X_32_3        PREC_32_27_3                        1
+    X_32_3        PREC_32_33_3                        1
+    X_32_3        PREC_32_39_3                        1
+    X_32_3        PREC_32_50_3                        1
+    X_32_3        PREC_37_32_3                       -1
+    X_32_3        PREC_48_32_3                       -1
+    X_32_3        CAP_0_3                          6049
+    X_32_3        CAP_0_4                         -6049
+    X_32_3        CAP_1_3                          6025
+    X_32_3        CAP_1_4                         -6025
+    X_33_3        obj                 -12754.8908103337
+    X_33_3        ORD_33_2                           -1
+    X_33_3        ORD_33_3                            1
+    X_33_3        PREC_12_33_3                       -1
+    X_33_3        PREC_26_33_3                       -1
+    X_33_3        PREC_32_33_3                       -1
+    X_33_3        PREC_38_33_3                       -1
+    X_33_3        PREC_49_33_3                       -1
+    X_33_3        CAP_0_3                          2548
+    X_33_3        CAP_0_4                         -2548
+    X_33_3        CAP_1_3                           984
+    X_33_3        CAP_1_4                          -984
+    X_34_3        obj                  -97304.732393419
+    X_34_3        ORD_34_2                           -1
+    X_34_3        ORD_34_3                            1
+    X_34_3        PREC_34_29_3                        1
+    X_34_3        PREC_34_35_3                        1
+    X_34_3        PREC_34_51_3                        1
+    X_34_3        CAP_0_3                          1432
+    X_34_3        CAP_0_4                         -1432
+    X_34_3        CAP_1_3                          1432
+    X_34_3        CAP_1_4                         -1432
+    X_35_3        obj                  -332294.90915496
+    X_35_3        ORD_35_2                           -1
+    X_35_3        ORD_35_3                            1
+    X_35_3        PREC_28_35_3                       -1
+    X_35_3        PREC_34_35_3                       -1
+    X_35_3        PREC_35_14_3                        1
+    X_35_3        PREC_35_30_3                        1
+    X_35_3        PREC_35_36_3                        1
+    X_35_3        PREC_35_40_3                        1
+    X_35_3        PREC_35_52_3                        1
+    X_35_3        CAP_0_3                          5728
+    X_35_3        CAP_0_4                         -5728
+    X_35_3        CAP_1_3                          5728
+    X_35_3        CAP_1_4                         -5728
+    X_36_3        obj                 -358463.415239125
+    X_36_3        ORD_36_2                           -1
+    X_36_3        ORD_36_3                            1
+    X_36_3        PREC_29_36_3                       -1
+    X_36_3        PREC_35_36_3                       -1
+    X_36_3        PREC_36_15_3                        1
+    X_36_3        PREC_36_31_3                        1
+    X_36_3        PREC_36_37_3                        1
+    X_36_3        PREC_36_41_3                        1
+    X_36_3        PREC_36_53_3                        1
+    X_36_3        PREC_36_1_3                         1
+    X_36_3        PREC_36_66_3                        1
+    X_36_3        PREC_51_36_3                       -1
+    X_36_3        CAP_0_3                          6444
+    X_36_3        CAP_0_4                         -6444
+    X_36_3        CAP_1_3                          6444
+    X_36_3        CAP_1_4                         -6444
+    X_37_3        obj                 -317405.931555349
+    X_37_3        ORD_37_2                           -1
+    X_37_3        ORD_37_3                            1
+    X_37_3        PREC_14_37_3                       -1
+    X_37_3        PREC_30_37_3                       -1
+    X_37_3        PREC_36_37_3                       -1
+    X_37_3        PREC_37_16_3                        1
+    X_37_3        PREC_37_32_3                        1
+    X_37_3        PREC_37_38_3                        1
+    X_37_3        PREC_37_42_3                        1
+    X_37_3        PREC_37_54_3                        1
+    X_37_3        PREC_40_37_3                       -1
+    X_37_3        PREC_52_37_3                       -1
+    X_37_3        CAP_0_3                          6447
+    X_37_3        CAP_0_4                         -6447
+    X_37_3        CAP_1_3                          6447
+    X_37_3        CAP_1_4                         -6447
+    X_38_3        obj                  -207716.27688589
+    X_38_3        ORD_38_2                           -1
+    X_38_3        ORD_38_3                            1
+    X_38_3        PREC_15_38_3                       -1
+    X_38_3        PREC_31_38_3                       -1
+    X_38_3        PREC_37_38_3                       -1
+    X_38_3        PREC_38_17_3                        1
+    X_38_3        PREC_38_33_3                        1
+    X_38_3        PREC_38_39_3                        1
+    X_38_3        PREC_38_43_3                        1
+    X_38_3        PREC_38_55_3                        1
+    X_38_3        PREC_41_38_3                       -1
+    X_38_3        PREC_53_38_3                       -1
+    X_38_3        CAP_0_3                          6040
+    X_38_3        CAP_0_4                         -6040
+    X_38_3        CAP_1_3                          5960
+    X_38_3        CAP_1_4                         -5960
+    X_39_3        obj                 -50790.2128288153
+    X_39_3        ORD_39_2                           -1
+    X_39_3        ORD_39_3                            1
+    X_39_3        PREC_16_39_3                       -1
+    X_39_3        PREC_32_39_3                       -1
+    X_39_3        PREC_38_39_3                       -1
+    X_39_3        PREC_42_39_3                       -1
+    X_39_3        PREC_54_39_3                       -1
+    X_39_3        CAP_0_3                          2814
+    X_39_3        CAP_0_4                         -2814
+    X_39_3        CAP_1_3                          1584
+    X_39_3        CAP_1_4                         -1584
+    X_40_3        obj                 -88055.5190360848
+    X_40_3        ORD_40_2                           -1
+    X_40_3        ORD_40_3                            1
+    X_40_3        PREC_35_40_3                       -1
+    X_40_3        PREC_40_18_3                        1
+    X_40_3        PREC_40_37_3                        1
+    X_40_3        PREC_40_41_3                        1
+    X_40_3        PREC_40_57_3                        1
+    X_40_3        PREC_40_3_3                         1
+    X_40_3        PREC_40_61_3                        1
+    X_40_3        CAP_0_3                          1432
+    X_40_3        CAP_0_4                         -1432
+    X_40_3        CAP_1_3                          1432
+    X_40_3        CAP_1_4                         -1432
+    X_41_3        obj                 -182577.967736647
+    X_41_3        ORD_41_2                           -1
+    X_41_3        ORD_41_3                            1
+    X_41_3        PREC_36_41_3                       -1
+    X_41_3        PREC_40_41_3                       -1
+    X_41_3        PREC_41_19_3                        1
+    X_41_3        PREC_41_38_3                        1
+    X_41_3        PREC_41_42_3                        1
+    X_41_3        PREC_41_58_3                        1
+    X_41_3        PREC_56_41_3                       -1
+    X_41_3        CAP_0_3                          4296
+    X_41_3        CAP_0_4                         -4296
+    X_41_3        CAP_1_3                          4296
+    X_41_3        CAP_1_4                         -4296
+    X_42_3        obj                 -175735.053789351
+    X_42_3        ORD_42_2                           -1
+    X_42_3        ORD_42_3                            1
+    X_42_3        PREC_18_42_3                       -1
+    X_42_3        PREC_37_42_3                       -1
+    X_42_3        PREC_41_42_3                       -1
+    X_42_3        PREC_42_20_3                        1
+    X_42_3        PREC_42_39_3                        1
+    X_42_3        PREC_42_43_3                        1
+    X_42_3        PREC_42_44_3                        1
+    X_42_3        PREC_42_59_3                        1
+    X_42_3        PREC_57_42_3                       -1
+    X_42_3        CAP_0_3                          5997
+    X_42_3        CAP_0_4                         -5997
+    X_42_3        CAP_1_3                          5992
+    X_42_3        CAP_1_4                         -5992
+    X_43_3        obj                 -62052.4460363597
+    X_43_3        ORD_43_2                           -1
+    X_43_3        ORD_43_3                            1
+    X_43_3        PREC_19_43_3                       -1
+    X_43_3        PREC_38_43_3                       -1
+    X_43_3        PREC_42_43_3                       -1
+    X_43_3        PREC_58_43_3                       -1
+    X_43_3        CAP_0_3                          2525
+    X_43_3        CAP_0_4                         -2525
+    X_43_3        CAP_1_3                          1776
+    X_43_3        CAP_1_4                         -1776
+    X_44_3        obj                 -19626.3795631239
+    X_44_3        ORD_44_2                           -1
+    X_44_3        ORD_44_3                            1
+    X_44_3        PREC_42_44_3                       -1
+    X_44_3        CAP_0_3                          1078
+    X_44_3        CAP_0_4                         -1078
+    X_44_3        CAP_1_3                           874
+    X_44_3        CAP_1_4                          -874
+    X_45_3        obj                 -6000.70915378272
+    X_45_3        ORD_45_2                           -1
+    X_45_3        ORD_45_3                            1
+    X_45_3        PREC_25_45_3                       -1
+    X_45_3        PREC_45_27_3                        1
+    X_45_3        PREC_45_46_3                        1
+    X_45_3        PREC_45_50_3                        1
+    X_45_3        PREC_48_45_3                       -1
+    X_45_3        CAP_0_3                           673
+    X_45_3        CAP_0_4                          -673
+    X_45_3        CAP_1_3                           673
+    X_45_3        CAP_1_4                          -673
+    X_46_3        obj                   22.559056969108
+    X_46_3        ORD_46_2                           -1
+    X_46_3        ORD_46_3                            1
+    X_46_3        PREC_14_46_3                       -1
+    X_46_3        PREC_26_46_3                       -1
+    X_46_3        PREC_45_46_3                       -1
+    X_46_3        PREC_49_46_3                       -1
+    X_46_3        CAP_0_3                           745
+    X_46_3        CAP_0_4                          -745
+    X_46_3        CAP_1_3                            59
+    X_46_3        CAP_1_4                           -59
+    X_47_3        obj                 -27597.2463588754
+    X_47_3        ORD_47_2                           -1
+    X_47_3        ORD_47_3                            1
+    X_47_3        PREC_29_47_3                       -1
+    X_47_3        PREC_47_31_3                        1
+    X_47_3        PREC_47_48_3                        1
+    X_47_3        PREC_47_53_3                        1
+    X_47_3        PREC_47_6_3                         1
+    X_47_3        PREC_47_20_3                        1
+    X_47_3        PREC_51_47_3                       -1
+    X_47_3        CAP_0_3                           722
+    X_47_3        CAP_0_4                          -722
+    X_47_3        CAP_1_3                           722
+    X_47_3        CAP_1_4                          -722
+    X_48_3        obj                 -76324.8094121487
+    X_48_3        ORD_48_2                           -1
+    X_48_3        ORD_48_3                            1
+    X_48_3        PREC_30_48_3                       -1
+    X_48_3        PREC_47_48_3                       -1
+    X_48_3        PREC_48_32_3                        1
+    X_48_3        PREC_48_45_3                        1
+    X_48_3        PREC_48_49_3                        1
+    X_48_3        PREC_48_54_3                        1
+    X_48_3        PREC_52_48_3                       -1
+    X_48_3        CAP_0_3                          2896
+    X_48_3        CAP_0_4                         -2896
+    X_48_3        CAP_1_3                          2896
+    X_48_3        CAP_1_4                         -2896
+    X_49_3        obj                 -46193.4289870768
+    X_49_3        ORD_49_2                           -1
+    X_49_3        ORD_49_3                            1
+    X_49_3        PREC_31_49_3                       -1
+    X_49_3        PREC_48_49_3                       -1
+    X_49_3        PREC_49_33_3                        1
+    X_49_3        PREC_49_46_3                        1
+    X_49_3        PREC_49_50_3                        1
+    X_49_3        PREC_49_55_3                        1
+    X_49_3        PREC_49_61_3                        1
+    X_49_3        PREC_53_49_3                       -1
+    X_49_3        CAP_0_3                          4711
+    X_49_3        CAP_0_4                         -4711
+    X_49_3        CAP_1_3                          4687
+    X_49_3        CAP_1_4                         -4687
+    X_50_3        obj                 -8656.66212761237
+    X_50_3        ORD_50_2                           -1
+    X_50_3        ORD_50_3                            1
+    X_50_3        PREC_32_50_3                       -1
+    X_50_3        PREC_45_50_3                       -1
+    X_50_3        PREC_49_50_3                       -1
+    X_50_3        PREC_54_50_3                       -1
+    X_50_3        CAP_0_3                          1818
+    X_50_3        CAP_0_4                         -1818
+    X_50_3        CAP_1_3                           611
+    X_50_3        CAP_1_4                          -611
+    X_51_3        obj                 -86025.2039088651
+    X_51_3        ORD_51_2                           -1
+    X_51_3        ORD_51_3                            1
+    X_51_3        PREC_34_51_3                       -1
+    X_51_3        PREC_51_36_3                        1
+    X_51_3        PREC_51_47_3                        1
+    X_51_3        PREC_51_52_3                        1
+    X_51_3        PREC_51_56_3                        1
+    X_51_3        PREC_51_8_3                         1
+    X_51_3        CAP_0_3                          1432
+    X_51_3        CAP_0_4                         -1432
+    X_51_3        CAP_1_3                          1432
+    X_51_3        CAP_1_4                         -1432
+    X_52_3        obj                 -212882.300931816
+    X_52_3        ORD_52_2                           -1
+    X_52_3        ORD_52_3                            1
+    X_52_3        PREC_35_52_3                       -1
+    X_52_3        PREC_51_52_3                       -1
+    X_52_3        PREC_52_37_3                        1
+    X_52_3        PREC_52_48_3                        1
+    X_52_3        PREC_52_53_3                        1
+    X_52_3        PREC_52_57_3                        1
+    X_52_3        PREC_52_9_3                         1
+    X_52_3        PREC_52_21_3                        1
+    X_52_3        CAP_0_3                          3580
+    X_52_3        CAP_0_4                         -3580
+    X_52_3        CAP_1_3                          3580
+    X_52_3        CAP_1_4                         -3580
+    X_53_3        obj                 -261609.863985089
+    X_53_3        ORD_53_2                           -1
+    X_53_3        ORD_53_3                            1
+    X_53_3        PREC_36_53_3                       -1
+    X_53_3        PREC_47_53_3                       -1
+    X_53_3        PREC_52_53_3                       -1
+    X_53_3        PREC_53_38_3                        1
+    X_53_3        PREC_53_49_3                        1
+    X_53_3        PREC_53_54_3                        1
+    X_53_3        PREC_53_58_3                        1
+    X_53_3        PREC_53_62_3                        1
+    X_53_3        PREC_56_53_3                       -1
+    X_53_3        CAP_0_3                          5759
+    X_53_3        CAP_0_4                         -5759
+    X_53_3        CAP_1_3                          5759
+    X_53_3        CAP_1_4                         -5759
+    X_54_3        obj                 -110689.772861757
+    X_54_3        ORD_54_2                           -1
+    X_54_3        ORD_54_3                            1
+    X_54_3        PREC_37_54_3                       -1
+    X_54_3        PREC_48_54_3                       -1
+    X_54_3        PREC_53_54_3                       -1
+    X_54_3        PREC_54_39_3                        1
+    X_54_3        PREC_54_50_3                        1
+    X_54_3        PREC_54_55_3                        1
+    X_54_3        PREC_54_59_3                        1
+    X_54_3        PREC_54_63_3                        1
+    X_54_3        PREC_57_54_3                       -1
+    X_54_3        CAP_0_3                          6054
+    X_54_3        CAP_0_4                         -6054
+    X_54_3        CAP_1_3                          6029
+    X_54_3        CAP_1_4                         -6029
+    X_55_3        obj                 -25318.7816049955
+    X_55_3        ORD_55_2                           -1
+    X_55_3        ORD_55_3                            1
+    X_55_3        PREC_38_55_3                       -1
+    X_55_3        PREC_49_55_3                       -1
+    X_55_3        PREC_54_55_3                       -1
+    X_55_3        PREC_58_55_3                       -1
+    X_55_3        PREC_62_55_3                       -1
+    X_55_3        CAP_0_3                          2081
+    X_55_3        CAP_0_4                         -2081
+    X_55_3        CAP_1_3                          1135
+    X_55_3        CAP_1_4                         -1135
+    X_56_3        obj                 -89333.8655976676
+    X_56_3        ORD_56_2                           -1
+    X_56_3        ORD_56_3                            1
+    X_56_3        PREC_51_56_3                       -1
+    X_56_3        PREC_56_41_3                        1
+    X_56_3        PREC_56_53_3                        1
+    X_56_3        PREC_56_57_3                        1
+    X_56_3        PREC_56_13_3                        1
+    X_56_3        PREC_56_22_3                        1
+    X_56_3        CAP_0_3                          1432
+    X_56_3        CAP_0_4                         -1432
+    X_56_3        CAP_1_3                          1432
+    X_56_3        CAP_1_4                         -1432
+    X_57_3        obj                 -179946.077756918
+    X_57_3        ORD_57_2                           -1
+    X_57_3        ORD_57_3                            1
+    X_57_3        PREC_40_57_3                       -1
+    X_57_3        PREC_52_57_3                       -1
+    X_57_3        PREC_56_57_3                       -1
+    X_57_3        PREC_57_42_3                        1
+    X_57_3        PREC_57_54_3                        1
+    X_57_3        PREC_57_58_3                        1
+    X_57_3        PREC_57_64_3                        1
+    X_57_3        CAP_0_3                          3580
+    X_57_3        CAP_0_4                         -3580
+    X_57_3        CAP_1_3                          3580
+    X_57_3        CAP_1_4                         -3580
+    X_58_3        obj                 -178592.534338771
+    X_58_3        ORD_58_2                           -1
+    X_58_3        ORD_58_3                            1
+    X_58_3        PREC_41_58_3                       -1
+    X_58_3        PREC_53_58_3                       -1
+    X_58_3        PREC_57_58_3                       -1
+    X_58_3        PREC_58_43_3                        1
+    X_58_3        PREC_58_55_3                        1
+    X_58_3        PREC_58_59_3                        1
+    X_58_3        PREC_58_60_3                        1
+    X_58_3        PREC_58_65_3                        1
+    X_58_3        CAP_0_3                          5368
+    X_58_3        CAP_0_4                         -5368
+    X_58_3        CAP_1_3                          5360
+    X_58_3        CAP_1_4                         -5360
+    X_59_3        obj                 -52705.4767654926
+    X_59_3        ORD_59_2                           -1
+    X_59_3        ORD_59_3                            1
+    X_59_3        PREC_10_59_3                       -1
+    X_59_3        PREC_42_59_3                       -1
+    X_59_3        PREC_54_59_3                       -1
+    X_59_3        PREC_58_59_3                       -1
+    X_59_3        PREC_64_59_3                       -1
+    X_59_3        CAP_0_3                          2013
+    X_59_3        CAP_0_4                         -2013
+    X_59_3        CAP_1_3                          1160
+    X_59_3        CAP_1_4                         -1160
+    X_60_3        obj                 -22160.5136293204
+    X_60_3        ORD_60_2                           -1
+    X_60_3        ORD_60_3                            1
+    X_60_3        PREC_14_60_3                       -1
+    X_60_3        PREC_58_60_3                       -1
+    X_60_3        CAP_0_3                          1030
+    X_60_3        CAP_0_4                         -1030
+    X_60_3        CAP_1_3                           676
+    X_60_3        CAP_1_4                          -676
+    X_61_3        obj                  700.834703173621
+    X_61_3        ORD_61_2                           -1
+    X_61_3        ORD_61_3                            1
+    X_61_3        PREC_40_61_3                       -1
+    X_61_3        PREC_49_61_3                       -1
+    X_61_3        PREC_62_61_3                       -1
+    X_61_3        CAP_0_3                           311
+    X_61_3        CAP_0_4                          -311
+    X_62_3        obj                 -14347.5602323527
+    X_62_3        ORD_62_2                           -1
+    X_62_3        ORD_62_3                            1
+    X_62_3        PREC_53_62_3                       -1
+    X_62_3        PREC_62_55_3                        1
+    X_62_3        PREC_62_61_3                        1
+    X_62_3        PREC_62_63_3                        1
+    X_62_3        PREC_62_65_3                        1
+    X_62_3        CAP_0_3                          1346
+    X_62_3        CAP_0_4                         -1346
+    X_62_3        CAP_1_3                          1322
+    X_62_3        CAP_1_4                         -1322
+    X_63_3        obj                 -2648.43328817328
+    X_63_3        ORD_63_2                           -1
+    X_63_3        ORD_63_3                            1
+    X_63_3        PREC_24_63_3                       -1
+    X_63_3        PREC_54_63_3                       -1
+    X_63_3        PREC_62_63_3                       -1
+    X_63_3        PREC_64_63_3                       -1
+    X_63_3        CAP_0_3                           702
+    X_63_3        CAP_0_4                          -702
+    X_63_3        CAP_1_3                           185
+    X_63_3        CAP_1_4                          -185
+    X_64_3        obj                 -12633.0719027005
+    X_64_3        ORD_64_2                           -1
+    X_64_3        ORD_64_3                            1
+    X_64_3        PREC_29_64_3                       -1
+    X_64_3        PREC_57_64_3                       -1
+    X_64_3        PREC_64_59_3                        1
+    X_64_3        PREC_64_63_3                        1
+    X_64_3        PREC_64_65_3                        1
+    X_64_3        PREC_64_66_3                        1
+    X_64_3        CAP_0_3                           672
+    X_64_3        CAP_0_4                          -672
+    X_64_3        CAP_1_3                           672
+    X_64_3        CAP_1_4                          -672
+    X_65_3        obj                 -6895.55174689067
+    X_65_3        ORD_65_2                           -1
+    X_65_3        ORD_65_3                            1
+    X_65_3        PREC_30_65_3                       -1
+    X_65_3        PREC_58_65_3                       -1
+    X_65_3        PREC_62_65_3                       -1
+    X_65_3        PREC_64_65_3                       -1
+    X_65_3        CAP_0_3                           571
+    X_65_3        CAP_0_4                          -571
+    X_65_3        CAP_1_3                           190
+    X_65_3        CAP_1_4                          -190
+    X_66_3        obj                 -1902.48047106144
+    X_66_3        ORD_66_2                           -1
+    X_66_3        ORD_66_3                            1
+    X_66_3        PREC_36_66_3                       -1
+    X_66_3        PREC_64_66_3                       -1
+    X_66_3        CAP_0_3                           131
+    X_66_3        CAP_0_4                          -131
+    X_66_3        CAP_1_3                            45
+    X_66_3        CAP_1_4                           -45
+    X_0_4         obj                 -1902.58805560473
+    X_0_4         ORD_0_3                            -1
+    X_0_4         ORD_0_4                             1
+    X_0_4         PREC_30_0_4                        -1
+    X_0_4         CAP_0_4                           301
+    X_0_4         CAP_0_5                          -301
+    X_0_4         CAP_1_4                           102
+    X_0_4         CAP_1_5                          -102
+    X_1_4         obj                 -12045.1617908789
+    X_1_4         ORD_1_3                            -1
+    X_1_4         ORD_1_4                             1
+    X_1_4         PREC_2_1_4                         -1
+    X_1_4         PREC_8_1_4                         -1
+    X_1_4         PREC_36_1_4                        -1
+    X_1_4         CAP_0_4                          1061
+    X_1_4         CAP_0_5                         -1061
+    X_1_4         CAP_1_4                           713
+    X_1_4         CAP_1_5                          -713
+    X_2_4         obj                 -20987.7819083496
+    X_2_4         ORD_2_3                            -1
+    X_2_4         ORD_2_4                             1
+    X_2_4         PREC_2_1_4                          1
+    X_2_4         PREC_2_3_4                          1
+    X_2_4         PREC_2_4_4                          1
+    X_2_4         PREC_2_13_4                         1
+    X_2_4         PREC_11_2_4                        -1
+    X_2_4         CAP_0_4                           648
+    X_2_4         CAP_0_5                          -648
+    X_2_4         CAP_1_4                           648
+    X_2_4         CAP_1_5                          -648
+    X_3_4         obj                 -30816.8425039368
+    X_3_4         ORD_3_3                            -1
+    X_3_4         ORD_3_4                             1
+    X_3_4         PREC_2_3_4                         -1
+    X_3_4         PREC_12_3_4                        -1
+    X_3_4         PREC_40_3_4                        -1
+    X_3_4         CAP_0_4                          1367
+    X_3_4         CAP_0_5                         -1367
+    X_3_4         CAP_1_4                          1118
+    X_3_4         CAP_1_5                         -1118
+    X_4_4         obj                  -6533.5877592949
+    X_4_4         ORD_4_3                            -1
+    X_4_4         ORD_4_4                             1
+    X_4_4         PREC_2_4_4                         -1
+    X_4_4         PREC_16_4_4                        -1
+    X_4_4         PREC_24_4_4                        -1
+    X_4_4         CAP_0_4                           849
+    X_4_4         CAP_0_5                          -849
+    X_4_4         CAP_1_4                           648
+    X_4_4         CAP_1_5                          -648
+    X_5_4         obj                 -2444.22925951276
+    X_5_4         ORD_5_3                            -1
+    X_5_4         ORD_5_4                             1
+    X_5_4         PREC_19_5_4                        -1
+    X_5_4         PREC_30_5_4                        -1
+    X_5_4         CAP_0_4                           321
+    X_5_4         CAP_0_5                          -321
+    X_5_4         CAP_1_4                           253
+    X_5_4         CAP_1_5                          -253
+    X_6_4         obj                  93.2066090960865
+    X_6_4         ORD_6_3                            -1
+    X_6_4         ORD_6_4                             1
+    X_6_4         PREC_8_6_4                         -1
+    X_6_4         PREC_47_6_4                        -1
+    X_6_4         CAP_0_4                            48
+    X_6_4         CAP_0_5                           -48
+    X_7_4         obj                  -25094.087064331
+    X_7_4         ORD_7_3                            -1
+    X_7_4         ORD_7_4                             1
+    X_7_4         PREC_7_8_4                          1
+    X_7_4         PREC_7_12_4                         1
+    X_7_4         PREC_7_26_4                         1
+    X_7_4         PREC_10_7_4                        -1
+    X_7_4         PREC_24_7_4                        -1
+    X_7_4         CAP_0_4                           724
+    X_7_4         CAP_0_5                          -724
+    X_7_4         CAP_1_4                           724
+    X_7_4         CAP_1_5                          -724
+    X_8_4         obj                 -21756.8993820096
+    X_8_4         ORD_8_3                            -1
+    X_8_4         ORD_8_4                             1
+    X_8_4         PREC_7_8_4                         -1
+    X_8_4         PREC_8_1_4                          1
+    X_8_4         PREC_8_6_4                          1
+    X_8_4         PREC_8_9_4                          1
+    X_8_4         PREC_8_13_4                         1
+    X_8_4         PREC_8_27_4                         1
+    X_8_4         PREC_11_8_4                        -1
+    X_8_4         PREC_25_8_4                        -1
+    X_8_4         PREC_51_8_4                        -1
+    X_8_4         CAP_0_4                          1989
+    X_8_4         CAP_0_5                         -1989
+    X_8_4         CAP_1_4                          1989
+    X_8_4         CAP_1_5                         -1989
+    X_9_4         obj                 -8069.86732320732
+    X_9_4         ORD_9_3                            -1
+    X_9_4         ORD_9_4                             1
+    X_9_4         PREC_8_9_4                         -1
+    X_9_4         PREC_12_9_4                        -1
+    X_9_4         PREC_26_9_4                        -1
+    X_9_4         PREC_52_9_4                        -1
+    X_9_4         CAP_0_4                          1225
+    X_9_4         CAP_0_5                         -1225
+    X_9_4         CAP_1_4                           584
+    X_9_4         CAP_1_5                          -584
+    X_10_4        obj                 -76325.1323437184
+    X_10_4        ORD_10_3                           -1
+    X_10_4        ORD_10_4                            1
+    X_10_4        PREC_10_7_4                         1
+    X_10_4        PREC_10_11_4                        1
+    X_10_4        PREC_10_15_4                        1
+    X_10_4        PREC_10_31_4                        1
+    X_10_4        PREC_10_59_4                        1
+    X_10_4        PREC_29_10_4                       -1
+    X_10_4        CAP_0_4                          1432
+    X_10_4        CAP_0_5                         -1432
+    X_10_4        CAP_1_4                          1432
+    X_10_4        CAP_1_5                         -1432
+    X_11_4        obj                 -220697.607272272
+    X_11_4        ORD_11_3                           -1
+    X_11_4        ORD_11_4                            1
+    X_11_4        PREC_10_11_4                       -1
+    X_11_4        PREC_11_2_4                         1
+    X_11_4        PREC_11_8_4                         1
+    X_11_4        PREC_11_12_4                        1
+    X_11_4        PREC_11_16_4                        1
+    X_11_4        PREC_11_32_4                        1
+    X_11_4        PREC_14_11_4                       -1
+    X_11_4        PREC_30_11_4                       -1
+    X_11_4        CAP_0_4                          5001
+    X_11_4        CAP_0_5                         -5001
+    X_11_4        CAP_1_4                          5001
+    X_11_4        CAP_1_5                         -5001
+    X_12_4        obj                 -94673.1466517942
+    X_12_4        ORD_12_3                           -1
+    X_12_4        ORD_12_4                            1
+    X_12_4        PREC_7_12_4                        -1
+    X_12_4        PREC_11_12_4                       -1
+    X_12_4        PREC_12_3_4                         1
+    X_12_4        PREC_12_9_4                         1
+    X_12_4        PREC_12_13_4                        1
+    X_12_4        PREC_12_17_4                        1
+    X_12_4        PREC_12_33_4                        1
+    X_12_4        PREC_15_12_4                       -1
+    X_12_4        PREC_31_12_4                       -1
+    X_12_4        CAP_0_4                          5835
+    X_12_4        CAP_0_5                         -5835
+    X_12_4        CAP_1_4                          5835
+    X_12_4        CAP_1_5                         -5835
+    X_13_4        obj                 -20681.4385078239
+    X_13_4        ORD_13_3                           -1
+    X_13_4        ORD_13_4                            1
+    X_13_4        PREC_2_13_4                        -1
+    X_13_4        PREC_8_13_4                        -1
+    X_13_4        PREC_12_13_4                       -1
+    X_13_4        PREC_16_13_4                       -1
+    X_13_4        PREC_32_13_4                       -1
+    X_13_4        PREC_56_13_4                       -1
+    X_13_4        CAP_0_4                          2318
+    X_13_4        CAP_0_5                         -2318
+    X_13_4        CAP_1_4                          1488
+    X_13_4        CAP_1_5                         -1488
+    X_14_4        obj                 -67395.5481156318
+    X_14_4        ORD_14_3                           -1
+    X_14_4        ORD_14_4                            1
+    X_14_4        PREC_14_11_4                        1
+    X_14_4        PREC_14_15_4                        1
+    X_14_4        PREC_14_18_4                        1
+    X_14_4        PREC_14_37_4                        1
+    X_14_4        PREC_14_46_4                        1
+    X_14_4        PREC_14_60_4                        1
+    X_14_4        PREC_35_14_4                       -1
+    X_14_4        CAP_0_4                          1432
+    X_14_4        CAP_0_5                         -1432
+    X_14_4        CAP_1_4                          1432
+    X_14_4        CAP_1_5                         -1432
+    X_15_4        obj                 -139158.119174926
+    X_15_4        ORD_15_3                           -1
+    X_15_4        ORD_15_4                            1
+    X_15_4        PREC_10_15_4                       -1
+    X_15_4        PREC_14_15_4                       -1
+    X_15_4        PREC_15_12_4                        1
+    X_15_4        PREC_15_16_4                        1
+    X_15_4        PREC_15_19_4                        1
+    X_15_4        PREC_15_38_4                        1
+    X_15_4        PREC_36_15_4                       -1
+    X_15_4        CAP_0_4                          4296
+    X_15_4        CAP_0_5                         -4296
+    X_15_4        CAP_1_4                          4296
+    X_15_4        CAP_1_5                         -4296
+    X_16_4        obj                 -145861.173496214
+    X_16_4        ORD_16_3                           -1
+    X_16_4        ORD_16_4                            1
+    X_16_4        PREC_11_16_4                       -1
+    X_16_4        PREC_15_16_4                       -1
+    X_16_4        PREC_16_4_4                         1
+    X_16_4        PREC_16_13_4                        1
+    X_16_4        PREC_16_17_4                        1
+    X_16_4        PREC_16_20_4                        1
+    X_16_4        PREC_16_39_4                        1
+    X_16_4        PREC_18_16_4                       -1
+    X_16_4        PREC_37_16_4                       -1
+    X_16_4        CAP_0_4                          5965
+    X_16_4        CAP_0_5                         -5965
+    X_16_4        CAP_1_4                          5528
+    X_16_4        CAP_1_5                         -5528
+    X_17_4        obj                 -51876.3218038988
+    X_17_4        ORD_17_3                           -1
+    X_17_4        ORD_17_4                            1
+    X_17_4        PREC_12_17_4                       -1
+    X_17_4        PREC_16_17_4                       -1
+    X_17_4        PREC_19_17_4                       -1
+    X_17_4        PREC_38_17_4                       -1
+    X_17_4        CAP_0_4                          2733
+    X_17_4        CAP_0_5                         -2733
+    X_17_4        CAP_1_4                          1776
+    X_17_4        CAP_1_5                         -1776
+    X_18_4        obj                 -23855.6775728445
+    X_18_4        ORD_18_3                           -1
+    X_18_4        ORD_18_4                            1
+    X_18_4        PREC_14_18_4                       -1
+    X_18_4        PREC_18_16_4                        1
+    X_18_4        PREC_18_19_4                        1
+    X_18_4        PREC_18_42_4                        1
+    X_18_4        PREC_40_18_4                       -1
+    X_18_4        CAP_0_4                           716
+    X_18_4        CAP_0_5                          -716
+    X_18_4        CAP_1_4                           716
+    X_18_4        CAP_1_5                          -716
+    X_19_4        obj                 -42496.9993920618
+    X_19_4        ORD_19_3                           -1
+    X_19_4        ORD_19_4                            1
+    X_19_4        PREC_15_19_4                       -1
+    X_19_4        PREC_18_19_4                       -1
+    X_19_4        PREC_19_5_4                         1
+    X_19_4        PREC_19_17_4                        1
+    X_19_4        PREC_19_20_4                        1
+    X_19_4        PREC_19_21_4                        1
+    X_19_4        PREC_19_43_4                        1
+    X_19_4        PREC_41_19_4                       -1
+    X_19_4        CAP_0_4                          1965
+    X_19_4        CAP_0_5                         -1965
+    X_19_4        CAP_1_4                          1964
+    X_19_4        CAP_1_5                         -1964
+    X_20_4        obj                 -31979.6438369957
+    X_20_4        ORD_20_3                           -1
+    X_20_4        ORD_20_4                            1
+    X_20_4        PREC_16_20_4                       -1
+    X_20_4        PREC_19_20_4                       -1
+    X_20_4        PREC_42_20_4                       -1
+    X_20_4        PREC_47_20_4                       -1
+    X_20_4        CAP_0_4                          2496
+    X_20_4        CAP_0_5                         -2496
+    X_20_4        CAP_1_4                          1791
+    X_20_4        CAP_1_5                         -1791
+    X_21_4        obj                  -1590.3785048563
+    X_21_4        ORD_21_3                           -1
+    X_21_4        ORD_21_4                            1
+    X_21_4        PREC_19_21_4                       -1
+    X_21_4        PREC_52_21_4                       -1
+    X_21_4        CAP_0_4                           244
+    X_21_4        CAP_0_5                          -244
+    X_21_4        CAP_1_4                           215
+    X_21_4        CAP_1_5                          -215
+    X_22_4        obj                 -3643.53108284702
+    X_22_4        ORD_22_3                           -1
+    X_22_4        ORD_22_4                            1
+    X_22_4        PREC_56_22_4                       -1
+    X_22_4        CAP_0_4                           339
+    X_22_4        CAP_0_5                          -339
+    X_22_4        CAP_1_4                           283
+    X_22_4        CAP_1_5                          -283
+    X_23_4        obj                  159.363747720232
+    X_23_4        ORD_23_3                           -1
+    X_23_4        ORD_23_4                            1
+    X_23_4        PREC_26_23_4                       -1
+    X_23_4        CAP_0_4                            85
+    X_23_4        CAP_0_5                           -85
+    X_24_4        obj                 -34349.5685270193
+    X_24_4        ORD_24_3                           -1
+    X_24_4        ORD_24_4                            1
+    X_24_4        PREC_24_7_4                         1
+    X_24_4        PREC_24_25_4                        1
+    X_24_4        PREC_24_31_4                        1
+    X_24_4        PREC_24_4_4                         1
+    X_24_4        PREC_24_63_4                        1
+    X_24_4        PREC_29_24_4                       -1
+    X_24_4        CAP_0_4                           724
+    X_24_4        CAP_0_5                          -724
+    X_24_4        CAP_1_4                           724
+    X_24_4        CAP_1_5                          -724
+    X_25_4        obj                 -125535.614768575
+    X_25_4        ORD_25_3                           -1
+    X_25_4        ORD_25_4                            1
+    X_25_4        PREC_24_25_4                       -1
+    X_25_4        PREC_25_8_4                         1
+    X_25_4        PREC_25_26_4                        1
+    X_25_4        PREC_25_32_4                        1
+    X_25_4        PREC_25_45_4                        1
+    X_25_4        PREC_30_25_4                       -1
+    X_25_4        CAP_0_4                          3620
+    X_25_4        CAP_0_5                         -3620
+    X_25_4        CAP_1_4                          3620
+    X_25_4        CAP_1_5                         -3620
+    X_26_4        obj                 -100441.527704244
+    X_26_4        ORD_26_3                           -1
+    X_26_4        ORD_26_4                            1
+    X_26_4        PREC_7_26_4                        -1
+    X_26_4        PREC_25_26_4                       -1
+    X_26_4        PREC_26_9_4                         1
+    X_26_4        PREC_26_23_4                        1
+    X_26_4        PREC_26_27_4                        1
+    X_26_4        PREC_26_33_4                        1
+    X_26_4        PREC_26_46_4                        1
+    X_26_4        PREC_31_26_4                       -1
+    X_26_4        CAP_0_4                          5384
+    X_26_4        CAP_0_5                         -5384
+    X_26_4        CAP_1_4                          5360
+    X_26_4        CAP_1_5                         -5360
+    X_27_4        obj                 -5736.44312345915
+    X_27_4        ORD_27_3                           -1
+    X_27_4        ORD_27_4                            1
+    X_27_4        PREC_8_27_4                        -1
+    X_27_4        PREC_26_27_4                       -1
+    X_27_4        PREC_32_27_4                       -1
+    X_27_4        PREC_45_27_4                       -1
+    X_27_4        CAP_0_4                          1376
+    X_27_4        CAP_0_5                         -1376
+    X_27_4        CAP_1_4                           438
+    X_27_4        CAP_1_5                          -438
+    X_28_4        obj                 -41975.5638166991
+    X_28_4        ORD_28_3                           -1
+    X_28_4        ORD_28_4                            1
+    X_28_4        PREC_28_29_4                        1
+    X_28_4        PREC_28_35_4                        1
+    X_28_4        CAP_0_4                           716
+    X_28_4        CAP_0_5                          -716
+    X_28_4        CAP_1_4                           716
+    X_28_4        CAP_1_5                          -716
+    X_29_4        obj                 -186087.320957572
+    X_29_4        ORD_29_3                           -1
+    X_29_4        ORD_29_4                            1
+    X_29_4        PREC_28_29_4                       -1
+    X_29_4        PREC_29_10_4                        1
+    X_29_4        PREC_29_24_4                        1
+    X_29_4        PREC_29_30_4                        1
+    X_29_4        PREC_29_36_4                        1
+    X_29_4        PREC_29_47_4                        1
+    X_29_4        PREC_29_64_4                        1
+    X_29_4        PREC_34_29_4                       -1
+    X_29_4        CAP_0_4                          3580
+    X_29_4        CAP_0_5                         -3580
+    X_29_4        CAP_1_4                          3580
+    X_29_4        CAP_1_5                         -3580
+    X_30_4        obj                 -299043.302470521
+    X_30_4        ORD_30_3                           -1
+    X_30_4        ORD_30_4                            1
+    X_30_4        PREC_29_30_4                       -1
+    X_30_4        PREC_30_11_4                        1
+    X_30_4        PREC_30_25_4                        1
+    X_30_4        PREC_30_31_4                        1
+    X_30_4        PREC_30_37_4                        1
+    X_30_4        PREC_30_48_4                        1
+    X_30_4        PREC_30_0_4                         1
+    X_30_4        PREC_30_5_4                         1
+    X_30_4        PREC_30_65_4                        1
+    X_30_4        PREC_35_30_4                       -1
+    X_30_4        CAP_0_4                          6483
+    X_30_4        CAP_0_5                         -6483
+    X_30_4        CAP_1_4                          6483
+    X_30_4        CAP_1_5                         -6483
+    X_31_4        obj                 -240316.620795294
+    X_31_4        ORD_31_3                           -1
+    X_31_4        ORD_31_4                            1
+    X_31_4        PREC_10_31_4                       -1
+    X_31_4        PREC_24_31_4                       -1
+    X_31_4        PREC_30_31_4                       -1
+    X_31_4        PREC_31_12_4                        1
+    X_31_4        PREC_31_26_4                        1
+    X_31_4        PREC_31_32_4                        1
+    X_31_4        PREC_31_38_4                        1
+    X_31_4        PREC_31_49_4                        1
+    X_31_4        PREC_36_31_4                       -1
+    X_31_4        PREC_47_31_4                       -1
+    X_31_4        CAP_0_4                          6507
+    X_31_4        CAP_0_5                         -6507
+    X_31_4        CAP_1_4                          6507
+    X_31_4        CAP_1_5                         -6507
+    X_32_4        obj                 -96856.6581236256
+    X_32_4        ORD_32_3                           -1
+    X_32_4        ORD_32_4                            1
+    X_32_4        PREC_11_32_4                       -1
+    X_32_4        PREC_25_32_4                       -1
+    X_32_4        PREC_31_32_4                       -1
+    X_32_4        PREC_32_13_4                        1
+    X_32_4        PREC_32_27_4                        1
+    X_32_4        PREC_32_33_4                        1
+    X_32_4        PREC_32_39_4                        1
+    X_32_4        PREC_32_50_4                        1
+    X_32_4        PREC_37_32_4                       -1
+    X_32_4        PREC_48_32_4                       -1
+    X_32_4        CAP_0_4                          6049
+    X_32_4        CAP_0_5                         -6049
+    X_32_4        CAP_1_4                          6025
+    X_32_4        CAP_1_5                         -6025
+    X_33_4        obj                 -11055.7377866281
+    X_33_4        ORD_33_3                           -1
+    X_33_4        ORD_33_4                            1
+    X_33_4        PREC_12_33_4                       -1
+    X_33_4        PREC_26_33_4                       -1
+    X_33_4        PREC_32_33_4                       -1
+    X_33_4        PREC_38_33_4                       -1
+    X_33_4        PREC_49_33_4                       -1
+    X_33_4        CAP_0_4                          2548
+    X_33_4        CAP_0_5                         -2548
+    X_33_4        CAP_1_4                           984
+    X_33_4        CAP_1_5                          -984
+    X_34_4        obj                 -84342.2043149202
+    X_34_4        ORD_34_3                           -1
+    X_34_4        ORD_34_4                            1
+    X_34_4        PREC_34_29_4                        1
+    X_34_4        PREC_34_35_4                        1
+    X_34_4        PREC_34_51_4                        1
+    X_34_4        CAP_0_4                          1432
+    X_34_4        CAP_0_5                         -1432
+    X_34_4        CAP_1_4                          1432
+    X_34_4        CAP_1_5                         -1432
+    X_35_4        obj                 -288027.975940984
+    X_35_4        ORD_35_3                           -1
+    X_35_4        ORD_35_4                            1
+    X_35_4        PREC_28_35_4                       -1
+    X_35_4        PREC_34_35_4                       -1
+    X_35_4        PREC_35_14_4                        1
+    X_35_4        PREC_35_30_4                        1
+    X_35_4        PREC_35_36_4                        1
+    X_35_4        PREC_35_40_4                        1
+    X_35_4        PREC_35_52_4                        1
+    X_35_4        CAP_0_4                          5728
+    X_35_4        CAP_0_5                         -5728
+    X_35_4        CAP_1_4                          5728
+    X_35_4        CAP_1_5                         -5728
+    X_36_4        obj                 -310710.423469262
+    X_36_4        ORD_36_3                           -1
+    X_36_4        ORD_36_4                            1
+    X_36_4        PREC_29_36_4                       -1
+    X_36_4        PREC_35_36_4                       -1
+    X_36_4        PREC_36_15_4                        1
+    X_36_4        PREC_36_31_4                        1
+    X_36_4        PREC_36_37_4                        1
+    X_36_4        PREC_36_41_4                        1
+    X_36_4        PREC_36_53_4                        1
+    X_36_4        PREC_36_1_4                         1
+    X_36_4        PREC_36_66_4                        1
+    X_36_4        PREC_51_36_4                       -1
+    X_36_4        CAP_0_4                          6444
+    X_36_4        CAP_0_5                         -6444
+    X_36_4        CAP_1_4                          6444
+    X_36_4        CAP_1_5                         -6444
+    X_37_4        obj                 -275122.445450756
+    X_37_4        ORD_37_3                           -1
+    X_37_4        ORD_37_4                            1
+    X_37_4        PREC_14_37_4                       -1
+    X_37_4        PREC_30_37_4                       -1
+    X_37_4        PREC_36_37_4                       -1
+    X_37_4        PREC_37_16_4                        1
+    X_37_4        PREC_37_32_4                        1
+    X_37_4        PREC_37_38_4                        1
+    X_37_4        PREC_37_42_4                        1
+    X_37_4        PREC_37_54_4                        1
+    X_37_4        PREC_40_37_4                       -1
+    X_37_4        PREC_52_37_4                       -1
+    X_37_4        CAP_0_4                          6447
+    X_37_4        CAP_0_5                         -6447
+    X_37_4        CAP_1_4                          6447
+    X_37_4        CAP_1_5                         -6447
+    X_38_4        obj                 -180045.186228056
+    X_38_4        ORD_38_3                           -1
+    X_38_4        ORD_38_4                            1
+    X_38_4        PREC_15_38_4                       -1
+    X_38_4        PREC_31_38_4                       -1
+    X_38_4        PREC_37_38_4                       -1
+    X_38_4        PREC_38_17_4                        1
+    X_38_4        PREC_38_33_4                        1
+    X_38_4        PREC_38_39_4                        1
+    X_38_4        PREC_38_43_4                        1
+    X_38_4        PREC_38_55_4                        1
+    X_38_4        PREC_41_38_4                       -1
+    X_38_4        PREC_53_38_4                       -1
+    X_38_4        CAP_0_4                          6040
+    X_38_4        CAP_0_5                         -6040
+    X_38_4        CAP_1_4                          5960
+    X_38_4        CAP_1_5                         -5960
+    X_39_4        obj                 -44024.1538334054
+    X_39_4        ORD_39_3                           -1
+    X_39_4        ORD_39_4                            1
+    X_39_4        PREC_16_39_4                       -1
+    X_39_4        PREC_32_39_4                       -1
+    X_39_4        PREC_38_39_4                       -1
+    X_39_4        PREC_42_39_4                       -1
+    X_39_4        PREC_54_39_4                       -1
+    X_39_4        CAP_0_4                          2814
+    X_39_4        CAP_0_5                         -2814
+    X_39_4        CAP_1_4                          1584
+    X_39_4        CAP_1_5                         -1584
+    X_40_4        obj                 -76325.1323437184
+    X_40_4        ORD_40_3                           -1
+    X_40_4        ORD_40_4                            1
+    X_40_4        PREC_35_40_4                       -1
+    X_40_4        PREC_40_18_4                        1
+    X_40_4        PREC_40_37_4                        1
+    X_40_4        PREC_40_41_4                        1
+    X_40_4        PREC_40_57_4                        1
+    X_40_4        PREC_40_3_4                         1
+    X_40_4        PREC_40_61_4                        1
+    X_40_4        CAP_0_4                          1432
+    X_40_4        CAP_0_5                         -1432
+    X_40_4        CAP_1_4                          1432
+    X_40_4        CAP_1_5                         -1432
+    X_41_4        obj                 -158255.697122586
+    X_41_4        ORD_41_3                           -1
+    X_41_4        ORD_41_4                            1
+    X_41_4        PREC_36_41_4                       -1
+    X_41_4        PREC_40_41_4                       -1
+    X_41_4        PREC_41_19_4                        1
+    X_41_4        PREC_41_38_4                        1
+    X_41_4        PREC_41_42_4                        1
+    X_41_4        PREC_41_58_4                        1
+    X_41_4        PREC_56_41_4                       -1
+    X_41_4        CAP_0_4                          4296
+    X_41_4        CAP_0_5                         -4296
+    X_41_4        CAP_1_4                          4296
+    X_41_4        CAP_1_5                         -4296
+    X_42_4        obj                 -152324.367452835
+    X_42_4        ORD_42_3                           -1
+    X_42_4        ORD_42_4                            1
+    X_42_4        PREC_18_42_4                       -1
+    X_42_4        PREC_37_42_4                       -1
+    X_42_4        PREC_41_42_4                       -1
+    X_42_4        PREC_42_20_4                        1
+    X_42_4        PREC_42_39_4                        1
+    X_42_4        PREC_42_43_4                        1
+    X_42_4        PREC_42_44_4                        1
+    X_42_4        PREC_42_59_4                        1
+    X_42_4        PREC_57_42_4                       -1
+    X_42_4        CAP_0_4                          5997
+    X_42_4        CAP_0_5                         -5997
+    X_42_4        CAP_1_4                          5992
+    X_42_4        CAP_1_5                         -5992
+    X_43_4        obj                 -53786.0795986647
+    X_43_4        ORD_43_3                           -1
+    X_43_4        ORD_43_4                            1
+    X_43_4        PREC_19_43_4                       -1
+    X_43_4        PREC_38_43_4                       -1
+    X_43_4        PREC_42_43_4                       -1
+    X_43_4        PREC_58_43_4                       -1
+    X_43_4        CAP_0_4                          2525
+    X_43_4        CAP_0_5                         -2525
+    X_43_4        CAP_1_4                          1776
+    X_43_4        CAP_1_5                         -1776
+    X_44_4        obj                 -17011.8356462088
+    X_44_4        ORD_44_3                           -1
+    X_44_4        ORD_44_4                            1
+    X_44_4        PREC_42_44_4                       -1
+    X_44_4        CAP_0_4                          1078
+    X_44_4        CAP_0_5                         -1078
+    X_44_4        CAP_1_4                           874
+    X_44_4        CAP_1_5                          -874
+    X_45_4        obj                 -5201.31986424315
+    X_45_4        ORD_45_3                           -1
+    X_45_4        ORD_45_4                            1
+    X_45_4        PREC_25_45_4                       -1
+    X_45_4        PREC_45_27_4                        1
+    X_45_4        PREC_45_46_4                        1
+    X_45_4        PREC_45_50_4                        1
+    X_45_4        PREC_48_45_4                       -1
+    X_45_4        CAP_0_4                           673
+    X_45_4        CAP_0_5                          -673
+    X_45_4        CAP_1_4                           673
+    X_45_4        CAP_1_5                          -673
+    X_46_4        obj                  19.5538340761021
+    X_46_4        ORD_46_3                           -1
+    X_46_4        ORD_46_4                            1
+    X_46_4        PREC_14_46_4                       -1
+    X_46_4        PREC_26_46_4                       -1
+    X_46_4        PREC_45_46_4                       -1
+    X_46_4        PREC_49_46_4                       -1
+    X_46_4        CAP_0_4                           745
+    X_46_4        CAP_0_5                          -745
+    X_46_4        CAP_1_4                            59
+    X_46_4        CAP_1_5                           -59
+    X_47_4        obj                 -23920.8570197649
+    X_47_4        ORD_47_3                           -1
+    X_47_4        ORD_47_4                            1
+    X_47_4        PREC_29_47_4                       -1
+    X_47_4        PREC_47_31_4                        1
+    X_47_4        PREC_47_48_4                        1
+    X_47_4        PREC_47_53_4                        1
+    X_47_4        PREC_47_6_4                         1
+    X_47_4        PREC_47_20_4                        1
+    X_47_4        PREC_51_47_4                       -1
+    X_47_4        CAP_0_4                           722
+    X_47_4        CAP_0_5                          -722
+    X_47_4        CAP_1_4                           722
+    X_47_4        CAP_1_5                          -722
+    X_48_4        obj                 -66157.1386241454
+    X_48_4        ORD_48_3                           -1
+    X_48_4        ORD_48_4                            1
+    X_48_4        PREC_30_48_4                       -1
+    X_48_4        PREC_47_48_4                       -1
+    X_48_4        PREC_48_32_4                        1
+    X_48_4        PREC_48_45_4                        1
+    X_48_4        PREC_48_49_4                        1
+    X_48_4        PREC_48_54_4                        1
+    X_48_4        PREC_52_48_4                       -1
+    X_48_4        CAP_0_4                          2896
+    X_48_4        CAP_0_5                         -2896
+    X_48_4        CAP_1_4                          2896
+    X_48_4        CAP_1_5                         -2896
+    X_49_4        obj                  -40039.734243165
+    X_49_4        ORD_49_3                           -1
+    X_49_4        ORD_49_4                            1
+    X_49_4        PREC_31_49_4                       -1
+    X_49_4        PREC_48_49_4                       -1
+    X_49_4        PREC_49_33_4                        1
+    X_49_4        PREC_49_46_4                        1
+    X_49_4        PREC_49_50_4                        1
+    X_49_4        PREC_49_55_4                        1
+    X_49_4        PREC_49_61_4                        1
+    X_49_4        PREC_53_49_4                       -1
+    X_49_4        CAP_0_4                          4711
+    X_49_4        CAP_0_5                         -4711
+    X_49_4        CAP_1_4                          4687
+    X_49_4        CAP_1_5                         -4687
+    X_50_4        obj                 -7503.45792946956
+    X_50_4        ORD_50_3                           -1
+    X_50_4        ORD_50_4                            1
+    X_50_4        PREC_32_50_4                       -1
+    X_50_4        PREC_45_50_4                       -1
+    X_50_4        PREC_49_50_4                       -1
+    X_50_4        PREC_54_50_4                       -1
+    X_50_4        CAP_0_4                          1818
+    X_50_4        CAP_0_5                         -1818
+    X_50_4        CAP_1_4                           611
+    X_50_4        CAP_1_5                          -611
+    X_51_4        obj                 -74565.2872768692
+    X_51_4        ORD_51_3                           -1
+    X_51_4        ORD_51_4                            1
+    X_51_4        PREC_34_51_4                       -1
+    X_51_4        PREC_51_36_4                        1
+    X_51_4        PREC_51_47_4                        1
+    X_51_4        PREC_51_52_4                        1
+    X_51_4        PREC_51_56_4                        1
+    X_51_4        PREC_51_8_4                         1
+    X_51_4        CAP_0_4                          1432
+    X_51_4        CAP_0_5                         -1432
+    X_51_4        CAP_1_4                          1432
+    X_51_4        CAP_1_5                         -1432
+    X_52_4        obj                 -184523.014231483
+    X_52_4        ORD_52_3                           -1
+    X_52_4        ORD_52_4                            1
+    X_52_4        PREC_35_52_4                       -1
+    X_52_4        PREC_51_52_4                       -1
+    X_52_4        PREC_52_37_4                        1
+    X_52_4        PREC_52_48_4                        1
+    X_52_4        PREC_52_53_4                        1
+    X_52_4        PREC_52_57_4                        1
+    X_52_4        PREC_52_9_4                         1
+    X_52_4        PREC_52_21_4                        1
+    X_52_4        CAP_0_4                          3580
+    X_52_4        CAP_0_5                         -3580
+    X_52_4        CAP_1_4                          3580
+    X_52_4        CAP_1_5                         -3580
+    X_53_4        obj                 -226759.295835864
+    X_53_4        ORD_53_3                           -1
+    X_53_4        ORD_53_4                            1
+    X_53_4        PREC_36_53_4                       -1
+    X_53_4        PREC_47_53_4                       -1
+    X_53_4        PREC_52_53_4                       -1
+    X_53_4        PREC_53_38_4                        1
+    X_53_4        PREC_53_49_4                        1
+    X_53_4        PREC_53_54_4                        1
+    X_53_4        PREC_53_58_4                        1
+    X_53_4        PREC_53_62_4                        1
+    X_53_4        PREC_56_53_4                       -1
+    X_53_4        CAP_0_4                          5759
+    X_53_4        CAP_0_5                         -5759
+    X_53_4        CAP_1_4                          5759
+    X_53_4        CAP_1_5                         -5759
+    X_54_4        obj                 -95944.1458667407
+    X_54_4        ORD_54_3                           -1
+    X_54_4        ORD_54_4                            1
+    X_54_4        PREC_37_54_4                       -1
+    X_54_4        PREC_48_54_4                       -1
+    X_54_4        PREC_53_54_4                       -1
+    X_54_4        PREC_54_39_4                        1
+    X_54_4        PREC_54_50_4                        1
+    X_54_4        PREC_54_55_4                        1
+    X_54_4        PREC_54_59_4                        1
+    X_54_4        PREC_54_63_4                        1
+    X_54_4        PREC_57_54_4                       -1
+    X_54_4        CAP_0_4                          6054
+    X_54_4        CAP_0_5                         -6054
+    X_54_4        CAP_1_4                          6029
+    X_54_4        CAP_1_5                         -6029
+    X_55_4        obj                 -21945.9197780786
+    X_55_4        ORD_55_3                           -1
+    X_55_4        ORD_55_4                            1
+    X_55_4        PREC_38_55_4                       -1
+    X_55_4        PREC_49_55_4                       -1
+    X_55_4        PREC_54_55_4                       -1
+    X_55_4        PREC_58_55_4                       -1
+    X_55_4        PREC_62_55_4                       -1
+    X_55_4        CAP_0_4                          2081
+    X_55_4        CAP_0_5                         -2081
+    X_55_4        CAP_1_4                          1135
+    X_55_4        CAP_1_5                         -1135
+    X_56_4        obj                 -77433.1829413641
+    X_56_4        ORD_56_3                           -1
+    X_56_4        ORD_56_4                            1
+    X_56_4        PREC_51_56_4                       -1
+    X_56_4        PREC_56_41_4                        1
+    X_56_4        PREC_56_53_4                        1
+    X_56_4        PREC_56_57_4                        1
+    X_56_4        PREC_56_13_4                        1
+    X_56_4        PREC_56_22_4                        1
+    X_56_4        CAP_0_4                          1432
+    X_56_4        CAP_0_5                         -1432
+    X_56_4        CAP_1_4                          1432
+    X_56_4        CAP_1_5                         -1432
+    X_57_4        obj                 -155974.416480374
+    X_57_4        ORD_57_3                           -1
+    X_57_4        ORD_57_4                            1
+    X_57_4        PREC_40_57_4                       -1
+    X_57_4        PREC_52_57_4                       -1
+    X_57_4        PREC_56_57_4                       -1
+    X_57_4        PREC_57_42_4                        1
+    X_57_4        PREC_57_54_4                        1
+    X_57_4        PREC_57_58_4                        1
+    X_57_4        PREC_57_64_4                        1
+    X_57_4        CAP_0_4                          3580
+    X_57_4        CAP_0_5                         -3580
+    X_57_4        CAP_1_4                          3580
+    X_57_4        CAP_1_5                         -3580
+    X_58_4        obj                 -154801.186435808
+    X_58_4        ORD_58_3                           -1
+    X_58_4        ORD_58_4                            1
+    X_58_4        PREC_41_58_4                       -1
+    X_58_4        PREC_53_58_4                       -1
+    X_58_4        PREC_57_58_4                       -1
+    X_58_4        PREC_58_43_4                        1
+    X_58_4        PREC_58_55_4                        1
+    X_58_4        PREC_58_59_4                        1
+    X_58_4        PREC_58_60_4                        1
+    X_58_4        PREC_58_65_4                        1
+    X_58_4        CAP_0_4                          5368
+    X_58_4        CAP_0_5                         -5368
+    X_58_4        CAP_1_4                          5360
+    X_58_4        CAP_1_5                         -5360
+    X_59_4        obj                 -45684.2743464665
+    X_59_4        ORD_59_3                           -1
+    X_59_4        ORD_59_4                            1
+    X_59_4        PREC_10_59_4                       -1
+    X_59_4        PREC_42_59_4                       -1
+    X_59_4        PREC_54_59_4                       -1
+    X_59_4        PREC_58_59_4                       -1
+    X_59_4        PREC_64_59_4                       -1
+    X_59_4        CAP_0_4                          2013
+    X_59_4        CAP_0_5                         -2013
+    X_59_4        CAP_1_4                          1160
+    X_59_4        CAP_1_5                         -1160
+    X_60_4        obj                 -19208.3830074243
+    X_60_4        ORD_60_3                           -1
+    X_60_4        ORD_60_4                            1
+    X_60_4        PREC_14_60_4                       -1
+    X_60_4        PREC_58_60_4                       -1
+    X_60_4        CAP_0_4                          1030
+    X_60_4        CAP_0_5                         -1030
+    X_60_4        CAP_1_4                           676
+    X_60_4        CAP_1_5                          -676
+    X_61_4        obj                  607.472445297571
+    X_61_4        ORD_61_3                           -1
+    X_61_4        ORD_61_4                            1
+    X_61_4        PREC_40_61_4                       -1
+    X_61_4        PREC_49_61_4                       -1
+    X_61_4        PREC_62_61_4                       -1
+    X_61_4        CAP_0_4                           311
+    X_61_4        CAP_0_5                          -311
+    X_62_4        obj                 -12436.2384724009
+    X_62_4        ORD_62_3                           -1
+    X_62_4        ORD_62_4                            1
+    X_62_4        PREC_53_62_4                       -1
+    X_62_4        PREC_62_55_4                        1
+    X_62_4        PREC_62_61_4                        1
+    X_62_4        PREC_62_63_4                        1
+    X_62_4        PREC_62_65_4                        1
+    X_62_4        CAP_0_4                          1346
+    X_62_4        CAP_0_5                         -1346
+    X_62_4        CAP_1_4                          1322
+    X_62_4        CAP_1_5                         -1322
+    X_63_4        obj                 -2295.62012053438
+    X_63_4        ORD_63_3                           -1
+    X_63_4        ORD_63_4                            1
+    X_63_4        PREC_24_63_4                       -1
+    X_63_4        PREC_54_63_4                       -1
+    X_63_4        PREC_62_63_4                       -1
+    X_63_4        PREC_64_63_4                       -1
+    X_63_4        CAP_0_4                           702
+    X_63_4        CAP_0_5                          -702
+    X_63_4        CAP_1_4                           185
+    X_63_4        CAP_1_5                          -185
+    X_64_4        obj                 -10950.1470826172
+    X_64_4        ORD_64_3                           -1
+    X_64_4        ORD_64_4                            1
+    X_64_4        PREC_29_64_4                       -1
+    X_64_4        PREC_57_64_4                       -1
+    X_64_4        PREC_64_59_4                        1
+    X_64_4        PREC_64_63_4                        1
+    X_64_4        PREC_64_65_4                        1
+    X_64_4        PREC_64_66_4                        1
+    X_64_4        CAP_0_4                           672
+    X_64_4        CAP_0_5                          -672
+    X_64_4        CAP_1_4                           672
+    X_64_4        CAP_1_5                          -672
+    X_65_4        obj                  -5976.9552825952
+    X_65_4        ORD_65_3                           -1
+    X_65_4        ORD_65_4                            1
+    X_65_4        PREC_30_65_4                       -1
+    X_65_4        PREC_58_65_4                       -1
+    X_65_4        PREC_62_65_4                       -1
+    X_65_4        PREC_64_65_4                       -1
+    X_65_4        CAP_0_4                           571
+    X_65_4        CAP_0_5                          -571
+    X_65_4        CAP_1_4                           190
+    X_65_4        CAP_1_5                          -190
+    X_66_4        obj                 -1649.04000708461
+    X_66_4        ORD_66_3                           -1
+    X_66_4        ORD_66_4                            1
+    X_66_4        PREC_36_66_4                       -1
+    X_66_4        PREC_64_66_4                       -1
+    X_66_4        CAP_0_4                           131
+    X_66_4        CAP_0_5                          -131
+    X_66_4        CAP_1_4                            45
+    X_66_4        CAP_1_5                           -45
+    X_0_5         obj                 -1649.13325966656
+    X_0_5         ORD_0_4                            -1
+    X_0_5         ORD_0_5                             1
+    X_0_5         PREC_30_0_5                        -1
+    X_0_5         CAP_0_5                           301
+    X_0_5         CAP_0_6                          -301
+    X_0_5         CAP_1_5                           102
+    X_0_5         CAP_1_6                          -102
+    X_1_5         obj                 -10440.5558885365
+    X_1_5         ORD_1_4                            -1
+    X_1_5         ORD_1_5                             1
+    X_1_5         PREC_2_1_5                         -1
+    X_1_5         PREC_8_1_5                         -1
+    X_1_5         PREC_36_1_5                        -1
+    X_1_5         CAP_0_5                          1061
+    X_1_5         CAP_0_6                         -1061
+    X_1_5         CAP_1_5                           713
+    X_1_5         CAP_1_6                          -713
+    X_2_5         obj                 -18191.8776845711
+    X_2_5         ORD_2_4                            -1
+    X_2_5         ORD_2_5                             1
+    X_2_5         PREC_2_1_5                          1
+    X_2_5         PREC_2_3_5                          1
+    X_2_5         PREC_2_4_5                          1
+    X_2_5         PREC_2_13_5                         1
+    X_2_5         PREC_11_2_5                        -1
+    X_2_5         CAP_0_5                           648
+    X_2_5         CAP_0_6                          -648
+    X_2_5         CAP_1_5                           648
+    X_2_5         CAP_1_6                          -648
+    X_3_5         obj                 -26711.5520784635
+    X_3_5         ORD_3_4                            -1
+    X_3_5         ORD_3_5                             1
+    X_3_5         PREC_2_3_5                         -1
+    X_3_5         PREC_12_3_5                        -1
+    X_3_5         PREC_40_3_5                        -1
+    X_3_5         CAP_0_5                          1367
+    X_3_5         CAP_0_6                         -1367
+    X_3_5         CAP_1_5                          1118
+    X_3_5         CAP_1_6                         -1118
+    X_4_5         obj                 -5663.21061832736
+    X_4_5         ORD_4_4                            -1
+    X_4_5         ORD_4_5                             1
+    X_4_5         PREC_2_4_5                         -1
+    X_4_5         PREC_16_4_5                        -1
+    X_4_5         PREC_24_4_5                        -1
+    X_4_5         CAP_0_5                           849
+    X_4_5         CAP_0_6                          -849
+    X_4_5         CAP_1_5                           648
+    X_4_5         CAP_1_6                          -648
+    X_5_5         obj                 -2118.61929556341
+    X_5_5         ORD_5_4                            -1
+    X_5_5         ORD_5_5                             1
+    X_5_5         PREC_19_5_5                        -1
+    X_5_5         PREC_30_5_5                        -1
+    X_5_5         CAP_0_5                           321
+    X_5_5         CAP_0_6                          -321
+    X_5_5         CAP_1_5                           253
+    X_5_5         CAP_1_6                          -253
+    X_6_5         obj                  80.7900158041513
+    X_6_5         ORD_6_4                            -1
+    X_6_5         ORD_6_5                             1
+    X_6_5         PREC_8_6_5                         -1
+    X_6_5         PREC_47_6_5                        -1
+    X_6_5         CAP_0_5                            48
+    X_6_5         CAP_0_6                           -48
+    X_7_5         obj                 -21751.1581011176
+    X_7_5         ORD_7_4                            -1
+    X_7_5         ORD_7_5                             1
+    X_7_5         PREC_7_8_5                          1
+    X_7_5         PREC_7_12_5                         1
+    X_7_5         PREC_7_26_5                         1
+    X_7_5         PREC_10_7_5                        -1
+    X_7_5         PREC_24_7_5                        -1
+    X_7_5         CAP_0_5                           724
+    X_7_5         CAP_0_6                          -724
+    X_7_5         CAP_1_5                           724
+    X_7_5         CAP_1_6                          -724
+    X_8_5         obj                 -18858.5365562417
+    X_8_5         ORD_8_4                            -1
+    X_8_5         ORD_8_5                             1
+    X_8_5         PREC_7_8_5                         -1
+    X_8_5         PREC_8_1_5                          1
+    X_8_5         PREC_8_6_5                          1
+    X_8_5         PREC_8_9_5                          1
+    X_8_5         PREC_8_13_5                         1
+    X_8_5         PREC_8_27_5                         1
+    X_8_5         PREC_11_8_5                        -1
+    X_8_5         PREC_25_8_5                        -1
+    X_8_5         PREC_51_8_5                        -1
+    X_8_5         CAP_0_5                          1989
+    X_8_5         CAP_0_6                         -1989
+    X_8_5         CAP_1_5                          1989
+    X_8_5         CAP_1_6                         -1989
+    X_9_5         obj                 -6994.83346623214
+    X_9_5         ORD_9_4                            -1
+    X_9_5         ORD_9_5                             1
+    X_9_5         PREC_8_9_5                         -1
+    X_9_5         PREC_12_9_5                        -1
+    X_9_5         PREC_26_9_5                        -1
+    X_9_5         PREC_52_9_5                        -1
+    X_9_5         CAP_0_5                          1225
+    X_9_5         CAP_0_6                         -1225
+    X_9_5         CAP_1_5                           584
+    X_9_5         CAP_1_6                          -584
+    X_10_5        obj                 -66157.4185361267
+    X_10_5        ORD_10_4                           -1
+    X_10_5        ORD_10_5                            1
+    X_10_5        PREC_10_7_5                         1
+    X_10_5        PREC_10_11_5                        1
+    X_10_5        PREC_10_15_5                        1
+    X_10_5        PREC_10_31_5                        1
+    X_10_5        PREC_10_59_5                        1
+    X_10_5        PREC_29_10_5                       -1
+    X_10_5        CAP_0_5                          1432
+    X_10_5        CAP_0_6                         -1432
+    X_10_5        CAP_1_5                          1432
+    X_10_5        CAP_1_6                         -1432
+    X_11_5        obj                 -191297.198260739
+    X_11_5        ORD_11_4                           -1
+    X_11_5        ORD_11_5                            1
+    X_11_5        PREC_10_11_5                       -1
+    X_11_5        PREC_11_2_5                         1
+    X_11_5        PREC_11_8_5                         1
+    X_11_5        PREC_11_12_5                        1
+    X_11_5        PREC_11_16_5                        1
+    X_11_5        PREC_11_32_5                        1
+    X_11_5        PREC_14_11_5                       -1
+    X_11_5        PREC_30_11_5                       -1
+    X_11_5        CAP_0_5                          5001
+    X_11_5        CAP_0_6                         -5001
+    X_11_5        CAP_1_5                          5001
+    X_11_5        CAP_1_6                         -5001
+    X_12_5        obj                 -82061.1873814893
+    X_12_5        ORD_12_4                           -1
+    X_12_5        ORD_12_5                            1
+    X_12_5        PREC_7_12_5                        -1
+    X_12_5        PREC_11_12_5                       -1
+    X_12_5        PREC_12_3_5                         1
+    X_12_5        PREC_12_9_5                         1
+    X_12_5        PREC_12_13_5                        1
+    X_12_5        PREC_12_17_5                        1
+    X_12_5        PREC_12_33_5                        1
+    X_12_5        PREC_15_12_5                       -1
+    X_12_5        PREC_31_12_5                       -1
+    X_12_5        CAP_0_5                          5835
+    X_12_5        CAP_0_6                         -5835
+    X_12_5        CAP_1_5                          5835
+    X_12_5        CAP_1_6                         -5835
+    X_13_5        obj                 -17926.3440661938
+    X_13_5        ORD_13_4                           -1
+    X_13_5        ORD_13_5                            1
+    X_13_5        PREC_2_13_5                        -1
+    X_13_5        PREC_8_13_5                        -1
+    X_13_5        PREC_12_13_5                       -1
+    X_13_5        PREC_16_13_5                       -1
+    X_13_5        PREC_32_13_5                       -1
+    X_13_5        PREC_56_13_5                       -1
+    X_13_5        CAP_0_5                          2318
+    X_13_5        CAP_0_6                         -2318
+    X_13_5        CAP_1_5                          1488
+    X_13_5        CAP_1_6                         -1488
+    X_14_5        obj                 -58417.3960430017
+    X_14_5        ORD_14_4                           -1
+    X_14_5        ORD_14_5                            1
+    X_14_5        PREC_14_11_5                        1
+    X_14_5        PREC_14_15_5                        1
+    X_14_5        PREC_14_18_5                        1
+    X_14_5        PREC_14_37_5                        1
+    X_14_5        PREC_14_46_5                        1
+    X_14_5        PREC_14_60_5                        1
+    X_14_5        PREC_35_14_5                       -1
+    X_14_5        CAP_0_5                          1432
+    X_14_5        CAP_0_6                         -1432
+    X_14_5        CAP_1_5                          1432
+    X_14_5        CAP_1_6                         -1432
+    X_15_5        obj                 -120620.058560743
+    X_15_5        ORD_15_4                           -1
+    X_15_5        ORD_15_5                            1
+    X_15_5        PREC_10_15_5                       -1
+    X_15_5        PREC_14_15_5                       -1
+    X_15_5        PREC_15_12_5                        1
+    X_15_5        PREC_15_16_5                        1
+    X_15_5        PREC_15_19_5                        1
+    X_15_5        PREC_15_38_5                        1
+    X_15_5        PREC_36_15_5                       -1
+    X_15_5        CAP_0_5                          4296
+    X_15_5        CAP_0_6                         -4296
+    X_15_5        CAP_1_5                          4296
+    X_15_5        CAP_1_6                         -4296
+    X_16_5        obj                 -126430.160116896
+    X_16_5        ORD_16_4                           -1
+    X_16_5        ORD_16_5                            1
+    X_16_5        PREC_11_16_5                       -1
+    X_16_5        PREC_15_16_5                       -1
+    X_16_5        PREC_16_4_5                         1
+    X_16_5        PREC_16_13_5                        1
+    X_16_5        PREC_16_17_5                        1
+    X_16_5        PREC_16_20_5                        1
+    X_16_5        PREC_16_39_5                        1
+    X_16_5        PREC_18_16_5                       -1
+    X_16_5        PREC_37_16_5                       -1
+    X_16_5        CAP_0_5                          5965
+    X_16_5        CAP_0_6                         -5965
+    X_16_5        CAP_1_5                          5528
+    X_16_5        CAP_1_6                         -5528
+    X_17_5        obj                 -44965.5759290378
+    X_17_5        ORD_17_4                           -1
+    X_17_5        ORD_17_5                            1
+    X_17_5        PREC_12_17_5                       -1
+    X_17_5        PREC_16_17_5                       -1
+    X_17_5        PREC_19_17_5                       -1
+    X_17_5        PREC_38_17_5                       -1
+    X_17_5        CAP_0_5                          2733
+    X_17_5        CAP_0_6                         -2733
+    X_17_5        CAP_1_5                          1776
+    X_17_5        CAP_1_6                         -1776
+    X_18_5        obj                 -20677.7243246989
+    X_18_5        ORD_18_4                           -1
+    X_18_5        ORD_18_5                            1
+    X_18_5        PREC_14_18_5                       -1
+    X_18_5        PREC_18_16_5                        1
+    X_18_5        PREC_18_19_5                        1
+    X_18_5        PREC_18_42_5                        1
+    X_18_5        PREC_40_18_5                       -1
+    X_18_5        CAP_0_5                           716
+    X_18_5        CAP_0_6                          -716
+    X_18_5        CAP_1_5                           716
+    X_18_5        CAP_1_6                          -716
+    X_19_5        obj                 -36835.7274855291
+    X_19_5        ORD_19_4                           -1
+    X_19_5        ORD_19_5                            1
+    X_19_5        PREC_15_19_5                       -1
+    X_19_5        PREC_18_19_5                       -1
+    X_19_5        PREC_19_5_5                         1
+    X_19_5        PREC_19_17_5                        1
+    X_19_5        PREC_19_20_5                        1
+    X_19_5        PREC_19_21_5                        1
+    X_19_5        PREC_19_43_5                        1
+    X_19_5        PREC_41_19_5                       -1
+    X_19_5        CAP_0_5                          1965
+    X_19_5        CAP_0_6                         -1965
+    X_19_5        CAP_1_5                          1964
+    X_19_5        CAP_1_6                         -1964
+    X_20_5        obj                 -27719.4498980061
+    X_20_5        ORD_20_4                           -1
+    X_20_5        ORD_20_5                            1
+    X_20_5        PREC_16_20_5                       -1
+    X_20_5        PREC_19_20_5                       -1
+    X_20_5        PREC_42_20_5                       -1
+    X_20_5        PREC_47_20_5                       -1
+    X_20_5        CAP_0_5                          2496
+    X_20_5        CAP_0_6                         -2496
+    X_20_5        CAP_1_5                          1791
+    X_20_5        CAP_1_6                         -1791
+    X_21_5        obj                 -1378.51495497992
+    X_21_5        ORD_21_4                           -1
+    X_21_5        ORD_21_5                            1
+    X_21_5        PREC_19_21_5                       -1
+    X_21_5        PREC_52_21_5                       -1
+    X_21_5        CAP_0_5                           244
+    X_21_5        CAP_0_6                          -244
+    X_21_5        CAP_1_5                           215
+    X_21_5        CAP_1_6                          -215
+    X_22_5        obj                 -3158.15516325318
+    X_22_5        ORD_22_4                           -1
+    X_22_5        ORD_22_5                            1
+    X_22_5        PREC_56_22_5                       -1
+    X_22_5        CAP_0_5                           339
+    X_22_5        CAP_0_6                          -339
+    X_22_5        CAP_1_5                           283
+    X_22_5        CAP_1_6                          -283
+    X_23_5        obj                  138.133978070734
+    X_23_5        ORD_23_4                           -1
+    X_23_5        ORD_23_5                            1
+    X_23_5        PREC_26_23_5                       -1
+    X_23_5        CAP_0_5                            85
+    X_23_5        CAP_0_6                           -85
+    X_24_5        obj                 -29773.6631669844
+    X_24_5        ORD_24_4                           -1
+    X_24_5        ORD_24_5                            1
+    X_24_5        PREC_24_7_5                         1
+    X_24_5        PREC_24_25_5                        1
+    X_24_5        PREC_24_31_5                        1
+    X_24_5        PREC_24_4_5                         1
+    X_24_5        PREC_24_63_5                        1
+    X_24_5        PREC_29_24_5                       -1
+    X_24_5        CAP_0_5                           724
+    X_24_5        CAP_0_6                          -724
+    X_24_5        CAP_1_5                           724
+    X_24_5        CAP_1_6                          -724
+    X_25_5        obj                 -108812.287020137
+    X_25_5        ORD_25_4                           -1
+    X_25_5        ORD_25_5                            1
+    X_25_5        PREC_24_25_5                       -1
+    X_25_5        PREC_25_8_5                         1
+    X_25_5        PREC_25_26_5                        1
+    X_25_5        PREC_25_32_5                        1
+    X_25_5        PREC_25_45_5                        1
+    X_25_5        PREC_30_25_5                       -1
+    X_25_5        CAP_0_5                          3620
+    X_25_5        CAP_0_6                         -3620
+    X_25_5        CAP_1_5                          3620
+    X_25_5        CAP_1_6                         -3620
+    X_26_5        obj                 -87061.1289190189
+    X_26_5        ORD_26_4                           -1
+    X_26_5        ORD_26_5                            1
+    X_26_5        PREC_7_26_5                        -1
+    X_26_5        PREC_25_26_5                       -1
+    X_26_5        PREC_26_9_5                         1
+    X_26_5        PREC_26_23_5                        1
+    X_26_5        PREC_26_27_5                        1
+    X_26_5        PREC_26_33_5                        1
+    X_26_5        PREC_26_46_5                        1
+    X_26_5        PREC_31_26_5                       -1
+    X_26_5        CAP_0_5                          5384
+    X_26_5        CAP_0_6                         -5384
+    X_26_5        CAP_1_5                          5360
+    X_26_5        CAP_1_6                         -5360
+    X_27_5        obj                 -4972.25824540094
+    X_27_5        ORD_27_4                           -1
+    X_27_5        ORD_27_5                            1
+    X_27_5        PREC_8_27_5                        -1
+    X_27_5        PREC_26_27_5                       -1
+    X_27_5        PREC_32_27_5                       -1
+    X_27_5        PREC_45_27_5                       -1
+    X_27_5        CAP_0_5                          1376
+    X_27_5        CAP_0_6                         -1376
+    X_27_5        CAP_1_5                           438
+    X_27_5        CAP_1_6                          -438
+    X_28_5        obj                 -36383.7553691422
+    X_28_5        ORD_28_4                           -1
+    X_28_5        ORD_28_5                            1
+    X_28_5        PREC_28_29_5                        1
+    X_28_5        PREC_28_35_5                        1
+    X_28_5        CAP_0_5                           716
+    X_28_5        CAP_0_6                          -716
+    X_28_5        CAP_1_5                           716
+    X_28_5        CAP_1_6                          -716
+    X_29_5        obj                 -161297.549035561
+    X_29_5        ORD_29_4                           -1
+    X_29_5        ORD_29_5                            1
+    X_29_5        PREC_28_29_5                       -1
+    X_29_5        PREC_29_10_5                        1
+    X_29_5        PREC_29_24_5                        1
+    X_29_5        PREC_29_30_5                        1
+    X_29_5        PREC_29_36_5                        1
+    X_29_5        PREC_29_47_5                        1
+    X_29_5        PREC_29_64_5                        1
+    X_29_5        PREC_34_29_5                       -1
+    X_29_5        CAP_0_5                          3580
+    X_29_5        CAP_0_6                         -3580
+    X_29_5        CAP_1_5                          3580
+    X_29_5        CAP_1_6                         -3580
+    X_30_5        obj                 -259206.008747864
+    X_30_5        ORD_30_4                           -1
+    X_30_5        ORD_30_5                            1
+    X_30_5        PREC_29_30_5                       -1
+    X_30_5        PREC_30_11_5                        1
+    X_30_5        PREC_30_25_5                        1
+    X_30_5        PREC_30_31_5                        1
+    X_30_5        PREC_30_37_5                        1
+    X_30_5        PREC_30_48_5                        1
+    X_30_5        PREC_30_0_5                         1
+    X_30_5        PREC_30_5_5                         1
+    X_30_5        PREC_30_65_5                        1
+    X_30_5        PREC_35_30_5                       -1
+    X_30_5        CAP_0_5                          6483
+    X_30_5        CAP_0_6                         -6483
+    X_30_5        CAP_1_5                          6483
+    X_30_5        CAP_1_6                         -6483
+    X_31_5        obj                 -208302.649139794
+    X_31_5        ORD_31_4                           -1
+    X_31_5        ORD_31_5                            1
+    X_31_5        PREC_10_31_5                       -1
+    X_31_5        PREC_24_31_5                       -1
+    X_31_5        PREC_30_31_5                       -1
+    X_31_5        PREC_31_12_5                        1
+    X_31_5        PREC_31_26_5                        1
+    X_31_5        PREC_31_32_5                        1
+    X_31_5        PREC_31_38_5                        1
+    X_31_5        PREC_31_49_5                        1
+    X_31_5        PREC_36_31_5                       -1
+    X_31_5        PREC_47_31_5                       -1
+    X_31_5        CAP_0_5                          6507
+    X_31_5        CAP_0_6                         -6507
+    X_31_5        CAP_1_5                          6507
+    X_31_5        CAP_1_6                         -6507
+    X_32_5        obj                 -83953.8206188593
+    X_32_5        ORD_32_4                           -1
+    X_32_5        ORD_32_5                            1
+    X_32_5        PREC_11_32_5                       -1
+    X_32_5        PREC_25_32_5                       -1
+    X_32_5        PREC_31_32_5                       -1
+    X_32_5        PREC_32_13_5                        1
+    X_32_5        PREC_32_27_5                        1
+    X_32_5        PREC_32_33_5                        1
+    X_32_5        PREC_32_39_5                        1
+    X_32_5        PREC_32_50_5                        1
+    X_32_5        PREC_37_32_5                       -1
+    X_32_5        PREC_48_32_5                       -1
+    X_32_5        CAP_0_5                          6049
+    X_32_5        CAP_0_6                         -6049
+    X_32_5        CAP_1_5                          6025
+    X_32_5        CAP_1_6                         -6025
+    X_33_5        obj                  -9582.9387976924
+    X_33_5        ORD_33_4                           -1
+    X_33_5        ORD_33_5                            1
+    X_33_5        PREC_12_33_5                       -1
+    X_33_5        PREC_26_33_5                       -1
+    X_33_5        PREC_32_33_5                       -1
+    X_33_5        PREC_38_33_5                       -1
+    X_33_5        PREC_49_33_5                       -1
+    X_33_5        CAP_0_5                          2548
+    X_33_5        CAP_0_6                         -2548
+    X_33_5        CAP_1_5                           984
+    X_33_5        CAP_1_6                          -984
+    X_34_5        obj                 -73106.4898255747
+    X_34_5        ORD_34_4                           -1
+    X_34_5        ORD_34_5                            1
+    X_34_5        PREC_34_29_5                        1
+    X_34_5        PREC_34_35_5                        1
+    X_34_5        PREC_34_51_5                        1
+    X_34_5        CAP_0_5                          1432
+    X_34_5        CAP_0_6                         -1432
+    X_34_5        CAP_1_5                          1432
+    X_34_5        CAP_1_6                         -1432
+    X_35_5        obj                 -249658.097789192
+    X_35_5        ORD_35_4                           -1
+    X_35_5        ORD_35_5                            1
+    X_35_5        PREC_28_35_5                       -1
+    X_35_5        PREC_34_35_5                       -1
+    X_35_5        PREC_35_14_5                        1
+    X_35_5        PREC_35_30_5                        1
+    X_35_5        PREC_35_36_5                        1
+    X_35_5        PREC_35_40_5                        1
+    X_35_5        PREC_35_52_5                        1
+    X_35_5        CAP_0_5                          5728
+    X_35_5        CAP_0_6                         -5728
+    X_35_5        CAP_1_5                          5728
+    X_35_5        CAP_1_6                         -5728
+    X_36_5        obj                  -269318.88485202
+    X_36_5        ORD_36_4                           -1
+    X_36_5        ORD_36_5                            1
+    X_36_5        PREC_29_36_5                       -1
+    X_36_5        PREC_35_36_5                       -1
+    X_36_5        PREC_36_15_5                        1
+    X_36_5        PREC_36_31_5                        1
+    X_36_5        PREC_36_37_5                        1
+    X_36_5        PREC_36_41_5                        1
+    X_36_5        PREC_36_53_5                        1
+    X_36_5        PREC_36_1_5                         1
+    X_36_5        PREC_36_66_5                        1
+    X_36_5        PREC_51_36_5                       -1
+    X_36_5        CAP_0_5                          6444
+    X_36_5        CAP_0_6                         -6444
+    X_36_5        CAP_1_5                          6444
+    X_36_5        CAP_1_6                         -6444
+    X_37_5        obj                 -238471.787908617
+    X_37_5        ORD_37_4                           -1
+    X_37_5        ORD_37_5                            1
+    X_37_5        PREC_14_37_5                       -1
+    X_37_5        PREC_30_37_5                       -1
+    X_37_5        PREC_36_37_5                       -1
+    X_37_5        PREC_37_16_5                        1
+    X_37_5        PREC_37_32_5                        1
+    X_37_5        PREC_37_38_5                        1
+    X_37_5        PREC_37_42_5                        1
+    X_37_5        PREC_37_54_5                        1
+    X_37_5        PREC_40_37_5                       -1
+    X_37_5        PREC_52_37_5                       -1
+    X_37_5        CAP_0_5                          6447
+    X_37_5        CAP_0_6                         -6447
+    X_37_5        CAP_1_5                          6447
+    X_37_5        CAP_1_6                         -6447
+    X_38_5        obj                 -156060.322136928
+    X_38_5        ORD_38_4                           -1
+    X_38_5        ORD_38_5                            1
+    X_38_5        PREC_15_38_5                       -1
+    X_38_5        PREC_31_38_5                       -1
+    X_38_5        PREC_37_38_5                       -1
+    X_38_5        PREC_38_17_5                        1
+    X_38_5        PREC_38_33_5                        1
+    X_38_5        PREC_38_39_5                        1
+    X_38_5        PREC_38_43_5                        1
+    X_38_5        PREC_38_55_5                        1
+    X_38_5        PREC_41_38_5                       -1
+    X_38_5        PREC_53_38_5                       -1
+    X_38_5        CAP_0_5                          6040
+    X_38_5        CAP_0_6                         -6040
+    X_38_5        CAP_1_5                          5960
+    X_38_5        CAP_1_6                         -5960
+    X_39_5        obj                 -38159.4408213971
+    X_39_5        ORD_39_4                           -1
+    X_39_5        ORD_39_5                            1
+    X_39_5        PREC_16_39_5                       -1
+    X_39_5        PREC_32_39_5                       -1
+    X_39_5        PREC_38_39_5                       -1
+    X_39_5        PREC_42_39_5                       -1
+    X_39_5        PREC_54_39_5                       -1
+    X_39_5        CAP_0_5                          2814
+    X_39_5        CAP_0_6                         -2814
+    X_39_5        CAP_1_5                          1584
+    X_39_5        CAP_1_6                         -1584
+    X_40_5        obj                 -66157.4185361267
+    X_40_5        ORD_40_4                           -1
+    X_40_5        ORD_40_5                            1
+    X_40_5        PREC_35_40_5                       -1
+    X_40_5        PREC_40_18_5                        1
+    X_40_5        PREC_40_37_5                        1
+    X_40_5        PREC_40_41_5                        1
+    X_40_5        PREC_40_57_5                        1
+    X_40_5        PREC_40_3_5                         1
+    X_40_5        PREC_40_61_5                        1
+    X_40_5        CAP_0_5                          1432
+    X_40_5        CAP_0_6                         -1432
+    X_40_5        CAP_1_5                          1432
+    X_40_5        CAP_1_6                         -1432
+    X_41_5        obj                 -137173.537323412
+    X_41_5        ORD_41_4                           -1
+    X_41_5        ORD_41_5                            1
+    X_41_5        PREC_36_41_5                       -1
+    X_41_5        PREC_40_41_5                       -1
+    X_41_5        PREC_41_19_5                        1
+    X_41_5        PREC_41_38_5                        1
+    X_41_5        PREC_41_42_5                        1
+    X_41_5        PREC_41_58_5                        1
+    X_41_5        PREC_56_41_5                       -1
+    X_41_5        CAP_0_5                          4296
+    X_41_5        CAP_0_6                         -4296
+    X_41_5        CAP_1_5                          4296
+    X_41_5        CAP_1_6                         -4296
+    X_42_5        obj                 -132032.354499512
+    X_42_5        ORD_42_4                           -1
+    X_42_5        ORD_42_5                            1
+    X_42_5        PREC_18_42_5                       -1
+    X_42_5        PREC_37_42_5                       -1
+    X_42_5        PREC_41_42_5                       -1
+    X_42_5        PREC_42_20_5                        1
+    X_42_5        PREC_42_39_5                        1
+    X_42_5        PREC_42_43_5                        1
+    X_42_5        PREC_42_44_5                        1
+    X_42_5        PREC_42_59_5                        1
+    X_42_5        PREC_57_42_5                       -1
+    X_42_5        CAP_0_5                          5997
+    X_42_5        CAP_0_6                         -5997
+    X_42_5        CAP_1_5                          5992
+    X_42_5        CAP_1_6                         -5992
+    X_43_5        obj                 -46620.9238053046
+    X_43_5        ORD_43_4                           -1
+    X_43_5        ORD_43_5                            1
+    X_43_5        PREC_19_43_5                       -1
+    X_43_5        PREC_38_43_5                       -1
+    X_43_5        PREC_42_43_5                       -1
+    X_43_5        PREC_58_43_5                       -1
+    X_43_5        CAP_0_5                          2525
+    X_43_5        CAP_0_6                         -2525
+    X_43_5        CAP_1_5                          1776
+    X_43_5        CAP_1_6                         -1776
+    X_44_5        obj                 -14745.5902971213
+    X_44_5        ORD_44_4                           -1
+    X_44_5        ORD_44_5                            1
+    X_44_5        PREC_42_44_5                       -1
+    X_44_5        CAP_0_5                          1078
+    X_44_5        CAP_0_6                         -1078
+    X_44_5        CAP_1_5                           874
+    X_44_5        CAP_1_6                          -874
+    X_45_5        obj                 -4508.42186095893
+    X_45_5        ORD_45_4                           -1
+    X_45_5        ORD_45_5                            1
+    X_45_5        PREC_25_45_5                       -1
+    X_45_5        PREC_45_27_5                        1
+    X_45_5        PREC_45_46_5                        1
+    X_45_5        PREC_45_50_5                        1
+    X_45_5        PREC_48_45_5                       -1
+    X_45_5        CAP_0_5                           673
+    X_45_5        CAP_0_6                          -673
+    X_45_5        CAP_1_5                           673
+    X_45_5        CAP_1_6                          -673
+    X_46_5        obj                  16.9489543645073
+    X_46_5        ORD_46_4                           -1
+    X_46_5        ORD_46_5                            1
+    X_46_5        PREC_14_46_5                       -1
+    X_46_5        PREC_26_46_5                       -1
+    X_46_5        PREC_45_46_5                       -1
+    X_46_5        PREC_49_46_5                       -1
+    X_46_5        CAP_0_5                           745
+    X_46_5        CAP_0_6                          -745
+    X_46_5        CAP_1_5                            59
+    X_46_5        CAP_1_6                           -59
+    X_47_5        obj                 -20734.2208392472
+    X_47_5        ORD_47_4                           -1
+    X_47_5        ORD_47_5                            1
+    X_47_5        PREC_29_47_5                       -1
+    X_47_5        PREC_47_31_5                        1
+    X_47_5        PREC_47_48_5                        1
+    X_47_5        PREC_47_53_5                        1
+    X_47_5        PREC_47_6_5                         1
+    X_47_5        PREC_47_20_5                        1
+    X_47_5        PREC_51_47_5                       -1
+    X_47_5        CAP_0_5                           722
+    X_47_5        CAP_0_6                          -722
+    X_47_5        CAP_1_5                           722
+    X_47_5        CAP_1_6                          -722
+    X_48_5        obj                 -57343.9622665829
+    X_48_5        ORD_48_4                           -1
+    X_48_5        ORD_48_5                            1
+    X_48_5        PREC_30_48_5                       -1
+    X_48_5        PREC_47_48_5                       -1
+    X_48_5        PREC_48_32_5                        1
+    X_48_5        PREC_48_45_5                        1
+    X_48_5        PREC_48_49_5                        1
+    X_48_5        PREC_48_54_5                        1
+    X_48_5        PREC_52_48_5                       -1
+    X_48_5        CAP_0_5                          2896
+    X_48_5        CAP_0_6                         -2896
+    X_48_5        CAP_1_5                          2896
+    X_48_5        CAP_1_6                         -2896
+    X_49_5        obj                  -34705.808887056
+    X_49_5        ORD_49_4                           -1
+    X_49_5        ORD_49_5                            1
+    X_49_5        PREC_31_49_5                       -1
+    X_49_5        PREC_48_49_5                       -1
+    X_49_5        PREC_49_33_5                        1
+    X_49_5        PREC_49_46_5                        1
+    X_49_5        PREC_49_50_5                        1
+    X_49_5        PREC_49_55_5                        1
+    X_49_5        PREC_49_61_5                        1
+    X_49_5        PREC_53_49_5                       -1
+    X_49_5        CAP_0_5                          4711
+    X_49_5        CAP_0_6                         -4711
+    X_49_5        CAP_1_5                          4687
+    X_49_5        CAP_1_6                         -4687
+    X_50_5        obj                 -6503.87875480692
+    X_50_5        ORD_50_4                           -1
+    X_50_5        ORD_50_5                            1
+    X_50_5        PREC_32_50_5                       -1
+    X_50_5        PREC_45_50_5                       -1
+    X_50_5        PREC_49_50_5                       -1
+    X_50_5        PREC_54_50_5                       -1
+    X_50_5        CAP_0_5                          1818
+    X_50_5        CAP_0_6                         -1818
+    X_50_5        CAP_1_5                           611
+    X_50_5        CAP_1_6                          -611
+    X_51_5        obj                  -64632.012643321
+    X_51_5        ORD_51_4                           -1
+    X_51_5        ORD_51_5                            1
+    X_51_5        PREC_34_51_5                       -1
+    X_51_5        PREC_51_36_5                        1
+    X_51_5        PREC_51_47_5                        1
+    X_51_5        PREC_51_52_5                        1
+    X_51_5        PREC_51_56_5                        1
+    X_51_5        PREC_51_8_5                         1
+    X_51_5        CAP_0_5                          1432
+    X_51_5        CAP_0_6                         -1432
+    X_51_5        CAP_1_5                          1432
+    X_51_5        CAP_1_6                         -1432
+    X_52_5        obj                   -159941.6326864
+    X_52_5        ORD_52_4                           -1
+    X_52_5        ORD_52_5                            1
+    X_52_5        PREC_35_52_5                       -1
+    X_52_5        PREC_51_52_5                       -1
+    X_52_5        PREC_52_37_5                        1
+    X_52_5        PREC_52_48_5                        1
+    X_52_5        PREC_52_53_5                        1
+    X_52_5        PREC_52_57_5                        1
+    X_52_5        PREC_52_9_5                         1
+    X_52_5        PREC_52_21_5                        1
+    X_52_5        CAP_0_5                          3580
+    X_52_5        CAP_0_6                         -3580
+    X_52_5        CAP_1_5                          3580
+    X_52_5        CAP_1_6                         -3580
+    X_53_5        obj                 -196551.374113736
+    X_53_5        ORD_53_4                           -1
+    X_53_5        ORD_53_5                            1
+    X_53_5        PREC_36_53_5                       -1
+    X_53_5        PREC_47_53_5                       -1
+    X_53_5        PREC_52_53_5                       -1
+    X_53_5        PREC_53_38_5                        1
+    X_53_5        PREC_53_49_5                        1
+    X_53_5        PREC_53_54_5                        1
+    X_53_5        PREC_53_58_5                        1
+    X_53_5        PREC_53_62_5                        1
+    X_53_5        PREC_56_53_5                       -1
+    X_53_5        CAP_0_5                          5759
+    X_53_5        CAP_0_6                         -5759
+    X_53_5        CAP_1_5                          5759
+    X_53_5        CAP_1_6                         -5759
+    X_54_5        obj                 -83162.8694151823
+    X_54_5        ORD_54_4                           -1
+    X_54_5        ORD_54_5                            1
+    X_54_5        PREC_37_54_5                       -1
+    X_54_5        PREC_48_54_5                       -1
+    X_54_5        PREC_53_54_5                       -1
+    X_54_5        PREC_54_39_5                        1
+    X_54_5        PREC_54_50_5                        1
+    X_54_5        PREC_54_55_5                        1
+    X_54_5        PREC_54_59_5                        1
+    X_54_5        PREC_54_63_5                        1
+    X_54_5        PREC_57_54_5                       -1
+    X_54_5        CAP_0_5                          6054
+    X_54_5        CAP_0_6                         -6054
+    X_54_5        CAP_1_5                          6029
+    X_54_5        CAP_1_6                         -6029
+    X_55_5        obj                  -19022.376448432
+    X_55_5        ORD_55_4                           -1
+    X_55_5        ORD_55_5                            1
+    X_55_5        PREC_38_55_5                       -1
+    X_55_5        PREC_49_55_5                       -1
+    X_55_5        PREC_54_55_5                       -1
+    X_55_5        PREC_58_55_5                       -1
+    X_55_5        PREC_62_55_5                       -1
+    X_55_5        CAP_0_5                          2081
+    X_55_5        CAP_0_6                         -2081
+    X_55_5        CAP_1_5                          1135
+    X_55_5        CAP_1_6                         -1135
+    X_56_5        obj                 -67117.8592834488
+    X_56_5        ORD_56_4                           -1
+    X_56_5        ORD_56_5                            1
+    X_56_5        PREC_51_56_5                       -1
+    X_56_5        PREC_56_41_5                        1
+    X_56_5        PREC_56_53_5                        1
+    X_56_5        PREC_56_57_5                        1
+    X_56_5        PREC_56_13_5                        1
+    X_56_5        PREC_56_22_5                        1
+    X_56_5        CAP_0_5                          1432
+    X_56_5        CAP_0_6                         -1432
+    X_56_5        CAP_1_5                          1432
+    X_56_5        CAP_1_6                         -1432
+    X_57_5        obj                 -135196.159314219
+    X_57_5        ORD_57_4                           -1
+    X_57_5        ORD_57_5                            1
+    X_57_5        PREC_40_57_5                       -1
+    X_57_5        PREC_52_57_5                       -1
+    X_57_5        PREC_56_57_5                       -1
+    X_57_5        PREC_57_42_5                        1
+    X_57_5        PREC_57_54_5                        1
+    X_57_5        PREC_57_58_5                        1
+    X_57_5        PREC_57_64_5                        1
+    X_57_5        CAP_0_5                          3580
+    X_57_5        CAP_0_6                         -3580
+    X_57_5        CAP_1_5                          3580
+    X_57_5        CAP_1_6                         -3580
+    X_58_5        obj                 -134179.222052349
+    X_58_5        ORD_58_4                           -1
+    X_58_5        ORD_58_5                            1
+    X_58_5        PREC_41_58_5                       -1
+    X_58_5        PREC_53_58_5                       -1
+    X_58_5        PREC_57_58_5                       -1
+    X_58_5        PREC_58_43_5                        1
+    X_58_5        PREC_58_55_5                        1
+    X_58_5        PREC_58_59_5                        1
+    X_58_5        PREC_58_60_5                        1
+    X_58_5        PREC_58_65_5                        1
+    X_58_5        CAP_0_5                          5368
+    X_58_5        CAP_0_6                         -5368
+    X_58_5        CAP_1_5                          5360
+    X_58_5        CAP_1_6                         -5360
+    X_59_5        obj                 -39598.4070469438
+    X_59_5        ORD_59_4                           -1
+    X_59_5        ORD_59_5                            1
+    X_59_5        PREC_10_59_5                       -1
+    X_59_5        PREC_42_59_5                       -1
+    X_59_5        PREC_54_59_5                       -1
+    X_59_5        PREC_58_59_5                       -1
+    X_59_5        PREC_64_59_5                       -1
+    X_59_5        CAP_0_5                          2013
+    X_59_5        CAP_0_6                         -2013
+    X_59_5        CAP_1_5                          1160
+    X_59_5        CAP_1_6                         -1160
+    X_60_5        obj                  -16649.522837401
+    X_60_5        ORD_60_4                           -1
+    X_60_5        ORD_60_5                            1
+    X_60_5        PREC_14_60_5                       -1
+    X_60_5        PREC_58_60_5                       -1
+    X_60_5        CAP_0_5                          1030
+    X_60_5        CAP_0_6                         -1030
+    X_60_5        CAP_1_5                           676
+    X_60_5        CAP_1_6                          -676
+    X_61_5        obj                  526.547515590692
+    X_61_5        ORD_61_4                           -1
+    X_61_5        ORD_61_5                            1
+    X_61_5        PREC_40_61_5                       -1
+    X_61_5        PREC_49_61_5                       -1
+    X_61_5        PREC_62_61_5                       -1
+    X_61_5        CAP_0_5                           311
+    X_61_5        CAP_0_6                          -311
+    X_62_5        obj                 -10779.5349758266
+    X_62_5        ORD_62_4                           -1
+    X_62_5        ORD_62_5                            1
+    X_62_5        PREC_53_62_5                       -1
+    X_62_5        PREC_62_55_5                        1
+    X_62_5        PREC_62_61_5                        1
+    X_62_5        PREC_62_63_5                        1
+    X_62_5        PREC_62_65_5                        1
+    X_62_5        CAP_0_5                          1346
+    X_62_5        CAP_0_6                         -1346
+    X_62_5        CAP_1_5                          1322
+    X_62_5        CAP_1_6                         -1322
+    X_63_5        obj                 -1989.80724239315
+    X_63_5        ORD_63_4                           -1
+    X_63_5        ORD_63_5                            1
+    X_63_5        PREC_24_63_5                       -1
+    X_63_5        PREC_54_63_5                       -1
+    X_63_5        PREC_62_63_5                       -1
+    X_63_5        PREC_64_63_5                       -1
+    X_63_5        CAP_0_5                           702
+    X_63_5        CAP_0_6                          -702
+    X_63_5        CAP_1_5                           185
+    X_63_5        CAP_1_6                          -185
+    X_64_5        obj                 -9491.41444412407
+    X_64_5        ORD_64_4                           -1
+    X_64_5        ORD_64_5                            1
+    X_64_5        PREC_29_64_5                       -1
+    X_64_5        PREC_57_64_5                       -1
+    X_64_5        PREC_64_59_5                        1
+    X_64_5        PREC_64_63_5                        1
+    X_64_5        PREC_64_65_5                        1
+    X_64_5        PREC_64_66_5                        1
+    X_64_5        CAP_0_5                           672
+    X_64_5        CAP_0_6                          -672
+    X_64_5        CAP_1_5                           672
+    X_64_5        CAP_1_6                          -672
+    X_65_5        obj                 -5180.73038408439
+    X_65_5        ORD_65_4                           -1
+    X_65_5        ORD_65_5                            1
+    X_65_5        PREC_30_65_5                       -1
+    X_65_5        PREC_58_65_5                       -1
+    X_65_5        PREC_62_65_5                       -1
+    X_65_5        PREC_64_65_5                       -1
+    X_65_5        CAP_0_5                           571
+    X_65_5        CAP_0_6                          -571
+    X_65_5        CAP_1_5                           190
+    X_65_5        CAP_1_6                          -190
+    X_66_5        obj                 -1429.36181807344
+    X_66_5        ORD_66_4                           -1
+    X_66_5        ORD_66_5                            1
+    X_66_5        PREC_36_66_5                       -1
+    X_66_5        PREC_64_66_5                       -1
+    X_66_5        CAP_0_5                           131
+    X_66_5        CAP_0_6                          -131
+    X_66_5        CAP_1_5                            45
+    X_66_5        CAP_1_6                           -45
+    X_0_6         obj                 -1429.44264793779
+    X_0_6         ORD_0_5                            -1
+    X_0_6         ORD_0_6                             1
+    X_0_6         PREC_30_0_6                        -1
+    X_0_6         CAP_0_6                           301
+    X_0_6         CAP_0_7                          -301
+    X_0_6         CAP_1_6                           102
+    X_0_6         CAP_1_7                          -102
+    X_1_6         obj                 -9049.70885025364
+    X_1_6         ORD_1_5                            -1
+    X_1_6         ORD_1_6                             1
+    X_1_6         PREC_2_1_6                         -1
+    X_1_6         PREC_8_1_6                         -1
+    X_1_6         PREC_36_1_6                        -1
+    X_1_6         CAP_0_6                          1061
+    X_1_6         CAP_0_7                         -1061
+    X_1_6         CAP_1_6                           713
+    X_1_6         CAP_1_7                          -713
+    X_2_6         obj                 -15768.4320875632
+    X_2_6         ORD_2_5                            -1
+    X_2_6         ORD_2_6                             1
+    X_2_6         PREC_2_1_6                          1
+    X_2_6         PREC_2_3_6                          1
+    X_2_6         PREC_2_4_6                          1
+    X_2_6         PREC_2_13_6                         1
+    X_2_6         PREC_11_2_6                        -1
+    X_2_6         CAP_0_6                           648
+    X_2_6         CAP_0_7                          -648
+    X_2_6         CAP_1_6                           648
+    X_2_6         CAP_1_7                          -648
+    X_3_6         obj                 -23153.1512142853
+    X_3_6         ORD_3_5                            -1
+    X_3_6         ORD_3_6                             1
+    X_3_6         PREC_2_3_6                         -1
+    X_3_6         PREC_12_3_6                        -1
+    X_3_6         PREC_40_3_6                        -1
+    X_3_6         CAP_0_6                          1367
+    X_3_6         CAP_0_7                         -1367
+    X_3_6         CAP_1_6                          1118
+    X_3_6         CAP_1_7                         -1118
+    X_4_6         obj                 -4908.78146725879
+    X_4_6         ORD_4_5                            -1
+    X_4_6         ORD_4_6                             1
+    X_4_6         PREC_2_4_6                         -1
+    X_4_6         PREC_16_4_6                        -1
+    X_4_6         PREC_24_4_6                        -1
+    X_4_6         CAP_0_6                           849
+    X_4_6         CAP_0_7                          -849
+    X_4_6         CAP_1_6                           648
+    X_4_6         CAP_1_7                          -648
+    X_5_6         obj                 -1836.38572448329
+    X_5_6         ORD_5_5                            -1
+    X_5_6         ORD_5_6                             1
+    X_5_6         PREC_19_5_6                        -1
+    X_5_6         PREC_30_5_6                        -1
+    X_5_6         CAP_0_6                           321
+    X_5_6         CAP_0_7                          -321
+    X_5_6         CAP_1_6                           253
+    X_5_6         CAP_1_7                          -253
+    X_6_6         obj                  70.0275089602961
+    X_6_6         ORD_6_5                            -1
+    X_6_6         ORD_6_6                             1
+    X_6_6         PREC_8_6_6                         -1
+    X_6_6         PREC_47_6_6                        -1
+    X_6_6         CAP_0_6                            48
+    X_6_6         CAP_0_7                           -48
+    X_7_6         obj                 -18853.5601046951
+    X_7_6         ORD_7_5                            -1
+    X_7_6         ORD_7_6                             1
+    X_7_6         PREC_7_8_6                          1
+    X_7_6         PREC_7_12_6                         1
+    X_7_6         PREC_7_26_6                         1
+    X_7_6         PREC_10_7_6                        -1
+    X_7_6         PREC_24_7_6                        -1
+    X_7_6         CAP_0_6                           724
+    X_7_6         CAP_0_7                          -724
+    X_7_6         CAP_1_6                           724
+    X_7_6         CAP_1_7                          -724
+    X_8_6         obj                 -16346.2814622006
+    X_8_6         ORD_8_5                            -1
+    X_8_6         ORD_8_6                             1
+    X_8_6         PREC_7_8_6                         -1
+    X_8_6         PREC_8_1_6                          1
+    X_8_6         PREC_8_6_6                          1
+    X_8_6         PREC_8_9_6                          1
+    X_8_6         PREC_8_13_6                         1
+    X_8_6         PREC_8_27_6                         1
+    X_8_6         PREC_11_8_6                        -1
+    X_8_6         PREC_25_8_6                        -1
+    X_8_6         PREC_51_8_6                        -1
+    X_8_6         CAP_0_6                          1989
+    X_8_6         CAP_0_7                         -1989
+    X_8_6         CAP_1_6                          1989
+    X_8_6         CAP_1_7                         -1989
+    X_9_6         obj                 -6063.01110795402
+    X_9_6         ORD_9_5                            -1
+    X_9_6         ORD_9_6                             1
+    X_9_6         PREC_8_9_6                         -1
+    X_9_6         PREC_12_9_6                        -1
+    X_9_6         PREC_26_9_6                        -1
+    X_9_6         PREC_52_9_6                        -1
+    X_9_6         CAP_0_6                          1225
+    X_9_6         CAP_0_7                         -1225
+    X_9_6         CAP_1_6                           584
+    X_9_6         CAP_1_7                          -584
+    X_10_6        obj                 -57344.2048898648
+    X_10_6        ORD_10_5                           -1
+    X_10_6        ORD_10_6                            1
+    X_10_6        PREC_10_7_6                         1
+    X_10_6        PREC_10_11_6                        1
+    X_10_6        PREC_10_15_6                        1
+    X_10_6        PREC_10_31_6                        1
+    X_10_6        PREC_10_59_6                        1
+    X_10_6        PREC_29_10_6                       -1
+    X_10_6        CAP_0_6                          1432
+    X_10_6        CAP_0_7                         -1432
+    X_10_6        CAP_1_6                          1432
+    X_10_6        CAP_1_7                         -1432
+    X_11_6        obj                 -165813.388349344
+    X_11_6        ORD_11_5                           -1
+    X_11_6        ORD_11_6                            1
+    X_11_6        PREC_10_11_6                       -1
+    X_11_6        PREC_11_2_6                         1
+    X_11_6        PREC_11_8_6                         1
+    X_11_6        PREC_11_12_6                        1
+    X_11_6        PREC_11_16_6                        1
+    X_11_6        PREC_11_32_6                        1
+    X_11_6        PREC_14_11_6                       -1
+    X_11_6        PREC_30_11_6                       -1
+    X_11_6        CAP_0_6                          5001
+    X_11_6        CAP_0_7                         -5001
+    X_11_6        CAP_1_6                          5001
+    X_11_6        CAP_1_7                         -5001
+    X_12_6        obj                  -71129.340394986
+    X_12_6        ORD_12_5                           -1
+    X_12_6        ORD_12_6                            1
+    X_12_6        PREC_7_12_6                        -1
+    X_12_6        PREC_11_12_6                       -1
+    X_12_6        PREC_12_3_6                         1
+    X_12_6        PREC_12_9_6                         1
+    X_12_6        PREC_12_13_6                        1
+    X_12_6        PREC_12_17_6                        1
+    X_12_6        PREC_12_33_6                        1
+    X_12_6        PREC_15_12_6                       -1
+    X_12_6        PREC_31_12_6                       -1
+    X_12_6        CAP_0_6                          5835
+    X_12_6        CAP_0_7                         -5835
+    X_12_6        CAP_1_6                          5835
+    X_12_6        CAP_1_7                         -5835
+    X_13_6        obj                 -15538.2717434279
+    X_13_6        ORD_13_5                           -1
+    X_13_6        ORD_13_6                            1
+    X_13_6        PREC_2_13_6                        -1
+    X_13_6        PREC_8_13_6                        -1
+    X_13_6        PREC_12_13_6                       -1
+    X_13_6        PREC_16_13_6                       -1
+    X_13_6        PREC_32_13_6                       -1
+    X_13_6        PREC_56_13_6                       -1
+    X_13_6        CAP_0_6                          2318
+    X_13_6        CAP_0_7                         -2318
+    X_13_6        CAP_1_6                          1488
+    X_13_6        CAP_1_7                         -1488
+    X_14_6        obj                 -50635.2757097525
+    X_14_6        ORD_14_5                           -1
+    X_14_6        ORD_14_6                            1
+    X_14_6        PREC_14_11_6                        1
+    X_14_6        PREC_14_15_6                        1
+    X_14_6        PREC_14_18_6                        1
+    X_14_6        PREC_14_37_6                        1
+    X_14_6        PREC_14_46_6                        1
+    X_14_6        PREC_14_60_6                        1
+    X_14_6        PREC_35_14_6                       -1
+    X_14_6        CAP_0_6                          1432
+    X_14_6        CAP_0_7                         -1432
+    X_14_6        CAP_1_6                          1432
+    X_14_6        CAP_1_7                         -1432
+    X_15_6        obj                 -104551.560580582
+    X_15_6        ORD_15_5                           -1
+    X_15_6        ORD_15_6                            1
+    X_15_6        PREC_10_15_6                       -1
+    X_15_6        PREC_14_15_6                       -1
+    X_15_6        PREC_15_12_6                        1
+    X_15_6        PREC_15_16_6                        1
+    X_15_6        PREC_15_19_6                        1
+    X_15_6        PREC_15_38_6                        1
+    X_15_6        PREC_36_15_6                       -1
+    X_15_6        CAP_0_6                          4296
+    X_15_6        CAP_0_7                         -4296
+    X_15_6        CAP_1_6                          4296
+    X_15_6        CAP_1_7                         -4296
+    X_16_6        obj                 -109587.664791405
+    X_16_6        ORD_16_5                           -1
+    X_16_6        ORD_16_6                            1
+    X_16_6        PREC_11_16_6                       -1
+    X_16_6        PREC_15_16_6                       -1
+    X_16_6        PREC_16_4_6                         1
+    X_16_6        PREC_16_13_6                        1
+    X_16_6        PREC_16_17_6                        1
+    X_16_6        PREC_16_20_6                        1
+    X_16_6        PREC_16_39_6                        1
+    X_16_6        PREC_18_16_6                       -1
+    X_16_6        PREC_37_16_6                       -1
+    X_16_6        CAP_0_6                          5965
+    X_16_6        CAP_0_7                         -5965
+    X_16_6        CAP_1_6                          5528
+    X_16_6        CAP_1_7                         -5528
+    X_17_6        obj                 -38975.4506164333
+    X_17_6        ORD_17_5                           -1
+    X_17_6        ORD_17_6                            1
+    X_17_6        PREC_12_17_6                       -1
+    X_17_6        PREC_16_17_6                       -1
+    X_17_6        PREC_19_17_6                       -1
+    X_17_6        PREC_38_17_6                       -1
+    X_17_6        CAP_0_6                          2733
+    X_17_6        CAP_0_7                         -2733
+    X_17_6        CAP_1_6                          1776
+    X_17_6        CAP_1_7                         -1776
+    X_18_6        obj                 -17923.1246709569
+    X_18_6        ORD_18_5                           -1
+    X_18_6        ORD_18_6                            1
+    X_18_6        PREC_14_18_6                       -1
+    X_18_6        PREC_18_16_6                        1
+    X_18_6        PREC_18_19_6                        1
+    X_18_6        PREC_18_42_6                        1
+    X_18_6        PREC_40_18_6                       -1
+    X_18_6        CAP_0_6                           716
+    X_18_6        CAP_0_7                          -716
+    X_18_6        CAP_1_6                           716
+    X_18_6        CAP_1_7                          -716
+    X_19_6        obj                 -31928.6264630161
+    X_19_6        ORD_19_5                           -1
+    X_19_6        ORD_19_6                            1
+    X_19_6        PREC_15_19_6                       -1
+    X_19_6        PREC_18_19_6                       -1
+    X_19_6        PREC_19_5_6                         1
+    X_19_6        PREC_19_17_6                        1
+    X_19_6        PREC_19_20_6                        1
+    X_19_6        PREC_19_21_6                        1
+    X_19_6        PREC_19_43_6                        1
+    X_19_6        PREC_41_19_6                       -1
+    X_19_6        CAP_0_6                          1965
+    X_19_6        CAP_0_7                         -1965
+    X_19_6        CAP_1_6                          1964
+    X_19_6        CAP_1_7                         -1964
+    X_20_6        obj                 -24026.7811162795
+    X_20_6        ORD_20_5                           -1
+    X_20_6        ORD_20_6                            1
+    X_20_6        PREC_16_20_6                       -1
+    X_20_6        PREC_19_20_6                       -1
+    X_20_6        PREC_42_20_6                       -1
+    X_20_6        PREC_47_20_6                       -1
+    X_20_6        CAP_0_6                          2496
+    X_20_6        CAP_0_7                         -2496
+    X_20_6        CAP_1_6                          1791
+    X_20_6        CAP_1_7                         -1791
+    X_21_6        obj                 -1194.87497806379
+    X_21_6        ORD_21_5                           -1
+    X_21_6        ORD_21_6                            1
+    X_21_6        PREC_19_21_6                       -1
+    X_21_6        PREC_52_21_6                       -1
+    X_21_6        CAP_0_6                           244
+    X_21_6        CAP_0_7                          -244
+    X_21_6        CAP_1_6                           215
+    X_21_6        CAP_1_7                          -215
+    X_22_6        obj                 -2737.43898662976
+    X_22_6        ORD_22_5                           -1
+    X_22_6        ORD_22_6                            1
+    X_22_6        PREC_56_22_6                       -1
+    X_22_6        CAP_0_6                           339
+    X_22_6        CAP_0_7                          -339
+    X_22_6        CAP_1_6                           283
+    X_22_6        CAP_1_7                          -283
+    X_23_6        obj                   119.73234923631
+    X_23_6        ORD_23_5                           -1
+    X_23_6        ORD_23_6                            1
+    X_23_6        PREC_26_23_6                       -1
+    X_23_6        CAP_0_6                            85
+    X_23_6        CAP_0_7                           -85
+    X_24_6        obj                 -25807.3407147385
+    X_24_6        ORD_24_5                           -1
+    X_24_6        ORD_24_6                            1
+    X_24_6        PREC_24_7_6                         1
+    X_24_6        PREC_24_25_6                        1
+    X_24_6        PREC_24_31_6                        1
+    X_24_6        PREC_24_4_6                         1
+    X_24_6        PREC_24_63_6                        1
+    X_24_6        PREC_29_24_6                       -1
+    X_24_6        CAP_0_6                           724
+    X_24_6        CAP_0_7                          -724
+    X_24_6        CAP_1_6                           724
+    X_24_6        CAP_1_7                          -724
+    X_25_6        obj                 -94316.7708094616
+    X_25_6        ORD_25_5                           -1
+    X_25_6        ORD_25_6                            1
+    X_25_6        PREC_24_25_6                       -1
+    X_25_6        PREC_25_8_6                         1
+    X_25_6        PREC_25_26_6                        1
+    X_25_6        PREC_25_32_6                        1
+    X_25_6        PREC_25_45_6                        1
+    X_25_6        PREC_30_25_6                       -1
+    X_25_6        CAP_0_6                          3620
+    X_25_6        CAP_0_7                         -3620
+    X_25_6        CAP_1_6                          3620
+    X_25_6        CAP_1_7                         -3620
+    X_26_6        obj                 -75463.2107047666
+    X_26_6        ORD_26_5                           -1
+    X_26_6        ORD_26_6                            1
+    X_26_6        PREC_7_26_6                        -1
+    X_26_6        PREC_25_26_6                       -1
+    X_26_6        PREC_26_9_6                         1
+    X_26_6        PREC_26_23_6                        1
+    X_26_6        PREC_26_27_6                        1
+    X_26_6        PREC_26_33_6                        1
+    X_26_6        PREC_26_46_6                        1
+    X_26_6        PREC_31_26_6                       -1
+    X_26_6        CAP_0_6                          5384
+    X_26_6        CAP_0_7                         -5384
+    X_26_6        CAP_1_6                          5360
+    X_26_6        CAP_1_7                         -5360
+    X_27_6        obj                 -4309.87486964731
+    X_27_6        ORD_27_5                           -1
+    X_27_6        ORD_27_6                            1
+    X_27_6        PREC_8_27_6                        -1
+    X_27_6        PREC_26_27_6                       -1
+    X_27_6        PREC_32_27_6                       -1
+    X_27_6        PREC_45_27_6                       -1
+    X_27_6        CAP_0_6                          1376
+    X_27_6        CAP_0_7                         -1376
+    X_27_6        CAP_1_6                           438
+    X_27_6        CAP_1_7                          -438
+    X_28_6        obj                 -31536.8641751263
+    X_28_6        ORD_28_5                           -1
+    X_28_6        ORD_28_6                            1
+    X_28_6        PREC_28_29_6                        1
+    X_28_6        PREC_28_35_6                        1
+    X_28_6        CAP_0_6                           716
+    X_28_6        CAP_0_7                          -716
+    X_28_6        CAP_1_6                           716
+    X_28_6        CAP_1_7                          -716
+    X_29_6        obj                 -139810.166490661
+    X_29_6        ORD_29_5                           -1
+    X_29_6        ORD_29_6                            1
+    X_29_6        PREC_28_29_6                       -1
+    X_29_6        PREC_29_10_6                        1
+    X_29_6        PREC_29_24_6                        1
+    X_29_6        PREC_29_30_6                        1
+    X_29_6        PREC_29_36_6                        1
+    X_29_6        PREC_29_47_6                        1
+    X_29_6        PREC_29_64_6                        1
+    X_29_6        PREC_34_29_6                       -1
+    X_29_6        CAP_0_6                          3580
+    X_29_6        CAP_0_7                         -3580
+    X_29_6        CAP_1_6                          3580
+    X_29_6        CAP_1_7                         -3580
+    X_30_6        obj                 -224675.672104782
+    X_30_6        ORD_30_5                           -1
+    X_30_6        ORD_30_6                            1
+    X_30_6        PREC_29_30_6                       -1
+    X_30_6        PREC_30_11_6                        1
+    X_30_6        PREC_30_25_6                        1
+    X_30_6        PREC_30_31_6                        1
+    X_30_6        PREC_30_37_6                        1
+    X_30_6        PREC_30_48_6                        1
+    X_30_6        PREC_30_0_6                         1
+    X_30_6        PREC_30_5_6                         1
+    X_30_6        PREC_30_65_6                        1
+    X_30_6        PREC_35_30_6                       -1
+    X_30_6        CAP_0_6                          6483
+    X_30_6        CAP_0_7                         -6483
+    X_30_6        CAP_1_6                          6483
+    X_30_6        CAP_1_7                         -6483
+    X_31_6        obj                 -180553.444431197
+    X_31_6        ORD_31_5                           -1
+    X_31_6        ORD_31_6                            1
+    X_31_6        PREC_10_31_6                       -1
+    X_31_6        PREC_24_31_6                       -1
+    X_31_6        PREC_30_31_6                       -1
+    X_31_6        PREC_31_12_6                        1
+    X_31_6        PREC_31_26_6                        1
+    X_31_6        PREC_31_32_6                        1
+    X_31_6        PREC_31_38_6                        1
+    X_31_6        PREC_31_49_6                        1
+    X_31_6        PREC_36_31_6                       -1
+    X_31_6        PREC_47_31_6                       -1
+    X_31_6        CAP_0_6                          6507
+    X_31_6        CAP_0_7                         -6507
+    X_31_6        CAP_1_6                          6507
+    X_31_6        CAP_1_7                         -6507
+    X_32_6        obj                 -72769.8449755244
+    X_32_6        ORD_32_5                           -1
+    X_32_6        ORD_32_6                            1
+    X_32_6        PREC_11_32_6                       -1
+    X_32_6        PREC_25_32_6                       -1
+    X_32_6        PREC_31_32_6                       -1
+    X_32_6        PREC_32_13_6                        1
+    X_32_6        PREC_32_27_6                        1
+    X_32_6        PREC_32_33_6                        1
+    X_32_6        PREC_32_39_6                        1
+    X_32_6        PREC_32_50_6                        1
+    X_32_6        PREC_37_32_6                       -1
+    X_32_6        PREC_48_32_6                       -1
+    X_32_6        CAP_0_6                          6049
+    X_32_6        CAP_0_7                         -6049
+    X_32_6        CAP_1_6                          6025
+    X_32_6        CAP_1_7                         -6025
+    X_33_6        obj                  -8306.3399089828
+    X_33_6        ORD_33_5                           -1
+    X_33_6        ORD_33_6                            1
+    X_33_6        PREC_12_33_6                       -1
+    X_33_6        PREC_26_33_6                       -1
+    X_33_6        PREC_32_33_6                       -1
+    X_33_6        PREC_38_33_6                       -1
+    X_33_6        PREC_49_33_6                       -1
+    X_33_6        CAP_0_6                          2548
+    X_33_6        CAP_0_7                         -2548
+    X_33_6        CAP_1_6                           984
+    X_33_6        CAP_1_7                          -984
+    X_34_6        obj                 -63367.5500661699
+    X_34_6        ORD_34_5                           -1
+    X_34_6        ORD_34_6                            1
+    X_34_6        PREC_34_29_6                        1
+    X_34_6        PREC_34_35_6                        1
+    X_34_6        PREC_34_51_6                        1
+    X_34_6        CAP_0_6                          1432
+    X_34_6        CAP_0_7                         -1432
+    X_34_6        CAP_1_6                          1432
+    X_34_6        CAP_1_7                         -1432
+    X_35_6        obj                 -216399.693773111
+    X_35_6        ORD_35_5                           -1
+    X_35_6        ORD_35_6                            1
+    X_35_6        PREC_28_35_6                       -1
+    X_35_6        PREC_34_35_6                       -1
+    X_35_6        PREC_35_14_6                        1
+    X_35_6        PREC_35_30_6                        1
+    X_35_6        PREC_35_36_6                        1
+    X_35_6        PREC_35_40_6                        1
+    X_35_6        PREC_35_52_6                        1
+    X_35_6        CAP_0_6                          5728
+    X_35_6        CAP_0_7                         -5728
+    X_35_6        CAP_1_6                          5728
+    X_35_6        CAP_1_7                         -5728
+    X_36_6        obj                 -233441.353296315
+    X_36_6        ORD_36_5                           -1
+    X_36_6        ORD_36_6                            1
+    X_36_6        PREC_29_36_6                       -1
+    X_36_6        PREC_35_36_6                       -1
+    X_36_6        PREC_36_15_6                        1
+    X_36_6        PREC_36_31_6                        1
+    X_36_6        PREC_36_37_6                        1
+    X_36_6        PREC_36_41_6                        1
+    X_36_6        PREC_36_53_6                        1
+    X_36_6        PREC_36_1_6                         1
+    X_36_6        PREC_36_66_6                        1
+    X_36_6        PREC_51_36_6                       -1
+    X_36_6        CAP_0_6                          6444
+    X_36_6        CAP_0_7                         -6444
+    X_36_6        CAP_1_6                          6444
+    X_36_6        CAP_1_7                         -6444
+    X_37_6        obj                 -206703.577147839
+    X_37_6        ORD_37_5                           -1
+    X_37_6        ORD_37_6                            1
+    X_37_6        PREC_14_37_6                       -1
+    X_37_6        PREC_30_37_6                       -1
+    X_37_6        PREC_36_37_6                       -1
+    X_37_6        PREC_37_16_6                        1
+    X_37_6        PREC_37_32_6                        1
+    X_37_6        PREC_37_38_6                        1
+    X_37_6        PREC_37_42_6                        1
+    X_37_6        PREC_37_54_6                        1
+    X_37_6        PREC_40_37_6                       -1
+    X_37_6        PREC_52_37_6                       -1
+    X_37_6        CAP_0_6                          6447
+    X_37_6        CAP_0_7                         -6447
+    X_37_6        CAP_1_6                          6447
+    X_37_6        CAP_1_7                         -6447
+    X_38_6        obj                 -135270.620979738
+    X_38_6        ORD_38_5                           -1
+    X_38_6        ORD_38_6                            1
+    X_38_6        PREC_15_38_6                       -1
+    X_38_6        PREC_31_38_6                       -1
+    X_38_6        PREC_37_38_6                       -1
+    X_38_6        PREC_38_17_6                        1
+    X_38_6        PREC_38_33_6                        1
+    X_38_6        PREC_38_39_6                        1
+    X_38_6        PREC_38_43_6                        1
+    X_38_6        PREC_38_55_6                        1
+    X_38_6        PREC_41_38_6                       -1
+    X_38_6        PREC_53_38_6                       -1
+    X_38_6        CAP_0_6                          6040
+    X_38_6        CAP_0_7                         -6040
+    X_38_6        CAP_1_6                          5960
+    X_38_6        CAP_1_7                         -5960
+    X_39_6        obj                 -33076.0002636733
+    X_39_6        ORD_39_5                           -1
+    X_39_6        ORD_39_6                            1
+    X_39_6        PREC_16_39_6                       -1
+    X_39_6        PREC_32_39_6                       -1
+    X_39_6        PREC_38_39_6                       -1
+    X_39_6        PREC_42_39_6                       -1
+    X_39_6        PREC_54_39_6                       -1
+    X_39_6        CAP_0_6                          2814
+    X_39_6        CAP_0_7                         -2814
+    X_39_6        CAP_1_6                          1584
+    X_39_6        CAP_1_7                         -1584
+    X_40_6        obj                 -57344.2048898648
+    X_40_6        ORD_40_5                           -1
+    X_40_6        ORD_40_6                            1
+    X_40_6        PREC_35_40_6                       -1
+    X_40_6        PREC_40_18_6                        1
+    X_40_6        PREC_40_37_6                        1
+    X_40_6        PREC_40_41_6                        1
+    X_40_6        PREC_40_57_6                        1
+    X_40_6        PREC_40_3_6                         1
+    X_40_6        PREC_40_61_6                        1
+    X_40_6        CAP_0_6                          1432
+    X_40_6        CAP_0_7                         -1432
+    X_40_6        CAP_1_6                          1432
+    X_40_6        CAP_1_7                         -1432
+    X_41_6        obj                 -118899.854374545
+    X_41_6        ORD_41_5                           -1
+    X_41_6        ORD_41_6                            1
+    X_41_6        PREC_36_41_6                       -1
+    X_41_6        PREC_40_41_6                       -1
+    X_41_6        PREC_41_19_6                        1
+    X_41_6        PREC_41_38_6                        1
+    X_41_6        PREC_41_42_6                        1
+    X_41_6        PREC_41_58_6                        1
+    X_41_6        PREC_56_41_6                       -1
+    X_41_6        CAP_0_6                          4296
+    X_41_6        CAP_0_7                         -4296
+    X_41_6        CAP_1_6                          4296
+    X_41_6        CAP_1_7                         -4296
+    X_42_6        obj                 -114443.558349798
+    X_42_6        ORD_42_5                           -1
+    X_42_6        ORD_42_6                            1
+    X_42_6        PREC_18_42_6                       -1
+    X_42_6        PREC_37_42_6                       -1
+    X_42_6        PREC_41_42_6                       -1
+    X_42_6        PREC_42_20_6                        1
+    X_42_6        PREC_42_39_6                        1
+    X_42_6        PREC_42_43_6                        1
+    X_42_6        PREC_42_44_6                        1
+    X_42_6        PREC_42_59_6                        1
+    X_42_6        PREC_57_42_6                       -1
+    X_42_6        CAP_0_6                          5997
+    X_42_6        CAP_0_7                         -5997
+    X_42_6        CAP_1_6                          5992
+    X_42_6        CAP_1_7                         -5992
+    X_43_6        obj                 -40410.2799958296
+    X_43_6        ORD_43_5                           -1
+    X_43_6        ORD_43_6                            1
+    X_43_6        PREC_19_43_6                       -1
+    X_43_6        PREC_38_43_6                       -1
+    X_43_6        PREC_42_43_6                       -1
+    X_43_6        PREC_58_43_6                       -1
+    X_43_6        CAP_0_6                          2525
+    X_43_6        CAP_0_7                         -2525
+    X_43_6        CAP_1_6                          1776
+    X_43_6        CAP_1_7                         -1776
+    X_44_6        obj                 -12781.2446424037
+    X_44_6        ORD_44_5                           -1
+    X_44_6        ORD_44_6                            1
+    X_44_6        PREC_42_44_6                       -1
+    X_44_6        CAP_0_6                          1078
+    X_44_6        CAP_0_7                         -1078
+    X_44_6        CAP_1_6                           874
+    X_44_6        CAP_1_7                          -874
+    X_45_6        obj                 -3907.82882170043
+    X_45_6        ORD_45_5                           -1
+    X_45_6        ORD_45_6                            1
+    X_45_6        PREC_25_45_6                       -1
+    X_45_6        PREC_45_27_6                        1
+    X_45_6        PREC_45_46_6                        1
+    X_45_6        PREC_45_50_6                        1
+    X_45_6        PREC_48_45_6                       -1
+    X_45_6        CAP_0_6                           673
+    X_45_6        CAP_0_7                          -673
+    X_45_6        CAP_1_6                           673
+    X_45_6        CAP_1_7                          -673
+    X_46_6        obj                  14.6910857958663
+    X_46_6        ORD_46_5                           -1
+    X_46_6        ORD_46_6                            1
+    X_46_6        PREC_14_46_6                       -1
+    X_46_6        PREC_26_46_6                       -1
+    X_46_6        PREC_45_46_6                       -1
+    X_46_6        PREC_49_46_6                       -1
+    X_46_6        CAP_0_6                           745
+    X_46_6        CAP_0_7                          -745
+    X_46_6        CAP_1_6                            59
+    X_46_6        CAP_1_7                           -59
+    X_47_6        obj                 -17972.0949569431
+    X_47_6        ORD_47_5                           -1
+    X_47_6        ORD_47_6                            1
+    X_47_6        PREC_29_47_6                       -1
+    X_47_6        PREC_47_31_6                        1
+    X_47_6        PREC_47_48_6                        1
+    X_47_6        PREC_47_53_6                        1
+    X_47_6        PREC_47_6_6                         1
+    X_47_6        PREC_47_20_6                        1
+    X_47_6        PREC_51_47_6                       -1
+    X_47_6        CAP_0_6                           722
+    X_47_6        CAP_0_7                          -722
+    X_47_6        CAP_1_6                           722
+    X_47_6        CAP_1_7                          -722
+    X_48_6        obj                 -49704.8402760143
+    X_48_6        ORD_48_5                           -1
+    X_48_6        ORD_48_6                            1
+    X_48_6        PREC_30_48_6                       -1
+    X_48_6        PREC_47_48_6                       -1
+    X_48_6        PREC_48_32_6                        1
+    X_48_6        PREC_48_45_6                        1
+    X_48_6        PREC_48_49_6                        1
+    X_48_6        PREC_48_54_6                        1
+    X_48_6        PREC_52_48_6                       -1
+    X_48_6        CAP_0_6                          2896
+    X_48_6        CAP_0_7                         -2896
+    X_48_6        CAP_1_6                          2896
+    X_48_6        CAP_1_7                         -2896
+    X_49_6        obj                 -30082.4466813356
+    X_49_6        ORD_49_5                           -1
+    X_49_6        ORD_49_6                            1
+    X_49_6        PREC_31_49_6                       -1
+    X_49_6        PREC_48_49_6                       -1
+    X_49_6        PREC_49_33_6                        1
+    X_49_6        PREC_49_46_6                        1
+    X_49_6        PREC_49_50_6                        1
+    X_49_6        PREC_49_55_6                        1
+    X_49_6        PREC_49_61_6                        1
+    X_49_6        PREC_53_49_6                       -1
+    X_49_6        CAP_0_6                          4711
+    X_49_6        CAP_0_7                         -4711
+    X_49_6        CAP_1_6                          4687
+    X_49_6        CAP_1_7                         -4687
+    X_50_6        obj                 -5637.45932273376
+    X_50_6        ORD_50_5                           -1
+    X_50_6        ORD_50_6                            1
+    X_50_6        PREC_32_50_6                       -1
+    X_50_6        PREC_45_50_6                       -1
+    X_50_6        PREC_49_50_6                       -1
+    X_50_6        PREC_54_50_6                       -1
+    X_50_6        CAP_0_6                          1818
+    X_50_6        CAP_0_7                         -1818
+    X_50_6        CAP_1_6                           611
+    X_50_6        CAP_1_7                          -611
+    X_51_6        obj                 -56022.0071682368
+    X_51_6        ORD_51_5                           -1
+    X_51_6        ORD_51_6                            1
+    X_51_6        PREC_34_51_6                       -1
+    X_51_6        PREC_51_36_6                        1
+    X_51_6        PREC_51_47_6                        1
+    X_51_6        PREC_51_52_6                        1
+    X_51_6        PREC_51_56_6                        1
+    X_51_6        PREC_51_8_6                         1
+    X_51_6        CAP_0_6                          1432
+    X_51_6        CAP_0_7                         -1432
+    X_51_6        CAP_1_6                          1432
+    X_51_6        CAP_1_7                         -1432
+    X_52_6        obj                 -138634.879626992
+    X_52_6        ORD_52_5                           -1
+    X_52_6        ORD_52_6                            1
+    X_52_6        PREC_35_52_6                       -1
+    X_52_6        PREC_51_52_6                       -1
+    X_52_6        PREC_52_37_6                        1
+    X_52_6        PREC_52_48_6                        1
+    X_52_6        PREC_52_53_6                        1
+    X_52_6        PREC_52_57_6                        1
+    X_52_6        PREC_52_9_6                         1
+    X_52_6        PREC_52_21_6                        1
+    X_52_6        CAP_0_6                          3580
+    X_52_6        CAP_0_7                         -3580
+    X_52_6        CAP_1_6                          3580
+    X_52_6        CAP_1_7                         -3580
+    X_53_6        obj                 -170367.624946063
+    X_53_6        ORD_53_5                           -1
+    X_53_6        ORD_53_6                            1
+    X_53_6        PREC_36_53_6                       -1
+    X_53_6        PREC_47_53_6                       -1
+    X_53_6        PREC_52_53_6                       -1
+    X_53_6        PREC_53_38_6                        1
+    X_53_6        PREC_53_49_6                        1
+    X_53_6        PREC_53_54_6                        1
+    X_53_6        PREC_53_58_6                        1
+    X_53_6        PREC_53_62_6                        1
+    X_53_6        PREC_56_53_6                       -1
+    X_53_6        CAP_0_6                          5759
+    X_53_6        CAP_0_7                         -5759
+    X_53_6        CAP_1_6                          5759
+    X_53_6        CAP_1_7                         -5759
+    X_54_6        obj                 -72084.2609717174
+    X_54_6        ORD_54_5                           -1
+    X_54_6        ORD_54_6                            1
+    X_54_6        PREC_37_54_6                       -1
+    X_54_6        PREC_48_54_6                       -1
+    X_54_6        PREC_53_54_6                       -1
+    X_54_6        PREC_54_39_6                        1
+    X_54_6        PREC_54_50_6                        1
+    X_54_6        PREC_54_55_6                        1
+    X_54_6        PREC_54_59_6                        1
+    X_54_6        PREC_54_63_6                        1
+    X_54_6        PREC_57_54_6                       -1
+    X_54_6        CAP_0_6                          6054
+    X_54_6        CAP_0_7                         -6054
+    X_54_6        CAP_1_6                          6029
+    X_54_6        CAP_1_7                         -6029
+    X_55_6        obj                 -16488.2952915606
+    X_55_6        ORD_55_5                           -1
+    X_55_6        ORD_55_6                            1
+    X_55_6        PREC_38_55_6                       -1
+    X_55_6        PREC_49_55_6                       -1
+    X_55_6        PREC_54_55_6                       -1
+    X_55_6        PREC_58_55_6                       -1
+    X_55_6        PREC_62_55_6                       -1
+    X_55_6        CAP_0_6                          2081
+    X_55_6        CAP_0_7                         -2081
+    X_55_6        CAP_1_6                          1135
+    X_55_6        CAP_1_7                         -1135
+    X_56_6        obj                 -58176.6997516305
+    X_56_6        ORD_56_5                           -1
+    X_56_6        ORD_56_6                            1
+    X_56_6        PREC_51_56_6                       -1
+    X_56_6        PREC_56_41_6                        1
+    X_56_6        PREC_56_53_6                        1
+    X_56_6        PREC_56_57_6                        1
+    X_56_6        PREC_56_13_6                        1
+    X_56_6        PREC_56_22_6                        1
+    X_56_6        CAP_0_6                          1432
+    X_56_6        CAP_0_7                         -1432
+    X_56_6        CAP_1_6                          1432
+    X_56_6        CAP_1_7                         -1432
+    X_57_6        obj                 -117185.894365027
+    X_57_6        ORD_57_5                           -1
+    X_57_6        ORD_57_6                            1
+    X_57_6        PREC_40_57_6                       -1
+    X_57_6        PREC_52_57_6                       -1
+    X_57_6        PREC_56_57_6                       -1
+    X_57_6        PREC_57_42_6                        1
+    X_57_6        PREC_57_54_6                        1
+    X_57_6        PREC_57_58_6                        1
+    X_57_6        PREC_57_64_6                        1
+    X_57_6        CAP_0_6                          3580
+    X_57_6        CAP_0_7                         -3580
+    X_57_6        CAP_1_6                          3580
+    X_57_6        CAP_1_7                         -3580
+    X_58_6        obj                 -116304.429217275
+    X_58_6        ORD_58_5                           -1
+    X_58_6        ORD_58_6                            1
+    X_58_6        PREC_41_58_6                       -1
+    X_58_6        PREC_53_58_6                       -1
+    X_58_6        PREC_57_58_6                       -1
+    X_58_6        PREC_58_43_6                        1
+    X_58_6        PREC_58_55_6                        1
+    X_58_6        PREC_58_59_6                        1
+    X_58_6        PREC_58_60_6                        1
+    X_58_6        PREC_58_65_6                        1
+    X_58_6        CAP_0_6                          5368
+    X_58_6        CAP_0_7                         -5368
+    X_58_6        CAP_1_6                          5360
+    X_58_6        CAP_1_7                         -5360
+    X_59_6        obj                 -34323.2734477423
+    X_59_6        ORD_59_5                           -1
+    X_59_6        ORD_59_6                            1
+    X_59_6        PREC_10_59_6                       -1
+    X_59_6        PREC_42_59_6                       -1
+    X_59_6        PREC_54_59_6                       -1
+    X_59_6        PREC_58_59_6                       -1
+    X_59_6        PREC_64_59_6                       -1
+    X_59_6        CAP_0_6                          2013
+    X_59_6        CAP_0_7                         -2013
+    X_59_6        CAP_1_6                          1160
+    X_59_6        CAP_1_7                         -1160
+    X_60_6        obj                 -14431.5432801393
+    X_60_6        ORD_60_5                           -1
+    X_60_6        ORD_60_6                            1
+    X_60_6        PREC_14_60_6                       -1
+    X_60_6        PREC_58_60_6                       -1
+    X_60_6        CAP_0_6                          1030
+    X_60_6        CAP_0_7                         -1030
+    X_60_6        CAP_1_6                           676
+    X_60_6        CAP_1_7                          -676
+    X_61_6        obj                   456.40306539158
+    X_61_6        ORD_61_5                           -1
+    X_61_6        ORD_61_6                            1
+    X_61_6        PREC_40_61_6                       -1
+    X_61_6        PREC_49_61_6                       -1
+    X_61_6        PREC_62_61_6                       -1
+    X_61_6        CAP_0_6                           311
+    X_61_6        CAP_0_7                          -311
+    X_62_6        obj                 -9343.53056617096
+    X_62_6        ORD_62_5                           -1
+    X_62_6        ORD_62_6                            1
+    X_62_6        PREC_53_62_6                       -1
+    X_62_6        PREC_62_55_6                        1
+    X_62_6        PREC_62_61_6                        1
+    X_62_6        PREC_62_63_6                        1
+    X_62_6        PREC_62_65_6                        1
+    X_62_6        CAP_0_6                          1346
+    X_62_6        CAP_0_7                         -1346
+    X_62_6        CAP_1_6                          1322
+    X_62_6        CAP_1_7                         -1322
+    X_63_6        obj                  -1724.7334724347
+    X_63_6        ORD_63_5                           -1
+    X_63_6        ORD_63_6                            1
+    X_63_6        PREC_24_63_6                       -1
+    X_63_6        PREC_54_63_6                       -1
+    X_63_6        PREC_62_63_6                       -1
+    X_63_6        PREC_64_63_6                       -1
+    X_63_6        CAP_0_6                           702
+    X_63_6        CAP_0_7                          -702
+    X_63_6        CAP_1_6                           185
+    X_63_6        CAP_1_7                          -185
+    X_64_6        obj                 -8227.00804568513
+    X_64_6        ORD_64_5                           -1
+    X_64_6        ORD_64_6                            1
+    X_64_6        PREC_29_64_6                       -1
+    X_64_6        PREC_57_64_6                       -1
+    X_64_6        PREC_64_59_6                        1
+    X_64_6        PREC_64_63_6                        1
+    X_64_6        PREC_64_65_6                        1
+    X_64_6        PREC_64_66_6                        1
+    X_64_6        CAP_0_6                           672
+    X_64_6        CAP_0_7                          -672
+    X_64_6        CAP_1_6                           672
+    X_64_6        CAP_1_7                          -672
+    X_65_6        obj                 -4490.57522493646
+    X_65_6        ORD_65_5                           -1
+    X_65_6        ORD_65_6                            1
+    X_65_6        PREC_30_65_6                       -1
+    X_65_6        PREC_58_65_6                       -1
+    X_65_6        PREC_62_65_6                       -1
+    X_65_6        PREC_64_65_6                       -1
+    X_65_6        CAP_0_6                           571
+    X_65_6        CAP_0_7                          -571
+    X_65_6        CAP_1_6                           190
+    X_65_6        CAP_1_7                          -190
+    X_66_6        obj                 -1238.94823545139
+    X_66_6        ORD_66_5                           -1
+    X_66_6        ORD_66_6                            1
+    X_66_6        PREC_36_66_6                       -1
+    X_66_6        PREC_64_66_6                       -1
+    X_66_6        CAP_0_6                           131
+    X_66_6        CAP_0_7                          -131
+    X_66_6        CAP_1_6                            45
+    X_66_6        CAP_1_7                           -45
+    X_0_7         obj                 -1239.01829750044
+    X_0_7         ORD_0_6                            -1
+    X_0_7         ORD_0_7                             1
+    X_0_7         PREC_30_0_7                        -1
+    X_0_7         CAP_0_7                           301
+    X_0_7         CAP_0_8                          -301
+    X_0_7         CAP_1_7                           102
+    X_0_7         CAP_1_8                          -102
+    X_1_7         obj                 -7844.14461726897
+    X_1_7         ORD_1_6                            -1
+    X_1_7         ORD_1_7                             1
+    X_1_7         PREC_2_1_7                         -1
+    X_1_7         PREC_8_1_7                         -1
+    X_1_7         PREC_36_1_7                        -1
+    X_1_7         CAP_0_7                          1061
+    X_1_7         CAP_0_8                         -1061
+    X_1_7         CAP_1_7                           713
+    X_1_7         CAP_1_8                          -713
+    X_2_7         obj                 -13667.8277422111
+    X_2_7         ORD_2_6                            -1
+    X_2_7         ORD_2_7                             1
+    X_2_7         PREC_2_1_7                          1
+    X_2_7         PREC_2_3_7                          1
+    X_2_7         PREC_2_4_7                          1
+    X_2_7         PREC_2_13_7                         1
+    X_2_7         PREC_11_2_7                        -1
+    X_2_7         CAP_0_7                           648
+    X_2_7         CAP_0_8                          -648
+    X_2_7         CAP_1_7                           648
+    X_2_7         CAP_1_8                          -648
+    X_3_7         obj                 -20068.7855792466
+    X_3_7         ORD_3_6                            -1
+    X_3_7         ORD_3_7                             1
+    X_3_7         PREC_2_3_7                         -1
+    X_3_7         PREC_12_3_7                        -1
+    X_3_7         PREC_40_3_7                        -1
+    X_3_7         CAP_0_7                          1367
+    X_3_7         CAP_0_8                         -1367
+    X_3_7         CAP_1_7                          1118
+    X_3_7         CAP_1_8                         -1118
+    X_4_7         obj                 -4254.85420148832
+    X_4_7         ORD_4_6                            -1
+    X_4_7         ORD_4_7                             1
+    X_4_7         PREC_2_4_7                         -1
+    X_4_7         PREC_16_4_7                        -1
+    X_4_7         PREC_24_4_7                        -1
+    X_4_7         CAP_0_7                           849
+    X_4_7         CAP_0_8                          -849
+    X_4_7         CAP_1_7                           648
+    X_4_7         CAP_1_8                          -648
+    X_5_7         obj                  -1591.7501252575
+    X_5_7         ORD_5_6                            -1
+    X_5_7         ORD_5_7                             1
+    X_5_7         PREC_19_5_7                        -1
+    X_5_7         PREC_30_5_7                        -1
+    X_5_7         CAP_0_7                           321
+    X_5_7         CAP_0_8                          -321
+    X_5_7         CAP_1_7                           253
+    X_5_7         CAP_1_8                          -253
+    X_6_7         obj                  60.6987381098194
+    X_6_7         ORD_6_6                            -1
+    X_6_7         ORD_6_7                             1
+    X_6_7         PREC_8_6_7                         -1
+    X_6_7         PREC_47_6_7                        -1
+    X_6_7         CAP_0_7                            48
+    X_6_7         CAP_0_8                           -48
+    X_7_7         obj                 -16341.9679526437
+    X_7_7         ORD_7_6                            -1
+    X_7_7         ORD_7_7                             1
+    X_7_7         PREC_7_8_7                          1
+    X_7_7         PREC_7_12_7                         1
+    X_7_7         PREC_7_26_7                         1
+    X_7_7         PREC_10_7_7                        -1
+    X_7_7         PREC_24_7_7                        -1
+    X_7_7         CAP_0_7                           724
+    X_7_7         CAP_0_8                          -724
+    X_7_7         CAP_1_7                           724
+    X_7_7         CAP_1_8                          -724
+    X_8_7         obj                 -14168.6984482921
+    X_8_7         ORD_8_6                            -1
+    X_8_7         ORD_8_7                             1
+    X_8_7         PREC_7_8_7                         -1
+    X_8_7         PREC_8_1_7                          1
+    X_8_7         PREC_8_6_7                          1
+    X_8_7         PREC_8_9_7                          1
+    X_8_7         PREC_8_13_7                         1
+    X_8_7         PREC_8_27_7                         1
+    X_8_7         PREC_11_8_7                        -1
+    X_8_7         PREC_25_8_7                        -1
+    X_8_7         PREC_51_8_7                        -1
+    X_8_7         CAP_0_7                          1989
+    X_8_7         CAP_0_8                         -1989
+    X_8_7         CAP_1_7                          1989
+    X_8_7         CAP_1_8                         -1989
+    X_9_7         obj                 -5255.32221355017
+    X_9_7         ORD_9_6                            -1
+    X_9_7         ORD_9_7                             1
+    X_9_7         PREC_8_9_7                         -1
+    X_9_7         PREC_12_9_7                        -1
+    X_9_7         PREC_26_9_7                        -1
+    X_9_7         PREC_52_9_7                        -1
+    X_9_7         CAP_0_7                          1225
+    X_9_7         CAP_0_8                         -1225
+    X_9_7         CAP_1_7                           584
+    X_9_7         CAP_1_8                          -584
+    X_10_7        obj                 -49705.0505780409
+    X_10_7        ORD_10_6                           -1
+    X_10_7        ORD_10_7                            1
+    X_10_7        PREC_10_7_7                         1
+    X_10_7        PREC_10_11_7                        1
+    X_10_7        PREC_10_15_7                        1
+    X_10_7        PREC_10_31_7                        1
+    X_10_7        PREC_10_59_7                        1
+    X_10_7        PREC_29_10_7                       -1
+    X_10_7        CAP_0_7                          1432
+    X_10_7        CAP_0_8                         -1432
+    X_10_7        CAP_1_7                          1432
+    X_10_7        CAP_1_8                         -1432
+    X_11_7        obj                 -143724.424643251
+    X_11_7        ORD_11_6                           -1
+    X_11_7        ORD_11_7                            1
+    X_11_7        PREC_10_11_7                       -1
+    X_11_7        PREC_11_2_7                         1
+    X_11_7        PREC_11_8_7                         1
+    X_11_7        PREC_11_12_7                        1
+    X_11_7        PREC_11_16_7                        1
+    X_11_7        PREC_11_32_7                        1
+    X_11_7        PREC_14_11_7                       -1
+    X_11_7        PREC_30_11_7                       -1
+    X_11_7        CAP_0_7                          5001
+    X_11_7        CAP_0_8                         -5001
+    X_11_7        CAP_1_7                          5001
+    X_11_7        CAP_1_8                         -5001
+    X_12_7        obj                 -61653.7881849738
+    X_12_7        ORD_12_6                           -1
+    X_12_7        ORD_12_7                            1
+    X_12_7        PREC_7_12_7                        -1
+    X_12_7        PREC_11_12_7                       -1
+    X_12_7        PREC_12_3_7                         1
+    X_12_7        PREC_12_9_7                         1
+    X_12_7        PREC_12_13_7                        1
+    X_12_7        PREC_12_17_7                        1
+    X_12_7        PREC_12_33_7                        1
+    X_12_7        PREC_15_12_7                       -1
+    X_12_7        PREC_31_12_7                       -1
+    X_12_7        CAP_0_7                          5835
+    X_12_7        CAP_0_8                         -5835
+    X_12_7        CAP_1_7                          5835
+    X_12_7        CAP_1_8                         -5835
+    X_13_7        obj                 -13468.3283931788
+    X_13_7        ORD_13_6                           -1
+    X_13_7        ORD_13_7                            1
+    X_13_7        PREC_2_13_7                        -1
+    X_13_7        PREC_8_13_7                        -1
+    X_13_7        PREC_12_13_7                       -1
+    X_13_7        PREC_16_13_7                       -1
+    X_13_7        PREC_32_13_7                       -1
+    X_13_7        PREC_56_13_7                       -1
+    X_13_7        CAP_0_7                          2318
+    X_13_7        CAP_0_8                         -2318
+    X_13_7        CAP_1_7                          1488
+    X_13_7        CAP_1_8                         -1488
+    X_14_7        obj                 -43889.8567871002
+    X_14_7        ORD_14_6                           -1
+    X_14_7        ORD_14_7                            1
+    X_14_7        PREC_14_11_7                        1
+    X_14_7        PREC_14_15_7                        1
+    X_14_7        PREC_14_18_7                        1
+    X_14_7        PREC_14_37_7                        1
+    X_14_7        PREC_14_46_7                        1
+    X_14_7        PREC_14_60_7                        1
+    X_14_7        PREC_35_14_7                       -1
+    X_14_7        CAP_0_7                          1432
+    X_14_7        CAP_0_8                         -1432
+    X_14_7        CAP_1_7                          1432
+    X_14_7        CAP_1_8                         -1432
+    X_15_7        obj                 -90623.6404646604
+    X_15_7        ORD_15_6                           -1
+    X_15_7        ORD_15_7                            1
+    X_15_7        PREC_10_15_7                       -1
+    X_15_7        PREC_14_15_7                       -1
+    X_15_7        PREC_15_12_7                        1
+    X_15_7        PREC_15_16_7                        1
+    X_15_7        PREC_15_19_7                        1
+    X_15_7        PREC_15_38_7                        1
+    X_15_7        PREC_36_15_7                       -1
+    X_15_7        CAP_0_7                          4296
+    X_15_7        CAP_0_8                         -4296
+    X_15_7        CAP_1_7                          4296
+    X_15_7        CAP_1_8                         -4296
+    X_16_7        obj                 -94988.8560081666
+    X_16_7        ORD_16_6                           -1
+    X_16_7        ORD_16_7                            1
+    X_16_7        PREC_11_16_7                       -1
+    X_16_7        PREC_15_16_7                       -1
+    X_16_7        PREC_16_4_7                         1
+    X_16_7        PREC_16_13_7                        1
+    X_16_7        PREC_16_17_7                        1
+    X_16_7        PREC_16_20_7                        1
+    X_16_7        PREC_16_39_7                        1
+    X_16_7        PREC_18_16_7                       -1
+    X_16_7        PREC_37_16_7                       -1
+    X_16_7        CAP_0_7                          5965
+    X_16_7        CAP_0_8                         -5965
+    X_16_7        CAP_1_7                          5528
+    X_16_7        CAP_1_8                         -5528
+    X_17_7        obj                 -33783.3046584652
+    X_17_7        ORD_17_6                           -1
+    X_17_7        ORD_17_7                            1
+    X_17_7        PREC_12_17_7                       -1
+    X_17_7        PREC_16_17_7                       -1
+    X_17_7        PREC_19_17_7                       -1
+    X_17_7        PREC_38_17_7                       -1
+    X_17_7        CAP_0_7                          2733
+    X_17_7        CAP_0_8                         -2733
+    X_17_7        CAP_1_7                          1776
+    X_17_7        CAP_1_8                         -1776
+    X_18_7        obj                 -15535.4812225132
+    X_18_7        ORD_18_6                           -1
+    X_18_7        ORD_18_7                            1
+    X_18_7        PREC_14_18_7                       -1
+    X_18_7        PREC_18_16_7                        1
+    X_18_7        PREC_18_19_7                        1
+    X_18_7        PREC_18_42_7                        1
+    X_18_7        PREC_40_18_7                       -1
+    X_18_7        CAP_0_7                           716
+    X_18_7        CAP_0_8                          -716
+    X_18_7        CAP_1_7                           716
+    X_18_7        CAP_1_8                          -716
+    X_19_7        obj                 -27675.2288444771
+    X_19_7        ORD_19_6                           -1
+    X_19_7        ORD_19_7                            1
+    X_19_7        PREC_15_19_7                       -1
+    X_19_7        PREC_18_19_7                       -1
+    X_19_7        PREC_19_5_7                         1
+    X_19_7        PREC_19_17_7                        1
+    X_19_7        PREC_19_20_7                        1
+    X_19_7        PREC_19_21_7                        1
+    X_19_7        PREC_19_43_7                        1
+    X_19_7        PREC_41_19_7                       -1
+    X_19_7        CAP_0_7                          1965
+    X_19_7        CAP_0_8                         -1965
+    X_19_7        CAP_1_7                          1964
+    X_19_7        CAP_1_8                         -1964
+    X_20_7        obj                 -20826.0341721691
+    X_20_7        ORD_20_6                           -1
+    X_20_7        ORD_20_7                            1
+    X_20_7        PREC_16_20_7                       -1
+    X_20_7        PREC_19_20_7                       -1
+    X_20_7        PREC_42_20_7                       -1
+    X_20_7        PREC_47_20_7                       -1
+    X_20_7        CAP_0_7                          2496
+    X_20_7        CAP_0_8                         -2496
+    X_20_7        CAP_1_7                          1791
+    X_20_7        CAP_1_8                         -1791
+    X_21_7        obj                 -1035.69874816755
+    X_21_7        ORD_21_6                           -1
+    X_21_7        ORD_21_7                            1
+    X_21_7        PREC_19_21_7                       -1
+    X_21_7        PREC_52_21_7                       -1
+    X_21_7        CAP_0_7                           244
+    X_21_7        CAP_0_8                          -244
+    X_21_7        CAP_1_7                           215
+    X_21_7        CAP_1_8                          -215
+    X_22_7        obj                 -2372.76885338385
+    X_22_7        ORD_22_6                           -1
+    X_22_7        ORD_22_7                            1
+    X_22_7        PREC_56_22_7                       -1
+    X_22_7        CAP_0_7                           339
+    X_22_7        CAP_0_8                          -339
+    X_22_7        CAP_1_7                           283
+    X_22_7        CAP_1_8                          -283
+    X_23_7        obj                  103.782108166789
+    X_23_7        ORD_23_6                           -1
+    X_23_7        ORD_23_7                            1
+    X_23_7        PREC_26_23_7                       -1
+    X_23_7        CAP_0_7                            85
+    X_23_7        CAP_0_8                           -85
+    X_24_7        obj                 -22369.3950936187
+    X_24_7        ORD_24_6                           -1
+    X_24_7        ORD_24_7                            1
+    X_24_7        PREC_24_7_7                         1
+    X_24_7        PREC_24_25_7                        1
+    X_24_7        PREC_24_31_7                        1
+    X_24_7        PREC_24_4_7                         1
+    X_24_7        PREC_24_63_7                        1
+    X_24_7        PREC_29_24_7                       -1
+    X_24_7        CAP_0_7                           724
+    X_24_7        CAP_0_8                          -724
+    X_24_7        CAP_1_7                           724
+    X_24_7        CAP_1_8                          -724
+    X_25_7        obj                 -81752.2864332253
+    X_25_7        ORD_25_6                           -1
+    X_25_7        ORD_25_7                            1
+    X_25_7        PREC_24_25_7                       -1
+    X_25_7        PREC_25_8_7                         1
+    X_25_7        PREC_25_26_7                        1
+    X_25_7        PREC_25_32_7                        1
+    X_25_7        PREC_25_45_7                        1
+    X_25_7        PREC_30_25_7                       -1
+    X_25_7        CAP_0_7                          3620
+    X_25_7        CAP_0_8                         -3620
+    X_25_7        CAP_1_7                          3620
+    X_25_7        CAP_1_8                         -3620
+    X_26_7        obj                 -65410.3184805816
+    X_26_7        ORD_26_6                           -1
+    X_26_7        ORD_26_7                            1
+    X_26_7        PREC_7_26_7                        -1
+    X_26_7        PREC_25_26_7                       -1
+    X_26_7        PREC_26_9_7                         1
+    X_26_7        PREC_26_23_7                        1
+    X_26_7        PREC_26_27_7                        1
+    X_26_7        PREC_26_33_7                        1
+    X_26_7        PREC_26_46_7                        1
+    X_26_7        PREC_31_26_7                       -1
+    X_26_7        CAP_0_7                          5384
+    X_26_7        CAP_0_8                         -5384
+    X_26_7        CAP_1_7                          5360
+    X_26_7        CAP_1_8                         -5360
+    X_27_7        obj                 -3735.73142730434
+    X_27_7        ORD_27_6                           -1
+    X_27_7        ORD_27_7                            1
+    X_27_7        PREC_8_27_7                        -1
+    X_27_7        PREC_26_27_7                       -1
+    X_27_7        PREC_32_27_7                       -1
+    X_27_7        PREC_45_27_7                       -1
+    X_27_7        CAP_0_7                          1376
+    X_27_7        CAP_0_8                         -1376
+    X_27_7        CAP_1_7                           438
+    X_27_7        CAP_1_8                          -438
+    X_28_7        obj                 -27335.6554844221
+    X_28_7        ORD_28_6                           -1
+    X_28_7        ORD_28_7                            1
+    X_28_7        PREC_28_29_7                        1
+    X_28_7        PREC_28_35_7                        1
+    X_28_7        CAP_0_7                           716
+    X_28_7        CAP_0_8                          -716
+    X_28_7        CAP_1_7                           716
+    X_28_7        CAP_1_8                          -716
+    X_29_7        obj                 -121185.242869604
+    X_29_7        ORD_29_6                           -1
+    X_29_7        ORD_29_7                            1
+    X_29_7        PREC_28_29_7                       -1
+    X_29_7        PREC_29_10_7                        1
+    X_29_7        PREC_29_24_7                        1
+    X_29_7        PREC_29_30_7                        1
+    X_29_7        PREC_29_36_7                        1
+    X_29_7        PREC_29_47_7                        1
+    X_29_7        PREC_29_64_7                        1
+    X_29_7        PREC_34_29_7                       -1
+    X_29_7        CAP_0_7                          3580
+    X_29_7        CAP_0_8                         -3580
+    X_29_7        CAP_1_7                          3580
+    X_29_7        CAP_1_8                         -3580
+    X_30_7        obj                 -194745.321991504
+    X_30_7        ORD_30_6                           -1
+    X_30_7        ORD_30_7                            1
+    X_30_7        PREC_29_30_7                       -1
+    X_30_7        PREC_30_11_7                        1
+    X_30_7        PREC_30_25_7                        1
+    X_30_7        PREC_30_31_7                        1
+    X_30_7        PREC_30_37_7                        1
+    X_30_7        PREC_30_48_7                        1
+    X_30_7        PREC_30_0_7                         1
+    X_30_7        PREC_30_5_7                         1
+    X_30_7        PREC_30_65_7                        1
+    X_30_7        PREC_35_30_7                       -1
+    X_30_7        CAP_0_7                          6483
+    X_30_7        CAP_0_8                         -6483
+    X_30_7        CAP_1_7                          6483
+    X_30_7        CAP_1_8                         -6483
+    X_31_7        obj                 -156500.872315317
+    X_31_7        ORD_31_6                           -1
+    X_31_7        ORD_31_7                            1
+    X_31_7        PREC_10_31_7                       -1
+    X_31_7        PREC_24_31_7                       -1
+    X_31_7        PREC_30_31_7                       -1
+    X_31_7        PREC_31_12_7                        1
+    X_31_7        PREC_31_26_7                        1
+    X_31_7        PREC_31_32_7                        1
+    X_31_7        PREC_31_38_7                        1
+    X_31_7        PREC_31_49_7                        1
+    X_31_7        PREC_36_31_7                       -1
+    X_31_7        PREC_47_31_7                       -1
+    X_31_7        CAP_0_7                          6507
+    X_31_7        CAP_0_8                         -6507
+    X_31_7        CAP_1_7                          6507
+    X_31_7        CAP_1_8                         -6507
+    X_32_7        obj                 -63075.7516302039
+    X_32_7        ORD_32_6                           -1
+    X_32_7        ORD_32_7                            1
+    X_32_7        PREC_11_32_7                       -1
+    X_32_7        PREC_25_32_7                       -1
+    X_32_7        PREC_31_32_7                       -1
+    X_32_7        PREC_32_13_7                        1
+    X_32_7        PREC_32_27_7                        1
+    X_32_7        PREC_32_33_7                        1
+    X_32_7        PREC_32_39_7                        1
+    X_32_7        PREC_32_50_7                        1
+    X_32_7        PREC_37_32_7                       -1
+    X_32_7        PREC_48_32_7                       -1
+    X_32_7        CAP_0_7                          6049
+    X_32_7        CAP_0_8                         -6049
+    X_32_7        CAP_1_7                          6025
+    X_32_7        CAP_1_8                         -6025
+    X_33_7        obj                 -7199.80416656473
+    X_33_7        ORD_33_6                           -1
+    X_33_7        ORD_33_7                            1
+    X_33_7        PREC_12_33_7                       -1
+    X_33_7        PREC_26_33_7                       -1
+    X_33_7        PREC_32_33_7                       -1
+    X_33_7        PREC_38_33_7                       -1
+    X_33_7        PREC_49_33_7                       -1
+    X_33_7        CAP_0_7                          2548
+    X_33_7        CAP_0_8                         -2548
+    X_33_7        CAP_1_7                           984
+    X_33_7        CAP_1_8                          -984
+    X_34_7        obj                 -54925.9909888855
+    X_34_7        ORD_34_6                           -1
+    X_34_7        ORD_34_7                            1
+    X_34_7        PREC_34_29_7                        1
+    X_34_7        PREC_34_35_7                        1
+    X_34_7        PREC_34_51_7                        1
+    X_34_7        CAP_0_7                          1432
+    X_34_7        CAP_0_8                         -1432
+    X_34_7        CAP_1_7                          1432
+    X_34_7        CAP_1_8                         -1432
+    X_35_7        obj                 -187571.834760344
+    X_35_7        ORD_35_6                           -1
+    X_35_7        ORD_35_7                            1
+    X_35_7        PREC_28_35_7                       -1
+    X_35_7        PREC_34_35_7                       -1
+    X_35_7        PREC_35_14_7                        1
+    X_35_7        PREC_35_30_7                        1
+    X_35_7        PREC_35_36_7                        1
+    X_35_7        PREC_35_40_7                        1
+    X_35_7        PREC_35_52_7                        1
+    X_35_7        CAP_0_7                          5728
+    X_35_7        CAP_0_8                         -5728
+    X_35_7        CAP_1_7                          5728
+    X_35_7        CAP_1_8                         -5728
+    X_36_7        obj                 -202343.275922734
+    X_36_7        ORD_36_6                           -1
+    X_36_7        ORD_36_7                            1
+    X_36_7        PREC_29_36_7                       -1
+    X_36_7        PREC_35_36_7                       -1
+    X_36_7        PREC_36_15_7                        1
+    X_36_7        PREC_36_31_7                        1
+    X_36_7        PREC_36_37_7                        1
+    X_36_7        PREC_36_41_7                        1
+    X_36_7        PREC_36_53_7                        1
+    X_36_7        PREC_36_1_7                         1
+    X_36_7        PREC_36_66_7                        1
+    X_36_7        PREC_51_36_7                       -1
+    X_36_7        CAP_0_7                          6444
+    X_36_7        CAP_0_8                         -6444
+    X_36_7        CAP_1_7                          6444
+    X_36_7        CAP_1_8                         -6444
+    X_37_7        obj                 -179167.394098984
+    X_37_7        ORD_37_6                           -1
+    X_37_7        ORD_37_7                            1
+    X_37_7        PREC_14_37_7                       -1
+    X_37_7        PREC_30_37_7                       -1
+    X_37_7        PREC_36_37_7                       -1
+    X_37_7        PREC_37_16_7                        1
+    X_37_7        PREC_37_32_7                        1
+    X_37_7        PREC_37_38_7                        1
+    X_37_7        PREC_37_42_7                        1
+    X_37_7        PREC_37_54_7                        1
+    X_37_7        PREC_40_37_7                       -1
+    X_37_7        PREC_52_37_7                       -1
+    X_37_7        CAP_0_7                          6447
+    X_37_7        CAP_0_8                         -6447
+    X_37_7        CAP_1_7                          6447
+    X_37_7        CAP_1_8                         -6447
+    X_38_7        obj                 -117250.436559968
+    X_38_7        ORD_38_6                           -1
+    X_38_7        ORD_38_7                            1
+    X_38_7        PREC_15_38_7                       -1
+    X_38_7        PREC_31_38_7                       -1
+    X_38_7        PREC_37_38_7                       -1
+    X_38_7        PREC_38_17_7                        1
+    X_38_7        PREC_38_33_7                        1
+    X_38_7        PREC_38_39_7                        1
+    X_38_7        PREC_38_43_7                        1
+    X_38_7        PREC_38_55_7                        1
+    X_38_7        PREC_41_38_7                       -1
+    X_38_7        PREC_53_38_7                       -1
+    X_38_7        CAP_0_7                          6040
+    X_38_7        CAP_0_8                         -6040
+    X_38_7        CAP_1_7                          5960
+    X_38_7        CAP_1_8                         -5960
+    X_39_7        obj                  -28669.754322738
+    X_39_7        ORD_39_6                           -1
+    X_39_7        ORD_39_7                            1
+    X_39_7        PREC_16_39_7                       -1
+    X_39_7        PREC_32_39_7                       -1
+    X_39_7        PREC_38_39_7                       -1
+    X_39_7        PREC_42_39_7                       -1
+    X_39_7        PREC_54_39_7                       -1
+    X_39_7        CAP_0_7                          2814
+    X_39_7        CAP_0_8                         -2814
+    X_39_7        CAP_1_7                          1584
+    X_39_7        CAP_1_8                         -1584
+    X_40_7        obj                 -49705.0505780409
+    X_40_7        ORD_40_6                           -1
+    X_40_7        ORD_40_7                            1
+    X_40_7        PREC_35_40_7                       -1
+    X_40_7        PREC_40_18_7                        1
+    X_40_7        PREC_40_37_7                        1
+    X_40_7        PREC_40_41_7                        1
+    X_40_7        PREC_40_57_7                        1
+    X_40_7        PREC_40_3_7                         1
+    X_40_7        PREC_40_61_7                        1
+    X_40_7        CAP_0_7                          1432
+    X_40_7        CAP_0_8                         -1432
+    X_40_7        CAP_1_7                          1432
+    X_40_7        CAP_1_8                         -1432
+    X_41_7        obj                 -103060.514776672
+    X_41_7        ORD_41_6                           -1
+    X_41_7        ORD_41_7                            1
+    X_41_7        PREC_36_41_7                       -1
+    X_41_7        PREC_40_41_7                       -1
+    X_41_7        PREC_41_19_7                        1
+    X_41_7        PREC_41_38_7                        1
+    X_41_7        PREC_41_42_7                        1
+    X_41_7        PREC_41_58_7                        1
+    X_41_7        PREC_56_41_7                       -1
+    X_41_7        CAP_0_7                          4296
+    X_41_7        CAP_0_8                         -4296
+    X_41_7        CAP_1_7                          4296
+    X_41_7        CAP_1_8                         -4296
+    X_42_7        obj                 -99197.8678060474
+    X_42_7        ORD_42_6                           -1
+    X_42_7        ORD_42_7                            1
+    X_42_7        PREC_18_42_7                       -1
+    X_42_7        PREC_37_42_7                       -1
+    X_42_7        PREC_41_42_7                       -1
+    X_42_7        PREC_42_20_7                        1
+    X_42_7        PREC_42_39_7                        1
+    X_42_7        PREC_42_43_7                        1
+    X_42_7        PREC_42_44_7                        1
+    X_42_7        PREC_42_59_7                        1
+    X_42_7        PREC_57_42_7                       -1
+    X_42_7        CAP_0_7                          5997
+    X_42_7        CAP_0_8                         -5997
+    X_42_7        CAP_1_7                          5992
+    X_42_7        CAP_1_8                         -5992
+    X_43_7        obj                 -35026.9920896664
+    X_43_7        ORD_43_6                           -1
+    X_43_7        ORD_43_7                            1
+    X_43_7        PREC_19_43_7                       -1
+    X_43_7        PREC_38_43_7                       -1
+    X_43_7        PREC_42_43_7                       -1
+    X_43_7        PREC_58_43_7                       -1
+    X_43_7        CAP_0_7                          2525
+    X_43_7        CAP_0_8                         -2525
+    X_43_7        CAP_1_7                          1776
+    X_43_7        CAP_1_8                         -1776
+    X_44_7        obj                 -11078.5808717922
+    X_44_7        ORD_44_6                           -1
+    X_44_7        ORD_44_7                            1
+    X_44_7        PREC_42_44_7                       -1
+    X_44_7        CAP_0_7                          1078
+    X_44_7        CAP_0_8                         -1078
+    X_44_7        CAP_1_7                           874
+    X_44_7        CAP_1_8                          -874
+    X_45_7        obj                 -3387.24426654796
+    X_45_7        ORD_45_6                           -1
+    X_45_7        ORD_45_7                            1
+    X_45_7        PREC_25_45_7                       -1
+    X_45_7        PREC_45_27_7                        1
+    X_45_7        PREC_45_46_7                        1
+    X_45_7        PREC_45_50_7                        1
+    X_45_7        PREC_48_45_7                       -1
+    X_45_7        CAP_0_7                           673
+    X_45_7        CAP_0_8                          -673
+    X_45_7        CAP_1_7                           673
+    X_45_7        CAP_1_8                          -673
+    X_46_7        obj                    12.73400100206
+    X_46_7        ORD_46_6                           -1
+    X_46_7        ORD_46_7                            1
+    X_46_7        PREC_14_46_7                       -1
+    X_46_7        PREC_26_46_7                       -1
+    X_46_7        PREC_45_46_7                       -1
+    X_46_7        PREC_49_46_7                       -1
+    X_46_7        CAP_0_7                           745
+    X_46_7        CAP_0_8                          -745
+    X_46_7        CAP_1_7                            59
+    X_46_7        CAP_1_8                           -59
+    X_47_7        obj                 -15577.9278925201
+    X_47_7        ORD_47_6                           -1
+    X_47_7        ORD_47_7                            1
+    X_47_7        PREC_29_47_7                       -1
+    X_47_7        PREC_47_31_7                        1
+    X_47_7        PREC_47_48_7                        1
+    X_47_7        PREC_47_53_7                        1
+    X_47_7        PREC_47_6_7                         1
+    X_47_7        PREC_47_20_7                        1
+    X_47_7        PREC_51_47_7                       -1
+    X_47_7        CAP_0_7                           722
+    X_47_7        CAP_0_8                          -722
+    X_47_7        CAP_1_7                           722
+    X_47_7        CAP_1_8                          -722
+    X_48_7        obj                 -43083.3700569697
+    X_48_7        ORD_48_6                           -1
+    X_48_7        ORD_48_7                            1
+    X_48_7        PREC_30_48_7                       -1
+    X_48_7        PREC_47_48_7                       -1
+    X_48_7        PREC_48_32_7                        1
+    X_48_7        PREC_48_45_7                        1
+    X_48_7        PREC_48_49_7                        1
+    X_48_7        PREC_48_54_7                        1
+    X_48_7        PREC_52_48_7                       -1
+    X_48_7        CAP_0_7                          2896
+    X_48_7        CAP_0_8                         -2896
+    X_48_7        CAP_1_7                          2896
+    X_48_7        CAP_1_8                         -2896
+    X_49_7        obj                 -26074.9893852182
+    X_49_7        ORD_49_6                           -1
+    X_49_7        ORD_49_7                            1
+    X_49_7        PREC_31_49_7                       -1
+    X_49_7        PREC_48_49_7                       -1
+    X_49_7        PREC_49_33_7                        1
+    X_49_7        PREC_49_46_7                        1
+    X_49_7        PREC_49_50_7                        1
+    X_49_7        PREC_49_55_7                        1
+    X_49_7        PREC_49_61_7                        1
+    X_49_7        PREC_53_49_7                       -1
+    X_49_7        CAP_0_7                          4711
+    X_49_7        CAP_0_8                         -4711
+    X_49_7        CAP_1_7                          4687
+    X_49_7        CAP_1_8                         -4687
+    X_50_7        obj                  -4886.4606511905
+    X_50_7        ORD_50_6                           -1
+    X_50_7        ORD_50_7                            1
+    X_50_7        PREC_32_50_7                       -1
+    X_50_7        PREC_45_50_7                       -1
+    X_50_7        PREC_49_50_7                       -1
+    X_50_7        PREC_54_50_7                       -1
+    X_50_7        CAP_0_7                          1818
+    X_50_7        CAP_0_8                         -1818
+    X_50_7        CAP_1_7                           611
+    X_50_7        CAP_1_8                          -611
+    X_51_7        obj                 -48558.9904878555
+    X_51_7        ORD_51_6                           -1
+    X_51_7        ORD_51_7                            1
+    X_51_7        PREC_34_51_7                       -1
+    X_51_7        PREC_51_36_7                        1
+    X_51_7        PREC_51_47_7                        1
+    X_51_7        PREC_51_52_7                        1
+    X_51_7        PREC_51_56_7                        1
+    X_51_7        PREC_51_8_7                         1
+    X_51_7        CAP_0_7                          1432
+    X_51_7        CAP_0_8                         -1432
+    X_51_7        CAP_1_7                          1432
+    X_51_7        CAP_1_8                         -1432
+    X_52_7        obj                  -120166.52278944
+    X_52_7        ORD_52_6                           -1
+    X_52_7        ORD_52_7                            1
+    X_52_7        PREC_35_52_7                       -1
+    X_52_7        PREC_51_52_7                       -1
+    X_52_7        PREC_52_37_7                        1
+    X_52_7        PREC_52_48_7                        1
+    X_52_7        PREC_52_53_7                        1
+    X_52_7        PREC_52_57_7                        1
+    X_52_7        PREC_52_9_7                         1
+    X_52_7        PREC_52_21_7                        1
+    X_52_7        CAP_0_7                          3580
+    X_52_7        CAP_0_8                         -3580
+    X_52_7        CAP_1_7                          3580
+    X_52_7        CAP_1_8                         -3580
+    X_53_7        obj                 -147671.964953889
+    X_53_7        ORD_53_6                           -1
+    X_53_7        ORD_53_7                            1
+    X_53_7        PREC_36_53_7                       -1
+    X_53_7        PREC_47_53_7                       -1
+    X_53_7        PREC_52_53_7                       -1
+    X_53_7        PREC_53_38_7                        1
+    X_53_7        PREC_53_49_7                        1
+    X_53_7        PREC_53_54_7                        1
+    X_53_7        PREC_53_58_7                        1
+    X_53_7        PREC_53_62_7                        1
+    X_53_7        PREC_56_53_7                       -1
+    X_53_7        CAP_0_7                          5759
+    X_53_7        CAP_0_8                         -5759
+    X_53_7        CAP_1_7                          5759
+    X_53_7        CAP_1_8                         -5759
+    X_54_7        obj                 -62481.4982501077
+    X_54_7        ORD_54_6                           -1
+    X_54_7        ORD_54_7                            1
+    X_54_7        PREC_37_54_7                       -1
+    X_54_7        PREC_48_54_7                       -1
+    X_54_7        PREC_53_54_7                       -1
+    X_54_7        PREC_54_39_7                        1
+    X_54_7        PREC_54_50_7                        1
+    X_54_7        PREC_54_55_7                        1
+    X_54_7        PREC_54_59_7                        1
+    X_54_7        PREC_54_63_7                        1
+    X_54_7        PREC_57_54_7                       -1
+    X_54_7        CAP_0_7                          6054
+    X_54_7        CAP_0_8                         -6054
+    X_54_7        CAP_1_7                          6029
+    X_54_7        CAP_1_8                         -6029
+    X_55_7        obj                  -14291.793791312
+    X_55_7        ORD_55_6                           -1
+    X_55_7        ORD_55_7                            1
+    X_55_7        PREC_38_55_7                       -1
+    X_55_7        PREC_49_55_7                       -1
+    X_55_7        PREC_54_55_7                       -1
+    X_55_7        PREC_58_55_7                       -1
+    X_55_7        PREC_62_55_7                       -1
+    X_55_7        CAP_0_7                          2081
+    X_55_7        CAP_0_8                         -2081
+    X_55_7        CAP_1_7                          1135
+    X_55_7        CAP_1_8                         -1135
+    X_56_7        obj                 -50426.6439681576
+    X_56_7        ORD_56_6                           -1
+    X_56_7        ORD_56_7                            1
+    X_56_7        PREC_51_56_7                       -1
+    X_56_7        PREC_56_41_7                        1
+    X_56_7        PREC_56_53_7                        1
+    X_56_7        PREC_56_57_7                        1
+    X_56_7        PREC_56_13_7                        1
+    X_56_7        PREC_56_22_7                        1
+    X_56_7        CAP_0_7                          1432
+    X_56_7        CAP_0_8                         -1432
+    X_56_7        CAP_1_7                          1432
+    X_56_7        CAP_1_8                         -1432
+    X_57_7        obj                 -101574.881326432
+    X_57_7        ORD_57_6                           -1
+    X_57_7        ORD_57_7                            1
+    X_57_7        PREC_40_57_7                       -1
+    X_57_7        PREC_52_57_7                       -1
+    X_57_7        PREC_56_57_7                       -1
+    X_57_7        PREC_57_42_7                        1
+    X_57_7        PREC_57_54_7                        1
+    X_57_7        PREC_57_58_7                        1
+    X_57_7        PREC_57_64_7                        1
+    X_57_7        CAP_0_7                          3580
+    X_57_7        CAP_0_8                         -3580
+    X_57_7        CAP_1_7                          3580
+    X_57_7        CAP_1_8                         -3580
+    X_58_7        obj                 -100810.841266308
+    X_58_7        ORD_58_6                           -1
+    X_58_7        ORD_58_7                            1
+    X_58_7        PREC_41_58_7                       -1
+    X_58_7        PREC_53_58_7                       -1
+    X_58_7        PREC_57_58_7                       -1
+    X_58_7        PREC_58_43_7                        1
+    X_58_7        PREC_58_55_7                        1
+    X_58_7        PREC_58_59_7                        1
+    X_58_7        PREC_58_60_7                        1
+    X_58_7        PREC_58_65_7                        1
+    X_58_7        CAP_0_7                          5368
+    X_58_7        CAP_0_8                         -5368
+    X_58_7        CAP_1_7                          5360
+    X_58_7        CAP_1_8                         -5360
+    X_59_7        obj                 -29750.8710078128
+    X_59_7        ORD_59_6                           -1
+    X_59_7        ORD_59_7                            1
+    X_59_7        PREC_10_59_7                       -1
+    X_59_7        PREC_42_59_7                       -1
+    X_59_7        PREC_54_59_7                       -1
+    X_59_7        PREC_58_59_7                       -1
+    X_59_7        PREC_64_59_7                       -1
+    X_59_7        CAP_0_7                          2013
+    X_59_7        CAP_0_8                         -2013
+    X_59_7        CAP_1_7                          1160
+    X_59_7        CAP_1_8                         -1160
+    X_60_7        obj                 -12509.0336510236
+    X_60_7        ORD_60_6                           -1
+    X_60_7        ORD_60_7                            1
+    X_60_7        PREC_14_60_7                       -1
+    X_60_7        PREC_58_60_7                       -1
+    X_60_7        CAP_0_7                          1030
+    X_60_7        CAP_0_8                         -1030
+    X_60_7        CAP_1_7                           676
+    X_60_7        CAP_1_8                          -676
+    X_61_7        obj                  395.602964463998
+    X_61_7        ORD_61_6                           -1
+    X_61_7        ORD_61_7                            1
+    X_61_7        PREC_40_61_7                       -1
+    X_61_7        PREC_49_61_7                       -1
+    X_61_7        PREC_62_61_7                       -1
+    X_61_7        CAP_0_7                           311
+    X_61_7        CAP_0_8                          -311
+    X_62_7        obj                 -8098.82463731016
+    X_62_7        ORD_62_6                           -1
+    X_62_7        ORD_62_7                            1
+    X_62_7        PREC_53_62_7                       -1
+    X_62_7        PREC_62_55_7                        1
+    X_62_7        PREC_62_61_7                        1
+    X_62_7        PREC_62_63_7                        1
+    X_62_7        PREC_62_65_7                        1
+    X_62_7        CAP_0_7                          1346
+    X_62_7        CAP_0_8                         -1346
+    X_62_7        CAP_1_7                          1322
+    X_62_7        CAP_1_8                         -1322
+    X_63_7        obj                 -1494.97171764185
+    X_63_7        ORD_63_6                           -1
+    X_63_7        ORD_63_7                            1
+    X_63_7        PREC_24_63_7                       -1
+    X_63_7        PREC_54_63_7                       -1
+    X_63_7        PREC_62_63_7                       -1
+    X_63_7        PREC_64_63_7                       -1
+    X_63_7        CAP_0_7                           702
+    X_63_7        CAP_0_8                          -702
+    X_63_7        CAP_1_7                           185
+    X_63_7        CAP_1_8                          -185
+    X_64_7        obj                  -7131.0405611536
+    X_64_7        ORD_64_6                           -1
+    X_64_7        ORD_64_7                            1
+    X_64_7        PREC_29_64_7                       -1
+    X_64_7        PREC_57_64_7                       -1
+    X_64_7        PREC_64_59_7                        1
+    X_64_7        PREC_64_63_7                        1
+    X_64_7        PREC_64_65_7                        1
+    X_64_7        PREC_64_66_7                        1
+    X_64_7        CAP_0_7                           672
+    X_64_7        CAP_0_8                          -672
+    X_64_7        CAP_1_7                           672
+    X_64_7        CAP_1_8                          -672
+    X_65_7        obj                 -3892.35963962967
+    X_65_7        ORD_65_6                           -1
+    X_65_7        ORD_65_7                            1
+    X_65_7        PREC_30_65_7                       -1
+    X_65_7        PREC_58_65_7                       -1
+    X_65_7        PREC_62_65_7                       -1
+    X_65_7        PREC_64_65_7                       -1
+    X_65_7        CAP_0_7                           571
+    X_65_7        CAP_0_8                          -571
+    X_65_7        CAP_1_7                           190
+    X_65_7        CAP_1_8                          -190
+    X_66_7        obj                 -1073.90075117373
+    X_66_7        ORD_66_6                           -1
+    X_66_7        ORD_66_7                            1
+    X_66_7        PREC_36_66_7                       -1
+    X_66_7        PREC_64_66_7                       -1
+    X_66_7        CAP_0_7                           131
+    X_66_7        CAP_0_8                          -131
+    X_66_7        CAP_1_7                            45
+    X_66_7        CAP_1_8                           -45
+    X_0_8         obj                 -1073.96147985064
+    X_0_8         ORD_0_7                            -1
+    X_0_8         ORD_0_8                             1
+    X_0_8         PREC_30_0_8                        -1
+    X_0_8         CAP_0_8                           301
+    X_0_8         CAP_0_9                          -301
+    X_0_8         CAP_1_8                           102
+    X_0_8         CAP_1_9                          -102
+    X_1_8         obj                 -6799.18059186016
+    X_1_8         ORD_1_7                            -1
+    X_1_8         ORD_1_8                             1
+    X_1_8         PREC_2_1_8                         -1
+    X_1_8         PREC_8_1_8                         -1
+    X_1_8         PREC_36_1_8                        -1
+    X_1_8         CAP_0_8                          1061
+    X_1_8         CAP_0_9                         -1061
+    X_1_8         CAP_1_8                           713
+    X_1_8         CAP_1_9                          -713
+    X_2_8         obj                 -11847.0570918775
+    X_2_8         ORD_2_7                            -1
+    X_2_8         ORD_2_8                             1
+    X_2_8         PREC_2_1_8                          1
+    X_2_8         PREC_2_3_8                          1
+    X_2_8         PREC_2_4_8                          1
+    X_2_8         PREC_2_13_8                         1
+    X_2_8         PREC_11_2_8                        -1
+    X_2_8         CAP_0_8                           648
+    X_2_8         CAP_0_9                          -648
+    X_2_8         CAP_1_8                           648
+    X_2_8         CAP_1_9                          -648
+    X_3_8         obj                 -17395.3061895643
+    X_3_8         ORD_3_7                            -1
+    X_3_8         ORD_3_8                             1
+    X_3_8         PREC_2_3_8                         -1
+    X_3_8         PREC_12_3_8                        -1
+    X_3_8         PREC_40_3_8                        -1
+    X_3_8         CAP_0_8                          1367
+    X_3_8         CAP_0_9                         -1367
+    X_3_8         CAP_1_8                          1118
+    X_3_8         CAP_1_9                         -1118
+    X_4_8         obj                 -3688.04038164536
+    X_4_8         ORD_4_7                            -1
+    X_4_8         ORD_4_8                             1
+    X_4_8         PREC_2_4_8                         -1
+    X_4_8         PREC_16_4_8                        -1
+    X_4_8         PREC_24_4_8                        -1
+    X_4_8         CAP_0_8                           849
+    X_4_8         CAP_0_9                          -849
+    X_4_8         CAP_1_8                           648
+    X_4_8         CAP_1_9                          -648
+    X_5_8         obj                 -1379.70385386773
+    X_5_8         ORD_5_7                            -1
+    X_5_8         ORD_5_8                             1
+    X_5_8         PREC_19_5_8                        -1
+    X_5_8         PREC_30_5_8                        -1
+    X_5_8         CAP_0_8                           321
+    X_5_8         CAP_0_9                          -321
+    X_5_8         CAP_1_8                           253
+    X_5_8         CAP_1_9                          -253
+    X_6_8         obj                  52.6127069608226
+    X_6_8         ORD_6_7                            -1
+    X_6_8         ORD_6_8                             1
+    X_6_8         PREC_8_6_8                         -1
+    X_6_8         PREC_47_6_8                        -1
+    X_6_8         CAP_0_8                            48
+    X_6_8         CAP_0_9                           -48
+    X_7_8         obj                 -14164.9595663753
+    X_7_8         ORD_7_7                            -1
+    X_7_8         ORD_7_8                             1
+    X_7_8         PREC_7_8_8                          1
+    X_7_8         PREC_7_12_8                         1
+    X_7_8         PREC_7_26_8                         1
+    X_7_8         PREC_10_7_8                        -1
+    X_7_8         PREC_24_7_8                        -1
+    X_7_8         CAP_0_8                           724
+    X_7_8         CAP_0_9                          -724
+    X_7_8         CAP_1_8                           724
+    X_7_8         CAP_1_9                          -724
+    X_8_8         obj                 -12281.2039045612
+    X_8_8         ORD_8_7                            -1
+    X_8_8         ORD_8_8                             1
+    X_8_8         PREC_7_8_8                         -1
+    X_8_8         PREC_8_1_8                          1
+    X_8_8         PREC_8_6_8                          1
+    X_8_8         PREC_8_9_8                          1
+    X_8_8         PREC_8_13_8                         1
+    X_8_8         PREC_8_27_8                         1
+    X_8_8         PREC_11_8_8                        -1
+    X_8_8         PREC_25_8_8                        -1
+    X_8_8         PREC_51_8_8                        -1
+    X_8_8         CAP_0_8                          1989
+    X_8_8         CAP_0_9                         -1989
+    X_8_8         CAP_1_8                          1989
+    X_8_8         CAP_1_9                         -1989
+    X_9_8         obj                 -4555.23024392968
+    X_9_8         ORD_9_7                            -1
+    X_9_8         ORD_9_8                             1
+    X_9_8         PREC_8_9_8                         -1
+    X_9_8         PREC_12_9_8                        -1
+    X_9_8         PREC_26_9_8                        -1
+    X_9_8         PREC_52_9_8                        -1
+    X_9_8         CAP_0_8                          1225
+    X_9_8         CAP_0_9                         -1225
+    X_9_8         CAP_1_8                           584
+    X_9_8         CAP_1_9                          -584
+    X_10_8        obj                 -43083.5523434429
+    X_10_8        ORD_10_7                           -1
+    X_10_8        ORD_10_8                            1
+    X_10_8        PREC_10_7_8                         1
+    X_10_8        PREC_10_11_8                        1
+    X_10_8        PREC_10_15_8                        1
+    X_10_8        PREC_10_31_8                        1
+    X_10_8        PREC_10_59_8                        1
+    X_10_8        PREC_29_10_8                       -1
+    X_10_8        CAP_0_8                          1432
+    X_10_8        CAP_0_9                         -1432
+    X_10_8        CAP_1_8                          1432
+    X_10_8        CAP_1_9                         -1432
+    X_11_8        obj                 -124578.059978563
+    X_11_8        ORD_11_7                           -1
+    X_11_8        ORD_11_8                            1
+    X_11_8        PREC_10_11_8                       -1
+    X_11_8        PREC_11_2_8                         1
+    X_11_8        PREC_11_8_8                         1
+    X_11_8        PREC_11_12_8                        1
+    X_11_8        PREC_11_16_8                        1
+    X_11_8        PREC_11_32_8                        1
+    X_11_8        PREC_14_11_8                       -1
+    X_11_8        PREC_30_11_8                       -1
+    X_11_8        CAP_0_8                          5001
+    X_11_8        CAP_0_9                         -5001
+    X_11_8        CAP_1_8                          5001
+    X_11_8        CAP_1_9                         -5001
+    X_12_8        obj                 -53440.5292731433
+    X_12_8        ORD_12_7                           -1
+    X_12_8        ORD_12_8                            1
+    X_12_8        PREC_7_12_8                        -1
+    X_12_8        PREC_11_12_8                       -1
+    X_12_8        PREC_12_3_8                         1
+    X_12_8        PREC_12_9_8                         1
+    X_12_8        PREC_12_13_8                        1
+    X_12_8        PREC_12_17_8                        1
+    X_12_8        PREC_12_33_8                        1
+    X_12_8        PREC_15_12_8                       -1
+    X_12_8        PREC_31_12_8                       -1
+    X_12_8        CAP_0_8                          5835
+    X_12_8        CAP_0_9                         -5835
+    X_12_8        CAP_1_8                          5835
+    X_12_8        CAP_1_9                         -5835
+    X_13_8        obj                 -11674.1342088595
+    X_13_8        ORD_13_7                           -1
+    X_13_8        ORD_13_8                            1
+    X_13_8        PREC_2_13_8                        -1
+    X_13_8        PREC_8_13_8                        -1
+    X_13_8        PREC_12_13_8                       -1
+    X_13_8        PREC_16_13_8                       -1
+    X_13_8        PREC_32_13_8                       -1
+    X_13_8        PREC_56_13_8                       -1
+    X_13_8        CAP_0_8                          2318
+    X_13_8        CAP_0_9                         -2318
+    X_13_8        CAP_1_8                          1488
+    X_13_8        CAP_1_9                         -1488
+    X_14_8        obj                 -38043.0342639794
+    X_14_8        ORD_14_7                           -1
+    X_14_8        ORD_14_8                            1
+    X_14_8        PREC_14_11_8                        1
+    X_14_8        PREC_14_15_8                        1
+    X_14_8        PREC_14_18_8                        1
+    X_14_8        PREC_14_37_8                        1
+    X_14_8        PREC_14_46_8                        1
+    X_14_8        PREC_14_60_8                        1
+    X_14_8        PREC_35_14_8                       -1
+    X_14_8        CAP_0_8                          1432
+    X_14_8        CAP_0_9                         -1432
+    X_14_8        CAP_1_8                          1432
+    X_14_8        CAP_1_9                         -1432
+    X_15_8        obj                 -78551.1394135359
+    X_15_8        ORD_15_7                           -1
+    X_15_8        ORD_15_8                            1
+    X_15_8        PREC_10_15_8                       -1
+    X_15_8        PREC_14_15_8                       -1
+    X_15_8        PREC_15_12_8                        1
+    X_15_8        PREC_15_16_8                        1
+    X_15_8        PREC_15_19_8                        1
+    X_15_8        PREC_15_38_8                        1
+    X_15_8        PREC_36_15_8                       -1
+    X_15_8        CAP_0_8                          4296
+    X_15_8        CAP_0_9                         -4296
+    X_15_8        CAP_1_8                          4296
+    X_15_8        CAP_1_9                         -4296
+    X_16_8        obj                 -82334.8392623827
+    X_16_8        ORD_16_7                           -1
+    X_16_8        ORD_16_8                            1
+    X_16_8        PREC_11_16_8                       -1
+    X_16_8        PREC_15_16_8                       -1
+    X_16_8        PREC_16_4_8                         1
+    X_16_8        PREC_16_13_8                        1
+    X_16_8        PREC_16_17_8                        1
+    X_16_8        PREC_16_20_8                        1
+    X_16_8        PREC_16_39_8                        1
+    X_16_8        PREC_18_16_8                       -1
+    X_16_8        PREC_37_16_8                       -1
+    X_16_8        CAP_0_8                          5965
+    X_16_8        CAP_0_9                         -5965
+    X_16_8        CAP_1_8                          5528
+    X_16_8        CAP_1_9                         -5528
+    X_17_8        obj                 -29282.8345944886
+    X_17_8        ORD_17_7                           -1
+    X_17_8        ORD_17_8                            1
+    X_17_8        PREC_12_17_8                       -1
+    X_17_8        PREC_16_17_8                       -1
+    X_17_8        PREC_19_17_8                       -1
+    X_17_8        PREC_38_17_8                       -1
+    X_17_8        CAP_0_8                          2733
+    X_17_8        CAP_0_9                         -2733
+    X_17_8        CAP_1_8                          1776
+    X_17_8        CAP_1_9                         -1776
+    X_18_8        obj                  -13465.909613749
+    X_18_8        ORD_18_7                           -1
+    X_18_8        ORD_18_8                            1
+    X_18_8        PREC_14_18_8                       -1
+    X_18_8        PREC_18_16_8                        1
+    X_18_8        PREC_18_19_8                        1
+    X_18_8        PREC_18_42_8                        1
+    X_18_8        PREC_40_18_8                       -1
+    X_18_8        CAP_0_8                           716
+    X_18_8        CAP_0_9                          -716
+    X_18_8        CAP_1_8                           716
+    X_18_8        CAP_1_9                          -716
+    X_19_8        obj                 -23988.4510059135
+    X_19_8        ORD_19_7                           -1
+    X_19_8        ORD_19_8                            1
+    X_19_8        PREC_15_19_8                       -1
+    X_19_8        PREC_18_19_8                       -1
+    X_19_8        PREC_19_5_8                         1
+    X_19_8        PREC_19_17_8                        1
+    X_19_8        PREC_19_20_8                        1
+    X_19_8        PREC_19_21_8                        1
+    X_19_8        PREC_19_43_8                        1
+    X_19_8        PREC_41_19_8                       -1
+    X_19_8        CAP_0_8                          1965
+    X_19_8        CAP_0_9                         -1965
+    X_19_8        CAP_1_8                          1964
+    X_19_8        CAP_1_9                         -1964
+    X_20_8        obj                 -18051.6773029776
+    X_20_8        ORD_20_7                           -1
+    X_20_8        ORD_20_8                            1
+    X_20_8        PREC_16_20_8                       -1
+    X_20_8        PREC_19_20_8                       -1
+    X_20_8        PREC_42_20_8                       -1
+    X_20_8        PREC_47_20_8                       -1
+    X_20_8        CAP_0_8                          2496
+    X_20_8        CAP_0_9                         -2496
+    X_20_8        CAP_1_8                          1791
+    X_20_8        CAP_1_9                         -1791
+    X_21_8        obj                 -897.727307583268
+    X_21_8        ORD_21_7                           -1
+    X_21_8        ORD_21_8                            1
+    X_21_8        PREC_19_21_8                       -1
+    X_21_8        PREC_52_21_8                       -1
+    X_21_8        CAP_0_8                           244
+    X_21_8        CAP_0_9                          -244
+    X_21_8        CAP_1_8                           215
+    X_21_8        CAP_1_9                          -215
+    X_22_8        obj                 -2056.67854483216
+    X_22_8        ORD_22_7                           -1
+    X_22_8        ORD_22_8                            1
+    X_22_8        PREC_56_22_8                       -1
+    X_22_8        CAP_0_8                           339
+    X_22_8        CAP_0_9                          -339
+    X_22_8        CAP_1_8                           283
+    X_22_8        CAP_1_9                          -283
+    X_23_8        obj                  89.9566912721758
+    X_23_8        ORD_23_7                           -1
+    X_23_8        ORD_23_8                            1
+    X_23_8        PREC_26_23_8                       -1
+    X_23_8        CAP_0_8                            85
+    X_23_8        CAP_0_9                           -85
+    X_24_8        obj                 -19389.4381596878
+    X_24_8        ORD_24_7                           -1
+    X_24_8        ORD_24_8                            1
+    X_24_8        PREC_24_7_8                         1
+    X_24_8        PREC_24_25_8                        1
+    X_24_8        PREC_24_31_8                        1
+    X_24_8        PREC_24_4_8                         1
+    X_24_8        PREC_24_63_8                        1
+    X_24_8        PREC_29_24_8                       -1
+    X_24_8        CAP_0_8                           724
+    X_24_8        CAP_0_9                          -724
+    X_24_8        CAP_1_8                           724
+    X_24_8        CAP_1_9                          -724
+    X_25_8        obj                 -70861.5899346464
+    X_25_8        ORD_25_7                           -1
+    X_25_8        ORD_25_8                            1
+    X_25_8        PREC_24_25_8                       -1
+    X_25_8        PREC_25_8_8                         1
+    X_25_8        PREC_25_26_8                        1
+    X_25_8        PREC_25_32_8                        1
+    X_25_8        PREC_25_45_8                        1
+    X_25_8        PREC_30_25_8                       -1
+    X_25_8        CAP_0_8                          3620
+    X_25_8        CAP_0_9                         -3620
+    X_25_8        CAP_1_8                          3620
+    X_25_8        CAP_1_9                         -3620
+    X_26_8        obj                 -56696.6303682711
+    X_26_8        ORD_26_7                           -1
+    X_26_8        ORD_26_8                            1
+    X_26_8        PREC_7_26_8                        -1
+    X_26_8        PREC_25_26_8                       -1
+    X_26_8        PREC_26_9_8                         1
+    X_26_8        PREC_26_23_8                        1
+    X_26_8        PREC_26_27_8                        1
+    X_26_8        PREC_26_33_8                        1
+    X_26_8        PREC_26_46_8                        1
+    X_26_8        PREC_31_26_8                       -1
+    X_26_8        CAP_0_8                          5384
+    X_26_8        CAP_0_9                         -5384
+    X_26_8        CAP_1_8                          5360
+    X_26_8        CAP_1_9                         -5360
+    X_27_8        obj                 -3238.07296477063
+    X_27_8        ORD_27_7                           -1
+    X_27_8        ORD_27_8                            1
+    X_27_8        PREC_8_27_8                        -1
+    X_27_8        PREC_26_27_8                       -1
+    X_27_8        PREC_32_27_8                       -1
+    X_27_8        PREC_45_27_8                       -1
+    X_27_8        CAP_0_8                          1376
+    X_27_8        CAP_0_9                         -1376
+    X_27_8        CAP_1_8                           438
+    X_27_8        CAP_1_9                          -438
+    X_28_8        obj                 -23694.1141837551
+    X_28_8        ORD_28_7                           -1
+    X_28_8        ORD_28_8                            1
+    X_28_8        PREC_28_29_8                        1
+    X_28_8        PREC_28_35_8                        1
+    X_28_8        CAP_0_8                           716
+    X_28_8        CAP_0_9                          -716
+    X_28_8        CAP_1_8                           716
+    X_28_8        CAP_1_9                          -716
+    X_29_8        obj                 -105041.453407796
+    X_29_8        ORD_29_7                           -1
+    X_29_8        ORD_29_8                            1
+    X_29_8        PREC_28_29_8                       -1
+    X_29_8        PREC_29_10_8                        1
+    X_29_8        PREC_29_24_8                        1
+    X_29_8        PREC_29_30_8                        1
+    X_29_8        PREC_29_36_8                        1
+    X_29_8        PREC_29_47_8                        1
+    X_29_8        PREC_29_64_8                        1
+    X_29_8        PREC_34_29_8                       -1
+    X_29_8        CAP_0_8                          3580
+    X_29_8        CAP_0_9                         -3580
+    X_29_8        CAP_1_8                          3580
+    X_29_8        CAP_1_9                         -3580
+    X_30_8        obj                  -168802.16750787
+    X_30_8        ORD_30_7                           -1
+    X_30_8        ORD_30_8                            1
+    X_30_8        PREC_29_30_8                       -1
+    X_30_8        PREC_30_11_8                        1
+    X_30_8        PREC_30_25_8                        1
+    X_30_8        PREC_30_31_8                        1
+    X_30_8        PREC_30_37_8                        1
+    X_30_8        PREC_30_48_8                        1
+    X_30_8        PREC_30_0_8                         1
+    X_30_8        PREC_30_5_8                         1
+    X_30_8        PREC_30_65_8                        1
+    X_30_8        PREC_35_30_8                       -1
+    X_30_8        CAP_0_8                          6483
+    X_30_8        CAP_0_9                         -6483
+    X_30_8        CAP_1_8                          6483
+    X_30_8        CAP_1_9                         -6483
+    X_31_8        obj                 -135652.482912275
+    X_31_8        ORD_31_7                           -1
+    X_31_8        ORD_31_8                            1
+    X_31_8        PREC_10_31_8                       -1
+    X_31_8        PREC_24_31_8                       -1
+    X_31_8        PREC_30_31_8                       -1
+    X_31_8        PREC_31_12_8                        1
+    X_31_8        PREC_31_26_8                        1
+    X_31_8        PREC_31_32_8                        1
+    X_31_8        PREC_31_38_8                        1
+    X_31_8        PREC_31_49_8                        1
+    X_31_8        PREC_36_31_8                       -1
+    X_31_8        PREC_47_31_8                       -1
+    X_31_8        CAP_0_8                          6507
+    X_31_8        CAP_0_9                         -6507
+    X_31_8        CAP_1_8                          6507
+    X_31_8        CAP_1_9                         -6507
+    X_32_8        obj                 -54673.0647159318
+    X_32_8        ORD_32_7                           -1
+    X_32_8        ORD_32_8                            1
+    X_32_8        PREC_11_32_8                       -1
+    X_32_8        PREC_25_32_8                       -1
+    X_32_8        PREC_31_32_8                       -1
+    X_32_8        PREC_32_13_8                        1
+    X_32_8        PREC_32_27_8                        1
+    X_32_8        PREC_32_33_8                        1
+    X_32_8        PREC_32_39_8                        1
+    X_32_8        PREC_32_50_8                        1
+    X_32_8        PREC_37_32_8                       -1
+    X_32_8        PREC_48_32_8                       -1
+    X_32_8        CAP_0_8                          6049
+    X_32_8        CAP_0_9                         -6049
+    X_32_8        CAP_1_8                          6025
+    X_32_8        CAP_1_9                         -6025
+    X_33_8        obj                  -6240.6764718145
+    X_33_8        ORD_33_7                           -1
+    X_33_8        ORD_33_8                            1
+    X_33_8        PREC_12_33_8                       -1
+    X_33_8        PREC_26_33_8                       -1
+    X_33_8        PREC_32_33_8                       -1
+    X_33_8        PREC_38_33_8                       -1
+    X_33_8        PREC_49_33_8                       -1
+    X_33_8        CAP_0_8                          2548
+    X_33_8        CAP_0_9                         -2548
+    X_33_8        CAP_1_8                           984
+    X_33_8        CAP_1_9                          -984
+    X_34_8        obj                  -47608.980984129
+    X_34_8        ORD_34_7                           -1
+    X_34_8        ORD_34_8                            1
+    X_34_8        PREC_34_29_8                        1
+    X_34_8        PREC_34_35_8                        1
+    X_34_8        PREC_34_51_8                        1
+    X_34_8        CAP_0_8                          1432
+    X_34_8        CAP_0_9                         -1432
+    X_34_8        CAP_1_8                          1432
+    X_34_8        CAP_1_9                         -1432
+    X_35_8        obj                 -162584.302139773
+    X_35_8        ORD_35_7                           -1
+    X_35_8        ORD_35_8                            1
+    X_35_8        PREC_28_35_8                       -1
+    X_35_8        PREC_34_35_8                       -1
+    X_35_8        PREC_35_14_8                        1
+    X_35_8        PREC_35_30_8                        1
+    X_35_8        PREC_35_36_8                        1
+    X_35_8        PREC_35_40_8                        1
+    X_35_8        PREC_35_52_8                        1
+    X_35_8        CAP_0_8                          5728
+    X_35_8        CAP_0_9                         -5728
+    X_35_8        CAP_1_8                          5728
+    X_35_8        CAP_1_9                         -5728
+    X_36_8        obj                 -175387.953903666
+    X_36_8        ORD_36_7                           -1
+    X_36_8        ORD_36_8                            1
+    X_36_8        PREC_29_36_8                       -1
+    X_36_8        PREC_35_36_8                       -1
+    X_36_8        PREC_36_15_8                        1
+    X_36_8        PREC_36_31_8                        1
+    X_36_8        PREC_36_37_8                        1
+    X_36_8        PREC_36_41_8                        1
+    X_36_8        PREC_36_53_8                        1
+    X_36_8        PREC_36_1_8                         1
+    X_36_8        PREC_36_66_8                        1
+    X_36_8        PREC_51_36_8                       -1
+    X_36_8        CAP_0_8                          6444
+    X_36_8        CAP_0_9                         -6444
+    X_36_8        CAP_1_8                          6444
+    X_36_8        CAP_1_9                         -6444
+    X_37_8        obj                 -155299.465791351
+    X_37_8        ORD_37_7                           -1
+    X_37_8        ORD_37_8                            1
+    X_37_8        PREC_14_37_8                       -1
+    X_37_8        PREC_30_37_8                       -1
+    X_37_8        PREC_36_37_8                       -1
+    X_37_8        PREC_37_16_8                        1
+    X_37_8        PREC_37_32_8                        1
+    X_37_8        PREC_37_38_8                        1
+    X_37_8        PREC_37_42_8                        1
+    X_37_8        PREC_37_54_8                        1
+    X_37_8        PREC_40_37_8                       -1
+    X_37_8        PREC_52_37_8                       -1
+    X_37_8        CAP_0_8                          6447
+    X_37_8        CAP_0_9                         -6447
+    X_37_8        CAP_1_8                          6447
+    X_37_8        CAP_1_9                         -6447
+    X_38_8        obj                 -101630.825481035
+    X_38_8        ORD_38_7                           -1
+    X_38_8        ORD_38_8                            1
+    X_38_8        PREC_15_38_8                       -1
+    X_38_8        PREC_31_38_8                       -1
+    X_38_8        PREC_37_38_8                       -1
+    X_38_8        PREC_38_17_8                        1
+    X_38_8        PREC_38_33_8                        1
+    X_38_8        PREC_38_39_8                        1
+    X_38_8        PREC_38_43_8                        1
+    X_38_8        PREC_38_55_8                        1
+    X_38_8        PREC_41_38_8                       -1
+    X_38_8        PREC_53_38_8                       -1
+    X_38_8        CAP_0_8                          6040
+    X_38_8        CAP_0_9                         -6040
+    X_38_8        CAP_1_8                          5960
+    X_38_8        CAP_1_9                         -5960
+    X_39_8        obj                 -24850.4899738101
+    X_39_8        ORD_39_7                           -1
+    X_39_8        ORD_39_8                            1
+    X_39_8        PREC_16_39_8                       -1
+    X_39_8        PREC_32_39_8                       -1
+    X_39_8        PREC_38_39_8                       -1
+    X_39_8        PREC_42_39_8                       -1
+    X_39_8        PREC_54_39_8                       -1
+    X_39_8        CAP_0_8                          2814
+    X_39_8        CAP_0_9                         -2814
+    X_39_8        CAP_1_8                          1584
+    X_39_8        CAP_1_9                         -1584
+    X_40_8        obj                 -43083.5523434429
+    X_40_8        ORD_40_7                           -1
+    X_40_8        ORD_40_8                            1
+    X_40_8        PREC_35_40_8                       -1
+    X_40_8        PREC_40_18_8                        1
+    X_40_8        PREC_40_37_8                        1
+    X_40_8        PREC_40_41_8                        1
+    X_40_8        PREC_40_57_8                        1
+    X_40_8        PREC_40_3_8                         1
+    X_40_8        PREC_40_61_8                        1
+    X_40_8        CAP_0_8                          1432
+    X_40_8        CAP_0_9                         -1432
+    X_40_8        CAP_1_8                          1432
+    X_40_8        CAP_1_9                         -1432
+    X_41_8        obj                 -89331.2255250891
+    X_41_8        ORD_41_7                           -1
+    X_41_8        ORD_41_8                            1
+    X_41_8        PREC_36_41_8                       -1
+    X_41_8        PREC_40_41_8                       -1
+    X_41_8        PREC_41_19_8                        1
+    X_41_8        PREC_41_38_8                        1
+    X_41_8        PREC_41_42_8                        1
+    X_41_8        PREC_41_58_8                        1
+    X_41_8        PREC_56_41_8                       -1
+    X_41_8        CAP_0_8                          4296
+    X_41_8        CAP_0_9                         -4296
+    X_41_8        CAP_1_8                          4296
+    X_41_8        CAP_1_9                         -4296
+    X_42_8        obj                 -85983.1441730368
+    X_42_8        ORD_42_7                           -1
+    X_42_8        ORD_42_8                            1
+    X_42_8        PREC_18_42_8                       -1
+    X_42_8        PREC_37_42_8                       -1
+    X_42_8        PREC_41_42_8                       -1
+    X_42_8        PREC_42_20_8                        1
+    X_42_8        PREC_42_39_8                        1
+    X_42_8        PREC_42_43_8                        1
+    X_42_8        PREC_42_44_8                        1
+    X_42_8        PREC_42_59_8                        1
+    X_42_8        PREC_57_42_8                       -1
+    X_42_8        CAP_0_8                          5997
+    X_42_8        CAP_0_9                         -5997
+    X_42_8        CAP_1_8                          5992
+    X_42_8        CAP_1_9                         -5992
+    X_43_8        obj                 -30360.8432056439
+    X_43_8        ORD_43_7                           -1
+    X_43_8        ORD_43_8                            1
+    X_43_8        PREC_19_43_8                       -1
+    X_43_8        PREC_38_43_8                       -1
+    X_43_8        PREC_42_43_8                       -1
+    X_43_8        PREC_58_43_8                       -1
+    X_43_8        CAP_0_8                          2525
+    X_43_8        CAP_0_9                         -2525
+    X_43_8        CAP_1_8                          1776
+    X_43_8        CAP_1_9                         -1776
+    X_44_8        obj                 -9602.73882291938
+    X_44_8        ORD_44_7                           -1
+    X_44_8        ORD_44_8                            1
+    X_44_8        PREC_42_44_8                       -1
+    X_44_8        CAP_0_8                          1078
+    X_44_8        CAP_0_9                         -1078
+    X_44_8        CAP_1_8                           874
+    X_44_8        CAP_1_9                          -874
+    X_45_8        obj                 -2936.00980103052
+    X_45_8        ORD_45_7                           -1
+    X_45_8        ORD_45_8                            1
+    X_45_8        PREC_25_45_8                       -1
+    X_45_8        PREC_45_27_8                        1
+    X_45_8        PREC_45_46_8                        1
+    X_45_8        PREC_45_50_8                        1
+    X_45_8        PREC_48_45_8                       -1
+    X_45_8        CAP_0_8                           673
+    X_45_8        CAP_0_9                          -673
+    X_45_8        CAP_1_8                           673
+    X_45_8        CAP_1_9                          -673
+    X_46_8        obj                  11.0376308309418
+    X_46_8        ORD_46_7                           -1
+    X_46_8        ORD_46_8                            1
+    X_46_8        PREC_14_46_8                       -1
+    X_46_8        PREC_26_46_8                       -1
+    X_46_8        PREC_45_46_8                       -1
+    X_46_8        PREC_49_46_8                       -1
+    X_46_8        CAP_0_8                           745
+    X_46_8        CAP_0_9                          -745
+    X_46_8        CAP_1_8                            59
+    X_46_8        CAP_1_9                           -59
+    X_47_8        obj                 -13502.7017165188
+    X_47_8        ORD_47_7                           -1
+    X_47_8        ORD_47_8                            1
+    X_47_8        PREC_29_47_8                       -1
+    X_47_8        PREC_47_31_8                        1
+    X_47_8        PREC_47_48_8                        1
+    X_47_8        PREC_47_53_8                        1
+    X_47_8        PREC_47_6_8                         1
+    X_47_8        PREC_47_20_8                        1
+    X_47_8        PREC_51_47_8                       -1
+    X_47_8        CAP_0_8                           722
+    X_47_8        CAP_0_9                          -722
+    X_47_8        CAP_1_8                           722
+    X_47_8        CAP_1_9                          -722
+    X_48_8        obj                 -37343.9843113532
+    X_48_8        ORD_48_7                           -1
+    X_48_8        ORD_48_8                            1
+    X_48_8        PREC_30_48_8                       -1
+    X_48_8        PREC_47_48_8                       -1
+    X_48_8        PREC_48_32_8                        1
+    X_48_8        PREC_48_45_8                        1
+    X_48_8        PREC_48_49_8                        1
+    X_48_8        PREC_48_54_8                        1
+    X_48_8        PREC_52_48_8                       -1
+    X_48_8        CAP_0_8                          2896
+    X_48_8        CAP_0_9                         -2896
+    X_48_8        CAP_1_8                          2896
+    X_48_8        CAP_1_9                         -2896
+    X_49_8        obj                 -22601.3887314918
+    X_49_8        ORD_49_7                           -1
+    X_49_8        ORD_49_8                            1
+    X_49_8        PREC_31_49_8                       -1
+    X_49_8        PREC_48_49_8                       -1
+    X_49_8        PREC_49_33_8                        1
+    X_49_8        PREC_49_46_8                        1
+    X_49_8        PREC_49_50_8                        1
+    X_49_8        PREC_49_55_8                        1
+    X_49_8        PREC_49_61_8                        1
+    X_49_8        PREC_53_49_8                       -1
+    X_49_8        CAP_0_8                          4711
+    X_49_8        CAP_0_9                         -4711
+    X_49_8        CAP_1_8                          4687
+    X_49_8        CAP_1_9                         -4687
+    X_50_8        obj                 -4235.50687086007
+    X_50_8        ORD_50_7                           -1
+    X_50_8        ORD_50_8                            1
+    X_50_8        PREC_32_50_8                       -1
+    X_50_8        PREC_45_50_8                       -1
+    X_50_8        PREC_49_50_8                       -1
+    X_50_8        PREC_54_50_8                       -1
+    X_50_8        CAP_0_8                          1818
+    X_50_8        CAP_0_9                         -1818
+    X_50_8        CAP_1_8                           611
+    X_50_8        CAP_1_9                          -611
+    X_51_8        obj                 -42090.1655686582
+    X_51_8        ORD_51_7                           -1
+    X_51_8        ORD_51_8                            1
+    X_51_8        PREC_34_51_8                       -1
+    X_51_8        PREC_51_36_8                        1
+    X_51_8        PREC_51_47_8                        1
+    X_51_8        PREC_51_52_8                        1
+    X_51_8        PREC_51_56_8                        1
+    X_51_8        PREC_51_8_8                         1
+    X_51_8        CAP_0_8                          1432
+    X_51_8        CAP_0_9                         -1432
+    X_51_8        CAP_1_8                          1432
+    X_51_8        CAP_1_9                         -1432
+    X_52_8        obj                 -104158.442941321
+    X_52_8        ORD_52_7                           -1
+    X_52_8        ORD_52_8                            1
+    X_52_8        PREC_35_52_8                       -1
+    X_52_8        PREC_51_52_8                       -1
+    X_52_8        PREC_52_37_8                        1
+    X_52_8        PREC_52_48_8                        1
+    X_52_8        PREC_52_53_8                        1
+    X_52_8        PREC_52_57_8                        1
+    X_52_8        PREC_52_9_8                         1
+    X_52_8        PREC_52_21_8                        1
+    X_52_8        CAP_0_8                          3580
+    X_52_8        CAP_0_9                         -3580
+    X_52_8        CAP_1_8                          3580
+    X_52_8        CAP_1_9                         -3580
+    X_53_8        obj                 -127999.725536155
+    X_53_8        ORD_53_7                           -1
+    X_53_8        ORD_53_8                            1
+    X_53_8        PREC_36_53_8                       -1
+    X_53_8        PREC_47_53_8                       -1
+    X_53_8        PREC_52_53_8                       -1
+    X_53_8        PREC_53_38_8                        1
+    X_53_8        PREC_53_49_8                        1
+    X_53_8        PREC_53_54_8                        1
+    X_53_8        PREC_53_58_8                        1
+    X_53_8        PREC_53_62_8                        1
+    X_53_8        PREC_56_53_8                       -1
+    X_53_8        CAP_0_8                          5759
+    X_53_8        CAP_0_9                         -5759
+    X_53_8        CAP_1_8                          5759
+    X_53_8        CAP_1_9                         -5759
+    X_54_8        obj                 -54157.9752771545
+    X_54_8        ORD_54_7                           -1
+    X_54_8        ORD_54_8                            1
+    X_54_8        PREC_37_54_8                       -1
+    X_54_8        PREC_48_54_8                       -1
+    X_54_8        PREC_53_54_8                       -1
+    X_54_8        PREC_54_39_8                        1
+    X_54_8        PREC_54_50_8                        1
+    X_54_8        PREC_54_55_8                        1
+    X_54_8        PREC_54_59_8                        1
+    X_54_8        PREC_54_63_8                        1
+    X_54_8        PREC_57_54_8                       -1
+    X_54_8        CAP_0_8                          6054
+    X_54_8        CAP_0_9                         -6054
+    X_54_8        CAP_1_8                          6029
+    X_54_8        CAP_1_9                         -6029
+    X_55_8        obj                 -12387.9010025937
+    X_55_8        ORD_55_7                           -1
+    X_55_8        ORD_55_8                            1
+    X_55_8        PREC_38_55_8                       -1
+    X_55_8        PREC_49_55_8                       -1
+    X_55_8        PREC_54_55_8                       -1
+    X_55_8        PREC_58_55_8                       -1
+    X_55_8        PREC_62_55_8                       -1
+    X_55_8        CAP_0_8                          2081
+    X_55_8        CAP_0_9                         -2081
+    X_55_8        CAP_1_8                          1135
+    X_55_8        CAP_1_9                         -1135
+    X_56_8        obj                 -43709.0180905296
+    X_56_8        ORD_56_7                           -1
+    X_56_8        ORD_56_8                            1
+    X_56_8        PREC_51_56_8                       -1
+    X_56_8        PREC_56_41_8                        1
+    X_56_8        PREC_56_53_8                        1
+    X_56_8        PREC_56_57_8                        1
+    X_56_8        PREC_56_13_8                        1
+    X_56_8        PREC_56_22_8                        1
+    X_56_8        CAP_0_8                          1432
+    X_56_8        CAP_0_9                         -1432
+    X_56_8        CAP_1_8                          1432
+    X_56_8        CAP_1_9                         -1432
+    X_57_8        obj                 -88043.5019281459
+    X_57_8        ORD_57_7                           -1
+    X_57_8        ORD_57_8                            1
+    X_57_8        PREC_40_57_8                       -1
+    X_57_8        PREC_52_57_8                       -1
+    X_57_8        PREC_56_57_8                       -1
+    X_57_8        PREC_57_42_8                        1
+    X_57_8        PREC_57_54_8                        1
+    X_57_8        PREC_57_58_8                        1
+    X_57_8        PREC_57_64_8                        1
+    X_57_8        CAP_0_8                          3580
+    X_57_8        CAP_0_9                         -3580
+    X_57_8        CAP_1_8                          3580
+    X_57_8        CAP_1_9                         -3580
+    X_58_8        obj                 -87381.2440782894
+    X_58_8        ORD_58_7                           -1
+    X_58_8        ORD_58_8                            1
+    X_58_8        PREC_41_58_8                       -1
+    X_58_8        PREC_53_58_8                       -1
+    X_58_8        PREC_57_58_8                       -1
+    X_58_8        PREC_58_43_8                        1
+    X_58_8        PREC_58_55_8                        1
+    X_58_8        PREC_58_59_8                        1
+    X_58_8        PREC_58_60_8                        1
+    X_58_8        PREC_58_65_8                        1
+    X_58_8        CAP_0_8                          5368
+    X_58_8        CAP_0_9                         -5368
+    X_58_8        CAP_1_8                          5360
+    X_58_8        CAP_1_9                         -5360
+    X_59_8        obj                 -25787.5848313571
+    X_59_8        ORD_59_7                           -1
+    X_59_8        ORD_59_8                            1
+    X_59_8        PREC_10_59_8                       -1
+    X_59_8        PREC_42_59_8                       -1
+    X_59_8        PREC_54_59_8                       -1
+    X_59_8        PREC_58_59_8                       -1
+    X_59_8        PREC_64_59_8                       -1
+    X_59_8        CAP_0_8                          2013
+    X_59_8        CAP_0_9                         -2013
+    X_59_8        CAP_1_8                          1160
+    X_59_8        CAP_1_9                         -1160
+    X_60_8        obj                 -10842.6326862618
+    X_60_8        ORD_60_7                           -1
+    X_60_8        ORD_60_8                            1
+    X_60_8        PREC_14_60_8                       -1
+    X_60_8        PREC_58_60_8                       -1
+    X_60_8        CAP_0_8                          1030
+    X_60_8        CAP_0_9                         -1030
+    X_60_8        CAP_1_8                           676
+    X_60_8        CAP_1_9                          -676
+    X_61_8        obj                  342.902397814592
+    X_61_8        ORD_61_7                           -1
+    X_61_8        ORD_61_8                            1
+    X_61_8        PREC_40_61_8                       -1
+    X_61_8        PREC_49_61_8                       -1
+    X_61_8        PREC_62_61_8                       -1
+    X_61_8        CAP_0_8                           311
+    X_61_8        CAP_0_9                          -311
+    X_62_8        obj                 -7019.93320847899
+    X_62_8        ORD_62_7                           -1
+    X_62_8        ORD_62_8                            1
+    X_62_8        PREC_53_62_8                       -1
+    X_62_8        PREC_62_55_8                        1
+    X_62_8        PREC_62_61_8                        1
+    X_62_8        PREC_62_63_8                        1
+    X_62_8        PREC_62_65_8                        1
+    X_62_8        CAP_0_8                          1346
+    X_62_8        CAP_0_9                         -1346
+    X_62_8        CAP_1_8                          1322
+    X_62_8        CAP_1_9                         -1322
+    X_63_8        obj                 -1295.81785955257
+    X_63_8        ORD_63_7                           -1
+    X_63_8        ORD_63_8                            1
+    X_63_8        PREC_24_63_8                       -1
+    X_63_8        PREC_54_63_8                       -1
+    X_63_8        PREC_62_63_8                       -1
+    X_63_8        PREC_64_63_8                       -1
+    X_63_8        CAP_0_8                           702
+    X_63_8        CAP_0_9                          -702
+    X_63_8        CAP_1_8                           185
+    X_63_8        CAP_1_9                          -185
+    X_64_8        obj                 -6181.07326532742
+    X_64_8        ORD_64_7                           -1
+    X_64_8        ORD_64_8                            1
+    X_64_8        PREC_29_64_8                       -1
+    X_64_8        PREC_57_64_8                       -1
+    X_64_8        PREC_64_59_8                        1
+    X_64_8        PREC_64_63_8                        1
+    X_64_8        PREC_64_65_8                        1
+    X_64_8        PREC_64_66_8                        1
+    X_64_8        CAP_0_8                           672
+    X_64_8        CAP_0_9                          -672
+    X_64_8        CAP_1_8                           672
+    X_64_8        CAP_1_9                          -672
+    X_65_8        obj                 -3373.83582399122
+    X_65_8        ORD_65_7                           -1
+    X_65_8        ORD_65_8                            1
+    X_65_8        PREC_30_65_8                       -1
+    X_65_8        PREC_58_65_8                       -1
+    X_65_8        PREC_62_65_8                       -1
+    X_65_8        PREC_64_65_8                       -1
+    X_65_8        CAP_0_8                           571
+    X_65_8        CAP_0_9                          -571
+    X_65_8        CAP_1_8                           190
+    X_65_8        CAP_1_9                          -190
+    X_66_8        obj                 -930.840200076093
+    X_66_8        ORD_66_7                           -1
+    X_66_8        ORD_66_8                            1
+    X_66_8        PREC_36_66_8                       -1
+    X_66_8        PREC_64_66_8                       -1
+    X_66_8        CAP_0_8                           131
+    X_66_8        CAP_0_9                          -131
+    X_66_8        CAP_1_8                            45
+    X_66_8        CAP_1_9                           -45
+    X_0_9         obj                 -6987.85591910608
+    X_0_9         ORD_0_8                            -1
+    X_0_9         PREC_30_0_9                        -1
+    X_0_9         CAP_0_9                           301
+    X_0_9         CAP_1_9                           102
+    X_1_9         obj                 -44239.6633727579
+    X_1_9         ORD_1_8                            -1
+    X_1_9         PREC_2_1_9                         -1
+    X_1_9         PREC_8_1_9                         -1
+    X_1_9         PREC_36_1_9                        -1
+    X_1_9         CAP_0_9                          1061
+    X_1_9         CAP_1_9                           713
+    X_2_9         obj                 -77084.2619373813
+    X_2_9         ORD_2_8                            -1
+    X_2_9         PREC_2_1_9                          1
+    X_2_9         PREC_2_3_9                          1
+    X_2_9         PREC_2_4_9                          1
+    X_2_9         PREC_2_13_9                         1
+    X_2_9         PREC_11_2_9                        -1
+    X_2_9         CAP_0_9                           648
+    X_2_9         CAP_1_9                           648
+    X_3_9         obj                 -113184.593304329
+    X_3_9         ORD_3_8                            -1
+    X_3_9         PREC_2_3_9                         -1
+    X_3_9         PREC_12_3_9                        -1
+    X_3_9         PREC_40_3_9                        -1
+    X_3_9         CAP_0_9                          1367
+    X_3_9         CAP_1_9                          1118
+    X_4_9         obj                 -23996.6658900717
+    X_4_9         ORD_4_8                            -1
+    X_4_9         PREC_2_4_9                         -1
+    X_4_9         PREC_16_4_9                        -1
+    X_4_9         PREC_24_4_9                        -1
+    X_4_9         CAP_0_9                           849
+    X_4_9         CAP_1_9                           648
+    X_5_9         obj                 -8977.20441817329
+    X_5_9         ORD_5_8                            -1
+    X_5_9         PREC_19_5_9                        -1
+    X_5_9         PREC_30_5_9                        -1
+    X_5_9         CAP_0_9                           321
+    X_5_9         CAP_1_9                           253
+    X_6_9         obj                  342.330728479675
+    X_6_9         ORD_6_8                            -1
+    X_6_9         PREC_8_6_9                         -1
+    X_6_9         PREC_47_6_9                        -1
+    X_6_9         CAP_0_9                            48
+    X_7_9         obj                 -92165.9653599124
+    X_7_9         ORD_7_8                            -1
+    X_7_9         PREC_7_8_9                          1
+    X_7_9         PREC_7_12_9                         1
+    X_7_9         PREC_7_26_9                         1
+    X_7_9         PREC_10_7_9                        -1
+    X_7_9         PREC_24_7_9                        -1
+    X_7_9         CAP_0_9                           724
+    X_7_9         CAP_1_9                           724
+    X_8_9         obj                 -79909.0889276331
+    X_8_9         ORD_8_8                            -1
+    X_8_9         PREC_7_8_9                         -1
+    X_8_9         PREC_8_1_9                          1
+    X_8_9         PREC_8_6_9                          1
+    X_8_9         PREC_8_9_9                          1
+    X_8_9         PREC_8_13_9                         1
+    X_8_9         PREC_8_27_9                         1
+    X_8_9         PREC_11_8_9                        -1
+    X_8_9         PREC_25_8_9                        -1
+    X_8_9         PREC_51_8_9                        -1
+    X_8_9         CAP_0_9                          1989
+    X_8_9         CAP_1_9                          1989
+    X_9_9         obj                 -29639.1381070409
+    X_9_9         ORD_9_8                            -1
+    X_9_9         PREC_8_9_9                         -1
+    X_9_9         PREC_12_9_9                        -1
+    X_9_9         PREC_26_9_9                        -1
+    X_9_9         PREC_52_9_9                        -1
+    X_9_9         CAP_0_9                          1225
+    X_9_9         CAP_1_9                           584
+    X_10_9        obj                 -280328.169964824
+    X_10_9        ORD_10_8                           -1
+    X_10_9        PREC_10_7_9                         1
+    X_10_9        PREC_10_11_9                        1
+    X_10_9        PREC_10_15_9                        1
+    X_10_9        PREC_10_31_9                        1
+    X_10_9        PREC_10_59_9                        1
+    X_10_9        PREC_29_10_9                       -1
+    X_10_9        CAP_0_9                          1432
+    X_10_9        CAP_1_9                          1432
+    X_11_9        obj                 -810581.710931593
+    X_11_9        ORD_11_8                           -1
+    X_11_9        PREC_10_11_9                       -1
+    X_11_9        PREC_11_2_9                         1
+    X_11_9        PREC_11_8_9                         1
+    X_11_9        PREC_11_12_9                        1
+    X_11_9        PREC_11_16_9                        1
+    X_11_9        PREC_11_32_9                        1
+    X_11_9        PREC_14_11_9                       -1
+    X_11_9        PREC_30_11_9                       -1
+    X_11_9        CAP_0_9                          5001
+    X_11_9        CAP_1_9                          5001
+    X_12_9        obj                 -347717.051130579
+    X_12_9        ORD_12_8                           -1
+    X_12_9        PREC_7_12_9                        -1
+    X_12_9        PREC_11_12_9                       -1
+    X_12_9        PREC_12_3_9                         1
+    X_12_9        PREC_12_9_9                         1
+    X_12_9        PREC_12_13_9                        1
+    X_12_9        PREC_12_17_9                        1
+    X_12_9        PREC_12_33_9                        1
+    X_12_9        PREC_15_12_9                       -1
+    X_12_9        PREC_31_12_9                       -1
+    X_12_9        CAP_0_9                          5835
+    X_12_9        CAP_1_9                          5835
+    X_13_9        obj                 -75959.1189836369
+    X_13_9        ORD_13_8                           -1
+    X_13_9        PREC_2_13_9                        -1
+    X_13_9        PREC_8_13_9                        -1
+    X_13_9        PREC_12_13_9                       -1
+    X_13_9        PREC_16_13_9                       -1
+    X_13_9        PREC_32_13_9                       -1
+    X_13_9        PREC_56_13_9                       -1
+    X_13_9        CAP_0_9                          2318
+    X_13_9        CAP_1_9                          1488
+    X_14_9        obj                 -247531.449823765
+    X_14_9        ORD_14_8                           -1
+    X_14_9        PREC_14_11_9                        1
+    X_14_9        PREC_14_15_9                        1
+    X_14_9        PREC_14_18_9                        1
+    X_14_9        PREC_14_37_9                        1
+    X_14_9        PREC_14_46_9                        1
+    X_14_9        PREC_14_60_9                        1
+    X_14_9        PREC_35_14_9                       -1
+    X_14_9        CAP_0_9                          1432
+    X_14_9        CAP_1_9                          1432
+    X_15_9        obj                 -511102.171541332
+    X_15_9        ORD_15_8                           -1
+    X_15_9        PREC_10_15_9                       -1
+    X_15_9        PREC_14_15_9                       -1
+    X_15_9        PREC_15_12_9                        1
+    X_15_9        PREC_15_16_9                        1
+    X_15_9        PREC_15_19_9                        1
+    X_15_9        PREC_15_38_9                        1
+    X_15_9        PREC_36_15_9                       -1
+    X_15_9        CAP_0_9                          4296
+    X_15_9        CAP_1_9                          4296
+    X_16_9        obj                 -535721.256937731
+    X_16_9        ORD_16_8                           -1
+    X_16_9        PREC_11_16_9                       -1
+    X_16_9        PREC_15_16_9                       -1
+    X_16_9        PREC_16_4_9                         1
+    X_16_9        PREC_16_13_9                        1
+    X_16_9        PREC_16_17_9                        1
+    X_16_9        PREC_16_20_9                        1
+    X_16_9        PREC_16_39_9                        1
+    X_16_9        PREC_18_16_9                       -1
+    X_16_9        PREC_37_16_9                       -1
+    X_16_9        CAP_0_9                          5965
+    X_16_9        CAP_1_9                          5528
+    X_17_9        obj                  -190532.18657131
+    X_17_9        ORD_17_8                           -1
+    X_17_9        PREC_12_17_9                       -1
+    X_17_9        PREC_16_17_9                       -1
+    X_17_9        PREC_19_17_9                       -1
+    X_17_9        PREC_38_17_9                       -1
+    X_17_9        CAP_0_9                          2733
+    X_17_9        CAP_1_9                          1776
+    X_18_9        obj                 -87617.5151213713
+    X_18_9        ORD_18_8                           -1
+    X_18_9        PREC_14_18_9                       -1
+    X_18_9        PREC_18_16_9                        1
+    X_18_9        PREC_18_19_9                        1
+    X_18_9        PREC_18_42_9                        1
+    X_18_9        PREC_40_18_9                       -1
+    X_18_9        CAP_0_9                           716
+    X_18_9        CAP_1_9                           716
+    X_19_9        obj                 -156083.660817306
+    X_19_9        ORD_19_8                           -1
+    X_19_9        PREC_15_19_9                       -1
+    X_19_9        PREC_18_19_9                       -1
+    X_19_9        PREC_19_5_9                         1
+    X_19_9        PREC_19_17_9                        1
+    X_19_9        PREC_19_20_9                        1
+    X_19_9        PREC_19_21_9                        1
+    X_19_9        PREC_19_43_9                        1
+    X_19_9        PREC_41_19_9                       -1
+    X_19_9        CAP_0_9                          1965
+    X_19_9        CAP_1_9                          1964
+    X_20_9        obj                 -117455.348686201
+    X_20_9        ORD_20_8                           -1
+    X_20_9        PREC_16_20_9                       -1
+    X_20_9        PREC_19_20_9                       -1
+    X_20_9        PREC_42_20_9                       -1
+    X_20_9        PREC_47_20_9                       -1
+    X_20_9        CAP_0_9                          2496
+    X_20_9        CAP_1_9                          1791
+    X_21_9        obj                 -5841.16767475808
+    X_21_9        ORD_21_8                           -1
+    X_21_9        PREC_19_21_9                       -1
+    X_21_9        PREC_52_21_9                       -1
+    X_21_9        CAP_0_9                           244
+    X_21_9        CAP_1_9                           215
+    X_22_9        obj                 -13382.0193860236
+    X_22_9        ORD_22_8                           -1
+    X_22_9        PREC_56_22_9                       -1
+    X_22_9        CAP_0_9                           339
+    X_22_9        CAP_1_9                           283
+    X_23_9        obj                  585.313728064898
+    X_23_9        ORD_23_8                           -1
+    X_23_9        PREC_26_23_9                       -1
+    X_23_9        CAP_0_9                            85
+    X_24_9        obj                 -126159.646090062
+    X_24_9        ORD_24_8                           -1
+    X_24_9        PREC_24_7_9                         1
+    X_24_9        PREC_24_25_9                        1
+    X_24_9        PREC_24_31_9                        1
+    X_24_9        PREC_24_4_9                         1
+    X_24_9        PREC_24_63_9                        1
+    X_24_9        PREC_29_24_9                       -1
+    X_24_9        CAP_0_9                           724
+    X_24_9        CAP_1_9                           724
+    X_25_9        obj                  -461069.21891738
+    X_25_9        ORD_25_8                           -1
+    X_25_9        PREC_24_25_9                       -1
+    X_25_9        PREC_25_8_9                         1
+    X_25_9        PREC_25_26_9                        1
+    X_25_9        PREC_25_32_9                        1
+    X_25_9        PREC_25_45_9                        1
+    X_25_9        PREC_30_25_9                       -1
+    X_25_9        CAP_0_9                          3620
+    X_25_9        CAP_1_9                          3620
+    X_26_9        obj                 -368903.253557468
+    X_26_9        ORD_26_8                           -1
+    X_26_9        PREC_7_26_9                        -1
+    X_26_9        PREC_25_26_9                       -1
+    X_26_9        PREC_26_9_9                         1
+    X_26_9        PREC_26_23_9                        1
+    X_26_9        PREC_26_27_9                        1
+    X_26_9        PREC_26_33_9                        1
+    X_26_9        PREC_26_46_9                        1
+    X_26_9        PREC_31_26_9                       -1
+    X_26_9        CAP_0_9                          5384
+    X_26_9        CAP_1_9                          5360
+    X_27_9        obj                 -21068.9002891582
+    X_27_9        ORD_27_8                           -1
+    X_27_9        PREC_8_27_9                        -1
+    X_27_9        PREC_26_27_9                       -1
+    X_27_9        PREC_32_27_9                       -1
+    X_27_9        PREC_45_27_9                       -1
+    X_27_9        CAP_0_9                          1376
+    X_27_9        CAP_1_9                           438
+    X_28_9        obj                 -154168.523874763
+    X_28_9        ORD_28_8                           -1
+    X_28_9        PREC_28_29_9                        1
+    X_28_9        PREC_28_35_9                        1
+    X_28_9        CAP_0_9                           716
+    X_28_9        CAP_1_9                           716
+    X_29_9        obj                 -683464.496370259
+    X_29_9        ORD_29_8                           -1
+    X_29_9        PREC_28_29_9                       -1
+    X_29_9        PREC_29_10_9                        1
+    X_29_9        PREC_29_24_9                        1
+    X_29_9        PREC_29_30_9                        1
+    X_29_9        PREC_29_36_9                        1
+    X_29_9        PREC_29_47_9                        1
+    X_29_9        PREC_29_64_9                        1
+    X_29_9        PREC_34_29_9                       -1
+    X_29_9        CAP_0_9                          3580
+    X_29_9        CAP_1_9                          3580
+    X_30_9        obj                 -1098331.03654877
+    X_30_9        ORD_30_8                           -1
+    X_30_9        PREC_29_30_9                       -1
+    X_30_9        PREC_30_11_9                        1
+    X_30_9        PREC_30_25_9                        1
+    X_30_9        PREC_30_31_9                        1
+    X_30_9        PREC_30_37_9                        1
+    X_30_9        PREC_30_48_9                        1
+    X_30_9        PREC_30_0_9                         1
+    X_30_9        PREC_30_5_9                         1
+    X_30_9        PREC_30_65_9                        1
+    X_30_9        PREC_35_30_9                       -1
+    X_30_9        CAP_0_9                          6483
+    X_30_9        CAP_1_9                          6483
+    X_31_9        obj                 -882638.738394797
+    X_31_9        ORD_31_8                           -1
+    X_31_9        PREC_10_31_9                       -1
+    X_31_9        PREC_24_31_9                       -1
+    X_31_9        PREC_30_31_9                       -1
+    X_31_9        PREC_31_12_9                        1
+    X_31_9        PREC_31_26_9                        1
+    X_31_9        PREC_31_32_9                        1
+    X_31_9        PREC_31_38_9                        1
+    X_31_9        PREC_31_49_9                        1
+    X_31_9        PREC_36_31_9                       -1
+    X_31_9        PREC_47_31_9                       -1
+    X_31_9        CAP_0_9                          6507
+    X_31_9        CAP_1_9                          6507
+    X_32_9        obj                  -355736.68707748
+    X_32_9        ORD_32_8                           -1
+    X_32_9        PREC_11_32_9                       -1
+    X_32_9        PREC_25_32_9                       -1
+    X_32_9        PREC_31_32_9                       -1
+    X_32_9        PREC_32_13_9                        1
+    X_32_9        PREC_32_27_9                        1
+    X_32_9        PREC_32_33_9                        1
+    X_32_9        PREC_32_39_9                        1
+    X_32_9        PREC_32_50_9                        1
+    X_32_9        PREC_37_32_9                       -1
+    X_32_9        PREC_48_32_9                       -1
+    X_32_9        CAP_0_9                          6049
+    X_32_9        CAP_1_9                          6025
+    X_33_9        obj                 -40605.6910242814
+    X_33_9        ORD_33_8                           -1
+    X_33_9        PREC_12_33_9                       -1
+    X_33_9        PREC_26_33_9                       -1
+    X_33_9        PREC_32_33_9                       -1
+    X_33_9        PREC_38_33_9                       -1
+    X_33_9        PREC_49_33_9                       -1
+    X_33_9        CAP_0_9                          2548
+    X_33_9        CAP_1_9                           984
+    X_34_9        obj                 -309773.400456433
+    X_34_9        ORD_34_8                           -1
+    X_34_9        PREC_34_29_9                        1
+    X_34_9        PREC_34_35_9                        1
+    X_34_9        PREC_34_51_9                        1
+    X_34_9        CAP_0_9                          1432
+    X_34_9        CAP_1_9                          1432
+    X_35_9        obj                 -1057873.76863754
+    X_35_9        ORD_35_8                           -1
+    X_35_9        PREC_28_35_9                       -1
+    X_35_9        PREC_34_35_9                       -1
+    X_35_9        PREC_35_14_9                        1
+    X_35_9        PREC_35_30_9                        1
+    X_35_9        PREC_35_36_9                        1
+    X_35_9        PREC_35_40_9                        1
+    X_35_9        PREC_35_52_9                        1
+    X_35_9        CAP_0_9                          5728
+    X_35_9        CAP_1_9                          5728
+    X_36_9        obj                 -1141182.22563819
+    X_36_9        ORD_36_8                           -1
+    X_36_9        PREC_29_36_9                       -1
+    X_36_9        PREC_35_36_9                       -1
+    X_36_9        PREC_36_15_9                        1
+    X_36_9        PREC_36_31_9                        1
+    X_36_9        PREC_36_37_9                        1
+    X_36_9        PREC_36_41_9                        1
+    X_36_9        PREC_36_53_9                        1
+    X_36_9        PREC_36_1_9                         1
+    X_36_9        PREC_36_66_9                        1
+    X_36_9        PREC_51_36_9                       -1
+    X_36_9        CAP_0_9                          6444
+    X_36_9        CAP_1_9                          6444
+    X_37_9        obj                 -1010474.12930958
+    X_37_9        ORD_37_8                           -1
+    X_37_9        PREC_14_37_9                       -1
+    X_37_9        PREC_30_37_9                       -1
+    X_37_9        PREC_36_37_9                       -1
+    X_37_9        PREC_37_16_9                        1
+    X_37_9        PREC_37_32_9                        1
+    X_37_9        PREC_37_38_9                        1
+    X_37_9        PREC_37_42_9                        1
+    X_37_9        PREC_37_54_9                        1
+    X_37_9        PREC_40_37_9                       -1
+    X_37_9        PREC_52_37_9                       -1
+    X_37_9        CAP_0_9                          6447
+    X_37_9        CAP_1_9                          6447
+    X_38_9        obj                 -661272.847048535
+    X_38_9        ORD_38_8                           -1
+    X_38_9        PREC_15_38_9                       -1
+    X_38_9        PREC_31_38_9                       -1
+    X_38_9        PREC_37_38_9                       -1
+    X_38_9        PREC_38_17_9                        1
+    X_38_9        PREC_38_33_9                        1
+    X_38_9        PREC_38_39_9                        1
+    X_38_9        PREC_38_43_9                        1
+    X_38_9        PREC_38_55_9                        1
+    X_38_9        PREC_41_38_9                       -1
+    X_38_9        PREC_53_38_9                       -1
+    X_38_9        CAP_0_9                          6040
+    X_38_9        CAP_1_9                          5960
+    X_39_9        obj                 -161692.618137781
+    X_39_9        ORD_39_8                           -1
+    X_39_9        PREC_16_39_9                       -1
+    X_39_9        PREC_32_39_9                       -1
+    X_39_9        PREC_38_39_9                       -1
+    X_39_9        PREC_42_39_9                       -1
+    X_39_9        PREC_54_39_9                       -1
+    X_39_9        CAP_0_9                          2814
+    X_39_9        CAP_1_9                          1584
+    X_40_9        obj                 -280328.169964824
+    X_40_9        ORD_40_8                           -1
+    X_40_9        PREC_35_40_9                       -1
+    X_40_9        PREC_40_18_9                        1
+    X_40_9        PREC_40_37_9                        1
+    X_40_9        PREC_40_41_9                        1
+    X_40_9        PREC_40_57_9                        1
+    X_40_9        PREC_40_3_9                         1
+    X_40_9        PREC_40_61_9                        1
+    X_40_9        CAP_0_9                          1432
+    X_40_9        CAP_1_9                          1432
+    X_41_9        obj                 -581244.062061993
+    X_41_9        ORD_41_8                           -1
+    X_41_9        PREC_36_41_9                       -1
+    X_41_9        PREC_40_41_9                       -1
+    X_41_9        PREC_41_19_9                        1
+    X_41_9        PREC_41_38_9                        1
+    X_41_9        PREC_41_42_9                        1
+    X_41_9        PREC_41_58_9                        1
+    X_41_9        PREC_56_41_9                       -1
+    X_41_9        CAP_0_9                          4296
+    X_41_9        CAP_1_9                          4296
+    X_42_9        obj                 -559459.379340559
+    X_42_9        ORD_42_8                           -1
+    X_42_9        PREC_18_42_9                       -1
+    X_42_9        PREC_37_42_9                       -1
+    X_42_9        PREC_41_42_9                       -1
+    X_42_9        PREC_42_20_9                        1
+    X_42_9        PREC_42_39_9                        1
+    X_42_9        PREC_42_43_9                        1
+    X_42_9        PREC_42_44_9                        1
+    X_42_9        PREC_42_59_9                        1
+    X_42_9        PREC_57_42_9                       -1
+    X_42_9        CAP_0_9                          5997
+    X_42_9        CAP_1_9                          5992
+    X_43_9        obj                 -197546.375623376
+    X_43_9        ORD_43_8                           -1
+    X_43_9        PREC_19_43_9                       -1
+    X_43_9        PREC_38_43_9                       -1
+    X_43_9        PREC_42_43_9                       -1
+    X_43_9        PREC_58_43_9                       -1
+    X_43_9        CAP_0_9                          2525
+    X_43_9        CAP_1_9                          1776
+    X_44_9        obj                 -62481.3427504861
+    X_44_9        ORD_44_8                           -1
+    X_44_9        PREC_42_44_9                       -1
+    X_44_9        CAP_0_9                          1078
+    X_44_9        CAP_1_9                           874
+    X_45_9        obj                 -19103.4910018727
+    X_45_9        ORD_45_8                           -1
+    X_45_9        PREC_25_45_9                       -1
+    X_45_9        PREC_45_27_9                        1
+    X_45_9        PREC_45_46_9                        1
+    X_45_9        PREC_45_50_9                        1
+    X_45_9        PREC_48_45_9                       -1
+    X_45_9        CAP_0_9                           673
+    X_45_9        CAP_1_9                           673
+    X_46_9        obj                  71.8176353453863
+    X_46_9        ORD_46_8                           -1
+    X_46_9        PREC_14_46_9                       -1
+    X_46_9        PREC_26_46_9                       -1
+    X_46_9        PREC_45_46_9                       -1
+    X_46_9        PREC_49_46_9                       -1
+    X_46_9        CAP_0_9                           745
+    X_46_9        CAP_1_9                            59
+    X_47_9        obj                 -87856.9072391892
+    X_47_9        ORD_47_8                           -1
+    X_47_9        PREC_29_47_9                       -1
+    X_47_9        PREC_47_31_9                        1
+    X_47_9        PREC_47_48_9                        1
+    X_47_9        PREC_47_53_9                        1
+    X_47_9        PREC_47_6_9                         1
+    X_47_9        PREC_47_20_9                        1
+    X_47_9        PREC_51_47_9                       -1
+    X_47_9        CAP_0_9                           722
+    X_47_9        CAP_1_9                           722
+    X_48_9        obj                 -242982.999585224
+    X_48_9        ORD_48_8                           -1
+    X_48_9        PREC_30_48_9                       -1
+    X_48_9        PREC_47_48_9                       -1
+    X_48_9        PREC_48_32_9                        1
+    X_48_9        PREC_48_45_9                        1
+    X_48_9        PREC_48_49_9                        1
+    X_48_9        PREC_48_54_9                        1
+    X_48_9        PREC_52_48_9                       -1
+    X_48_9        CAP_0_9                          2896
+    X_48_9        CAP_1_9                          2896
+    X_49_9        obj                 -147058.577975569
+    X_49_9        ORD_49_8                           -1
+    X_49_9        PREC_31_49_9                       -1
+    X_49_9        PREC_48_49_9                       -1
+    X_49_9        PREC_49_33_9                        1
+    X_49_9        PREC_49_46_9                        1
+    X_49_9        PREC_49_50_9                        1
+    X_49_9        PREC_49_55_9                        1
+    X_49_9        PREC_49_61_9                        1
+    X_49_9        PREC_53_49_9                       -1
+    X_49_9        CAP_0_9                          4711
+    X_49_9        CAP_1_9                          4687
+    X_50_9        obj                 -27558.8206032029
+    X_50_9        ORD_50_8                           -1
+    X_50_9        PREC_32_50_9                       -1
+    X_50_9        PREC_45_50_9                       -1
+    X_50_9        PREC_49_50_9                       -1
+    X_50_9        PREC_54_50_9                       -1
+    X_50_9        CAP_0_9                          1818
+    X_50_9        CAP_1_9                           611
+    X_51_9        obj                  -273864.58278374
+    X_51_9        ORD_51_8                           -1
+    X_51_9        PREC_34_51_9                       -1
+    X_51_9        PREC_51_36_9                        1
+    X_51_9        PREC_51_47_9                        1
+    X_51_9        PREC_51_52_9                        1
+    X_51_9        PREC_51_56_9                        1
+    X_51_9        PREC_51_8_9                         1
+    X_51_9        CAP_0_9                          1432
+    X_51_9        CAP_1_9                          1432
+    X_52_9        obj                 -677719.085542629
+    X_52_9        ORD_52_8                           -1
+    X_52_9        PREC_35_52_9                       -1
+    X_52_9        PREC_51_52_9                       -1
+    X_52_9        PREC_52_37_9                        1
+    X_52_9        PREC_52_48_9                        1
+    X_52_9        PREC_52_53_9                        1
+    X_52_9        PREC_52_57_9                        1
+    X_52_9        PREC_52_9_9                         1
+    X_52_9        PREC_52_21_9                        1
+    X_52_9        CAP_0_9                          3580
+    X_52_9        CAP_1_9                          3580
+    X_53_9        obj                 -832845.177888663
+    X_53_9        ORD_53_8                           -1
+    X_53_9        PREC_36_53_9                       -1
+    X_53_9        PREC_47_53_9                       -1
+    X_53_9        PREC_52_53_9                       -1
+    X_53_9        PREC_53_38_9                        1
+    X_53_9        PREC_53_49_9                        1
+    X_53_9        PREC_53_54_9                        1
+    X_53_9        PREC_53_58_9                        1
+    X_53_9        PREC_53_62_9                        1
+    X_53_9        PREC_56_53_9                       -1
+    X_53_9        CAP_0_9                          5759
+    X_53_9        CAP_1_9                          5759
+    X_54_9        obj                 -352385.197428029
+    X_54_9        ORD_54_8                           -1
+    X_54_9        PREC_37_54_9                       -1
+    X_54_9        PREC_48_54_9                       -1
+    X_54_9        PREC_53_54_9                       -1
+    X_54_9        PREC_54_39_9                        1
+    X_54_9        PREC_54_50_9                        1
+    X_54_9        PREC_54_55_9                        1
+    X_54_9        PREC_54_59_9                        1
+    X_54_9        PREC_54_63_9                        1
+    X_54_9        PREC_57_54_9                       -1
+    X_54_9        CAP_0_9                          6054
+    X_54_9        CAP_1_9                          6029
+    X_55_9        obj                 -80603.3260693052
+    X_55_9        ORD_55_8                           -1
+    X_55_9        PREC_38_55_9                       -1
+    X_55_9        PREC_49_55_9                       -1
+    X_55_9        PREC_54_55_9                       -1
+    X_55_9        PREC_58_55_9                       -1
+    X_55_9        PREC_62_55_9                       -1
+    X_55_9        CAP_0_9                          2081
+    X_55_9        CAP_1_9                          1135
+    X_56_9        obj                  -284397.83596773
+    X_56_9        ORD_56_8                           -1
+    X_56_9        PREC_51_56_9                       -1
+    X_56_9        PREC_56_41_9                        1
+    X_56_9        PREC_56_53_9                        1
+    X_56_9        PREC_56_57_9                        1
+    X_56_9        PREC_56_13_9                        1
+    X_56_9        PREC_56_22_9                        1
+    X_56_9        CAP_0_9                          1432
+    X_56_9        CAP_1_9                          1432
+    X_57_9        obj                 -572865.337938365
+    X_57_9        ORD_57_8                           -1
+    X_57_9        PREC_40_57_9                       -1
+    X_57_9        PREC_52_57_9                       -1
+    X_57_9        PREC_56_57_9                       -1
+    X_57_9        PREC_57_42_9                        1
+    X_57_9        PREC_57_54_9                        1
+    X_57_9        PREC_57_58_9                        1
+    X_57_9        PREC_57_64_9                        1
+    X_57_9        CAP_0_9                          3580
+    X_57_9        CAP_1_9                          3580
+    X_58_9        obj                 -568556.279817641
+    X_58_9        ORD_58_8                           -1
+    X_58_9        PREC_41_58_9                       -1
+    X_58_9        PREC_53_58_9                       -1
+    X_58_9        PREC_57_58_9                       -1
+    X_58_9        PREC_58_43_9                        1
+    X_58_9        PREC_58_55_9                        1
+    X_58_9        PREC_58_59_9                        1
+    X_58_9        PREC_58_60_9                        1
+    X_58_9        PREC_58_65_9                        1
+    X_58_9        CAP_0_9                          5368
+    X_58_9        CAP_1_9                          5360
+    X_59_9        obj                 -167789.935378604
+    X_59_9        ORD_59_8                           -1
+    X_59_9        PREC_10_59_9                       -1
+    X_59_9        PREC_42_59_9                       -1
+    X_59_9        PREC_54_59_9                       -1
+    X_59_9        PREC_58_59_9                       -1
+    X_59_9        PREC_64_59_9                       -1
+    X_59_9        CAP_0_9                          2013
+    X_59_9        CAP_1_9                          1160
+    X_60_9        obj                 -70548.8571209511
+    X_60_9        ORD_60_8                           -1
+    X_60_9        PREC_14_60_9                       -1
+    X_60_9        PREC_58_60_9                       -1
+    X_60_9        CAP_0_9                          1030
+    X_60_9        CAP_1_9                           676
+    X_61_9        obj                  2231.13453806333
+    X_61_9        ORD_61_8                           -1
+    X_61_9        PREC_40_61_9                       -1
+    X_61_9        PREC_49_61_9                       -1
+    X_61_9        PREC_62_61_9                       -1
+    X_61_9        CAP_0_9                           311
+    X_62_9        obj                 -45676.0160796657
+    X_62_9        ORD_62_8                           -1
+    X_62_9        PREC_53_62_9                       -1
+    X_62_9        PREC_62_55_9                        1
+    X_62_9        PREC_62_61_9                        1
+    X_62_9        PREC_62_63_9                        1
+    X_62_9        PREC_62_65_9                        1
+    X_62_9        CAP_0_9                          1346
+    X_62_9        CAP_1_9                          1322
+    X_63_9        obj                 -8431.39038954835
+    X_63_9        ORD_63_8                           -1
+    X_63_9        PREC_24_63_9                       -1
+    X_63_9        PREC_54_63_9                       -1
+    X_63_9        PREC_62_63_9                       -1
+    X_63_9        PREC_64_63_9                       -1
+    X_63_9        CAP_0_9                           702
+    X_63_9        CAP_1_9                           185
+    X_64_9        obj                 -40217.8757934163
+    X_64_9        ORD_64_8                           -1
+    X_64_9        PREC_29_64_9                       -1
+    X_64_9        PREC_57_64_9                       -1
+    X_64_9        PREC_64_59_9                        1
+    X_64_9        PREC_64_63_9                        1
+    X_64_9        PREC_64_65_9                        1
+    X_64_9        PREC_64_66_9                        1
+    X_64_9        CAP_0_9                           672
+    X_64_9        CAP_1_9                           672
+    X_65_9        obj                 -21952.2572039064
+    X_65_9        ORD_65_8                           -1
+    X_65_9        PREC_30_65_9                       -1
+    X_65_9        PREC_58_65_9                       -1
+    X_65_9        PREC_62_65_9                       -1
+    X_65_9        PREC_64_65_9                       -1
+    X_65_9        CAP_0_9                           571
+    X_65_9        CAP_1_9                           190
+    X_66_9        obj                 -6056.62058079424
+    X_66_9        ORD_66_8                           -1
+    X_66_9        PREC_36_66_9                       -1
+    X_66_9        PREC_64_66_9                       -1
+    X_66_9        CAP_0_9                           131
+    X_66_9        CAP_1_9                            45
+    MARK0001  'MARKER'                 'INTEND'
+RHS
+    rhs           CAP_0_0                         18000
+    rhs           CAP_0_1                         18000
+    rhs           CAP_0_2                         18000
+    rhs           CAP_0_3                         18000
+    rhs           CAP_0_4                         18000
+    rhs           CAP_0_5                         18000
+    rhs           CAP_0_6                         18000
+    rhs           CAP_0_7                         18000
+    rhs           CAP_0_8                         18000
+    rhs           CAP_0_9                         18000
+    rhs           CAP_1_0                         16500
+    rhs           CAP_1_1                         16500
+    rhs           CAP_1_2                         16500
+    rhs           CAP_1_3                         16500
+    rhs           CAP_1_4                         16500
+    rhs           CAP_1_5                         16500
+    rhs           CAP_1_6                         16500
+    rhs           CAP_1_7                         16500
+    rhs           CAP_1_8                         16500
+    rhs           CAP_1_9                         16500
+BOUNDS
+ UP bnd           X_0_0                               1
+ UP bnd           X_1_0                               1
+ UP bnd           X_2_0                               1
+ UP bnd           X_3_0                               1
+ UP bnd           X_4_0                               1
+ UP bnd           X_5_0                               1
+ UP bnd           X_6_0                               1
+ UP bnd           X_7_0                               1
+ UP bnd           X_8_0                               1
+ UP bnd           X_9_0                               1
+ UP bnd           X_10_0                              1
+ UP bnd           X_11_0                              1
+ UP bnd           X_12_0                              1
+ UP bnd           X_13_0                              1
+ UP bnd           X_14_0                              1
+ UP bnd           X_15_0                              1
+ UP bnd           X_16_0                              1
+ UP bnd           X_17_0                              1
+ UP bnd           X_18_0                              1
+ UP bnd           X_19_0                              1
+ UP bnd           X_20_0                              1
+ UP bnd           X_21_0                              1
+ UP bnd           X_22_0                              1
+ UP bnd           X_23_0                              1
+ UP bnd           X_24_0                              1
+ UP bnd           X_25_0                              1
+ UP bnd           X_26_0                              1
+ UP bnd           X_27_0                              1
+ UP bnd           X_28_0                              1
+ UP bnd           X_29_0                              1
+ UP bnd           X_30_0                              1
+ UP bnd           X_31_0                              1
+ UP bnd           X_32_0                              1
+ UP bnd           X_33_0                              1
+ UP bnd           X_34_0                              1
+ UP bnd           X_35_0                              1
+ UP bnd           X_36_0                              1
+ UP bnd           X_37_0                              1
+ UP bnd           X_38_0                              1
+ UP bnd           X_39_0                              1
+ UP bnd           X_40_0                              1
+ UP bnd           X_41_0                              1
+ UP bnd           X_42_0                              1
+ UP bnd           X_43_0                              1
+ UP bnd           X_44_0                              1
+ UP bnd           X_45_0                              1
+ UP bnd           X_46_0                              1
+ UP bnd           X_47_0                              1
+ UP bnd           X_48_0                              1
+ UP bnd           X_49_0                              1
+ UP bnd           X_50_0                              1
+ UP bnd           X_51_0                              1
+ UP bnd           X_52_0                              1
+ UP bnd           X_53_0                              1
+ UP bnd           X_54_0                              1
+ UP bnd           X_55_0                              1
+ UP bnd           X_56_0                              1
+ UP bnd           X_57_0                              1
+ UP bnd           X_58_0                              1
+ UP bnd           X_59_0                              1
+ UP bnd           X_60_0                              1
+ UP bnd           X_61_0                              1
+ UP bnd           X_62_0                              1
+ UP bnd           X_63_0                              1
+ UP bnd           X_64_0                              1
+ UP bnd           X_65_0                              1
+ UP bnd           X_66_0                              1
+ UP bnd           X_0_1                               1
+ UP bnd           X_1_1                               1
+ UP bnd           X_2_1                               1
+ UP bnd           X_3_1                               1
+ UP bnd           X_4_1                               1
+ UP bnd           X_5_1                               1
+ UP bnd           X_6_1                               1
+ UP bnd           X_7_1                               1
+ UP bnd           X_8_1                               1
+ UP bnd           X_9_1                               1
+ UP bnd           X_10_1                              1
+ UP bnd           X_11_1                              1
+ UP bnd           X_12_1                              1
+ UP bnd           X_13_1                              1
+ UP bnd           X_14_1                              1
+ UP bnd           X_15_1                              1
+ UP bnd           X_16_1                              1
+ UP bnd           X_17_1                              1
+ UP bnd           X_18_1                              1
+ UP bnd           X_19_1                              1
+ UP bnd           X_20_1                              1
+ UP bnd           X_21_1                              1
+ UP bnd           X_22_1                              1
+ UP bnd           X_23_1                              1
+ UP bnd           X_24_1                              1
+ UP bnd           X_25_1                              1
+ UP bnd           X_26_1                              1
+ UP bnd           X_27_1                              1
+ UP bnd           X_28_1                              1
+ UP bnd           X_29_1                              1
+ UP bnd           X_30_1                              1
+ UP bnd           X_31_1                              1
+ UP bnd           X_32_1                              1
+ UP bnd           X_33_1                              1
+ UP bnd           X_34_1                              1
+ UP bnd           X_35_1                              1
+ UP bnd           X_36_1                              1
+ UP bnd           X_37_1                              1
+ UP bnd           X_38_1                              1
+ UP bnd           X_39_1                              1
+ UP bnd           X_40_1                              1
+ UP bnd           X_41_1                              1
+ UP bnd           X_42_1                              1
+ UP bnd           X_43_1                              1
+ UP bnd           X_44_1                              1
+ UP bnd           X_45_1                              1
+ UP bnd           X_46_1                              1
+ UP bnd           X_47_1                              1
+ UP bnd           X_48_1                              1
+ UP bnd           X_49_1                              1
+ UP bnd           X_50_1                              1
+ UP bnd           X_51_1                              1
+ UP bnd           X_52_1                              1
+ UP bnd           X_53_1                              1
+ UP bnd           X_54_1                              1
+ UP bnd           X_55_1                              1
+ UP bnd           X_56_1                              1
+ UP bnd           X_57_1                              1
+ UP bnd           X_58_1                              1
+ UP bnd           X_59_1                              1
+ UP bnd           X_60_1                              1
+ UP bnd           X_61_1                              1
+ UP bnd           X_62_1                              1
+ UP bnd           X_63_1                              1
+ UP bnd           X_64_1                              1
+ UP bnd           X_65_1                              1
+ UP bnd           X_66_1                              1
+ UP bnd           X_0_2                               1
+ UP bnd           X_1_2                               1
+ UP bnd           X_2_2                               1
+ UP bnd           X_3_2                               1
+ UP bnd           X_4_2                               1
+ UP bnd           X_5_2                               1
+ UP bnd           X_6_2                               1
+ UP bnd           X_7_2                               1
+ UP bnd           X_8_2                               1
+ UP bnd           X_9_2                               1
+ UP bnd           X_10_2                              1
+ UP bnd           X_11_2                              1
+ UP bnd           X_12_2                              1
+ UP bnd           X_13_2                              1
+ UP bnd           X_14_2                              1
+ UP bnd           X_15_2                              1
+ UP bnd           X_16_2                              1
+ UP bnd           X_17_2                              1
+ UP bnd           X_18_2                              1
+ UP bnd           X_19_2                              1
+ UP bnd           X_20_2                              1
+ UP bnd           X_21_2                              1
+ UP bnd           X_22_2                              1
+ UP bnd           X_23_2                              1
+ UP bnd           X_24_2                              1
+ UP bnd           X_25_2                              1
+ UP bnd           X_26_2                              1
+ UP bnd           X_27_2                              1
+ UP bnd           X_28_2                              1
+ UP bnd           X_29_2                              1
+ UP bnd           X_30_2                              1
+ UP bnd           X_31_2                              1
+ UP bnd           X_32_2                              1
+ UP bnd           X_33_2                              1
+ UP bnd           X_34_2                              1
+ UP bnd           X_35_2                              1
+ UP bnd           X_36_2                              1
+ UP bnd           X_37_2                              1
+ UP bnd           X_38_2                              1
+ UP bnd           X_39_2                              1
+ UP bnd           X_40_2                              1
+ UP bnd           X_41_2                              1
+ UP bnd           X_42_2                              1
+ UP bnd           X_43_2                              1
+ UP bnd           X_44_2                              1
+ UP bnd           X_45_2                              1
+ UP bnd           X_46_2                              1
+ UP bnd           X_47_2                              1
+ UP bnd           X_48_2                              1
+ UP bnd           X_49_2                              1
+ UP bnd           X_50_2                              1
+ UP bnd           X_51_2                              1
+ UP bnd           X_52_2                              1
+ UP bnd           X_53_2                              1
+ UP bnd           X_54_2                              1
+ UP bnd           X_55_2                              1
+ UP bnd           X_56_2                              1
+ UP bnd           X_57_2                              1
+ UP bnd           X_58_2                              1
+ UP bnd           X_59_2                              1
+ UP bnd           X_60_2                              1
+ UP bnd           X_61_2                              1
+ UP bnd           X_62_2                              1
+ UP bnd           X_63_2                              1
+ UP bnd           X_64_2                              1
+ UP bnd           X_65_2                              1
+ UP bnd           X_66_2                              1
+ UP bnd           X_0_3                               1
+ UP bnd           X_1_3                               1
+ UP bnd           X_2_3                               1
+ UP bnd           X_3_3                               1
+ UP bnd           X_4_3                               1
+ UP bnd           X_5_3                               1
+ UP bnd           X_6_3                               1
+ UP bnd           X_7_3                               1
+ UP bnd           X_8_3                               1
+ UP bnd           X_9_3                               1
+ UP bnd           X_10_3                              1
+ UP bnd           X_11_3                              1
+ UP bnd           X_12_3                              1
+ UP bnd           X_13_3                              1
+ UP bnd           X_14_3                              1
+ UP bnd           X_15_3                              1
+ UP bnd           X_16_3                              1
+ UP bnd           X_17_3                              1
+ UP bnd           X_18_3                              1
+ UP bnd           X_19_3                              1
+ UP bnd           X_20_3                              1
+ UP bnd           X_21_3                              1
+ UP bnd           X_22_3                              1
+ UP bnd           X_23_3                              1
+ UP bnd           X_24_3                              1
+ UP bnd           X_25_3                              1
+ UP bnd           X_26_3                              1
+ UP bnd           X_27_3                              1
+ UP bnd           X_28_3                              1
+ UP bnd           X_29_3                              1
+ UP bnd           X_30_3                              1
+ UP bnd           X_31_3                              1
+ UP bnd           X_32_3                              1
+ UP bnd           X_33_3                              1
+ UP bnd           X_34_3                              1
+ UP bnd           X_35_3                              1
+ UP bnd           X_36_3                              1
+ UP bnd           X_37_3                              1
+ UP bnd           X_38_3                              1
+ UP bnd           X_39_3                              1
+ UP bnd           X_40_3                              1
+ UP bnd           X_41_3                              1
+ UP bnd           X_42_3                              1
+ UP bnd           X_43_3                              1
+ UP bnd           X_44_3                              1
+ UP bnd           X_45_3                              1
+ UP bnd           X_46_3                              1
+ UP bnd           X_47_3                              1
+ UP bnd           X_48_3                              1
+ UP bnd           X_49_3                              1
+ UP bnd           X_50_3                              1
+ UP bnd           X_51_3                              1
+ UP bnd           X_52_3                              1
+ UP bnd           X_53_3                              1
+ UP bnd           X_54_3                              1
+ UP bnd           X_55_3                              1
+ UP bnd           X_56_3                              1
+ UP bnd           X_57_3                              1
+ UP bnd           X_58_3                              1
+ UP bnd           X_59_3                              1
+ UP bnd           X_60_3                              1
+ UP bnd           X_61_3                              1
+ UP bnd           X_62_3                              1
+ UP bnd           X_63_3                              1
+ UP bnd           X_64_3                              1
+ UP bnd           X_65_3                              1
+ UP bnd           X_66_3                              1
+ UP bnd           X_0_4                               1
+ UP bnd           X_1_4                               1
+ UP bnd           X_2_4                               1
+ UP bnd           X_3_4                               1
+ UP bnd           X_4_4                               1
+ UP bnd           X_5_4                               1
+ UP bnd           X_6_4                               1
+ UP bnd           X_7_4                               1
+ UP bnd           X_8_4                               1
+ UP bnd           X_9_4                               1
+ UP bnd           X_10_4                              1
+ UP bnd           X_11_4                              1
+ UP bnd           X_12_4                              1
+ UP bnd           X_13_4                              1
+ UP bnd           X_14_4                              1
+ UP bnd           X_15_4                              1
+ UP bnd           X_16_4                              1
+ UP bnd           X_17_4                              1
+ UP bnd           X_18_4                              1
+ UP bnd           X_19_4                              1
+ UP bnd           X_20_4                              1
+ UP bnd           X_21_4                              1
+ UP bnd           X_22_4                              1
+ UP bnd           X_23_4                              1
+ UP bnd           X_24_4                              1
+ UP bnd           X_25_4                              1
+ UP bnd           X_26_4                              1
+ UP bnd           X_27_4                              1
+ UP bnd           X_28_4                              1
+ UP bnd           X_29_4                              1
+ UP bnd           X_30_4                              1
+ UP bnd           X_31_4                              1
+ UP bnd           X_32_4                              1
+ UP bnd           X_33_4                              1
+ UP bnd           X_34_4                              1
+ UP bnd           X_35_4                              1
+ UP bnd           X_36_4                              1
+ UP bnd           X_37_4                              1
+ UP bnd           X_38_4                              1
+ UP bnd           X_39_4                              1
+ UP bnd           X_40_4                              1
+ UP bnd           X_41_4                              1
+ UP bnd           X_42_4                              1
+ UP bnd           X_43_4                              1
+ UP bnd           X_44_4                              1
+ UP bnd           X_45_4                              1
+ UP bnd           X_46_4                              1
+ UP bnd           X_47_4                              1
+ UP bnd           X_48_4                              1
+ UP bnd           X_49_4                              1
+ UP bnd           X_50_4                              1
+ UP bnd           X_51_4                              1
+ UP bnd           X_52_4                              1
+ UP bnd           X_53_4                              1
+ UP bnd           X_54_4                              1
+ UP bnd           X_55_4                              1
+ UP bnd           X_56_4                              1
+ UP bnd           X_57_4                              1
+ UP bnd           X_58_4                              1
+ UP bnd           X_59_4                              1
+ UP bnd           X_60_4                              1
+ UP bnd           X_61_4                              1
+ UP bnd           X_62_4                              1
+ UP bnd           X_63_4                              1
+ UP bnd           X_64_4                              1
+ UP bnd           X_65_4                              1
+ UP bnd           X_66_4                              1
+ UP bnd           X_0_5                               1
+ UP bnd           X_1_5                               1
+ UP bnd           X_2_5                               1
+ UP bnd           X_3_5                               1
+ UP bnd           X_4_5                               1
+ UP bnd           X_5_5                               1
+ UP bnd           X_6_5                               1
+ UP bnd           X_7_5                               1
+ UP bnd           X_8_5                               1
+ UP bnd           X_9_5                               1
+ UP bnd           X_10_5                              1
+ UP bnd           X_11_5                              1
+ UP bnd           X_12_5                              1
+ UP bnd           X_13_5                              1
+ UP bnd           X_14_5                              1
+ UP bnd           X_15_5                              1
+ UP bnd           X_16_5                              1
+ UP bnd           X_17_5                              1
+ UP bnd           X_18_5                              1
+ UP bnd           X_19_5                              1
+ UP bnd           X_20_5                              1
+ UP bnd           X_21_5                              1
+ UP bnd           X_22_5                              1
+ UP bnd           X_23_5                              1
+ UP bnd           X_24_5                              1
+ UP bnd           X_25_5                              1
+ UP bnd           X_26_5                              1
+ UP bnd           X_27_5                              1
+ UP bnd           X_28_5                              1
+ UP bnd           X_29_5                              1
+ UP bnd           X_30_5                              1
+ UP bnd           X_31_5                              1
+ UP bnd           X_32_5                              1
+ UP bnd           X_33_5                              1
+ UP bnd           X_34_5                              1
+ UP bnd           X_35_5                              1
+ UP bnd           X_36_5                              1
+ UP bnd           X_37_5                              1
+ UP bnd           X_38_5                              1
+ UP bnd           X_39_5                              1
+ UP bnd           X_40_5                              1
+ UP bnd           X_41_5                              1
+ UP bnd           X_42_5                              1
+ UP bnd           X_43_5                              1
+ UP bnd           X_44_5                              1
+ UP bnd           X_45_5                              1
+ UP bnd           X_46_5                              1
+ UP bnd           X_47_5                              1
+ UP bnd           X_48_5                              1
+ UP bnd           X_49_5                              1
+ UP bnd           X_50_5                              1
+ UP bnd           X_51_5                              1
+ UP bnd           X_52_5                              1
+ UP bnd           X_53_5                              1
+ UP bnd           X_54_5                              1
+ UP bnd           X_55_5                              1
+ UP bnd           X_56_5                              1
+ UP bnd           X_57_5                              1
+ UP bnd           X_58_5                              1
+ UP bnd           X_59_5                              1
+ UP bnd           X_60_5                              1
+ UP bnd           X_61_5                              1
+ UP bnd           X_62_5                              1
+ UP bnd           X_63_5                              1
+ UP bnd           X_64_5                              1
+ UP bnd           X_65_5                              1
+ UP bnd           X_66_5                              1
+ UP bnd           X_0_6                               1
+ UP bnd           X_1_6                               1
+ UP bnd           X_2_6                               1
+ UP bnd           X_3_6                               1
+ UP bnd           X_4_6                               1
+ UP bnd           X_5_6                               1
+ UP bnd           X_6_6                               1
+ UP bnd           X_7_6                               1
+ UP bnd           X_8_6                               1
+ UP bnd           X_9_6                               1
+ UP bnd           X_10_6                              1
+ UP bnd           X_11_6                              1
+ UP bnd           X_12_6                              1
+ UP bnd           X_13_6                              1
+ UP bnd           X_14_6                              1
+ UP bnd           X_15_6                              1
+ UP bnd           X_16_6                              1
+ UP bnd           X_17_6                              1
+ UP bnd           X_18_6                              1
+ UP bnd           X_19_6                              1
+ UP bnd           X_20_6                              1
+ UP bnd           X_21_6                              1
+ UP bnd           X_22_6                              1
+ UP bnd           X_23_6                              1
+ UP bnd           X_24_6                              1
+ UP bnd           X_25_6                              1
+ UP bnd           X_26_6                              1
+ UP bnd           X_27_6                              1
+ UP bnd           X_28_6                              1
+ UP bnd           X_29_6                              1
+ UP bnd           X_30_6                              1
+ UP bnd           X_31_6                              1
+ UP bnd           X_32_6                              1
+ UP bnd           X_33_6                              1
+ UP bnd           X_34_6                              1
+ UP bnd           X_35_6                              1
+ UP bnd           X_36_6                              1
+ UP bnd           X_37_6                              1
+ UP bnd           X_38_6                              1
+ UP bnd           X_39_6                              1
+ UP bnd           X_40_6                              1
+ UP bnd           X_41_6                              1
+ UP bnd           X_42_6                              1
+ UP bnd           X_43_6                              1
+ UP bnd           X_44_6                              1
+ UP bnd           X_45_6                              1
+ UP bnd           X_46_6                              1
+ UP bnd           X_47_6                              1
+ UP bnd           X_48_6                              1
+ UP bnd           X_49_6                              1
+ UP bnd           X_50_6                              1
+ UP bnd           X_51_6                              1
+ UP bnd           X_52_6                              1
+ UP bnd           X_53_6                              1
+ UP bnd           X_54_6                              1
+ UP bnd           X_55_6                              1
+ UP bnd           X_56_6                              1
+ UP bnd           X_57_6                              1
+ UP bnd           X_58_6                              1
+ UP bnd           X_59_6                              1
+ UP bnd           X_60_6                              1
+ UP bnd           X_61_6                              1
+ UP bnd           X_62_6                              1
+ UP bnd           X_63_6                              1
+ UP bnd           X_64_6                              1
+ UP bnd           X_65_6                              1
+ UP bnd           X_66_6                              1
+ UP bnd           X_0_7                               1
+ UP bnd           X_1_7                               1
+ UP bnd           X_2_7                               1
+ UP bnd           X_3_7                               1
+ UP bnd           X_4_7                               1
+ UP bnd           X_5_7                               1
+ UP bnd           X_6_7                               1
+ UP bnd           X_7_7                               1
+ UP bnd           X_8_7                               1
+ UP bnd           X_9_7                               1
+ UP bnd           X_10_7                              1
+ UP bnd           X_11_7                              1
+ UP bnd           X_12_7                              1
+ UP bnd           X_13_7                              1
+ UP bnd           X_14_7                              1
+ UP bnd           X_15_7                              1
+ UP bnd           X_16_7                              1
+ UP bnd           X_17_7                              1
+ UP bnd           X_18_7                              1
+ UP bnd           X_19_7                              1
+ UP bnd           X_20_7                              1
+ UP bnd           X_21_7                              1
+ UP bnd           X_22_7                              1
+ UP bnd           X_23_7                              1
+ UP bnd           X_24_7                              1
+ UP bnd           X_25_7                              1
+ UP bnd           X_26_7                              1
+ UP bnd           X_27_7                              1
+ UP bnd           X_28_7                              1
+ UP bnd           X_29_7                              1
+ UP bnd           X_30_7                              1
+ UP bnd           X_31_7                              1
+ UP bnd           X_32_7                              1
+ UP bnd           X_33_7                              1
+ UP bnd           X_34_7                              1
+ UP bnd           X_35_7                              1
+ UP bnd           X_36_7                              1
+ UP bnd           X_37_7                              1
+ UP bnd           X_38_7                              1
+ UP bnd           X_39_7                              1
+ UP bnd           X_40_7                              1
+ UP bnd           X_41_7                              1
+ UP bnd           X_42_7                              1
+ UP bnd           X_43_7                              1
+ UP bnd           X_44_7                              1
+ UP bnd           X_45_7                              1
+ UP bnd           X_46_7                              1
+ UP bnd           X_47_7                              1
+ UP bnd           X_48_7                              1
+ UP bnd           X_49_7                              1
+ UP bnd           X_50_7                              1
+ UP bnd           X_51_7                              1
+ UP bnd           X_52_7                              1
+ UP bnd           X_53_7                              1
+ UP bnd           X_54_7                              1
+ UP bnd           X_55_7                              1
+ UP bnd           X_56_7                              1
+ UP bnd           X_57_7                              1
+ UP bnd           X_58_7                              1
+ UP bnd           X_59_7                              1
+ UP bnd           X_60_7                              1
+ UP bnd           X_61_7                              1
+ UP bnd           X_62_7                              1
+ UP bnd           X_63_7                              1
+ UP bnd           X_64_7                              1
+ UP bnd           X_65_7                              1
+ UP bnd           X_66_7                              1
+ UP bnd           X_0_8                               1
+ UP bnd           X_1_8                               1
+ UP bnd           X_2_8                               1
+ UP bnd           X_3_8                               1
+ UP bnd           X_4_8                               1
+ UP bnd           X_5_8                               1
+ UP bnd           X_6_8                               1
+ UP bnd           X_7_8                               1
+ UP bnd           X_8_8                               1
+ UP bnd           X_9_8                               1
+ UP bnd           X_10_8                              1
+ UP bnd           X_11_8                              1
+ UP bnd           X_12_8                              1
+ UP bnd           X_13_8                              1
+ UP bnd           X_14_8                              1
+ UP bnd           X_15_8                              1
+ UP bnd           X_16_8                              1
+ UP bnd           X_17_8                              1
+ UP bnd           X_18_8                              1
+ UP bnd           X_19_8                              1
+ UP bnd           X_20_8                              1
+ UP bnd           X_21_8                              1
+ UP bnd           X_22_8                              1
+ UP bnd           X_23_8                              1
+ UP bnd           X_24_8                              1
+ UP bnd           X_25_8                              1
+ UP bnd           X_26_8                              1
+ UP bnd           X_27_8                              1
+ UP bnd           X_28_8                              1
+ UP bnd           X_29_8                              1
+ UP bnd           X_30_8                              1
+ UP bnd           X_31_8                              1
+ UP bnd           X_32_8                              1
+ UP bnd           X_33_8                              1
+ UP bnd           X_34_8                              1
+ UP bnd           X_35_8                              1
+ UP bnd           X_36_8                              1
+ UP bnd           X_37_8                              1
+ UP bnd           X_38_8                              1
+ UP bnd           X_39_8                              1
+ UP bnd           X_40_8                              1
+ UP bnd           X_41_8                              1
+ UP bnd           X_42_8                              1
+ UP bnd           X_43_8                              1
+ UP bnd           X_44_8                              1
+ UP bnd           X_45_8                              1
+ UP bnd           X_46_8                              1
+ UP bnd           X_47_8                              1
+ UP bnd           X_48_8                              1
+ UP bnd           X_49_8                              1
+ UP bnd           X_50_8                              1
+ UP bnd           X_51_8                              1
+ UP bnd           X_52_8                              1
+ UP bnd           X_53_8                              1
+ UP bnd           X_54_8                              1
+ UP bnd           X_55_8                              1
+ UP bnd           X_56_8                              1
+ UP bnd           X_57_8                              1
+ UP bnd           X_58_8                              1
+ UP bnd           X_59_8                              1
+ UP bnd           X_60_8                              1
+ UP bnd           X_61_8                              1
+ UP bnd           X_62_8                              1
+ UP bnd           X_63_8                              1
+ UP bnd           X_64_8                              1
+ UP bnd           X_65_8                              1
+ UP bnd           X_66_8                              1
+ UP bnd           X_0_9                               1
+ UP bnd           X_1_9                               1
+ UP bnd           X_2_9                               1
+ UP bnd           X_3_9                               1
+ UP bnd           X_4_9                               1
+ UP bnd           X_5_9                               1
+ UP bnd           X_6_9                               1
+ UP bnd           X_7_9                               1
+ UP bnd           X_8_9                               1
+ UP bnd           X_9_9                               1
+ UP bnd           X_10_9                              1
+ UP bnd           X_11_9                              1
+ UP bnd           X_12_9                              1
+ UP bnd           X_13_9                              1
+ UP bnd           X_14_9                              1
+ UP bnd           X_15_9                              1
+ UP bnd           X_16_9                              1
+ UP bnd           X_17_9                              1
+ UP bnd           X_18_9                              1
+ UP bnd           X_19_9                              1
+ UP bnd           X_20_9                              1
+ UP bnd           X_21_9                              1
+ UP bnd           X_22_9                              1
+ UP bnd           X_23_9                              1
+ UP bnd           X_24_9                              1
+ UP bnd           X_25_9                              1
+ UP bnd           X_26_9                              1
+ UP bnd           X_27_9                              1
+ UP bnd           X_28_9                              1
+ UP bnd           X_29_9                              1
+ UP bnd           X_30_9                              1
+ UP bnd           X_31_9                              1
+ UP bnd           X_32_9                              1
+ UP bnd           X_33_9                              1
+ UP bnd           X_34_9                              1
+ UP bnd           X_35_9                              1
+ UP bnd           X_36_9                              1
+ UP bnd           X_37_9                              1
+ UP bnd           X_38_9                              1
+ UP bnd           X_39_9                              1
+ UP bnd           X_40_9                              1
+ UP bnd           X_41_9                              1
+ UP bnd           X_42_9                              1
+ UP bnd           X_43_9                              1
+ UP bnd           X_44_9                              1
+ UP bnd           X_45_9                              1
+ UP bnd           X_46_9                              1
+ UP bnd           X_47_9                              1
+ UP bnd           X_48_9                              1
+ UP bnd           X_49_9                              1
+ UP bnd           X_50_9                              1
+ UP bnd           X_51_9                              1
+ UP bnd           X_52_9                              1
+ UP bnd           X_53_9                              1
+ UP bnd           X_54_9                              1
+ UP bnd           X_55_9                              1
+ UP bnd           X_56_9                              1
+ UP bnd           X_57_9                              1
+ UP bnd           X_58_9                              1
+ UP bnd           X_59_9                              1
+ UP bnd           X_60_9                              1
+ UP bnd           X_61_9                              1
+ UP bnd           X_62_9                              1
+ UP bnd           X_63_9                              1
+ UP bnd           X_64_9                              1
+ UP bnd           X_65_9                              1
+ UP bnd           X_66_9                              1
+ENDATA

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+FILES="$(ls src/*.cpp | cat)"
+g++ -I./src -o mps2osil $FILES
+
