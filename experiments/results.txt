@@ -1,0 +1,3493 @@
+* Benchmark gear
+Path: /homes/ac4014/manyopt/MINLPLIB/INLP
+Size: 1036
+Configuring parallel solving...done.
+Problem details
+Number of variables: 5
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: allinone.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '48', 'Solving time': '0.19', 'Total time': '0.28', 'Bisection iterations': '40', 'Objective value': '0.0007', 'Bisection time': '0.21', 'Bounds search iterations': '8', 'Branch and bound iterations': '4'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark nvs04
+Path: /homes/ac4014/manyopt/MINLPLIB/INLP
+Size: 1032
+Configuring parallel solving...done.
+Problem details
+Number of variables: 3
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: allinone.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '55', 'Solving time': '0.32', 'Total time': '0.38', 'Bisection iterations': '42', 'Objective value': '0.72', 'Bisection time': '0.27', 'Bounds search iterations': '13', 'Branch and bound iterations': '4'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark nvs06
+Path: /homes/ac4014/manyopt/MINLPLIB/INLP
+Size: 1268
+Configuring parallel solving...done.
+Problem details
+Number of variables: 3
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: onebyone.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '28', 'Solving time': '0.40', 'Naive iterations': '25', 'Total time': '0.47', 'Objective value': '1.7703', 'Naive time': '0.43', 'Branch and bound iterations': '3'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark nvs07
+Path: /homes/ac4014/manyopt/MINLPLIB/INLP
+Size: 1360
+Configuring parallel solving...done.
+Problem details
+Number of variables: 4
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: allinone.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '37', 'Solving time': '0.23', 'Total time': '0.29', 'Bisection iterations': '13', 'Objective value': '4.0', 'Bisection time': '0.19', 'Bounds search iterations': '8', 'Bounds search time': '0.04', 'Branch and bound iterations': '3'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m03s
+In seconds: 3
+* Benchmark nvs09
+Path: /homes/ac4014/manyopt/MINLPLIB/INLP
+Size: 3433
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark nvs16
+Path: /homes/ac4014/manyopt/MINLPLIB/INLP
+Size: 1393
+Configuring parallel solving...done.
+Problem details
+Number of variables: 3
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: allinone.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '36', 'Solving time': '0.24', 'Naive iterations': '32', 'Total time': '0.28', 'Objective value': '0.7031', 'Naive time': '0.27', 'Branch and bound iterations': '4'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark prob02
+Path: /homes/ac4014/manyopt/MINLPLIB/IQCP
+Size: 1876
+Configuring parallel solving...done.
+Problem details
+Number of variables: 7
+Number of constraints: 9
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: bin_flattened.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '36', 'Solving time': '17.71', 'Total time': '17.76', 'Bisection iterations': '2', 'Objective value': '112235.0', 'Bisection time': '0.26', 'Bounds search iterations': '17', 'Bounds search time': '0.27'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m21s
+In seconds: 21
+* Benchmark prob03
+Path: /homes/ac4014/manyopt/MINLPLIB/IQCP
+Size: 800
+Configuring parallel solving...done.
+Problem details
+Number of variables: 3
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: bin_flattened.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '5', 'Solving time': '0.00', 'Total time': '0.03', 'Bisection iterations': '2', 'Objective value': '10.0', 'Bisection time': '0.00', 'Bounds search iterations': '3'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m03s
+In seconds: 3
+* Benchmark nvs03
+Path: /homes/ac4014/manyopt/MINLPLIB/IQCQP
+Size: 1185
+Configuring parallel solving...done.
+Problem details
+Number of variables: 3
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: bin_flattened.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '4', 'Solving time': '0.02', 'Naive iterations': '3', 'Total time': '0.06', 'Objective value': '16.0', 'Naive time': '0.03'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m03s
+In seconds: 3
+* Benchmark nvs10
+Path: /homes/ac4014/manyopt/MINLPLIB/IQCQP
+Size: 1187
+Configuring parallel solving...done.
+Problem details
+Number of variables: 3
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: bin_flattened.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '12', 'Solving time': '0.13', 'Total time': '0.19', 'Bisection iterations': 0, 'Objective value': '-310.8', 'Bisection time': 0.0, 'Bounds search iterations': '7', 'Bounds search time': '0.12'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark nvs11
+Path: /homes/ac4014/manyopt/MINLPLIB/IQCQP
+Size: 2007
+Configuring parallel solving...done.
+Problem details
+Number of variables: 4
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: bin_flattened.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '9', 'Solving time': '2.71', 'Naive iterations': '8', 'Total time': '2.72', 'Objective value': '-431.0', 'Naive time': '2.71'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m05s
+In seconds: 5
+* Benchmark nvs12
+Path: /homes/ac4014/manyopt/MINLPLIB/IQCQP
+Size: 3340
+Configuring parallel solving...done.
+Problem details
+Number of variables: 5
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: bin_flattened.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '12', 'Solving time': '992.20', 'Naive iterations': '11', 'Total time': '999.18', 'Objective value': '-481.2', 'Naive time': '999.15'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h16m43s
+In seconds: 1003
+* Benchmark nvs15
+Path: /homes/ac4014/manyopt/MINLPLIB/IQP
+Size: 1274
+Configuring parallel solving...done.
+Problem details
+Number of variables: 4
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: bin_flattened.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '4', 'Solving time': '0.02', 'Total time': '0.03', 'Bisection iterations': '1', 'Objective value': '1.0', 'Bisection time': '0.00', 'Bounds search iterations': '3'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_miqp1
+Path: /homes/ac4014/manyopt/MINLPLIB/IQP
+Size: 1394
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark st_miqp2
+Path: /homes/ac4014/manyopt/MINLPLIB/IQP
+Size: 1276
+Configuring parallel solving...done.
+Problem details
+Number of variables: 5
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: allinone.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '43', 'Solving time': '0.31', 'Total time': '0.38', 'Bisection iterations': '14', 'Objective value': '2.0', 'Bisection time': '0.27', 'Bounds search iterations': '9', 'Bounds search time': '0.08', 'Branch and bound iterations': '2'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m03s
+In seconds: 3
+* Benchmark st_miqp3
+Path: /homes/ac4014/manyopt/MINLPLIB/IQP
+Size: 962
+Configuring parallel solving...done.
+Problem details
+Number of variables: 3
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '14', 'Solving time': '0.02', 'Total time': '0.06', 'Bisection iterations': '11', 'Objective value': '-6.0', 'Bisection time': '0.01', 'Bounds search iterations': '3'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m03s
+In seconds: 3
+* Benchmark st_test1
+Path: /homes/ac4014/manyopt/MINLPLIB/IQP
+Size: 1344
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+Solution found by: bin_flattened.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '20', 'Solving time': '0.11', 'Total time': '0.14', 'Bisection iterations': '14', 'Objective value': '-32.0059', 'Bisection time': '0.10', 'Bounds search iterations': '6'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_test2
+Path: /homes/ac4014/manyopt/MINLPLIB/IQP
+Size: 1553
+Configuring parallel solving...done.
+Problem details
+Number of variables: 7
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: bin_flattened.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '3', 'Solving time': '26.04', 'Naive iterations': '2', 'Total time': '26.07', 'Objective value': '-9.25', 'Naive time': '26.05'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m28s
+In seconds: 28
+* Benchmark st_test3
+Path: /homes/ac4014/manyopt/MINLPLIB/IQP
+Size: 2684
+Configuring parallel solving...done.
+Problem details
+Number of variables: 14
+Number of constraints: 11
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: bin_flattened.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '6', 'Solving time': '41.77', 'Total time': '41.93', 'Bisection iterations': '2', 'Objective value': '-7.0', 'Bisection time': '30.86', 'Bounds search iterations': '4'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m45s
+In seconds: 45
+* Benchmark st_test4
+Path: /homes/ac4014/manyopt/MINLPLIB/IQP
+Size: 1778
+Configuring parallel solving...done.
+Problem details
+Number of variables: 7
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '14', 'Solving time': '0.06', 'Total time': '0.08', 'Bisection iterations': '11', 'Objective value': '-7.0', 'Bisection time': '0.03', 'Bounds search iterations': '3'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m04s
+In seconds: 4
+* Benchmark st_test5
+Path: /homes/ac4014/manyopt/MINLPLIB/IQP
+Size: 3397
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 12
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m47s
+In seconds: 1847
+* Benchmark st_test6
+Path: /homes/ac4014/manyopt/MINLPLIB/IQP
+Size: 2689
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m04s
+In seconds: 1804
+* Benchmark st_testgr1
+Path: /homes/ac4014/manyopt/MINLPLIB/IQP
+Size: 2726
+Configuring parallel solving...done.
+Problem details
+Number of variables: 11
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m49s
+In seconds: 1849
+* Benchmark st_testph4
+Path: /homes/ac4014/manyopt/MINLPLIB/IQP
+Size: 1813
+Configuring parallel solving...done.
+Problem details
+Number of variables: 4
+Number of constraints: 11
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: bin_flattened.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '6', 'Solving time': '0.03', 'Naive iterations': '5', 'Total time': '0.06', 'Objective value': '-80.5', 'Naive time': '0.04'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark batchdes
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 4036
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 20
+Number of constraints: 20
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+For all feature vectors the SMT solver returned UNKNOWN.
+All logs and errors for all feature vectors are reported in batchdes.log and batchdes.err
+Cleaning up...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex1221
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 1599
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+Solution found by: bin_flattened.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '4', 'Solving time': '0.13', 'Total time': '0.14', 'Bisection iterations': 0, 'Objective value': '7.6671', 'Bisection time': 0.0, 'Bounds search iterations': '3', 'Bounds search time': '0.12'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex1222
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 1376
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 4
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+For all feature vectors the SMT solver returned UNKNOWN.
+All logs and errors for all feature vectors are reported in ex1222.log and ex1222.err
+Cleaning up...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex1223b
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 2650
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark ex1223
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 3083
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark ex1224
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 2226
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark ex1225
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 2161
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 9
+Number of constraints: 11
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark ex1226
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 1961
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+Solution found by: bin_flattened.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '2', 'Solving time': '0.02', 'Total time': '0.03', 'Bisection iterations': 0, 'Objective value': '-17.0', 'Bisection time': 0.0, 'Bounds search iterations': '2', 'Bounds search time': '0.01'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark flay02m
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 2424
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 15
+Number of constraints: 12
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark gear2
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 2583
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 29
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+Solution found by: allinone.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '10', 'Solving time': '1.35', 'Naive iterations': '8', 'Total time': '1.45', 'Objective value': '0.0003', 'Naive time': '1.36', 'Branch and bound iterations': '2'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m03s
+In seconds: 3
+* Benchmark gkocis
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 2052
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark oaer
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 1956
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark procsel
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 1808
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 8
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+For all feature vectors the SMT solver returned UNKNOWN.
+All logs and errors for all feature vectors are reported in procsel.log and procsel.err
+Cleaning up...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e14
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 3083
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark st_e15
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 1599
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+Solution found by: bin_flattened.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '4', 'Solving time': '0.12', 'Total time': '0.15', 'Bisection iterations': 0, 'Objective value': '7.6671', 'Bisection time': 0.0, 'Bounds search iterations': '3', 'Bounds search time': '0.12'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e29
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 2226
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark synthes1
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 2620
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark synthes2
+Path: /homes/ac4014/manyopt/MINLPLIB/MBNLP
+Size: 3388
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark autocorr_bern20-03
+Path: /homes/ac4014/manyopt/MINLPLIB/MBQCP
+Size: 2504
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 22
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+Solution found by: bin_flattened.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '74', 'Solving time': '0.35', 'Naive iterations': '73', 'Total time': '0.41', 'Objective value': '-72.0', 'Naive time': '0.39'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark autocorr_bern25-03
+Path: /homes/ac4014/manyopt/MINLPLIB/MBQCP
+Size: 2934
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 27
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+Solution found by: bin_flattened.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '94', 'Solving time': '3.65', 'Naive iterations': '93', 'Total time': '3.78', 'Objective value': '-92.0', 'Naive time': '3.76'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m05s
+In seconds: 5
+* Benchmark sporttournament06
+Path: /homes/ac4014/manyopt/MINLPLIB/MBQCP
+Size: 2679
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 17
+Number of constraints: 2
+Optimization direction: max
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+Solution found by: bin_flattened.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '12', 'Solving time': '0.05', 'Total time': '0.07', 'Bisection iterations': '2', 'Objective value': '12.0', 'Bisection time': '0.02', 'Bounds search iterations': '5', 'Bounds search time': '0.03'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m03s
+In seconds: 3
+* Benchmark st_e13
+Path: /homes/ac4014/manyopt/MINLPLIB/MBQCP
+Size: 1038
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+Solution found by: bin_flattened.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '2', 'Solving time': '0.01', 'Naive iterations': '1', 'Total time': '0.03', 'Objective value': '2.0', 'Naive time': '0.01'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex1223a
+Path: /homes/ac4014/manyopt/MINLPLIB/MBQCQP
+Size: 2077
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 8
+Number of constraints: 10
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark fuel
+Path: /homes/ac4014/manyopt/MINLPLIB/MBQCQP
+Size: 2760
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 16
+Number of constraints: 16
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m04s
+In seconds: 1804
+* Benchmark alan
+Path: /homes/ac4014/manyopt/MINLPLIB/MBQP
+Size: 1806
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 9
+Number of constraints: 8
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+Solution found by: bin_flattened.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '7', 'Solving time': '0.06', 'Naive iterations': '6', 'Total time': '0.08', 'Objective value': '2.9252', 'Naive time': '0.06'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark gbd
+Path: /homes/ac4014/manyopt/MINLPLIB/MBQP
+Size: 1297
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+Solution found by: allinone.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '12', 'Solving time': '0.00', 'Total time': '0.03', 'Bisection iterations': '10', 'Objective value': '2.2', 'Bisection time': '0.01', 'Bounds search iterations': '2', 'Branch and bound iterations': '1'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e27
+Path: /homes/ac4014/manyopt/MINLPLIB/MBQP
+Size: 1488
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 12 feature vectors.
+Solution found by: bin_flattened.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '4', 'Solving time': '0.14', 'Total time': '0.16', 'Bisection iterations': 0, 'Objective value': '2.0', 'Bisection time': 0.0, 'Bounds search iterations': '3', 'Bounds search time': '0.14'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark gear3
+Path: /homes/ac4014/manyopt/MINLPLIB/MINLP
+Size: 1654
+Configuring parallel solving...done.
+Problem details
+Number of variables: 9
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: allinone.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '50', 'Solving time': '0.29', 'Naive iterations': '40', 'Total time': '0.37', 'Objective value': '0.0003', 'Naive time': '0.31', 'Branch and bound iterations': '10'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark gear4
+Path: /homes/ac4014/manyopt/MINLPLIB/MINLP
+Size: 1345
+Configuring parallel solving...done.
+Problem details
+Number of variables: 7
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: bin_flattened.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '52', 'Solving time': '18.97', 'Total time': '19.37', 'Bisection iterations': '10', 'Objective value': '1.6434', 'Bisection time': '19.09', 'Bounds search iterations': '17', 'Bounds search time': '0.22'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m23s
+In seconds: 23
+* Benchmark nvs01
+Path: /homes/ac4014/manyopt/MINLPLIB/MINLP
+Size: 1875
+Configuring parallel solving...done.
+Problem details
+Number of variables: 4
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: allinone.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '92', 'Solving time': '1.73', 'Total time': '1.87', 'Bisection iterations': '31', 'Objective value': '12.4696', 'Bisection time': '1.40', 'Bounds search iterations': '19', 'Bounds search time': '0.40', 'Branch and bound iterations': '4'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m04s
+In seconds: 4
+* Benchmark nvs08
+Path: /homes/ac4014/manyopt/MINLPLIB/MINLP
+Size: 1788
+Configuring parallel solving...done.
+Problem details
+Number of variables: 4
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m47s
+In seconds: 1847
+* Benchmark nvs21
+Path: /homes/ac4014/manyopt/MINLPLIB/MINLP
+Size: 1308
+Configuring parallel solving...done.
+Problem details
+Number of variables: 4
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: onebyone.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '157', 'Solving time': '1.78', 'Total time': '1.96', 'Bisection iterations': '117', 'Objective value': '-5.6844', 'Bisection time': '1.52', 'Bounds search iterations': '40', 'Branch and bound iterations': '10'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m05s
+In seconds: 5
+* Benchmark prob10
+Path: /homes/ac4014/manyopt/MINLPLIB/MINLP
+Size: 1546
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark spring
+Path: /homes/ac4014/manyopt/MINLPLIB/MINLP
+Size: 3406
+Configuring parallel solving...done.
+Problem details
+Number of variables: 18
+Number of constraints: 9
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m46s
+In seconds: 1846
+* Benchmark st_e36
+Path: /homes/ac4014/manyopt/MINLPLIB/MINLP
+Size: 3381
+Configuring parallel solving...done.
+Problem details
+Number of variables: 3
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+For all feature vectors the SMT solver returned UNKNOWN.
+All logs and errors for all feature vectors are reported in st_e36.log and st_e36.err
+Cleaning up...done.
+Total time for manyopt: 00h00m04s
+In seconds: 4
+* Benchmark st_e38
+Path: /homes/ac4014/manyopt/MINLPLIB/MINLP
+Size: 2055
+Configuring parallel solving...done.
+Problem details
+Number of variables: 5
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: allinone.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '56', 'Solving time': '2.37', 'Total time': '2.48', 'Bisection iterations': '35', 'Objective value': '7197.7277', 'Bisection time': '1.94', 'Bounds search iterations': '21', 'Branch and bound iterations': '2'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m04s
+In seconds: 4
+* Benchmark st_e40
+Path: /homes/ac4014/manyopt/MINLPLIB/MINLP
+Size: 3465
+Configuring parallel solving...done.
+Problem details
+Number of variables: 5
+Number of constraints: 9
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: bin_flattened.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '5', 'Solving time': '0.62', 'Naive iterations': '4', 'Total time': '0.67', 'Objective value': '30.4142', 'Naive time': '0.64'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m04s
+In seconds: 4
+* Benchmark windfac
+Path: /homes/ac4014/manyopt/MINLPLIB/MINLP
+Size: 3917
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark tln2
+Path: /homes/ac4014/manyopt/MINLPLIB/MIQCP
+Size: 2051
+Configuring parallel solving...done.
+Problem details
+Number of variables: 9
+Number of constraints: 13
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 18 feature vectors.
+Solution found by: bin_flattened.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '8', 'Solving time': '0.06', 'Total time': '0.08', 'Bisection iterations': 0, 'Objective value': '5.3', 'Bisection time': 0.0, 'Bounds search iterations': '5', 'Bounds search time': '0.02'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m03s
+In seconds: 3
+* Benchmark nvs02
+Path: /homes/ac4014/manyopt/MINLPLIB/MIQCQP
+Size: 1940
+Configuring parallel solving...done.
+Problem details
+Number of variables: 9
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m47s
+In seconds: 1847
+* Benchmark nvs14
+Path: /homes/ac4014/manyopt/MINLPLIB/MIQCQP
+Size: 1907
+Configuring parallel solving...done.
+Problem details
+Number of variables: 9
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m45s
+In seconds: 1845
+* Benchmark st_miqp4
+Path: /homes/ac4014/manyopt/MINLPLIB/MIQP
+Size: 1511
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 7
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m49s
+In seconds: 1849
+* Benchmark st_miqp5
+Path: /homes/ac4014/manyopt/MINLPLIB/MIQP
+Size: 3614
+Configuring parallel solving...The problem is MBNLP...done.
+Problem details
+Number of variables: 8
+Number of constraints: 14
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark alkylation
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3928
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 12
+Optimization direction: max
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark alkyl
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3052
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 15
+Number of constraints: 8
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark bearing
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 4020
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark chance
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2015
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '14', 'Solving time': '0.24', 'Total time': '0.26', 'Bisection iterations': '11', 'Objective value': '29.8946', 'Bisection time': '0.21', 'Bounds search iterations': '3'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark chem
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3506
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark ex14_1_1
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2919
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 4
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '13', 'Solving time': '1.47', 'Total time': '1.49', 'Bisection iterations': '8', 'Objective value': '0.0009', 'Bisection time': '1.44', 'Bounds search iterations': '5'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m03s
+In seconds: 3
+* Benchmark ex14_1_3
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1485
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 4
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+For all feature vectors the SMT solver returned UNKNOWN.
+All logs and errors for all feature vectors are reported in ex14_1_3.log and ex14_1_3.err
+Cleaning up...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex14_1_4
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2516
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark ex14_1_5
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1820
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 7
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '6', 'Solving time': '0.02', 'Total time': '0.04', 'Bisection iterations': '2', 'Objective value': '0.0', 'Bisection time': '0.00', 'Bounds search iterations': '4'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex14_1_8
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3237
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 4
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+For all feature vectors the SMT solver returned UNKNOWN.
+All logs and errors for all feature vectors are reported in ex14_1_8.log and ex14_1_8.err
+Cleaning up...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex14_1_9
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2053
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+For all feature vectors the SMT solver returned UNKNOWN.
+All logs and errors for all feature vectors are reported in ex14_1_9.log and ex14_1_9.err
+Cleaning up...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex4_1_1
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1333
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 2
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '4', 'Solving time': '0.02', 'Total time': '0.04', 'Bisection iterations': 0, 'Objective value': '-7.4867', 'Bisection time': 0.0, 'Bounds search iterations': '3', 'Bounds search time': '0.01'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex4_1_3
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1287
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 2
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '12', 'Solving time': '0.08', 'Naive iterations': '11', 'Total time': '0.12', 'Objective value': '-443.6709', 'Naive time': '0.10'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex4_1_4
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 986
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 2
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '6', 'Solving time': '0.02', 'Naive iterations': '5', 'Total time': '0.05', 'Objective value': '0.0', 'Naive time': '0.03'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex4_1_5
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1224
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '31', 'Solving time': '0.15', 'Total time': '0.18', 'Bisection iterations': '19', 'Objective value': '0.0', 'Bisection time': '0.10', 'Bounds search iterations': '12'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex4_1_6
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1005
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 2
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '3', 'Solving time': '0.00', 'Naive iterations': '2', 'Total time': '0.03', 'Objective value': '7.0', 'Naive time': '0.01'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark ex4_1_7
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1085
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 2
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '5', 'Solving time': '0.02', 'Naive iterations': '4', 'Total time': '0.04', 'Objective value': '-7.5', 'Naive time': '0.02'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex4_1_8
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1216
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '5', 'Solving time': '0.03', 'Naive iterations': '4', 'Total time': '0.05', 'Objective value': '-16.7388', 'Naive time': '0.03'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex4_1_9
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1856
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '16', 'Solving time': '0.06', 'Total time': '0.11', 'Bisection iterations': '5', 'Objective value': '-5.5078', 'Bisection time': '0.06', 'Bounds search iterations': '4', 'Bounds search time': '0.03'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex5_4_3
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3729
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 17
+Number of constraints: 14
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark ex6_1_1
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3126
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark ex6_1_2
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1977
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark ex6_1_4
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3010
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark ex7_2_2
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1821
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 7
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '12', 'Solving time': '123.07', 'Naive iterations': '11', 'Total time': '123.11', 'Objective value': '-0.3885', 'Naive time': '123.09'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h02m05s
+In seconds: 125
+* Benchmark ex7_2_3
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2819
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 9
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark ex7_2_4
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3037
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 9
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark ex7_3_1
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3444
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 8
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '60', 'Solving time': '5.57', 'Naive iterations': '59', 'Total time': '5.67', 'Objective value': '0.3427', 'Naive time': '5.64'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m07s
+In seconds: 7
+* Benchmark ex7_3_2
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1787
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 8
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '15', 'Solving time': '0.11', 'Total time': '0.14', 'Bisection iterations': '11', 'Objective value': '1.0903', 'Bisection time': '0.11', 'Bounds search iterations': '4'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex8_1_1
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 941
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark ex8_1_2
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2650
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark ex8_1_3
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2186
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '10', 'Solving time': '0.28', 'Total time': '0.30', 'Bisection iterations': 0, 'Objective value': '3.0', 'Bisection time': 0.0, 'Bounds search iterations': '6', 'Bounds search time': '0.28'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark ex8_1_4
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1236
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '2', 'Solving time': '0.00', 'Total time': '0.03', 'Bisection iterations': 0, 'Objective value': '0.0', 'Bisection time': 0.0, 'Bounds search iterations': '2', 'Bounds search time': '0.01'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark ex8_1_5
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1397
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '12', 'Solving time': '0.18', 'Total time': '0.21', 'Bisection iterations': '9', 'Objective value': '-1.0312', 'Bisection time': '0.17', 'Bounds search iterations': '3'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex8_1_6
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1550
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '5', 'Solving time': '0.08', 'Naive iterations': '4', 'Total time': '0.11', 'Objective value': '-10.086', 'Naive time': '0.09'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex8_1_7
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2444
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark ex8_5_1
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3011
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark ex8_5_2
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3051
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark ex8_5_3
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2736
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark ex8_5_4
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2730
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark ex8_5_5
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3262
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark ex8_5_6
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3664
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark filter
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1825
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark hs62
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2436
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark least
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2223
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 4
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+For all feature vectors the SMT solver returned UNKNOWN.
+All logs and errors for all feature vectors are reported in least.log and least.err
+Cleaning up...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark mathopt1
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1422
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '18', 'Solving time': '0.09', 'Naive iterations': '17', 'Total time': '0.12', 'Objective value': '0.0', 'Naive time': '0.10'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark mathopt2
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1658
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '2', 'Solving time': '0.01', 'Total time': '0.02', 'Bisection iterations': 0, 'Objective value': '0.0', 'Bisection time': 0.0, 'Bounds search iterations': '2', 'Bounds search time': '0.00'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark mathopt3
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3430
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark mathopt4
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1768
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark mathopt5_1
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 806
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark mathopt5_2
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 815
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark mathopt5_3
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 827
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark mathopt5_4
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1176
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 2
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '4', 'Solving time': '0.02', 'Total time': '0.04', 'Bisection iterations': 0, 'Objective value': '0.0', 'Bisection time': 0.0, 'Bounds search iterations': '3', 'Bounds search time': '0.01'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark mathopt5_5
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1552
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark mathopt5_6
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 885
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark mathopt5_7
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1345
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 2
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '11', 'Solving time': '0.08', 'Naive iterations': '10', 'Total time': '0.10', 'Objective value': '-4.4365', 'Naive time': '0.09'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark mathopt5_8
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1097
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 2
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '6', 'Solving time': '0.03', 'Naive iterations': '5', 'Total time': '0.05', 'Objective value': '-0.6857', 'Naive time': '0.03'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark mathopt6
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1477
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark mhw4d
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2077
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark prob09
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1239
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 4
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '4', 'Solving time': '0.02', 'Naive iterations': '3', 'Total time': '0.04', 'Objective value': '0.0', 'Naive time': '0.02'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark process
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2731
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 8
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark rbrock
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 970
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 1
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '42', 'Solving time': '0.19', 'Total time': '0.24', 'Bisection iterations': '23', 'Objective value': '0.0', 'Bisection time': '0.13', 'Bounds search iterations': '19'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark sample
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1614
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark st_e03
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2731
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 8
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark st_e04
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1783
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+For all feature vectors the SMT solver returned UNKNOWN.
+All logs and errors for all feature vectors are reported in st_e04.log and st_e04.err
+Cleaning up...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e06
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1330
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 4
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '2', 'Solving time': '0.01', 'Total time': '0.02', 'Bisection iterations': 0, 'Objective value': '0.0', 'Bisection time': 0.0, 'Bounds search iterations': '2', 'Bounds search time': '0.00'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e11
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1474
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 4
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '9', 'Solving time': '1.69', 'Naive iterations': '8', 'Total time': '1.72', 'Objective value': '189.3116', 'Naive time': '1.69'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m03s
+In seconds: 3
+* Benchmark st_e12
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1443
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '16', 'Solving time': '1.86', 'Total time': '1.88', 'Bisection iterations': '12', 'Objective value': '-4.5139', 'Bisection time': '1.68', 'Bounds search iterations': '4'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m04s
+In seconds: 4
+* Benchmark st_e16
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 3816
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 13
+Number of constraints: 10
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark st_e17
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 981
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '18', 'Solving time': '0.07', 'Total time': '0.10', 'Bisection iterations': '13', 'Objective value': '376.2924', 'Bisection time': '0.06', 'Bounds search iterations': '5'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e19
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1508
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '22', 'Solving time': '0.18', 'Total time': '0.20', 'Bisection iterations': '15', 'Objective value': '-118.7046', 'Bisection time': '0.14', 'Bounds search iterations': '7'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e21
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1831
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 7
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark st_e41
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 2883
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m04s
+In seconds: 1804
+* Benchmark trig
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1300
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark trigx
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1719
+Configuring parallel solving...
+Errors encountered during the OSiL parsing: unsupported non-linear operator? (e.g. transcendental function)
+Cleaning up...done.
+Exiting...
+Total time for manyopt: 00h00m00s
+In seconds: 0
+* Benchmark wall
+Path: /homes/ac4014/manyopt/MINLPLIB/NLP
+Size: 1805
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 7
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark circle
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 3516
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 4
+Number of constraints: 11
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '13', 'Solving time': '3.45', 'Total time': '3.48', 'Bisection iterations': '9', 'Objective value': '4.5751', 'Bisection time': '2.67', 'Bounds search iterations': '4'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m05s
+In seconds: 5
+* Benchmark ex14_1_6
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 3662
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 10
+Number of constraints: 16
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark ex3_1_1
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1868
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 9
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '25', 'Solving time': '0.31', 'Total time': '0.33', 'Bisection iterations': '16', 'Objective value': '7049.2485', 'Bisection time': '0.22', 'Bounds search iterations': '9'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex3_1_4
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1451
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 4
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '14', 'Solving time': '0.16', 'Total time': '0.19', 'Bisection iterations': '11', 'Objective value': '-3.9997', 'Bisection time': '0.16', 'Bounds search iterations': '3'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex5_2_2_case1
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1895
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 10
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '28', 'Solving time': '0.48', 'Total time': '0.50', 'Bisection iterations': '18', 'Objective value': '-399.9995', 'Bisection time': '0.38', 'Bounds search iterations': '10'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex5_2_2_case2
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1895
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 10
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '30', 'Solving time': '0.42', 'Total time': '0.43', 'Bisection iterations': '19', 'Objective value': '-599.9997', 'Bisection time': '0.28', 'Bounds search iterations': '11'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex5_2_2_case3
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1895
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 10
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '30', 'Solving time': '0.47', 'Total time': '0.52', 'Bisection iterations': '19', 'Objective value': '-749.9996', 'Bisection time': '0.40', 'Bounds search iterations': '11'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex5_3_2
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 3215
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 23
+Number of constraints: 17
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '12', 'Solving time': '52.57', 'Total time': '52.60', 'Bisection iterations': '10', 'Objective value': '1.8647', 'Bisection time': '52.57', 'Bounds search iterations': '2'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m54s
+In seconds: 54
+* Benchmark ex5_4_2
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1862
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 9
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '20', 'Solving time': '0.41', 'Total time': '0.45', 'Bisection iterations': '14', 'Objective value': '7512.2304', 'Bisection time': '0.34', 'Bounds search iterations': '6'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex7_3_3
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1794
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 9
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark ex9_1_1
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 2167
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 14
+Number of constraints: 13
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '9', 'Solving time': '0.00', 'Naive iterations': '8', 'Total time': '0.03', 'Objective value': '-13.0', 'Naive time': '0.01'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex9_1_2
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1780
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 10
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '4', 'Solving time': '0.00', 'Naive iterations': '3', 'Total time': '0.03', 'Objective value': '-16.0', 'Naive time': '0.01'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex9_1_4
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1865
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 10
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '3', 'Solving time': '0.02', 'Naive iterations': '2', 'Total time': '0.04', 'Objective value': '-37.0', 'Naive time': '0.02'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex9_1_5
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 2076
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 14
+Number of constraints: 13
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '4', 'Solving time': '0.00', 'Total time': '0.02', 'Bisection iterations': 0, 'Objective value': '-1.0', 'Bisection time': 0.0, 'Bounds search iterations': '3', 'Bounds search time': '0.00'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex9_1_8
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 2166
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 15
+Number of constraints: 13
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '4', 'Solving time': '0.01', 'Naive iterations': '3', 'Total time': '0.02', 'Objective value': '-3.25', 'Naive time': '0.01'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark ex9_2_3
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 2712
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 17
+Number of constraints: 16
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '18', 'Solving time': '0.36', 'Total time': '0.38', 'Bisection iterations': '13', 'Objective value': '0.0002', 'Bisection time': '0.27', 'Bounds search iterations': '5'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark haverly
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 2124
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 13
+Number of constraints: 10
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '28', 'Solving time': '0.58', 'Total time': '0.62', 'Bisection iterations': '18', 'Objective value': '-399.9997', 'Bisection time': '0.45', 'Bounds search iterations': '10'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark house
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1908
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 9
+Number of constraints: 9
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '32', 'Solving time': '0.98', 'Total time': '1.03', 'Bisection iterations': '20', 'Objective value': '-4499.9999', 'Bisection time': '0.78', 'Bounds search iterations': '12'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m03s
+In seconds: 3
+* Benchmark kall_congruentcircles_c31
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 3101
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 17
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark kall_congruentcircles_c32
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 3098
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 17
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark pointpack02
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1437
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 4
+Optimization direction: max
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '14', 'Solving time': '0.17', 'Total time': '0.18', 'Bisection iterations': '11', 'Objective value': '1.9999', 'Bisection time': '0.16', 'Bounds search iterations': '3'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark pointpack04
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 3376
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 10
+Number of constraints: 11
+Optimization direction: max
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark prob06
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1268
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark st_e01
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 785
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '16', 'Solving time': '253.42', 'Total time': '253.46', 'Bisection iterations': '12', 'Objective value': '-6.666', 'Bisection time': '237.04', 'Bounds search iterations': '4'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h04m15s
+In seconds: 255
+* Benchmark st_e02
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1383
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 4
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '2', 'Solving time': '0.04', 'Naive iterations': '1', 'Total time': '0.06', 'Objective value': '201.1593', 'Naive time': '0.04'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e05
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1390
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '34', 'Solving time': '0.83', 'Total time': '0.85', 'Bisection iterations': '21', 'Objective value': '7049.2495', 'Bisection time': '0.69', 'Bounds search iterations': '13'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e07
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1959
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 8
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '53', 'Solving time': '205.10', 'Total time': '205.15', 'Bisection iterations': '17', 'Objective value': '-399.9997', 'Bisection time': '205.10', 'Bounds search iterations': '10', 'Bounds search time': '0.03'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h03m27s
+In seconds: 207
+* Benchmark st_e08
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 914
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '12', 'Solving time': '0.06', 'Total time': '0.09', 'Bisection iterations': '10', 'Objective value': '0.7419', 'Bisection time': '0.06', 'Bounds search iterations': '2'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e18
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1287
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '12', 'Solving time': '0.06', 'Total time': '0.08', 'Bisection iterations': '10', 'Objective value': '-2.8283', 'Bisection time': '0.06', 'Bounds search iterations': '2'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e30
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 2509
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 15
+Number of constraints: 16
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '14', 'Solving time': '23.73', 'Total time': '23.75', 'Bisection iterations': '11', 'Objective value': '-1.581', 'Bisection time': '22.33', 'Bounds search iterations': '3'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m25s
+In seconds: 25
+* Benchmark st_e33
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1888
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 10
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '28', 'Solving time': '193.08', 'Total time': '193.14', 'Bisection iterations': '18', 'Objective value': '-399.9997', 'Bisection time': '166.54', 'Bounds search iterations': '10'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h03m15s
+In seconds: 195
+* Benchmark st_e34
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 2144
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 7
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '6', 'Solving time': '0.02', 'Naive iterations': '5', 'Total time': '0.03', 'Objective value': '0.0156', 'Naive time': '0.02'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e42
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 1384
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 8
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark st_robot
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 2334
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 9
+Number of constraints: 9
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark wastewater02m1
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 3075
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 20
+Number of constraints: 15
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '97', 'Solving time': '309.32', 'Naive iterations': '96', 'Total time': '309.38', 'Objective value': '130.7026', 'Naive time': '309.36'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h05m11s
+In seconds: 311
+* Benchmark wastewater04m1
+Path: /homes/ac4014/manyopt/MINLPLIB/QCP
+Size: 4079
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 24
+Number of constraints: 22
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark dispatch
+Path: /homes/ac4014/manyopt/MINLPLIB/QCQP
+Size: 1750
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '69', 'Solving time': '38.64', 'Naive iterations': '68', 'Total time': '38.77', 'Objective value': '3155.2883', 'Naive time': '38.74'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m40s
+In seconds: 40
+* Benchmark ex3_1_2
+Path: /homes/ac4014/manyopt/MINLPLIB/QCQP
+Size: 2206
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark ex3_1_3
+Path: /homes/ac4014/manyopt/MINLPLIB/QCQP
+Size: 1858
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 7
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark ex5_2_4
+Path: /homes/ac4014/manyopt/MINLPLIB/QCQP
+Size: 2128
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 8
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '28', 'Solving time': '0.76', 'Total time': '0.79', 'Bisection iterations': '18', 'Objective value': '-449.9992', 'Bisection time': '0.56', 'Bounds search iterations': '10'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex9_2_2
+Path: /homes/ac4014/manyopt/MINLPLIB/QCQP
+Size: 2071
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 12
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark ex9_2_4
+Path: /homes/ac4014/manyopt/MINLPLIB/QCQP
+Size: 1712
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 9
+Number of constraints: 8
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '3', 'Solving time': '0.02', 'Naive iterations': '2', 'Total time': '0.04', 'Objective value': '0.5', 'Naive time': '0.02'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark ex9_2_5
+Path: /homes/ac4014/manyopt/MINLPLIB/QCQP
+Size: 1755
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 9
+Number of constraints: 8
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark ex9_2_6
+Path: /homes/ac4014/manyopt/MINLPLIB/QCQP
+Size: 2437
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 17
+Number of constraints: 13
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '12', 'Solving time': '0.31', 'Total time': '0.34', 'Bisection iterations': '10', 'Objective value': '-0.9992', 'Bisection time': '0.31', 'Bounds search iterations': '2'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark ex9_2_7
+Path: /homes/ac4014/manyopt/MINLPLIB/QCQP
+Size: 2003
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 10
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark ex9_2_8
+Path: /homes/ac4014/manyopt/MINLPLIB/QCQP
+Size: 1447
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 7
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '3', 'Solving time': '0.01', 'Total time': '0.03', 'Bisection iterations': '1', 'Objective value': '1.5', 'Bisection time': '0.00', 'Bounds search iterations': '2'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark himmel11
+Path: /homes/ac4014/manyopt/MINLPLIB/QCQP
+Size: 2153
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 10
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark st_e09
+Path: /homes/ac4014/manyopt/MINLPLIB/QCQP
+Size: 986
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '10', 'Solving time': '0.04', 'Total time': '0.06', 'Bisection iterations': '8', 'Objective value': '-0.499', 'Bisection time': '0.04', 'Bounds search iterations': '2'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e28
+Path: /homes/ac4014/manyopt/MINLPLIB/QCQP
+Size: 2151
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 10
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark ex2_1_1
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1374
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark ex2_1_2
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1514
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 7
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark ex2_1_3
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 2444
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 14
+Number of constraints: 10
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '33', 'Solving time': '19.71', 'Total time': '19.77', 'Bisection iterations': '12', 'Objective value': '-14.999', 'Bisection time': '19.64', 'Bounds search iterations': '5', 'Bounds search time': '0.10'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m21s
+In seconds: 21
+* Benchmark ex2_1_4
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1668
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 7
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '3', 'Solving time': '0.01', 'Naive iterations': '2', 'Total time': '0.03', 'Objective value': '-11.0', 'Naive time': '0.01'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark ex2_1_5
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 3335
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 12
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark ex2_1_6
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 2629
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark ex2_1_8
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 3840
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 25
+Number of constraints: 11
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark ex2_1_9
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 2177
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark immun
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 3470
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 22
+Number of constraints: 8
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '76', 'Solving time': '24.21', 'Total time': '24.26', 'Bisection iterations': '41', 'Objective value': '0.0', 'Bisection time': '13.42', 'Bounds search iterations': '35'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m26s
+In seconds: 26
+* Benchmark meanvar
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 2789
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 9
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark nemhaus
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1520
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '2', 'Solving time': '0.01', 'Total time': '0.02', 'Bisection iterations': 0, 'Objective value': '31.0', 'Bisection time': 0.0, 'Bounds search iterations': '2', 'Bounds search time': '0.00'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark sambal
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 3588
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 18
+Number of constraints: 11
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '30', 'Solving time': '219.76', 'Total time': '219.78', 'Bisection iterations': '19', 'Objective value': '3.9686', 'Bisection time': '218.99', 'Bounds search iterations': '11'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h03m41s
+In seconds: 221
+* Benchmark st_bpaf1a
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 2599
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 11
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark st_bpaf1b
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 2601
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 11
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '22', 'Solving time': '0.35', 'Total time': '0.39', 'Bisection iterations': '15', 'Objective value': '-42.9625', 'Bisection time': '0.33', 'Bounds search iterations': '7'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_bpk1
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1515
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '18', 'Solving time': '0.13', 'Total time': '0.14', 'Bisection iterations': '13', 'Objective value': '-12.9994', 'Bisection time': '0.10', 'Bounds search iterations': '5'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_bpv1
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1230
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '25', 'Solving time': '0.00', 'Total time': '0.04', 'Bisection iterations': '16', 'Objective value': '10.0', 'Bisection time': '0.01', 'Bounds search iterations': '9'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark st_bpv2
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1344
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '18', 'Solving time': '0.06', 'Total time': '0.08', 'Bisection iterations': '13', 'Objective value': '-7.9994', 'Bisection time': '0.05', 'Bounds search iterations': '5'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_bsj2
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1433
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 4
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '16', 'Solving time': '0.40', 'Total time': '0.41', 'Bisection iterations': '7', 'Objective value': '1.0005', 'Bisection time': '0.35', 'Bounds search iterations': '2', 'Bounds search time': '0.04'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_bsj3
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1451
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 7
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '44', 'Solving time': '5.15', 'Total time': '5.22', 'Bisection iterations': '26', 'Objective value': '-86768.5498', 'Bisection time': '5.07', 'Bounds search iterations': '18'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m08s
+In seconds: 8
+* Benchmark st_bsj4
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1704
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 7
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark st_cqpf
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1567
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 7
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '4', 'Solving time': '0.01', 'Total time': '0.03', 'Bisection iterations': '1', 'Objective value': '-2.75', 'Bisection time': '0.00', 'Bounds search iterations': '2', 'Bounds search time': '0.00'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m01s
+In seconds: 1
+* Benchmark st_cqpjk1
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1353
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark st_cqpjk2
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1139
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 4
+Number of constraints: 2
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '13', 'Solving time': '0.06', 'Total time': '0.08', 'Bisection iterations': '10', 'Objective value': '-12.499', 'Bisection time': '0.05', 'Bounds search iterations': '3'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e22
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1278
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 6
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '20', 'Solving time': '0.11', 'Total time': '0.14', 'Bisection iterations': '13', 'Objective value': '-84.9998', 'Bisection time': '0.08', 'Bounds search iterations': '7'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_e23
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1062
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 3
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark st_e24
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1274
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark st_e25
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 2674
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 9
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '75', 'Solving time': '35.62', 'Naive iterations': '74', 'Total time': '35.69', 'Objective value': '0.8908', 'Naive time': '35.67'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m37s
+In seconds: 37
+* Benchmark st_e26
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1276
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 5
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '18', 'Solving time': '0.11', 'Total time': '0.12', 'Bisection iterations': '2', 'Objective value': '-185.7792', 'Bisection time': '0.01', 'Bounds search iterations': '8', 'Bounds search time': '0.09'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_glmp_fp1
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1582
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 9
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '18', 'Solving time': '453.69', 'Total time': '453.75', 'Bisection iterations': '12', 'Objective value': '10.0', 'Bisection time': '221.68', 'Bounds search iterations': '6'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h07m35s
+In seconds: 455
+* Benchmark st_glmp_fp2
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1650
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 10
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark st_glmp_fp3
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1577
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 9
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '4', 'Solving time': '0.01', 'Total time': '0.02', 'Bisection iterations': 0, 'Objective value': '-12.0', 'Bisection time': 0.0, 'Bounds search iterations': '3', 'Bounds search time': '0.00'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_glmp_kk90
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1562
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 8
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '16', 'Solving time': '405.05', 'Total time': '405.09', 'Bisection iterations': '12', 'Objective value': '3.0001', 'Bisection time': '405.04', 'Bounds search iterations': '4'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h06m47s
+In seconds: 407
+* Benchmark st_glmp_kk92
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1577
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 5
+Number of constraints: 9
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.hyb
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '6', 'Solving time': '0.04', 'Total time': '0.05', 'Bisection iterations': 0, 'Objective value': '-12.0', 'Bisection time': 0.0, 'Bounds search iterations': '4', 'Bounds search time': '0.03'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_glmp_kky
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 2206
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 8
+Number of constraints: 14
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '46', 'Solving time': '827.40', 'Naive iterations': '45', 'Total time': '827.46', 'Objective value': '-2.4998', 'Naive time': '827.44'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h13m48s
+In seconds: 828
+* Benchmark st_glmp_ss1
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1841
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 12
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.nve
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '115', 'Solving time': '901.45', 'Naive iterations': '114', 'Total time': '901.52', 'Objective value': '-24.5705', 'Naive time': '901.50'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h15m03s
+In seconds: 903
+* Benchmark st_glmp_ss2
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1638
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 6
+Number of constraints: 9
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark st_ht
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 1178
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 3
+Number of constraints: 4
+Optimization direction: min
+Running parallel solving...done.
+Terminating all remaining feature vectors...done.
+manyopt has executed 3 feature vectors.
+Solution found by: nobb.ubs
+ Verbosity level: 1
+ STATISTICS
+ {'Solver calls': '14', 'Solving time': '0.08', 'Total time': '0.10', 'Bisection iterations': '11', 'Objective value': '-1.5997', 'Bisection time': '0.07', 'Bounds search iterations': '3'}
+Cleaning temporary files...done.
+Total time for manyopt: 00h00m02s
+In seconds: 2
+* Benchmark st_iqpbk1
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 3617
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 9
+Number of constraints: 8
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
+* Benchmark st_iqpbk2
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 3623
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 9
+Number of constraints: 8
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m03s
+In seconds: 1803
+* Benchmark st_jcbpaf2
+Path: /homes/ac4014/manyopt/MINLPLIB/QP
+Size: 3548
+Configuring parallel solving...The problem is NLP...done.
+Problem details
+Number of variables: 11
+Number of constraints: 14
+Optimization direction: min
+Running parallel solving...
+No methods have found a solution within the timeout.
+Cleaning up...done.
+Total time for manyopt: 00h30m02s
+In seconds: 1802
