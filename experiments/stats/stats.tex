@@ -10,41 +10,41 @@
 \begin{tabular}{|l|l|r|r|r|r|r|r|r|} \hline
 \thead{Benchmark} & \thead{Category} & \thead{\#Var} & \thead{\#Con} & \thead{Found \\ objective} & \thead{Solved by} & \thead{Solver \\ calls} & \thead{Solving \\ time} & \thead{Total \\ time}\\ \hline 
 \rule{0pt}{3ex}\hspace{\negspace}
-gear & INLP & 5 & 1 & 0.0007 & allinone.ubs & 48 & 0.19 & 0.28 \\
-nvs04 & INLP & 3 & 1 & 0.72 & allinone.ubs & 55 & 0.32 & 0.38 \\
-nvs06 & INLP & 3 & 1 & 1.7703 & onebyone.nve & 28 & 0.40 & 0.47 \\
-nvs07 & INLP & 4 & 3 & 4.0 & allinone.hyb & 37 & 0.23 & 0.29 \\
-nvs16 & INLP & 3 & 1 & 0.7031 & allinone.nve & 36 & 0.24 & 0.28 \\
-prob02 & IQCP & 7 & 9 & 112235.0 & bin\_flattened.hyb & 36 & 17.71 & 17.76 \\
-prob03 & IQCP & 3 & 2 & 10.0 & bin\_flattened.ubs & 5 & 0.00 & 0.03 \\
-nvs03 & IQCQP & 3 & 3 & 16.0 & bin\_flattened.nve & 4 & 0.02 & 0.06 \\
-nvs10 & IQCQP & 3 & 3 & -310.8 & bin\_flattened.hyb & 12 & 0.13 & 0.19 \\
-nvs11 & IQCQP & 4 & 4 & -431.0 & bin\_flattened.nve & 9 & 2.71 & 2.72 \\
-nvs12 & IQCQP & 5 & 5 & -481.2 & bin\_flattened.nve & 12 & 992.20 & 999.18 \\
-nvs15 & IQP & 4 & 2 & 1.0 & bin\_flattened.ubs & 4 & 0.02 & 0.03 \\
-st\_miqp2 & IQP & 5 & 4 & 2.0 & allinone.hyb & 43 & 0.31 & 0.38 \\
-st\_miqp3 & IQP & 3 & 2 & -6.0 & nobb.ubs & 14 & 0.02 & 0.06 \\
-st\_test1 & IQP & 6 & 2 & -32.0059 & bin\_flattened.ubs & 20 & 0.11 & 0.14 \\
-st\_test2 & IQP & 7 & 3 & -9.25 & bin\_flattened.nve & 3 & 26.04 & 26.07 \\
-st\_test3 & IQP & 14 & 11 & -7.0 & bin\_flattened.ubs & 6 & 41.77 & 41.93 \\
-st\_test4 & IQP & 7 & 6 & -7.0 & nobb.ubs & 14 & 0.06 & 0.08 \\
-st\_testph4 & IQP & 4 & 11 & -80.5 & bin\_flattened.nve & 6 & 0.03 & 0.06 \\
-ex1221 & MBNLP & 6 & 6 & 7.6671 & bin\_flattened.hyb & 4 & 0.13 & 0.14 \\
-ex1226 & MBNLP & 6 & 6 & -17.0 & bin\_flattened.hyb & 2 & 0.02 & 0.03 \\
-gear2 & MBNLP & 29 & 5 & 0.0003 & allinone.nve & 10 & 1.35 & 1.45 \\
-st\_e15 & MBNLP & 6 & 6 & 7.6671 & bin\_flattened.hyb & 4 & 0.12 & 0.15 \\
-autocorr\_bern20-03 & MBQCP & 22 & 2 & -72.0 & bin\_flattened.nve & 74 & 0.35 & 0.41 \\
-autocorr\_bern25-03 & MBQCP & 27 & 2 & -92.0 & bin\_flattened.nve & 94 & 3.65 & 3.78 \\
-sporttournament06 & MBQCP & 17 & 2 & 12.0 & bin\_flattened.hyb & 12 & 0.05 & 0.07 \\
-st\_e13 & MBQCP & 3 & 3 & 2.0 & bin\_flattened.nve & 2 & 0.01 & 0.03 \\
-alan & MBQP & 9 & 8 & 2.9252 & bin\_flattened.nve & 7 & 0.06 & 0.08 \\
-gbd & MBQP & 5 & 5 & 2.2 & allinone.ubs & 12 & 0.00 & 0.03 \\
-st\_e27 & MBQP & 5 & 7 & 2.0 & bin\_flattened.hyb & 4 & 0.14 & 0.16 \\
-gear3 & MINLP & 9 & 5 & 0.0003 & allinone.nve & 50 & 0.29 & 0.37 \\
-gear4 & MINLP & 7 & 2 & 1.6434 & bin\_flattened.hyb & 52 & 18.97 & 19.37 \\
-nvs01 & MINLP & 4 & 4 & 12.4696 & allinone.hyb & 92 & 1.73 & 1.87 \\
-nvs21 & MINLP & 4 & 3 & -5.6844 & onebyone.ubs & 157 & 1.78 & 1.96 \\
-st\_e38 & MINLP & 5 & 4 & 7197.7277 & allinone.ubs & 56 & 2.37 & 2.48 \\
+gear & INLP & 5 & 1 & 0.0007 & all-in-one + UBS & 48 & 0.19 & 0.28 \\
+nvs04 & INLP & 3 & 1 & 0.72 & all-in-one + UBS & 55 & 0.32 & 0.38 \\
+nvs06 & INLP & 3 & 1 & 1.7703 & one-by-one + naive & 28 & 0.40 & 0.47 \\
+nvs07 & INLP & 4 & 3 & 4.0 & all-in-one + hybrid & 37 & 0.23 & 0.29 \\
+nvs16 & INLP & 3 & 1 & 0.7031 & all-in-one + naive & 36 & 0.24 & 0.28 \\
+prob02 & IQCP & 7 & 9 & 112235.0 & bin-flattening + hybrid & 36 & 17.71 & 17.76 \\
+prob03 & IQCP & 3 & 2 & 10.0 & bin-flattening + UBS & 5 & 0.00 & 0.03 \\
+nvs03 & IQCQP & 3 & 3 & 16.0 & bin-flattening + naive & 4 & 0.02 & 0.06 \\
+nvs10 & IQCQP & 3 & 3 & -310.8 & bin-flattening + hybrid & 12 & 0.13 & 0.19 \\
+nvs11 & IQCQP & 4 & 4 & -431.0 & bin-flattening + naive & 9 & 2.71 & 2.72 \\
+nvs12 & IQCQP & 5 & 5 & -481.2 & bin-flattening + naive & 12 & 992.20 & 999.18 \\
+nvs15 & IQP & 4 & 2 & 1.0 & bin-flattening + UBS & 4 & 0.02 & 0.03 \\
+st\_miqp2 & IQP & 5 & 4 & 2.0 & all-in-one + hybrid & 43 & 0.31 & 0.38 \\
+st\_miqp3 & IQP & 3 & 2 & -6.0 & UBS & 14 & 0.02 & 0.06 \\
+st\_test1 & IQP & 6 & 2 & -32.0059 & bin-flattening + UBS & 20 & 0.11 & 0.14 \\
+st\_test2 & IQP & 7 & 3 & -9.25 & bin-flattening + naive & 3 & 26.04 & 26.07 \\
+st\_test3 & IQP & 14 & 11 & -7.0 & bin-flattening + UBS & 6 & 41.77 & 41.93 \\
+st\_test4 & IQP & 7 & 6 & -7.0 & UBS & 14 & 0.06 & 0.08 \\
+st\_testph4 & IQP & 4 & 11 & -80.5 & bin-flattening + naive & 6 & 0.03 & 0.06 \\
+ex1221 & MBNLP & 6 & 6 & 7.6671 & bin-flattening + hybrid & 4 & 0.13 & 0.14 \\
+ex1226 & MBNLP & 6 & 6 & -17.0 & bin-flattening + hybrid & 2 & 0.02 & 0.03 \\
+gear2 & MBNLP & 29 & 5 & 0.0003 & all-in-one + naive & 10 & 1.35 & 1.45 \\
+st\_e15 & MBNLP & 6 & 6 & 7.6671 & bin-flattening + hybrid & 4 & 0.12 & 0.15 \\
+autocorr\_bern20-03 & MBQCP & 22 & 2 & -72.0 & bin-flattening + naive & 74 & 0.35 & 0.41 \\
+autocorr\_bern25-03 & MBQCP & 27 & 2 & -92.0 & bin-flattening + naive & 94 & 3.65 & 3.78 \\
+sporttournament06 & MBQCP & 17 & 2 & 12.0 & bin-flattening + hybrid & 12 & 0.05 & 0.07 \\
+st\_e13 & MBQCP & 3 & 3 & 2.0 & bin-flattening + naive & 2 & 0.01 & 0.03 \\
+alan & MBQP & 9 & 8 & 2.9252 & bin-flattening + naive & 7 & 0.06 & 0.08 \\
+gbd & MBQP & 5 & 5 & 2.2 & all-in-one + UBS & 12 & 0.00 & 0.03 \\
+st\_e27 & MBQP & 5 & 7 & 2.0 & bin-flattening + hybrid & 4 & 0.14 & 0.16 \\
+gear3 & MINLP & 9 & 5 & 0.0003 & all-in-one + naive & 50 & 0.29 & 0.37 \\
+gear4 & MINLP & 7 & 2 & 1.6434 & bin-flattening + hybrid & 52 & 18.97 & 19.37 \\
+nvs01 & MINLP & 4 & 4 & 12.4696 & all-in-one + hybrid & 92 & 1.73 & 1.87 \\
+nvs21 & MINLP & 4 & 3 & -5.6844 & one-by-one + UBS & 157 & 1.78 & 1.96 \\
+st\_e38 & MINLP & 5 & 4 & 7197.7277 & all-in-one + UBS & 56 & 2.37 & 2.48 \\
 \hline  \end{tabular}
 \end{center}
 \newpage
@@ -52,42 +52,42 @@ st\_e38 & MINLP & 5 & 4 & 7197.7277 & allinone.ubs & 56 & 2.37 & 2.48 \\
 \begin{tabular}{|l|l|r|r|r|r|r|r|r|} \hline
 \thead{Benchmark} & \thead{Category} & \thead{\#Var} & \thead{\#Con} & \thead{Found \\ objective} & \thead{Solved by} & \thead{Solver \\ calls} & \thead{Solving \\ time} & \thead{Total \\ time}\\ \hline 
 \rule{0pt}{3ex}\hspace{\negspace}
-st\_e40 & MINLP & 5 & 9 & 30.4142 & bin\_flattened.nve & 5 & 0.62 & 0.67 \\
-tln2 & MIQCP & 9 & 13 & 5.3 & bin\_flattened.hyb & 8 & 0.06 & 0.08 \\
-chance & NLP & 5 & 4 & 29.8946 & nobb.ubs & 14 & 0.24 & 0.26 \\
-ex14\_1\_1 & NLP & 4 & 5 & 0.0009 & nobb.ubs & 13 & 1.47 & 1.49 \\
-ex14\_1\_5 & NLP & 7 & 7 & 0.0 & nobb.ubs & 6 & 0.02 & 0.04 \\
-ex4\_1\_1 & NLP & 2 & 1 & -7.4867 & nobb.hyb & 4 & 0.02 & 0.04 \\
-ex4\_1\_3 & NLP & 2 & 1 & -443.6709 & nobb.nve & 12 & 0.08 & 0.12 \\
-ex4\_1\_4 & NLP & 2 & 1 & 0.0 & nobb.nve & 6 & 0.02 & 0.05 \\
-ex4\_1\_5 & NLP & 3 & 1 & 0.0 & nobb.ubs & 31 & 0.15 & 0.18 \\
-ex4\_1\_6 & NLP & 2 & 1 & 7.0 & nobb.nve & 3 & 0.00 & 0.03 \\
-ex4\_1\_7 & NLP & 2 & 1 & -7.5 & nobb.nve & 5 & 0.02 & 0.04 \\
-ex4\_1\_8 & NLP & 3 & 2 & -16.7388 & nobb.nve & 5 & 0.03 & 0.05 \\
-ex4\_1\_9 & NLP & 3 & 3 & -5.5078 & nobb.hyb & 16 & 0.06 & 0.11 \\
-ex7\_2\_2 & NLP & 7 & 6 & -0.3885 & nobb.nve & 12 & 123.07 & 123.11 \\
-ex7\_3\_1 & NLP & 5 & 8 & 0.3427 & nobb.nve & 60 & 5.57 & 5.67 \\
-ex7\_3\_2 & NLP & 5 & 8 & 1.0903 & nobb.ubs & 15 & 0.11 & 0.14 \\
-ex8\_1\_3 & NLP & 3 & 1 & 3.0 & nobb.hyb & 10 & 0.28 & 0.30 \\
-ex8\_1\_4 & NLP & 3 & 1 & 0.0 & nobb.hyb & 2 & 0.00 & 0.03 \\
-ex8\_1\_5 & NLP & 3 & 1 & -1.0312 & nobb.ubs & 12 & 0.18 & 0.21 \\
-ex8\_1\_6 & NLP & 3 & 1 & -10.086 & nobb.nve & 5 & 0.08 & 0.11 \\
-mathopt1 & NLP & 3 & 3 & 0.0 & nobb.nve & 18 & 0.09 & 0.12 \\
-mathopt2 & NLP & 3 & 5 & 0.0 & nobb.hyb & 2 & 0.01 & 0.02 \\
-mathopt5\_4 & NLP & 2 & 1 & 0.0 & nobb.hyb & 4 & 0.02 & 0.04 \\
-mathopt5\_7 & NLP & 2 & 1 & -4.4365 & nobb.nve & 11 & 0.08 & 0.10 \\
-mathopt5\_8 & NLP & 2 & 1 & -0.6857 & nobb.nve & 6 & 0.03 & 0.05 \\
-prob09 & NLP & 4 & 2 & 0.0 & nobb.nve & 4 & 0.02 & 0.04 \\
-rbrock & NLP & 3 & 1 & 0.0 & nobb.ubs & 42 & 0.19 & 0.24 \\
-st\_e06 & NLP & 4 & 4 & 0.0 & nobb.hyb & 2 & 0.01 & 0.02 \\
-st\_e11 & NLP & 4 & 3 & 189.3116 & nobb.nve & 9 & 1.69 & 1.72 \\
-st\_e12 & NLP & 5 & 4 & -4.5139 & nobb.ubs & 16 & 1.86 & 1.88 \\
-st\_e17 & NLP & 3 & 2 & 376.2924 & nobb.ubs & 18 & 0.07 & 0.10 \\
-st\_e19 & NLP & 3 & 3 & -118.7046 & nobb.ubs & 22 & 0.18 & 0.20 \\
-circle & QCP & 4 & 11 & 4.5751 & nobb.ubs & 13 & 3.45 & 3.48 \\
-ex3\_1\_1 & QCP & 9 & 7 & 7049.2485 & nobb.ubs & 25 & 0.31 & 0.33 \\
-ex3\_1\_4 & QCP & 4 & 4 & -3.9997 & nobb.ubs & 14 & 0.16 & 0.19 \\
-ex5\_2\_2\_case1 & QCP & 10 & 7 & -399.9995 & nobb.ubs & 28 & 0.48 & 0.50 \\
+st\_e40 & MINLP & 5 & 9 & 30.4142 & bin-flattening + naive & 5 & 0.62 & 0.67 \\
+tln2 & MIQCP & 9 & 13 & 5.3 & bin-flattening + hybrid & 8 & 0.06 & 0.08 \\
+chance & NLP & 5 & 4 & 29.8946 & UBS & 14 & 0.24 & 0.26 \\
+ex14\_1\_1 & NLP & 4 & 5 & 0.0009 & UBS & 13 & 1.47 & 1.49 \\
+ex14\_1\_5 & NLP & 7 & 7 & 0.0 & UBS & 6 & 0.02 & 0.04 \\
+ex4\_1\_1 & NLP & 2 & 1 & -7.4867 & hybrid & 4 & 0.02 & 0.04 \\
+ex4\_1\_3 & NLP & 2 & 1 & -443.6709 & naive & 12 & 0.08 & 0.12 \\
+ex4\_1\_4 & NLP & 2 & 1 & 0.0 & naive & 6 & 0.02 & 0.05 \\
+ex4\_1\_5 & NLP & 3 & 1 & 0.0 & UBS & 31 & 0.15 & 0.18 \\
+ex4\_1\_6 & NLP & 2 & 1 & 7.0 & naive & 3 & 0.00 & 0.03 \\
+ex4\_1\_7 & NLP & 2 & 1 & -7.5 & naive & 5 & 0.02 & 0.04 \\
+ex4\_1\_8 & NLP & 3 & 2 & -16.7388 & naive & 5 & 0.03 & 0.05 \\
+ex4\_1\_9 & NLP & 3 & 3 & -5.5078 & hybrid & 16 & 0.06 & 0.11 \\
+ex7\_2\_2 & NLP & 7 & 6 & -0.3885 & naive & 12 & 123.07 & 123.11 \\
+ex7\_3\_1 & NLP & 5 & 8 & 0.3427 & naive & 60 & 5.57 & 5.67 \\
+ex7\_3\_2 & NLP & 5 & 8 & 1.0903 & UBS & 15 & 0.11 & 0.14 \\
+ex8\_1\_3 & NLP & 3 & 1 & 3.0 & hybrid & 10 & 0.28 & 0.30 \\
+ex8\_1\_4 & NLP & 3 & 1 & 0.0 & hybrid & 2 & 0.00 & 0.03 \\
+ex8\_1\_5 & NLP & 3 & 1 & -1.0312 & UBS & 12 & 0.18 & 0.21 \\
+ex8\_1\_6 & NLP & 3 & 1 & -10.086 & naive & 5 & 0.08 & 0.11 \\
+mathopt1 & NLP & 3 & 3 & 0.0 & naive & 18 & 0.09 & 0.12 \\
+mathopt2 & NLP & 3 & 5 & 0.0 & hybrid & 2 & 0.01 & 0.02 \\
+mathopt5\_4 & NLP & 2 & 1 & 0.0 & hybrid & 4 & 0.02 & 0.04 \\
+mathopt5\_7 & NLP & 2 & 1 & -4.4365 & naive & 11 & 0.08 & 0.10 \\
+mathopt5\_8 & NLP & 2 & 1 & -0.6857 & naive & 6 & 0.03 & 0.05 \\
+prob09 & NLP & 4 & 2 & 0.0 & naive & 4 & 0.02 & 0.04 \\
+rbrock & NLP & 3 & 1 & 0.0 & UBS & 42 & 0.19 & 0.24 \\
+st\_e06 & NLP & 4 & 4 & 0.0 & hybrid & 2 & 0.01 & 0.02 \\
+st\_e11 & NLP & 4 & 3 & 189.3116 & naive & 9 & 1.69 & 1.72 \\
+st\_e12 & NLP & 5 & 4 & -4.5139 & UBS & 16 & 1.86 & 1.88 \\
+st\_e17 & NLP & 3 & 2 & 376.2924 & UBS & 18 & 0.07 & 0.10 \\
+st\_e19 & NLP & 3 & 3 & -118.7046 & UBS & 22 & 0.18 & 0.20 \\
+circle & QCP & 4 & 11 & 4.5751 & UBS & 13 & 3.45 & 3.48 \\
+ex3\_1\_1 & QCP & 9 & 7 & 7049.2485 & UBS & 25 & 0.31 & 0.33 \\
+ex3\_1\_4 & QCP & 4 & 4 & -3.9997 & UBS & 14 & 0.16 & 0.19 \\
+ex5\_2\_2\_case1 & QCP & 10 & 7 & -399.9995 & UBS & 28 & 0.48 & 0.50 \\
 \hline  \end{tabular}
 \end{center}
 \newpage
@@ -95,42 +95,42 @@ ex5\_2\_2\_case1 & QCP & 10 & 7 & -399.9995 & nobb.ubs & 28 & 0.48 & 0.50 \\
 \begin{tabular}{|l|l|r|r|r|r|r|r|r|} \hline
 \thead{Benchmark} & \thead{Category} & \thead{\#Var} & \thead{\#Con} & \thead{Found \\ objective} & \thead{Solved by} & \thead{Solver \\ calls} & \thead{Solving \\ time} & \thead{Total \\ time}\\ \hline 
 \rule{0pt}{3ex}\hspace{\negspace}
-ex5\_2\_2\_case2 & QCP & 10 & 7 & -599.9997 & nobb.ubs & 30 & 0.42 & 0.43 \\
-ex5\_2\_2\_case3 & QCP & 10 & 7 & -749.9996 & nobb.ubs & 30 & 0.47 & 0.52 \\
-ex5\_3\_2 & QCP & 23 & 17 & 1.8647 & nobb.ubs & 12 & 52.57 & 52.60 \\
-ex5\_4\_2 & QCP & 9 & 7 & 7512.2304 & nobb.ubs & 20 & 0.41 & 0.45 \\
-ex9\_1\_1 & QCP & 14 & 13 & -13.0 & nobb.nve & 9 & 0.00 & 0.03 \\
-ex9\_1\_2 & QCP & 11 & 10 & -16.0 & nobb.nve & 4 & 0.00 & 0.03 \\
-ex9\_1\_4 & QCP & 11 & 10 & -37.0 & nobb.nve & 3 & 0.02 & 0.04 \\
-ex9\_1\_5 & QCP & 14 & 13 & -1.0 & nobb.hyb & 4 & 0.00 & 0.02 \\
-ex9\_1\_8 & QCP & 15 & 13 & -3.25 & nobb.nve & 4 & 0.01 & 0.02 \\
-ex9\_2\_3 & QCP & 17 & 16 & 0.0002 & nobb.ubs & 18 & 0.36 & 0.38 \\
-haverly & QCP & 13 & 10 & -399.9997 & nobb.ubs & 28 & 0.58 & 0.62 \\
-house & QCP & 9 & 9 & -4499.9999 & nobb.ubs & 32 & 0.98 & 1.03 \\
-pointpack02 & QCP & 6 & 4 & 1.9999 & nobb.ubs & 14 & 0.17 & 0.18 \\
-st\_e01 & QCP & 3 & 2 & -6.666 & nobb.ubs & 16 & 253.42 & 253.46 \\
-st\_e02 & QCP & 4 & 4 & 201.1593 & nobb.nve & 2 & 0.04 & 0.06 \\
-st\_e05 & QCP & 6 & 4 & 7049.2495 & nobb.ubs & 34 & 0.83 & 0.85 \\
-st\_e07 & QCP & 11 & 8 & -399.9997 & nobb.hyb & 53 & 205.10 & 205.15 \\
-st\_e08 & QCP & 3 & 3 & 0.7419 & nobb.ubs & 12 & 0.06 & 0.09 \\
-st\_e18 & QCP & 3 & 5 & -2.8283 & nobb.ubs & 12 & 0.06 & 0.08 \\
-st\_e30 & QCP & 15 & 16 & -1.581 & nobb.ubs & 14 & 23.73 & 23.75 \\
-st\_e33 & QCP & 10 & 7 & -399.9997 & nobb.ubs & 28 & 193.08 & 193.14 \\
-st\_e34 & QCP & 7 & 5 & 0.0156 & nobb.nve & 6 & 0.02 & 0.03 \\
-wastewater02m1 & QCP & 20 & 15 & 130.7026 & nobb.nve & 97 & 309.32 & 309.38 \\
-dispatch & QCQP & 5 & 3 & 3155.2883 & nobb.nve & 69 & 38.64 & 38.77 \\
-ex5\_2\_4 & QCQP & 8 & 7 & -449.9992 & nobb.ubs & 28 & 0.76 & 0.79 \\
-ex9\_2\_4 & QCQP & 9 & 8 & 0.5 & nobb.nve & 3 & 0.02 & 0.04 \\
-ex9\_2\_6 & QCQP & 17 & 13 & -0.9992 & nobb.ubs & 12 & 0.31 & 0.34 \\
-ex9\_2\_8 & QCQP & 7 & 6 & 1.5 & nobb.ubs & 3 & 0.01 & 0.03 \\
-st\_e09 & QCQP & 3 & 2 & -0.499 & nobb.ubs & 10 & 0.04 & 0.06 \\
-ex2\_1\_3 & QP & 14 & 10 & -14.999 & nobb.hyb & 33 & 19.71 & 19.77 \\
-ex2\_1\_4 & QP & 7 & 6 & -11.0 & nobb.nve & 3 & 0.01 & 0.03 \\
-immun & QP & 22 & 8 & 0.0 & nobb.ubs & 76 & 24.21 & 24.26 \\
-nemhaus & QP & 6 & 6 & 31.0 & nobb.hyb & 2 & 0.01 & 0.02 \\
-sambal & QP & 18 & 11 & 3.9686 & nobb.ubs & 30 & 219.76 & 219.78 \\
-st\_bpaf1b & QP & 11 & 11 & -42.9625 & nobb.ubs & 22 & 0.35 & 0.39 \\
-st\_bpk1 & QP & 5 & 7 & -12.9994 & nobb.ubs & 18 & 0.13 & 0.14 \\
+ex5\_2\_2\_case2 & QCP & 10 & 7 & -599.9997 & UBS & 30 & 0.42 & 0.43 \\
+ex5\_2\_2\_case3 & QCP & 10 & 7 & -749.9996 & UBS & 30 & 0.47 & 0.52 \\
+ex5\_3\_2 & QCP & 23 & 17 & 1.8647 & UBS & 12 & 52.57 & 52.60 \\
+ex5\_4\_2 & QCP & 9 & 7 & 7512.2304 & UBS & 20 & 0.41 & 0.45 \\
+ex9\_1\_1 & QCP & 14 & 13 & -13.0 & naive & 9 & 0.00 & 0.03 \\
+ex9\_1\_2 & QCP & 11 & 10 & -16.0 & naive & 4 & 0.00 & 0.03 \\
+ex9\_1\_4 & QCP & 11 & 10 & -37.0 & naive & 3 & 0.02 & 0.04 \\
+ex9\_1\_5 & QCP & 14 & 13 & -1.0 & hybrid & 4 & 0.00 & 0.02 \\
+ex9\_1\_8 & QCP & 15 & 13 & -3.25 & naive & 4 & 0.01 & 0.02 \\
+ex9\_2\_3 & QCP & 17 & 16 & 0.0002 & UBS & 18 & 0.36 & 0.38 \\
+haverly & QCP & 13 & 10 & -399.9997 & UBS & 28 & 0.58 & 0.62 \\
+house & QCP & 9 & 9 & -4499.9999 & UBS & 32 & 0.98 & 1.03 \\
+pointpack02 & QCP & 6 & 4 & 1.9999 & UBS & 14 & 0.17 & 0.18 \\
+st\_e01 & QCP & 3 & 2 & -6.666 & UBS & 16 & 253.42 & 253.46 \\
+st\_e02 & QCP & 4 & 4 & 201.1593 & naive & 2 & 0.04 & 0.06 \\
+st\_e05 & QCP & 6 & 4 & 7049.2495 & UBS & 34 & 0.83 & 0.85 \\
+st\_e07 & QCP & 11 & 8 & -399.9997 & hybrid & 53 & 205.10 & 205.15 \\
+st\_e08 & QCP & 3 & 3 & 0.7419 & UBS & 12 & 0.06 & 0.09 \\
+st\_e18 & QCP & 3 & 5 & -2.8283 & UBS & 12 & 0.06 & 0.08 \\
+st\_e30 & QCP & 15 & 16 & -1.581 & UBS & 14 & 23.73 & 23.75 \\
+st\_e33 & QCP & 10 & 7 & -399.9997 & UBS & 28 & 193.08 & 193.14 \\
+st\_e34 & QCP & 7 & 5 & 0.0156 & naive & 6 & 0.02 & 0.03 \\
+wastewater02m1 & QCP & 20 & 15 & 130.7026 & naive & 97 & 309.32 & 309.38 \\
+dispatch & QCQP & 5 & 3 & 3155.2883 & naive & 69 & 38.64 & 38.77 \\
+ex5\_2\_4 & QCQP & 8 & 7 & -449.9992 & UBS & 28 & 0.76 & 0.79 \\
+ex9\_2\_4 & QCQP & 9 & 8 & 0.5 & naive & 3 & 0.02 & 0.04 \\
+ex9\_2\_6 & QCQP & 17 & 13 & -0.9992 & UBS & 12 & 0.31 & 0.34 \\
+ex9\_2\_8 & QCQP & 7 & 6 & 1.5 & UBS & 3 & 0.01 & 0.03 \\
+st\_e09 & QCQP & 3 & 2 & -0.499 & UBS & 10 & 0.04 & 0.06 \\
+ex2\_1\_3 & QP & 14 & 10 & -14.999 & hybrid & 33 & 19.71 & 19.77 \\
+ex2\_1\_4 & QP & 7 & 6 & -11.0 & naive & 3 & 0.01 & 0.03 \\
+immun & QP & 22 & 8 & 0.0 & UBS & 76 & 24.21 & 24.26 \\
+nemhaus & QP & 6 & 6 & 31.0 & hybrid & 2 & 0.01 & 0.02 \\
+sambal & QP & 18 & 11 & 3.9686 & UBS & 30 & 219.76 & 219.78 \\
+st\_bpaf1b & QP & 11 & 11 & -42.9625 & UBS & 22 & 0.35 & 0.39 \\
+st\_bpk1 & QP & 5 & 7 & -12.9994 & UBS & 18 & 0.13 & 0.14 \\
 \hline  \end{tabular}
 \end{center}
 \newpage
@@ -138,22 +138,22 @@ st\_bpk1 & QP & 5 & 7 & -12.9994 & nobb.ubs & 18 & 0.13 & 0.14 \\
 \begin{tabular}{|l|l|r|r|r|r|r|r|r|} \hline
 \thead{Benchmark} & \thead{Category} & \thead{\#Var} & \thead{\#Con} & \thead{Found \\ objective} & \thead{Solved by} & \thead{Solver \\ calls} & \thead{Solving \\ time} & \thead{Total \\ time}\\ \hline 
 \rule{0pt}{3ex}\hspace{\negspace}
-st\_bpv1 & QP & 5 & 5 & 10.0 & nobb.ubs & 25 & 0.00 & 0.04 \\
-st\_bpv2 & QP & 5 & 6 & -7.9994 & nobb.ubs & 18 & 0.06 & 0.08 \\
-st\_bsj2 & QP & 4 & 6 & 1.0005 & nobb.hyb & 16 & 0.40 & 0.41 \\
-st\_bsj3 & QP & 7 & 2 & -86768.5498 & nobb.ubs & 44 & 5.15 & 5.22 \\
-st\_cqpf & QP & 5 & 7 & -2.75 & nobb.hyb & 4 & 0.01 & 0.03 \\
-st\_cqpjk2 & QP & 4 & 2 & -12.499 & nobb.ubs & 13 & 0.06 & 0.08 \\
-st\_e22 & QP & 3 & 6 & -84.9998 & nobb.ubs & 20 & 0.11 & 0.14 \\
-st\_e25 & QP & 5 & 9 & 0.8908 & nobb.nve & 75 & 35.62 & 35.69 \\
-st\_e26 & QP & 3 & 5 & -185.7792 & nobb.hyb & 18 & 0.11 & 0.12 \\
-st\_glmp\_fp1 & QP & 5 & 9 & 10.0 & nobb.ubs & 18 & 453.69 & 453.75 \\
-st\_glmp\_fp3 & QP & 5 & 9 & -12.0 & nobb.hyb & 4 & 0.01 & 0.02 \\
-st\_glmp\_kk90 & QP & 6 & 8 & 3.0001 & nobb.ubs & 16 & 405.05 & 405.09 \\
-st\_glmp\_kk92 & QP & 5 & 9 & -12.0 & nobb.hyb & 6 & 0.04 & 0.05 \\
-st\_glmp\_kky & QP & 8 & 14 & -2.4998 & nobb.nve & 46 & 827.40 & 827.46 \\
-st\_glmp\_ss1 & QP & 6 & 12 & -24.5705 & nobb.nve & 115 & 901.45 & 901.52 \\
-st\_ht & QP & 3 & 4 & -1.5997 & nobb.ubs & 14 & 0.08 & 0.10 \\
+st\_bpv1 & QP & 5 & 5 & 10.0 & UBS & 25 & 0.00 & 0.04 \\
+st\_bpv2 & QP & 5 & 6 & -7.9994 & UBS & 18 & 0.06 & 0.08 \\
+st\_bsj2 & QP & 4 & 6 & 1.0005 & hybrid & 16 & 0.40 & 0.41 \\
+st\_bsj3 & QP & 7 & 2 & -86768.5498 & UBS & 44 & 5.15 & 5.22 \\
+st\_cqpf & QP & 5 & 7 & -2.75 & hybrid & 4 & 0.01 & 0.03 \\
+st\_cqpjk2 & QP & 4 & 2 & -12.499 & UBS & 13 & 0.06 & 0.08 \\
+st\_e22 & QP & 3 & 6 & -84.9998 & UBS & 20 & 0.11 & 0.14 \\
+st\_e25 & QP & 5 & 9 & 0.8908 & naive & 75 & 35.62 & 35.69 \\
+st\_e26 & QP & 3 & 5 & -185.7792 & hybrid & 18 & 0.11 & 0.12 \\
+st\_glmp\_fp1 & QP & 5 & 9 & 10.0 & UBS & 18 & 453.69 & 453.75 \\
+st\_glmp\_fp3 & QP & 5 & 9 & -12.0 & hybrid & 4 & 0.01 & 0.02 \\
+st\_glmp\_kk90 & QP & 6 & 8 & 3.0001 & UBS & 16 & 405.05 & 405.09 \\
+st\_glmp\_kk92 & QP & 5 & 9 & -12.0 & hybrid & 6 & 0.04 & 0.05 \\
+st\_glmp\_kky & QP & 8 & 14 & -2.4998 & naive & 46 & 827.40 & 827.46 \\
+st\_glmp\_ss1 & QP & 6 & 12 & -24.5705 & naive & 115 & 901.45 & 901.52 \\
+st\_ht & QP & 3 & 4 & -1.5997 & UBS & 14 & 0.08 & 0.10 \\
 \hline
 \end{tabular}
 \end{center}
